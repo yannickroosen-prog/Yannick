@@ -98,6 +98,26 @@ src/app/              # Next.js App Router + PWA
 - **Woordenlijst**: plaats `public/dictionaries/nl.txt` (één woord per regel) om
   woordvalidatie in te schakelen. Zie de README in die map.
 
+## Automatisch deployen (CI/CD)
+
+Bij elke push naar de ontwikkelbranch bouwt en publiceert
+`.github/workflows/deploy.yml` de app automatisch naar Netlify
+(https://scrabble-vision-scorekeeper.netlify.app).
+
+Eenmalige instelling — voeg één GitHub-secret toe:
+
+1. Maak een **Netlify personal access token** aan:
+   Netlify → *User settings* → *Applications* → *Personal access tokens* →
+   *New access token*
+   (https://app.netlify.com/user/applications#personal-access-tokens).
+2. Zet die token als repo-secret **`NETLIFY_AUTH_TOKEN`**:
+   GitHub-repo → *Settings* → *Secrets and variables* → *Actions* →
+   *New repository secret*.
+
+Daarna deployt elke `git push` automatisch. Het site-id staat al in de workflow
+(niet geheim). De workflow draait ook eerst de tests; faalt een test, dan wordt
+er niet gedeployd.
+
 ## Beperkingen & vervolg
 
 - OCR van losse letters is gevoelig voor belichting en hoek; de handmatige

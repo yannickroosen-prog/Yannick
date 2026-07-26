@@ -1,0 +1,49 @@
+name: Deploy naar Netlify
+
+# Bouwt de statische export en publiceert die naar Netlify bij elke push
+# naar de ontwikkelbranch. Handmatig starten kan via "Run workflow".
+on:
+  push:
+    branches:
+      - claude/scrabble-vision-scorekeeper-k3bo3x
+  workflow_dispatch:
+
+# Laat alleen de nieuwste run per branch doorgaan.
+concurrency:
+  group: netlify-deploy-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Dependencies installeren
+        run: npm ci
+
+      - name: Testen
+        run: npm test
+
+      - name: Statische export bouwen
+        run: npm run build
+
+      - name: Publiceren naar Netlify
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          # Site-id van het Netlify-project (niet geheim).
+          NETLIFY_SITE_ID: ea45f76c-2d27-414f-90f6-f972f4677093
+        run: |
+          npx --yes netlify-cli@17 deploy \
+            --dir=out \
+            --site="$NETLIFY_SITE_ID" \
+            --auth="$NETLIFY_AUTH_TOKEN" \
+            --prod \
+            --message="CI-deploy ${{ github.sha }}"
