@@ -1,14 +1,22 @@
-# Netlify-configuratie voor de Next.js-app.
-# De Next.js-runtime wordt automatisch gedetecteerd en verzorgt SSR/App Router.
+# Netlify-configuratie voor de statisch geëxporteerde Next.js-app.
+# `next build` met output:'export' genereert de map `out/`.
 
 [build]
   command = "npm run build"
+  publish = "out"
 
 [build.environment]
   NODE_VERSION = "20"
 
-# Camera-toegang vereist een expliciete Permissions-Policy header.
+# Cameratoegang vereist een expliciete Permissions-Policy header.
 [[headers]]
   for = "/*"
   [headers.values]
     Permissions-Policy = "camera=(self)"
+
+# Service worker mag het volledige scope beheren en niet agressief gecachet worden.
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache, no-store, must-revalidate"
+    Service-Worker-Allowed = "/"

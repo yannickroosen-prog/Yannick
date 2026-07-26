@@ -1,24 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  // Camera + WebAssembly (Tesseract/OpenCV) benefit from these headers.
-  async headers() {
-    return [
-      {
-        source: '/(.*)',
-        headers: [
-          { key: 'Permissions-Policy', value: 'camera=(self)' },
-        ],
-      },
-      {
-        source: '/sw.js',
-        headers: [
-          { key: 'Cache-Control', value: 'no-cache, no-store, must-revalidate' },
-          { key: 'Service-Worker-Allowed', value: '/' },
-        ],
-      },
-    ];
-  },
+  // Volledig client-side app -> statische export. Levert een `out/`-map met
+  // index.html die als gewone statische site (ook offline/PWA) werkt.
+  output: 'export',
+  images: { unoptimized: true },
+  // HTTP-headers (camera-permissie, sw-cache) worden bij statische export via
+  // netlify.toml gezet i.p.v. next.config (headers() wordt daar niet toegepast).
 };
 
 export default nextConfig;
