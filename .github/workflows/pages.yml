@@ -29,10 +29,9 @@ jobs:
           cache: npm
       - name: Configureer Pages
         id: pages
+        # Vereist dat GitHub Pages eenmalig aan staat met bron "GitHub Actions"
+        # (Instellingen -> Pages). Het workflow-token mag Pages niet zelf aanzetten.
         uses: actions/configure-pages@v5
-        with:
-          # Schakelt GitHub Pages automatisch in (bron: GitHub Actions).
-          enablement: true
       - name: Dependencies
         run: npm ci
       - name: Testen
