@@ -1,5 +1,12 @@
 // Rasterdetectie: verdeel het rechtgetrokken bord in 15x15 cellen en bepaal
-// per cel of er een steen ligt (bezettingsdetectie op basis van inktdichtheid).
+// per cel of er een STEEN ligt.
+//
+// Belangrijk: een Scrabble-bord is zelf zwaar bedrukt (gekleurde bonusvakken,
+// tekst). Donkere pixels tellen werkt daardoor niet — bedrukte bonusvakken
+// worden dan als steen aangezien. Scrabble-stenen zijn daarentegen bleek,
+// warm (crème/hout) en weinig verzadigd, terwijl álle bordkleuren juist sterk
+// verzadigd zijn. We detecteren stenen dus op kleur: hoge helderheid + lage
+// verzadiging.
 
 import { BOARD_SIZE } from '../scrabble/config';
 
@@ -7,9 +14,9 @@ export interface CellImage {
   row: number;
   col: number;
   canvas: HTMLCanvasElement;
-  /** Aandeel donkere pixels (0-1) — proxy voor "er ligt een steen/letter". */
-  ink: number;
-  /** Geschat: bevat deze cel een steen? */
+  /** Aandeel "steen-achtige" (bleke, warme) pixels in de cel (0-1). */
+  tileScore: number;
+  /** Geschat: ligt er een steen in deze cel? */
   occupied: boolean;
 }
 
@@ -20,12 +27,12 @@ export interface GridExtractionResult {
 
 /**
  * Snijdt het vierkante bordbeeld in 15x15 cellen.
- * `inset` knipt de celranden weg zodat rasterlijnen de OCR niet storen.
+ * `inset` knipt de celranden weg zodat rasterlijnen niet meetellen.
  */
 export function extractGrid(
   board: HTMLCanvasElement,
-  occupancyThreshold = 0.06,
-  inset = 0.12
+  occupancyThreshold = 0.4,
+  inset = 0.14
 ): GridExtractionResult {
   const size = board.width;
   const cellSize = size / BOARD_SIZE;
@@ -46,13 +53,13 @@ export function extractGrid(
       const cctx = cellCanvas.getContext('2d')!;
       cctx.drawImage(board, x0, y0, w, h, 0, 0, w, h);
 
-      const ink = computeInk(srcCtx, x0, y0, w, h);
+      const tileScore = computeTileScore(srcCtx, x0, y0, w, h);
       cells.push({
         row: r,
         col: c,
         canvas: cellCanvas,
-        ink,
-        occupied: ink > occupancyThreshold,
+        tileScore,
+        occupied: tileScore > occupancyThreshold,
       });
     }
   }
@@ -61,10 +68,17 @@ export function extractGrid(
 }
 
 /**
- * Berekent het aandeel "inkt" (donkere pixels na Otsu-achtige drempel) binnen
- * een regio. Dit onderscheidt lege vakjes van vakjes met een letter.
+ * Berekent het aandeel pixels dat op een Scrabble-steen lijkt: bleek en warm.
+ *
+ * Criterium (in HSV-termen):
+ *  - hoge helderheid  (value  > ~0.55)
+ *  - lage verzadiging (sat    < ~0.35)
+ *  - niet blauw-dominant (stenen zijn crème/hout, geen wit-blauwe reflectie)
+ *
+ * Dit sluit de sterk verzadigde bordkleuren (teal, rood, marineblauw, geel,
+ * groen) uit en houdt alleen de bleke stenen over.
  */
-function computeInk(
+function computeTileScore(
   ctx: CanvasRenderingContext2D,
   x: number,
   y: number,
@@ -75,21 +89,21 @@ function computeInk(
   const n = w * h;
   if (n === 0) return 0;
 
-  // Gemiddelde luminantie bepalen.
-  let sum = 0;
-  const lum = new Float32Array(n);
+  let tileLike = 0;
   for (let i = 0; i < n; i++) {
     const r = data[i * 4];
     const g = data[i * 4 + 1];
     const b = data[i * 4 + 2];
-    const l = 0.299 * r + 0.587 * g + 0.114 * b;
-    lum[i] = l;
-    sum += l;
+
+    const max = Math.max(r, g, b);
+    const min = Math.min(r, g, b);
+    const value = max / 255;
+    const sat = max === 0 ? 0 : (max - min) / max;
+
+    // Bleek + warm: helder, weinig verzadigd, en blauw niet dominant.
+    if (value > 0.55 && sat < 0.35 && b <= max) {
+      tileLike++;
+    }
   }
-  const mean = sum / n;
-  // Drempel iets onder het gemiddelde; tel donkere pixels (letterlijnen).
-  const threshold = mean * 0.6;
-  let dark = 0;
-  for (let i = 0; i < n; i++) if (lum[i] < threshold) dark++;
-  return dark / n;
+  return tileLike / n;
 }

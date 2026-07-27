@@ -11,6 +11,8 @@ export interface ScanOptions {
   uncertaintyThreshold?: number;
   /** Hoeken van het uitlijnkader (fallback als autodetectie faalt). */
   fallbackCorners?: Corner[];
+  /** Handmatig uitgelijnde hoeken; slaat automatische detectie over. */
+  forceCorners?: Corner[];
   /** Voortgangscallback (0-1). */
   onProgress?: (fraction: number, label: string) => void;
 }
@@ -33,10 +35,14 @@ export async function scanBoard(
   source: HTMLCanvasElement | HTMLVideoElement,
   options: ScanOptions = {}
 ): Promise<ScanResult> {
-  const { uncertaintyThreshold = 0.55, fallbackCorners, onProgress } = options;
+  const { uncertaintyThreshold = 0.55, fallbackCorners, forceCorners, onProgress } =
+    options;
 
-  onProgress?.(0.05, 'Bord detecteren…');
-  const detection = await detectAndWarpBoard(source, 900, fallbackCorners);
+  onProgress?.(0.05, 'Bord rechttrekken…');
+  const detection = await detectAndWarpBoard(source, 900, {
+    fallbackCorners,
+    forceCorners,
+  });
 
   onProgress?.(0.2, 'Raster opdelen…');
   const { cells } = extractGrid(detection.canvas);

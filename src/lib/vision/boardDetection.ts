@@ -19,38 +19,59 @@ export interface BoardDetectionResult {
   autoDetected: boolean;
 }
 
+export interface DetectOptions {
+  /** Hoeken van het uitlijnkader (fallback als autodetectie faalt). */
+  fallbackCorners?: Corner[];
+  /**
+   * Als opgegeven: gebruik deze hoeken direct (door de gebruiker uitgelijnd) en
+   * sla automatische detectie over. Dit is de betrouwbaarste weg.
+   */
+  forceCorners?: Corner[];
+}
+
 /**
  * Detecteert het bord en trekt het recht.
- * Lukt automatische detectie niet, dan wordt `fallbackCorners` (of de volledige
- * afbeelding) gebruikt.
+ * Met `forceCorners` worden de handmatig uitgelijnde hoeken direct gebruikt.
+ * Anders wordt automatische detectie geprobeerd met terugval op `fallbackCorners`.
  */
 export async function detectAndWarpBoard(
   source: HTMLCanvasElement | HTMLVideoElement,
   size = 900,
-  fallbackCorners?: Corner[]
+  options: DetectOptions = {}
 ): Promise<BoardDetectionResult> {
+  const { fallbackCorners, forceCorners } = options;
   const srcCanvas = toCanvas(source);
 
   let corners: Corner[] | null = null;
   let autoDetected = false;
 
-  try {
-    if (!isOpenCVReady()) await loadOpenCV();
-    corners = findBoardCorners(srcCanvas);
-    autoDetected = !!corners;
-  } catch {
-    corners = null;
-  }
+  if (forceCorners && forceCorners.length === 4) {
+    corners = orderCorners(forceCorners);
+    // Zorg dat OpenCV geladen is voor de perspectiefwarp.
+    try {
+      if (!isOpenCVReady()) await loadOpenCV();
+    } catch {
+      /* val terug op benadering in warpToSquare */
+    }
+  } else {
+    try {
+      if (!isOpenCVReady()) await loadOpenCV();
+      corners = findBoardCorners(srcCanvas);
+      autoDetected = !!corners;
+    } catch {
+      corners = null;
+    }
 
-  if (!corners) {
-    corners =
-      fallbackCorners ??
-      [
-        { x: 0, y: 0 },
-        { x: srcCanvas.width, y: 0 },
-        { x: srcCanvas.width, y: srcCanvas.height },
-        { x: 0, y: srcCanvas.height },
-      ];
+    if (!corners) {
+      corners =
+        fallbackCorners ??
+        [
+          { x: 0, y: 0 },
+          { x: srcCanvas.width, y: 0 },
+          { x: srcCanvas.width, y: srcCanvas.height },
+          { x: 0, y: srcCanvas.height },
+        ];
+    }
   }
 
   const canvas = warpToSquare(srcCanvas, corners, size);

@@ -4,8 +4,8 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 import type { Corner } from '@/lib/vision/boardDetection';
 
 interface CameraViewProps {
-  /** Aangeroepen met het live video-element wanneer de gebruiker scant. */
-  onCapture: (video: HTMLVideoElement, guideCorners: Corner[]) => void;
+  /** Aangeroepen met een stilstaand beeld (canvas) + de kaderhoeken bij scannen. */
+  onCapture: (still: HTMLCanvasElement, guideCorners: Corner[]) => void;
   scanning: boolean;
   autoScan: boolean;
 }
@@ -73,9 +73,16 @@ export function CameraView({ onCapture, scanning, autoScan }: CameraViewProps) {
   }, []);
 
   const handleCapture = useCallback(() => {
-    if (videoRef.current && ready) {
-      onCapture(videoRef.current, guideCorners());
-    }
+    const video = videoRef.current;
+    if (!video || !ready) return;
+    // Neem een stilstaand beeld op videoresolutie.
+    const canvas = document.createElement('canvas');
+    canvas.width = video.videoWidth;
+    canvas.height = video.videoHeight;
+    const ctx = canvas.getContext('2d');
+    if (!ctx) return;
+    ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+    onCapture(canvas, guideCorners());
   }, [onCapture, ready, guideCorners]);
 
   // Automatische scanmodus: scan elke 4 seconden.
