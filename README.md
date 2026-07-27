@@ -12,6 +12,9 @@ berekent volgens de officiële (Nederlandse) Scrabble-regels.
 ## Functies
 
 - 📷 **Live camerabeeld** via `getUserMedia`, met uitlijnkader en scanknop.
+- 📁 **Foto uploaden** (uit de galerij) als alternatief voor de live camera.
+- 🎯 **Handmatige hoekuitlijning**: sleep de 4 bordhoeken voor een exacte
+  perspectiefcorrectie.
 - 🤖 **Automatische scanmodus** (scant periodiek).
 - 🧠 **Computer vision**: borddetectie + perspectiefcorrectie (OpenCV.js),
   15×15-rasterdetectie, per-cel OCR (Tesseract.js) met betrouwbaarheidsscore.

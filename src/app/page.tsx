@@ -1,6 +1,6 @@
 'use client';
 
-import { useCallback, useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import dynamic from 'next/dynamic';
 import { useGameStore } from '@/lib/store';
 import { Scoreboard } from '@/components/Scoreboard';
@@ -49,6 +49,8 @@ export default function Home() {
   // Handmatige invoer.
   const [editCell, setEditCell] = useState<{ row: number; col: number } | null>(null);
   const [entryDir, setEntryDir] = useState<EntryDirection>('h');
+
+  const fileInputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => setHydrated(true), []);
 
@@ -115,6 +117,32 @@ export default function Home() {
       }
     },
     [scanning, settings.autoScan, runScan]
+  );
+
+  const handleFile = useCallback(
+    async (file: File | undefined) => {
+      if (!file || scanning) return;
+      setScanError(null);
+      try {
+        const { fileToCanvas } = await import('@/lib/vision/image');
+        const canvas = await fileToCanvas(file);
+        // Gecentreerd vierkant kader als startpunt voor de uitlijning.
+        const side = Math.min(canvas.width, canvas.height) * 0.9;
+        const x0 = (canvas.width - side) / 2;
+        const y0 = (canvas.height - side) / 2;
+        const guide: Corner[] = [
+          { x: x0, y: y0 },
+          { x: x0 + side, y: y0 },
+          { x: x0 + side, y: y0 + side },
+          { x: x0, y: y0 + side },
+        ];
+        setCaptured(canvas);
+        setCapturedGuide(guide);
+      } catch (e) {
+        setScanError(e instanceof Error ? e.message : 'Kon de foto niet laden.');
+      }
+    },
+    [scanning]
   );
 
   // ---- Handmatige invoer ----
@@ -229,12 +257,30 @@ export default function Home() {
                 {scanError}
               </div>
             )}
-            <button
-              onClick={startManualEntry}
-              className="w-full rounded-xl border border-neutral-300 py-3 text-sm font-medium dark:border-neutral-700"
-            >
-              ✍️ Handmatig invoeren (zonder scan)
-            </button>
+            <div className="flex gap-2">
+              <button
+                onClick={() => fileInputRef.current?.click()}
+                className="flex-1 rounded-xl border border-neutral-300 py-3 text-sm font-medium dark:border-neutral-700"
+              >
+                📁 Foto uploaden
+              </button>
+              <button
+                onClick={startManualEntry}
+                className="flex-1 rounded-xl border border-neutral-300 py-3 text-sm font-medium dark:border-neutral-700"
+              >
+                ✍️ Handmatig invoeren
+              </button>
+            </div>
+            <input
+              ref={fileInputRef}
+              type="file"
+              accept="image/*"
+              className="hidden"
+              onChange={(e) => {
+                handleFile(e.target.files?.[0]);
+                e.target.value = '';
+              }}
+            />
             <p className="text-center text-xs text-neutral-500">
               Richt de camera op het bord en druk op de knop. Daarna lijn je de
               vier hoeken uit voor een nauwkeurige uitlezing. Werkt de herkenning
