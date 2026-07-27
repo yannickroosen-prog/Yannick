@@ -49,6 +49,34 @@ export function SettingsPanel() {
         />
 
         <div className="mt-3">
+          <label className="mb-1 block text-sm font-medium">Letterherkenning</label>
+          <div className="grid grid-cols-2 gap-2">
+            {([
+              ['model', 'Getraind model', 'CNN, sneller & offline'],
+              ['ocr', 'OCR (Tesseract)', 'Klassieke tekstherkenning'],
+            ] as const).map(([value, title, hint]) => (
+              <button
+                key={value}
+                onClick={() => updateSettings({ recognizer: value })}
+                className={[
+                  'rounded-lg border p-2 text-left text-sm transition',
+                  (settings.recognizer ?? 'model') === value
+                    ? 'border-emerald-500 bg-emerald-50 dark:bg-emerald-950/40'
+                    : 'border-neutral-200 dark:border-neutral-800',
+                ].join(' ')}
+              >
+                <div className="font-medium">{title}</div>
+                <div className="text-xs text-neutral-500">{hint}</div>
+              </button>
+            ))}
+          </div>
+          <p className="mt-1 text-xs text-neutral-500">
+            Bij het getrainde model wordt automatisch teruggevallen op OCR als het
+            model niet beschikbaar is.
+          </p>
+        </div>
+
+        <div className="mt-3">
           <label className="text-sm">
             Onzekerheidsdrempel: {Math.round(settings.uncertaintyThreshold * 100)}%
           </label>

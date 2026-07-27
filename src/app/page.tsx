@@ -80,6 +80,7 @@ export default function Home() {
           uncertaintyThreshold: settings.uncertaintyThreshold,
           fallbackCorners: guide,
           forceCorners,
+          recognizer: settings.recognizer,
           onProgress: (f, label) => setProgress({ f, label }),
         });
         // Bestaande stenen behouden; de scan vult (nieuwe) letters aan.

@@ -1,0 +1,14 @@
+{
+  "name": "scrabble-vision-training",
+  "private": true,
+  "type": "module",
+  "description": "Offline trainingspipeline voor het Scrabble-lettermodel (niet meegebundeld in de app).",
+  "scripts": {
+    "generate": "node generate.mjs",
+    "train": "node train.mjs"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.2",
+    "@tensorflow/tfjs-node": "^4.22.0"
+  }
+}

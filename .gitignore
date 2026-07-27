@@ -32,3 +32,6 @@ next-env.d.ts
 # vercel
 .vercel
 /out/
+
+# training (offline, niet meebundelen)
+/training/node_modules/

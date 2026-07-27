@@ -24,6 +24,8 @@ export interface Settings {
   darkMode: boolean;
   /** Woordvalidatie tonen wanneer een woordenboek geladen is. */
   validateWords: boolean;
+  /** Letterherkenner: 'model' (getraind CNN) of 'ocr' (Tesseract). */
+  recognizer: 'model' | 'ocr';
 }
 
 export interface GameState {
@@ -73,6 +75,7 @@ const defaultSettings: Settings = {
   autoScan: false,
   darkMode: false,
   validateWords: true,
+  recognizer: 'model',
 };
 
 function defaultPlayers(): Player[] {
@@ -194,7 +197,14 @@ export const useGameStore = create<GameState>()(
     }),
     {
       name: 'scrabble-vision-store',
-      version: 1,
+      version: 2,
+      // Zorg dat oudere opgeslagen instellingen alle (nieuwe) sleutels krijgen.
+      migrate: (persisted: any) => {
+        if (persisted?.settings) {
+          persisted.settings = { ...defaultSettings, ...persisted.settings };
+        }
+        return persisted;
+      },
       // Bord en zetten worden bewaard; de vluchtige velden ook zodat je een
       // spel kunt hervatten na het sluiten van de app.
       partialize: (s) => ({

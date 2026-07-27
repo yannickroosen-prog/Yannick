@@ -4,7 +4,11 @@ import type { Board } from '../scrabble/types';
 import { createEmptyBoard } from '../scrabble/board';
 import { detectAndWarpBoard, type Corner } from './boardDetection';
 import { extractGrid } from './gridExtraction';
-import { recognizeLetter } from './ocr';
+import { recognizeLetter, type OcrResult } from './ocr';
+import { recognizeLetterModel, isModelAvailable } from './classifier';
+
+/** Welke letterherkenner gebruikt wordt. */
+export type Recognizer = 'model' | 'ocr';
 
 export interface ScanOptions {
   /** Betrouwbaarheidsdrempel waaronder een detectie "onzeker" is. */
@@ -13,6 +17,8 @@ export interface ScanOptions {
   fallbackCorners?: Corner[];
   /** Handmatig uitgelijnde hoeken; slaat automatische detectie over. */
   forceCorners?: Corner[];
+  /** Voorkeursherkenner (standaard 'model', met terugval op OCR). */
+  recognizer?: Recognizer;
   /** Voortgangscallback (0-1). */
   onProgress?: (fraction: number, label: string) => void;
 }
@@ -35,8 +41,13 @@ export async function scanBoard(
   source: HTMLCanvasElement | HTMLVideoElement,
   options: ScanOptions = {}
 ): Promise<ScanResult> {
-  const { uncertaintyThreshold = 0.55, fallbackCorners, forceCorners, onProgress } =
-    options;
+  const {
+    uncertaintyThreshold = 0.55,
+    fallbackCorners,
+    forceCorners,
+    recognizer = 'model',
+    onProgress,
+  } = options;
 
   onProgress?.(0.05, 'Bord rechttrekken…');
   const detection = await detectAndWarpBoard(source, 900, {
@@ -48,11 +59,24 @@ export async function scanBoard(
   const { cells } = extractGrid(detection.canvas);
   const occupied = cells.filter((c) => c.occupied);
 
+  // Kies de herkenner: model indien gewenst én beschikbaar, anders OCR.
+  let useModel = recognizer === 'model' && (await isModelAvailable());
+  const recognize = async (canvas: HTMLCanvasElement): Promise<OcrResult> => {
+    if (useModel) {
+      try {
+        return await recognizeLetterModel(canvas);
+      } catch {
+        useModel = false; // val voor de rest van de scan terug op OCR
+      }
+    }
+    return recognizeLetter(canvas);
+  };
+
   const board: Board = createEmptyBoard();
   let done = 0;
 
   for (const cell of occupied) {
-    const { letter, confidence } = await recognizeLetter(cell.canvas);
+    const { letter, confidence } = await recognize(cell.canvas);
     if (letter) {
       board[cell.row][cell.col] = {
         letter,

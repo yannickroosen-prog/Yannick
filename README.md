@@ -17,7 +17,10 @@ berekent volgens de officiële (Nederlandse) Scrabble-regels.
   perspectiefcorrectie.
 - 🤖 **Automatische scanmodus** (scant periodiek).
 - 🧠 **Computer vision**: borddetectie + perspectiefcorrectie (OpenCV.js),
-  15×15-rasterdetectie, per-cel OCR (Tesseract.js) met betrouwbaarheidsscore.
+  15×15-rasterdetectie met kleur-gebaseerde steendetectie.
+- 🔡 **Getraind lettermodel**: een klein CNN (TensorFlow.js, ~0,5 MB) herkent
+  letters volledig client-side/offline; met automatische terugval op Tesseract-OCR.
+  Zie [`training/`](training/README.md) voor de trainingspipeline.
 - ✍️ **Handmatige correctie**: onzekere detecties worden rood gemarkeerd en zijn
   per vakje aan te passen.
 - 🔍 **Zetdetectie**: vergelijkt de huidige scan met de vorige en bepaalt welke
