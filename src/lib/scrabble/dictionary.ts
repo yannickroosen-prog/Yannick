@@ -4,12 +4,14 @@
 // optioneel een woordenlijst uit /public/dictionaries/nl.txt (één woord per
 // regel). Ontbreekt die lijst, dan wordt validatie overgeslagen (valid = undefined).
 
+import { asset } from '../paths';
+
 let wordSet: Set<string> | null = null;
 let loadPromise: Promise<Set<string> | null> | null = null;
 
 /** Laadt de woordenlijst (idempotent). Retourneert null als er geen lijst is. */
 export async function loadDictionary(
-  url = '/dictionaries/nl.txt'
+  url = asset('/dictionaries/nl.txt')
 ): Promise<Set<string> | null> {
   if (wordSet) return wordSet;
   if (loadPromise) return loadPromise;

@@ -2,6 +2,7 @@
 
 import { useEffect } from 'react';
 import { useGameStore } from '@/lib/store';
+import { asset, BASE_PATH } from '@/lib/paths';
 
 /**
  * Past de donkere modus toe op <html> en registreert de service worker (PWA).
@@ -17,9 +18,11 @@ export function ThemeManager() {
 
   useEffect(() => {
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/sw.js').catch(() => {
-        /* offline-ondersteuning is optioneel */
-      });
+      navigator.serviceWorker
+        .register(asset('/sw.js'), { scope: `${BASE_PATH}/` })
+        .catch(() => {
+          /* offline-ondersteuning is optioneel */
+        });
     }
   }, []);
 

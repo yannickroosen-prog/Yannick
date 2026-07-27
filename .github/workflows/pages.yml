@@ -1,0 +1,61 @@
+name: Deploy naar GitHub Pages
+
+# Bouwt de statische export met het juiste basis-pad en publiceert naar
+# GitHub Pages bij elke push naar de ontwikkelbranch.
+on:
+  push:
+    branches:
+      - claude/scrabble-vision-scorekeeper-k3bo3x
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Eén deploy tegelijk.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - name: Configureer Pages
+        id: pages
+        uses: actions/configure-pages@v5
+        with:
+          # Schakelt GitHub Pages automatisch in (bron: GitHub Actions).
+          enablement: true
+      - name: Dependencies
+        run: npm ci
+      - name: Testen
+        run: npm test
+      - name: Bouwen (statische export, basis-pad = repo-submap)
+        env:
+          # base_path van configure-pages, bv. "/Yannick".
+          NEXT_PUBLIC_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: |
+          npm run build
+          touch out/.nojekyll
+      - name: Upload artefact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publiceren naar GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

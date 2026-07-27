@@ -1,12 +1,13 @@
 import type { Metadata, Viewport } from 'next';
 import './globals.css';
 import { ThemeManager } from '@/components/ThemeManager';
+import { asset } from '@/lib/paths';
 
 export const metadata: Metadata = {
   title: 'Scrabble Vision Scorekeeper',
   description:
     'Scan met je smartphonecamera een Scrabble-bord en bereken automatisch de score.',
-  manifest: '/manifest.webmanifest',
+  manifest: asset('/manifest.webmanifest'),
   appleWebApp: {
     capable: true,
     statusBarStyle: 'black-translucent',

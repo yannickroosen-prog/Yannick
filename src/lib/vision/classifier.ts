@@ -5,8 +5,9 @@
 // client-side, dus het werkt ook offline (PWA).
 
 import type { OcrResult } from './ocr';
+import { asset } from '../paths';
 
-const MODEL_URL = '/models/letters/model.json';
+const MODEL_URL = asset('/models/letters/model.json');
 const IMG = 32;
 
 let tfRef: typeof import('@tensorflow/tfjs') | null = null;
@@ -25,7 +26,7 @@ export async function loadModel(): Promise<any> {
     tfRef = tf;
     // Labels laden (index → letter); val stil terug op A-Z.
     try {
-      const res = await fetch('/models/letters/labels.json');
+      const res = await fetch(asset('/models/letters/labels.json'));
       if (res.ok) labels = await res.json();
     } catch {
       /* standaard A-Z */

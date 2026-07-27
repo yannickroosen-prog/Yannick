@@ -1,8 +1,11 @@
 // Eenvoudige service worker voor offline werking (app shell caching).
 // De visie-libs (OpenCV/Tesseract) worden bij eerste gebruik gecachet.
 
-const CACHE = 'scrabble-vision-v1';
-const APP_SHELL = ['/', '/manifest.webmanifest', '/icons/icon.svg'];
+const CACHE = 'scrabble-vision-v2';
+// Basis-pad afgeleid van de eigen locatie ('/' of '/Yannick/'), zodat de
+// service worker zowel op de root als onder een submap werkt.
+const BASE = self.location.pathname.replace(/sw\.js$/, '');
+const APP_SHELL = [BASE, `${BASE}manifest.webmanifest`, `${BASE}icons/icon.svg`];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
@@ -37,7 +40,7 @@ self.addEventListener('fetch', (event) => {
           caches.open(CACHE).then((c) => c.put(request, copy));
           return res;
         })
-        .catch(() => caches.match('/').then((r) => r || fetch(request)))
+        .catch(() => caches.match(BASE).then((r) => r || fetch(request)))
     );
     return;
   }

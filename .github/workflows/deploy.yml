@@ -1,11 +1,9 @@
 name: Deploy naar Netlify
 
-# Bouwt de statische export en publiceert die naar Netlify bij elke push
-# naar de ontwikkelbranch. Handmatig starten kan via "Run workflow".
+# Alleen handmatig ("Run workflow"): Netlify blokkeert momenteel deploys wegens
+# een accountlimiet. GitHub Pages verzorgt de automatische deploy (pages.yml).
+# Zet de push-trigger terug zodra het Netlify-account weer kan deployen.
 on:
-  push:
-    branches:
-      - claude/scrabble-vision-scorekeeper-k3bo3x
   workflow_dispatch:
 
 # Laat alleen de nieuwste run per branch doorgaan.
