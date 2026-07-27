@@ -23,8 +23,16 @@ const POINTS = {
   M: 3, N: 1, O: 1, P: 3, Q: 10, R: 2, S: 2, T: 2, U: 4, V: 4, W: 5, X: 8, Y: 8, Z: 4,
 };
 
+// Extra klasse voor "geen letter" (leeg vak, bonusvak, bordtextuur, achtergrond).
+const EMPTY = '∅';
+const CLASSES = [...LETTERS, EMPTY];
+const EMPTY_INDEX = LETTERS.length;
+
 const TRAIN_PER_CLASS = 700;
 const VAL_PER_CLASS = 120;
+// Ruime, diverse negatieve set zodat het model niet-stenen betrouwbaar afwijst.
+const NEG_TRAIN = 5000;
+const NEG_VAL = 800;
 const EPOCHS = 18;
 const BATCH = 128;
 
@@ -93,7 +101,15 @@ function renderSample(letter) {
     ctx.restore();
   }
 
-  // Verklein naar IMG (optionele extra blur via tussenstap).
+  return rasterize(c);
+}
+
+/**
+ * Verklein een RENDERxRENDER-canvas naar IMG grijswaarden [0,1] met
+ * augmentatie (optionele blur, helderheid/contrast, ruis). Gedeeld door
+ * positieve en negatieve voorbeelden.
+ */
+function rasterize(c) {
   const small = createCanvas(IMG, IMG);
   const sctx = small.getContext('2d');
   if (Math.random() < 0.4) {
@@ -118,21 +134,106 @@ function renderSample(letter) {
   return out;
 }
 
-function buildDataset(perClass) {
-  const n = perClass * LETTERS.length;
+const BONUS_COLORS = [
+  [45, 110, 120], // teal (bord)
+  [190, 60, 55], // rood 3L
+  [45, 50, 80], // marine 2L/3L
+  [90, 120, 60], // groen 3W
+  [220, 180, 70], // goud 2W/2L
+];
+const BONUS_TEXT = ['3X', '2X', 'LETTER', 'WAARDE', 'WOORD', 'L', 'W', ''];
+
+/**
+ * Rendert een NEGATIEF voorbeeld: iets wat GEEN steen is. Vier typen:
+ *  a) bedrukt bonusvak (gekleurd, met witte tekstfragmenten als "3X LETTER")
+ *  b) egaal bordvak met gridlijn
+ *  c) aanrecht/tafel-achtige lichte, gespikkelde textuur
+ *  d) vage ruis/gradient
+ */
+function renderNegative() {
+  const c = createCanvas(RENDER, RENDER);
+  const ctx = c.getContext('2d');
+  const type = rndInt(0, 3);
+
+  if (type === 0) {
+    // Bonusvak: teal ondergrond + gekleurde ruit + witte tekst.
+    const base = BONUS_COLORS[0];
+    ctx.fillStyle = `rgb(${base[0]},${base[1]},${base[2]})`;
+    ctx.fillRect(0, 0, RENDER, RENDER);
+    const col = choice(BONUS_COLORS.slice(1));
+    ctx.save();
+    ctx.translate(RENDER / 2, RENDER / 2);
+    ctx.rotate(Math.PI / 4);
+    const s = rnd(30, 52);
+    ctx.fillStyle = `rgb(${col[0]},${col[1]},${col[2]})`;
+    ctx.fillRect(-s / 2, -s / 2, s, s);
+    ctx.restore();
+    if (Math.random() < 0.8) {
+      ctx.fillStyle = 'rgba(255,255,255,0.92)';
+      ctx.font = `bold ${rnd(8, 13)}px "${choice(FONTS)}"`;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText(choice(BONUS_TEXT), RENDER / 2, RENDER / 2 + rnd(-10, 10));
+    }
+  } else if (type === 1) {
+    // Egaal bordvak met gridlijn.
+    const base = BONUS_COLORS[0];
+    ctx.fillStyle = `rgb(${base[0] + rnd(-15, 15)},${base[1] + rnd(-15, 15)},${
+      base[2] + rnd(-15, 15)
+    })`;
+    ctx.fillRect(0, 0, RENDER, RENDER);
+    ctx.strokeStyle = 'rgba(240,240,235,0.85)';
+    ctx.lineWidth = rnd(2, 5);
+    const edge = choice([0, RENDER]);
+    if (Math.random() < 0.5) {
+      ctx.beginPath();
+      ctx.moveTo(edge, 0);
+      ctx.lineTo(edge, RENDER);
+      ctx.stroke();
+    } else {
+      ctx.beginPath();
+      ctx.moveTo(0, edge);
+      ctx.lineTo(RENDER, edge);
+      ctx.stroke();
+    }
+  } else if (type === 2) {
+    // Aanrecht/tafel: licht, gespikkeld.
+    ctx.fillStyle = `rgb(${rnd(220, 245)},${rnd(218, 240)},${rnd(210, 235)})`;
+    ctx.fillRect(0, 0, RENDER, RENDER);
+    for (let i = 0; i < rndInt(20, 80); i++) {
+      const g = rnd(150, 210);
+      ctx.fillStyle = `rgba(${g},${g},${g},0.5)`;
+      ctx.fillRect(rnd(0, RENDER), rnd(0, RENDER), rnd(1, 3), rnd(1, 3));
+    }
+  } else {
+    // Vage gradient/ruis.
+    const g = rnd(60, 200);
+    ctx.fillStyle = `rgb(${g},${g + rnd(-30, 30)},${g + rnd(-30, 30)})`;
+    ctx.fillRect(0, 0, RENDER, RENDER);
+  }
+
+  return rasterize(c);
+}
+
+function buildDataset(perClass, negCount) {
+  const n = perClass * LETTERS.length + negCount;
   const xs = new Float32Array(n * IMG * IMG);
   const ys = new Int32Array(n);
   let k = 0;
   for (let li = 0; li < LETTERS.length; li++) {
     for (let s = 0; s < perClass; s++) {
-      const sample = renderSample(LETTERS[li]);
-      xs.set(sample, k * IMG * IMG);
+      xs.set(renderSample(LETTERS[li]), k * IMG * IMG);
       ys[k] = li;
       k++;
     }
   }
+  for (let s = 0; s < negCount; s++) {
+    xs.set(renderNegative(), k * IMG * IMG);
+    ys[k] = EMPTY_INDEX;
+    k++;
+  }
   const xsT = tf.tensor4d(xs, [n, IMG, IMG, 1]);
-  const ysT = tf.oneHot(tf.tensor1d(ys, 'int32'), LETTERS.length);
+  const ysT = tf.oneHot(tf.tensor1d(ys, 'int32'), CLASSES.length);
   return { xsT, ysT };
 }
 
@@ -160,7 +261,7 @@ function buildModel() {
   model.add(tf.layers.dropout({ rate: 0.35 }));
   model.add(tf.layers.dense({ units: 96, activation: 'relu' }));
   model.add(tf.layers.dropout({ rate: 0.35 }));
-  model.add(tf.layers.dense({ units: LETTERS.length, activation: 'softmax' }));
+  model.add(tf.layers.dense({ units: CLASSES.length, activation: 'softmax' }));
   model.compile({
     optimizer: tf.train.adam(0.001),
     loss: 'categoricalCrossentropy',
@@ -171,8 +272,8 @@ function buildModel() {
 
 async function main() {
   console.log('Trainingsdata genereren…');
-  const train = buildDataset(TRAIN_PER_CLASS);
-  const val = buildDataset(VAL_PER_CLASS);
+  const train = buildDataset(TRAIN_PER_CLASS, NEG_TRAIN);
+  const val = buildDataset(VAL_PER_CLASS, NEG_VAL);
   console.log('Train:', train.xsT.shape, 'Val:', val.xsT.shape);
 
   const model = buildModel();
@@ -195,7 +296,7 @@ async function main() {
   const outDir = join(__dirname, '..', 'public', 'models', 'letters');
   mkdirSync(outDir, { recursive: true });
   await model.save(`file://${outDir}`);
-  writeFileSync(join(outDir, 'labels.json'), JSON.stringify(LETTERS));
+  writeFileSync(join(outDir, 'labels.json'), JSON.stringify(CLASSES));
   console.log('Model opgeslagen in', outDir);
 
   train.xsT.dispose();

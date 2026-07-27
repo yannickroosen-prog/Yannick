@@ -4,7 +4,7 @@ import type { Board } from '../scrabble/types';
 import { createEmptyBoard } from '../scrabble/board';
 import { detectAndWarpBoard, type Corner } from './boardDetection';
 import { extractGrid } from './gridExtraction';
-import { recognizeLetter, type OcrResult } from './ocr';
+import { recognizeLetter } from './ocr';
 import { recognizeLetterModel, isModelAvailable } from './classifier';
 
 /** Welke letterherkenner gebruikt wordt. */
@@ -57,25 +57,20 @@ export async function scanBoard(
 
   onProgress?.(0.2, 'Raster opdelen…');
   const { cells } = extractGrid(detection.canvas);
-  const occupied = cells.filter((c) => c.occupied);
-
   // Kies de herkenner: model indien gewenst én beschikbaar, anders OCR.
-  let useModel = recognizer === 'model' && (await isModelAvailable());
-  const recognize = async (canvas: HTMLCanvasElement): Promise<OcrResult> => {
-    if (useModel) {
-      try {
-        return await recognizeLetterModel(canvas);
-      } catch {
-        useModel = false; // val voor de rest van de scan terug op OCR
-      }
-    }
-    return recognizeLetter(canvas);
-  };
+  const useModel = recognizer === 'model' && (await isModelAvailable());
+
+  // Het model wijst zelf niet-stenen af (∅-klasse), dus dan bekijken we ELKE
+  // cel. OCR is traag en kan niet afwijzen, dus daar gebruiken we de
+  // kleur-voorfilter en lezen alleen bezette cellen.
+  const targets = useModel ? cells : cells.filter((c) => c.occupied);
+  const recognize = useModel ? recognizeLetterModel : recognizeLetter;
 
   const board: Board = createEmptyBoard();
   let done = 0;
+  let found = 0;
 
-  for (const cell of occupied) {
+  for (const cell of targets) {
     const { letter, confidence } = await recognize(cell.canvas);
     if (letter) {
       board[cell.row][cell.col] = {
@@ -83,9 +78,10 @@ export async function scanBoard(
         confidence,
         uncertain: confidence < uncertaintyThreshold,
       };
+      found++;
     }
     done++;
-    onProgress?.(0.2 + 0.75 * (done / Math.max(1, occupied.length)), 'Letters lezen…');
+    onProgress?.(0.2 + 0.75 * (done / Math.max(1, targets.length)), 'Letters lezen…');
   }
 
   onProgress?.(1, 'Klaar');
@@ -95,6 +91,6 @@ export async function scanBoard(
     warped: detection.canvas,
     corners: detection.corners,
     autoDetected: detection.autoDetected,
-    occupiedCount: occupied.length,
+    occupiedCount: found,
   };
 }
