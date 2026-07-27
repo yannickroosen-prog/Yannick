@@ -8,10 +8,38 @@
 // Uitvoer: ../public/models/letters/{model.json,weights.bin} + labels.json
 
 import * as tf from '@tensorflow/tfjs-node';
-import { createCanvas, GlobalFonts } from '@napi-rs/canvas';
+import { createCanvas, GlobalFonts, loadImage } from '@napi-rs/canvas';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
-import { mkdirSync, writeFileSync } from 'node:fs';
+import { mkdirSync, writeFileSync, existsSync } from 'node:fs';
+import { extractRealCells } from './warp_lib.mjs';
+
+// Echte bordfoto's als extra NEGATIEVE data (echte kleuren/opdruk/naad/glans).
+// Elk item: pad, hoekpunten [TL,TR,BR,BL] in fotopixels, en de uit te sluiten
+// zone (rond gelegde stenen) zodat er geen letters in de negatieven sluipen.
+const REAL_SOURCES = [
+  {
+    path: './real/don_board.jpg',
+    corners: [[148, 1113], [1851, 1082], [1835, 2880], [66, 2956]],
+    exclude: { r0: 5, r1: 9, c0: 5, c1: 11 },
+  },
+];
+const REAL_AUG = 12; // varianten per echte cel
+
+// Echte gelegde stenen als POSITIEVE data (echt tegel-lettertype, slab-serif).
+// Elk item: pad + lijst [letter, centrumX, centrumY] in fotopixels + cropgrootte.
+const REAL_POSITIVES = [
+  {
+    path: './real/don_board.jpg',
+    crop: 112,
+    tiles: [
+      ['D', 1002, 1953],
+      ['O', 1113, 1953],
+      ['N', 1218, 1953],
+    ],
+  },
+];
+const POS_AUG = 60; // varianten per echte steen
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -273,6 +301,80 @@ function buildDataset(perClass, negCount) {
   return { xsT, ysT };
 }
 
+/** Lichte augmentatie van een reeds gerasterde cel (helderheid/contrast/ruis). */
+function augmentFloat(g) {
+  const out = new Float32Array(g.length);
+  const brightness = rnd(-0.1, 0.1);
+  const contrast = rnd(0.85, 1.2);
+  const noise = rnd(0, 0.08);
+  for (let i = 0; i < g.length; i++) {
+    let v = (g[i] - 0.5) * contrast + 0.5 + brightness + (Math.random() - 0.5) * noise;
+    out[i] = Math.max(0, Math.min(1, v));
+  }
+  return out;
+}
+
+/** Laadt echte NIET-steen-cellen uit de bordfoto's, elk REAL_AUG keer geaugmenteerd. */
+async function loadRealNegatives() {
+  const all = [];
+  for (const src of REAL_SOURCES) {
+    if (!existsSync(join(__dirname, src.path))) continue;
+    const cells = await extractRealCells(
+      join(__dirname, src.path),
+      src.corners,
+      src.exclude,
+      IMG
+    );
+    for (const cell of cells) {
+      all.push(cell);
+      for (let a = 0; a < REAL_AUG; a++) all.push(augmentFloat(cell));
+    }
+  }
+  return all;
+}
+
+/** Laadt echte gelegde stenen als positieve, geaugmenteerde voorbeelden. */
+async function loadRealPositives() {
+  const out = [];
+  for (const src of REAL_POSITIVES) {
+    if (!existsSync(join(__dirname, src.path))) continue;
+    const img = await loadImage(join(__dirname, src.path));
+    const cv = createCanvas(img.width, img.height);
+    cv.getContext('2d').drawImage(img, 0, 0);
+    for (const [letter, cx, cy] of src.tiles) {
+      const li = LETTERS.indexOf(letter);
+      if (li < 0) continue;
+      for (let a = 0; a < POS_AUG; a++) {
+        const S = src.crop * rnd(0.9, 1.15);
+        const jx = rnd(-6, 6);
+        const jy = rnd(-6, 6);
+        const cell = createCanvas(IMG, IMG);
+        const cc = cell.getContext('2d');
+        cc.save();
+        cc.translate(IMG / 2, IMG / 2);
+        cc.rotate((rnd(-9, 9) * Math.PI) / 180);
+        cc.translate(-IMG / 2, -IMG / 2);
+        cc.drawImage(cv, cx - S / 2 + jx, cy - S / 2 + jy, S, S, 0, 0, IMG, IMG);
+        cc.restore();
+        const { data } = cc.getImageData(0, 0, IMG, IMG);
+        const g = new Float32Array(IMG * IMG);
+        const brightness = rnd(-0.12, 0.12);
+        const contrast = rnd(0.85, 1.2);
+        const noise = rnd(0, 0.07);
+        for (let i = 0; i < IMG * IMG; i++) {
+          let v =
+            (0.299 * data[i * 4] + 0.587 * data[i * 4 + 1] + 0.114 * data[i * 4 + 2]) /
+            255;
+          v = (v - 0.5) * contrast + 0.5 + brightness + (Math.random() - 0.5) * noise;
+          g[i] = Math.max(0, Math.min(1, v));
+        }
+        out.push({ g, li });
+      }
+    }
+  }
+  return out;
+}
+
 function buildModel() {
   const model = tf.sequential();
   model.add(
@@ -310,14 +412,42 @@ async function main() {
   console.log('Trainingsdata genereren…');
   const train = buildDataset(TRAIN_PER_CLASS, NEG_TRAIN);
   const val = buildDataset(VAL_PER_CLASS, NEG_VAL);
-  console.log('Train:', train.xsT.shape, 'Val:', val.xsT.shape);
+
+  // Echte data uit bordfoto's toevoegen: negatieven (∅) + gelegde stenen.
+  const negs = await loadRealNegatives();
+  const pos = await loadRealPositives();
+  const extra = [
+    ...negs.map((g) => ({ g, li: EMPTY_INDEX })),
+    ...pos.map((p) => ({ g: p.g, li: p.li })),
+  ];
+  let trainXs = train.xsT;
+  let trainYs = train.ysT;
+  if (extra.length > 0) {
+    const flat = new Float32Array(extra.length * IMG * IMG);
+    const idx = new Int32Array(extra.length);
+    extra.forEach((e, i) => {
+      flat.set(e.g, i * IMG * IMG);
+      idx[i] = e.li;
+    });
+    const realX = tf.tensor4d(flat, [extra.length, IMG, IMG, 1]);
+    const realY = tf.oneHot(tf.tensor1d(idx, 'int32'), CLASSES.length);
+    trainXs = tf.concat([train.xsT, realX], 0);
+    trainYs = tf.concat([train.ysT, realY], 0);
+    train.xsT.dispose();
+    train.ysT.dispose();
+    realX.dispose();
+    realY.dispose();
+    console.log(`Echte data toegevoegd: ${negs.length} negatief, ${pos.length} positief`);
+  }
+  console.log('Train:', trainXs.shape, 'Val:', val.xsT.shape);
 
   const model = buildModel();
   model.summary();
 
-  await model.fit(train.xsT, train.ysT, {
+  await model.fit(trainXs, trainYs, {
     epochs: EPOCHS,
     batchSize: BATCH,
+    shuffle: true,
     validationData: [val.xsT, val.ysT],
     callbacks: {
       onEpochEnd: (e, logs) =>
@@ -335,8 +465,8 @@ async function main() {
   writeFileSync(join(outDir, 'labels.json'), JSON.stringify(CLASSES));
   console.log('Model opgeslagen in', outDir);
 
-  train.xsT.dispose();
-  train.ysT.dispose();
+  trainXs.dispose();
+  trainYs.dispose();
   val.xsT.dispose();
   val.ysT.dispose();
 }
