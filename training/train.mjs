@@ -31,8 +31,8 @@ const EMPTY_INDEX = LETTERS.length;
 const TRAIN_PER_CLASS = 700;
 const VAL_PER_CLASS = 120;
 // Ruime, diverse negatieve set zodat het model niet-stenen betrouwbaar afwijst.
-const NEG_TRAIN = 5000;
-const NEG_VAL = 800;
+const NEG_TRAIN = 6500;
+const NEG_VAL = 1000;
 const EPOCHS = 18;
 const BATCH = 128;
 
@@ -153,7 +153,7 @@ const BONUS_TEXT = ['3X', '2X', 'LETTER', 'WAARDE', 'WOORD', 'L', 'W', ''];
 function renderNegative() {
   const c = createCanvas(RENDER, RENDER);
   const ctx = c.getContext('2d');
-  const type = rndInt(0, 3);
+  const type = rndInt(0, 5);
 
   if (type === 0) {
     // Bonusvak: teal ondergrond + gekleurde ruit + witte tekst.
@@ -205,11 +205,47 @@ function renderNegative() {
       ctx.fillStyle = `rgba(${g},${g},${g},0.5)`;
       ctx.fillRect(rnd(0, RENDER), rnd(0, RENDER), rnd(1, 3), rnd(1, 3));
     }
+  } else if (type === 3) {
+    // Vouwnaad van het bord: donkere band dwars door een teal cel.
+    const base = BONUS_COLORS[0];
+    ctx.fillStyle = `rgb(${base[0]},${base[1]},${base[2]})`;
+    ctx.fillRect(0, 0, RENDER, RENDER);
+    ctx.fillStyle = `rgba(${rnd(10, 40)},${rnd(20, 50)},${rnd(20, 50)},${rnd(0.4, 0.8)})`;
+    const bandH = rnd(6, 16);
+    const y = rnd(0, RENDER - bandH);
+    if (Math.random() < 0.5) ctx.fillRect(0, y, RENDER, bandH);
+    else ctx.fillRect(y, 0, bandH, RENDER);
+  } else if (type === 4) {
+    // Glans/reflectie: heldere vlek over teal of crème ondergrond.
+    if (Math.random() < 0.5) {
+      const base = BONUS_COLORS[0];
+      ctx.fillStyle = `rgb(${base[0]},${base[1]},${base[2]})`;
+    } else {
+      ctx.fillStyle = `rgb(${rnd(225, 245)},${rnd(215, 238)},${rnd(190, 215)})`;
+    }
+    ctx.fillRect(0, 0, RENDER, RENDER);
+    const gx = rnd(0, RENDER);
+    const gy = rnd(0, RENDER);
+    const grad = ctx.createRadialGradient(gx, gy, 2, gx, gy, rnd(20, 50));
+    grad.addColorStop(0, `rgba(255,255,255,${rnd(0.4, 0.85)})`);
+    grad.addColorStop(1, 'rgba(255,255,255,0)');
+    ctx.fillStyle = grad;
+    ctx.fillRect(0, 0, RENDER, RENDER);
   } else {
-    // Vage gradient/ruis.
+    // Vage gradient/ruis (met soms zware ruis).
     const g = rnd(60, 200);
     ctx.fillStyle = `rgb(${g},${g + rnd(-30, 30)},${g + rnd(-30, 30)})`;
     ctx.fillRect(0, 0, RENDER, RENDER);
+    if (Math.random() < 0.6) {
+      const im = ctx.getImageData(0, 0, RENDER, RENDER);
+      for (let i = 0; i < im.data.length; i += 4) {
+        const nz = (Math.random() - 0.5) * rnd(40, 120);
+        im.data[i] += nz;
+        im.data[i + 1] += nz;
+        im.data[i + 2] += nz;
+      }
+      ctx.putImageData(im, 0, 0);
+    }
   }
 
   return rasterize(c);

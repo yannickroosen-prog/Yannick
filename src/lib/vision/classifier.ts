@@ -12,6 +12,9 @@ const IMG = 32;
 let tfRef: typeof import('@tensorflow/tfjs') | null = null;
 let modelPromise: Promise<any> | null = null;
 const EMPTY = '∅';
+// Onder deze zekerheid wordt een letter afgewezen (behandeld als geen steen).
+// Echte stenen scoren doorgaans >0,95; dit filtert twijfelachtige textuur weg.
+const ACCEPT_MIN = 0.85;
 let labels: string[] = [...'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split(''), EMPTY];
 
 /** Laadt TensorFlow.js + het model (idempotent). Gooit als het model ontbreekt. */
@@ -79,10 +82,12 @@ export async function recognizeLetterModel(
   for (let i = 1; i < probs.length; i++) if (probs[i] > probs[best]) best = i;
 
   const label = labels[best];
-  // '∅' = geen steen → geen letter teruggeven (zo worden bonusvakken en
-  // achtergrond afgewezen i.p.v. als willekeurige letter gelezen).
-  if (!label || label === EMPTY) {
-    return { letter: null, confidence: probs[best] ?? 0 };
+  const confidence = probs[best] ?? 0;
+  // '∅' = geen steen, of te lage zekerheid → geen letter teruggeven. Zo worden
+  // bonusvakken, achtergrond en twijfelachtige textuur afgewezen i.p.v. als
+  // willekeurige letter gelezen.
+  if (!label || label === EMPTY || confidence < ACCEPT_MIN) {
+    return { letter: null, confidence };
   }
-  return { letter: label, confidence: probs[best] ?? 0 };
+  return { letter: label, confidence };
 }
