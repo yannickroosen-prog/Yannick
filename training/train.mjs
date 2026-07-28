@@ -11,7 +11,7 @@ import * as tf from '@tensorflow/tfjs-node';
 import { createCanvas, GlobalFonts, loadImage } from '@napi-rs/canvas';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
-import { mkdirSync, writeFileSync, existsSync } from 'node:fs';
+import { mkdirSync, writeFileSync, existsSync, readFileSync } from 'node:fs';
 import { extractRealCells } from './warp_lib.mjs';
 
 // Echte bordfoto's als extra NEGATIEVE data (echte kleuren/opdruk/naad/glans).
@@ -40,6 +40,11 @@ const REAL_POSITIVES = [
   },
 ];
 const POS_AUG = 60; // varianten per echte steen
+
+// Losse gelabelde steen-crops (uit detect_tiles/extract_positives) en echte
+// negatieve patches (tafel/hout), opgeslagen als [{label?,g}] JSON.
+const REAL_POS_FILES = ['./real/pos_tiles1.json'];
+const REAL_NEG_FILES = ['./real/neg_wood.json'];
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -375,6 +380,24 @@ async function loadRealPositives() {
   return out;
 }
 
+/** Laadt gelabelde/ongelabelde sample-bestanden ([{label?,g}]) met augmentatie. */
+function loadSampleFiles(files, forceLi, augPer) {
+  const out = [];
+  for (const f of files) {
+    const p = join(__dirname, f);
+    if (!existsSync(p)) continue;
+    const arr = JSON.parse(readFileSync(p));
+    for (const s of arr) {
+      const li = forceLi != null ? forceLi : LETTERS.indexOf(s.label);
+      if (li < 0) continue;
+      const base = Float32Array.from(s.g);
+      out.push({ g: base, li });
+      for (let a = 0; a < augPer; a++) out.push({ g: augmentFloat(base), li });
+    }
+  }
+  return out;
+}
+
 function buildModel() {
   const model = tf.sequential();
   model.add(
@@ -416,10 +439,17 @@ async function main() {
   // Echte data uit bordfoto's toevoegen: negatieven (∅) + gelegde stenen.
   const negs = await loadRealNegatives();
   const pos = await loadRealPositives();
+  const tilePos = loadSampleFiles(REAL_POS_FILES, null, POS_AUG);
+  const woodNeg = loadSampleFiles(REAL_NEG_FILES, EMPTY_INDEX, 8);
   const extra = [
     ...negs.map((g) => ({ g, li: EMPTY_INDEX })),
     ...pos.map((p) => ({ g: p.g, li: p.li })),
+    ...tilePos,
+    ...woodNeg,
   ];
+  console.log(
+    `Extra echt: ${negs.length} bordneg, ${pos.length} DON-pos, ${tilePos.length} losse-steen-pos, ${woodNeg.length} houtneg`
+  );
   let trainXs = train.xsT;
   let trainYs = train.ysT;
   if (extra.length > 0) {
