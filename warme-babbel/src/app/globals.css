@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+  html {
+    @apply bg-brand-cream text-brand-ink antialiased;
+    font-family: var(--font-body), system-ui, sans-serif;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply min-h-dvh;
+  }
+  h1, h2, h3, h4 {
+    @apply font-heading font-bold tracking-tight text-brand-ink;
+    text-wrap: balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+  a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible, [tabindex]:focus-visible {
+    @apply outline-none ring-2 ring-brand-orange ring-offset-2 ring-offset-brand-cream;
+  }
+  ::selection {
+    @apply bg-brand-orange-soft text-brand-ink;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  .field-input {
+    @apply w-full rounded-2xl border border-brand-sand bg-white px-4 py-3 text-base text-brand-ink placeholder:text-brand-ink-muted shadow-bubble transition focus:border-brand-orange focus:ring-2 focus:ring-brand-orange/30 disabled:opacity-60;
+    min-height: 3rem;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1 rounded-full bg-brand-beige px-3 py-1 text-sm text-brand-ink-soft;
+  }
+  .prose-story {
+    @apply whitespace-pre-line text-[1.05rem] leading-relaxed text-brand-ink-soft;
+  }
+  /* Embed-modus: compacter, geen eigen chrome */
+  .embed .page-shell {
+    @apply px-3 py-3 sm:px-4;
+  }
+}
+
+/* Scrollbars in de chat */
+.scroll-thin {
+  scrollbar-width: thin;
+  scrollbar-color: #e9e4d8 transparent;
+}
