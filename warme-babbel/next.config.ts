@@ -53,6 +53,12 @@ const securityHeaders = [
 const nextConfig: NextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,
+  // Monorepo-map: voorkom dat Next de bovenliggende lockfile als root neemt.
+  outputFileTracingRoot: __dirname,
+  experimental: {
+    // Profielfoto's (max 5 MB) gaan via een Server Action
+    serverActions: { bodySizeLimit: "6mb" },
+  },
   images: {
     remotePatterns: supabaseHost
       ? [{ protocol: "https", hostname: supabaseHost, pathname: "/storage/v1/object/**" }]

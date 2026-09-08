@@ -4,6 +4,8 @@ import path from "node:path";
 export default defineConfig({
   resolve: { alias: { "@": path.resolve(__dirname, "src") } },
   test: {
+    // RLS-tests delen één database; bestanden sequentieel uitvoeren.
+    fileParallelism: false,
     projects: [
       {
         extends: true,
@@ -21,8 +23,6 @@ export default defineConfig({
           environment: "node",
           testTimeout: 30000,
           hookTimeout: 60000,
-          // RLS-tests delen één database; sequentieel uitvoeren.
-          fileParallelism: false,
         },
       },
     ],

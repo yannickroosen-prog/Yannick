@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="nl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Nieuw wachtwoord instellen</title></head>
+<body style="margin:0;padding:0;background:#f1f0ea;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;">
+<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#f1f0ea;"><tr><td align="center" style="padding:32px 16px;">
+<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="max-width:560px;">
+<tr><td style="padding:0 8px 20px;"><span style="font-size:22px;font-weight:800;color:#b41411;">Warme</span> <span style="font-size:22px;font-weight:800;color:#e74c0a;">Babbel</span></td></tr>
+<tr><td style="background:#ffffff;border-radius:20px;padding:32px 28px;">
+<h1 style="margin:0 0 20px;font-size:24px;line-height:1.3;color:#2b2523;">Nieuw wachtwoord instellen</h1>
+<p style="margin:0 0 16px;font-size:16px;line-height:1.55;color:#2b2523;">Je vroeg een nieuw wachtwoord aan. Klik op de knop om een nieuw wachtwoord te kiezen.</p>
+<table role="presentation" cellspacing="0" cellpadding="0" border="0" style="margin:24px 0;"><tr><td style="border-radius:999px;background:#e74c0a;">
+<a href="{{ .SiteURL }}/auth/confirm?token_hash={{ .TokenHash }}&type=recovery&next=/wachtwoord-herstellen" style="display:inline-block;padding:14px 28px;font-size:16px;font-weight:700;color:#ffffff;text-decoration:none;border-radius:999px;">Kies een nieuw wachtwoord</a></td></tr></table>
+<p style="margin:0 0 16px;font-size:13px;line-height:1.5;color:#8a807a;">Werkt de knop niet? Kopieer deze link in je browser:<br><a href="{{ .SiteURL }}/auth/confirm?token_hash={{ .TokenHash }}&type=recovery&next=/wachtwoord-herstellen" style="color:#b41411;word-break:break-all;">{{ .SiteURL }}/auth/confirm?token_hash={{ .TokenHash }}&type=recovery&next=/wachtwoord-herstellen</a></p>
+<p style="margin:16px 0 0;font-size:13px;line-height:1.5;color:#8a807a;">Deze link is 1 uur geldig. Vroeg je dit niet aan? Negeer deze e-mail.</p>
+</td></tr>
+<tr><td style="padding:20px 8px 0;font-size:12px;line-height:1.6;color:#8a807a;">Similes vzw · Voor en door families van mensen met psychische problemen.</td></tr>
+</table></td></tr></table></body></html>
