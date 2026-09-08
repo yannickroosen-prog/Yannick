@@ -50,7 +50,7 @@ Zie `DATABASE.md`: `auth.users` (e-mail, wachtwoord), `profiles` (rol, velden), 
 - Sommige "Mijn verhaal"-velden bevatten HTML (`<div dir="auto">`, `<p>`), soms leeg.
 - Regiolabels zijn niet uniform ("Oost-brabant" vs "Oost-Brabant", "regio Antwerpen").
 - Eén profiel toont "1 more" in thema's (afgekapte tag).
-- Gebruikersnamen worden als display name gebruikt (bv. "JORIS", "Pioentje", "Annemie V.").
+- Gebruikersnamen worden als display name gebruikt (soms in hoofdletters, soms een schuilnaam, soms voornaam + initiaal).
 
 ## 5. Privacyrisico's en maatregelen
 - Persoonsgegevens (e-mail, verhaal, foto) verlaten de WordPress-omgeving: enkel via een beveiligd kanaal,

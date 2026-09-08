@@ -39,9 +39,9 @@ Kernproblemen van de huidige opzet (relevant voor de herbouw):
    en templates. De ledendirectory op de homepage toont profielen en verhalen van Warme Babbelaars
    **zonder login** (inclusief foto en volledige "mijn verhaal").
 2. **Chat is niet realtime.** UM Private Messages werkt met page reloads/AJAX-polling en een e-mailmelding.
-3. **Dubbele/inconsistente data**: de directory geeft per pagina duplicaten (bv. "Maarten", "Ludo", "Lenny",
-   "Ellis", "JORIS" komen 2× voor over pagina 1 en 2 door onstabiele sortering); de directory rapporteert
-   21 gebruikers maar er zijn ~16 unieke profielen.
+3. **Dubbele/inconsistente data**: de directory geeft per pagina duplicaten (vijf profielen komen 2× voor
+   over pagina 1 en 2 door onstabiele sortering); de directory rapporteert 21 gebruikers maar er zijn ~16
+   unieke profielen.
 4. **Fysieke locaties zijn "gebruikers"**: het Inloophuis Kempen, de Warme Babbelplek Grimbergen en het
    Praatcafé Hasselt zijn UM-gebruikersaccounts met een profiel (workaround).
 5. **Geen block/report-functionaliteit** voor gebruikers; ongepast gedrag moet per e-mail gemeld worden.
@@ -105,7 +105,7 @@ Alle pagina's uit `wp-sitemap-posts-page-1.xml` en `wp/v2/pages` (22 pagina's).
 
 | ID | URL | Titel | Doel | Functionaliteit / formulieren | CTA's |
 |---|---|---|---|---|---|
-| 57 | `/` | Warme Babbel (homepagina) | Landingspagina + directory | UM directory `hKZ4A` (grid, filters), testimonial-slider, secties Inloophuis/Luisterlijn | "💬 Zoek een Warme Babbelaar" (#onze-warme-babbelaars), "🏠 Inloophuis & Warme Babbelplek", "☎️ Luisterlijn", "Privé bericht" per kaart (→ login), "Stuur ons een mailtje" (mailto kristin.thorisaen@similes.be; info@similes.be) |
+| 57 | `/` | Warme Babbel (homepagina) | Landingspagina + directory | UM directory `hKZ4A` (grid, filters), testimonial-slider, secties Inloophuis/Luisterlijn | "💬 Zoek een Warme Babbelaar" (#onze-warme-babbelaars), "🏠 Inloophuis & Warme Babbelplek", "☎️ Luisterlijn", "Privé bericht" per kaart (→ login), "Stuur ons een mailtje" (mailto naar een medewerker van Similes en info@similes.be) |
 | 37 | `/met-wie/` | Met wie? | Directory-pagina | Zelfde UM-directory met filters regio, thema, band, contactwijze, leeftijd, geslacht, zonder afspraak | Profielkaarten → `/user/<slug>/` |
 | 40 | `/hoe/` | Hoe vraag je jouw Warme Babbel aan? | Uitleg stappenplan | Quicklinks (registreren, inloggen, wachtwoord vergeten, help); CF7-formulier "Lukt er iets niet?" (naam, e-mail, onderwerp, omschrijving) | Registreer je / Inloggen / tips / feedbackformulier |
 | 42 | `/tips/` | Tips | Gesprekstips voor babbelzoekers | Inhoudelijk; voorbeeldbericht; link naar feedbackformulier | "Zoek een warme babbel" |
@@ -162,7 +162,7 @@ Overige content:
 | **Warme Babbelaar** (vrijwilliger) | Registratie via verborgen pagina `/registreer-je-als-warme-babbelaar/` (UM form #76) na e-mailcontact met info@similes.be; account moet door admin **goedgekeurd** worden (profiel toont "status Goedgekeurd") | Profiel **publiek** in directory (ook zonder login) | Kan zichzelf "Even niet beschikbaar" zetten of profiel verbergen |
 | **Locatie-account** (Inloophuis, Warme Babbelplek, Praatcafé) | Handmatig door admin | Publiek in directory | Workaround: geen echte persoon |
 | **Beheerder** | WordPress-admin | wp-admin + UM | Modereert via wp-admin; geen aparte tooling |
-| **Vrijwilligerscoördinator** ("Suzanne of Laetitia") | genoemd in Help | — | Ontvangt meldingen van ongepast gedrag per e-mail/telefoon |
+| **Vrijwilligerscoördinator** (twee medewerkers, bij voornaam genoemd) | genoemd in Help | — | Ontvangt meldingen van ongepast gedrag per e-mail/telefoon |
 
 UM-rollen zelf zijn niet publiek opvraagbaar; de directory-JSON geeft `role: "undefined"` en
 `account_status_name: "onbepaald"` voor anonieme bezoekers. Waarschijnlijk (afgeleid) bestaan er twee
