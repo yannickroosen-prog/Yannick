@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "node -e \"require('fs').cpSync('doorverwijsgids','out/doorverwijsgids',{recursive:true})\"",
+    "check:gids": "node doorverwijsgids/check.mjs",
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",

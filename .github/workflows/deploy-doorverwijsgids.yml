@@ -1,0 +1,46 @@
+name: Deploy doorverwijsgids naar Netlify
+
+# Publiceert alleen de map doorverwijsgids/ naar het Netlify-project
+# "similes-doorverwijsgids" (https://similes-doorverwijsgids.netlify.app).
+# Draait bij elke push die de map wijzigt, of handmatig via "Run workflow".
+on:
+  push:
+    branches:
+      - ccr-89281d68-09comc
+      - claude/scrabble-vision-scorekeeper-k3bo3x
+    paths:
+      - "doorverwijsgids/**"
+      - ".github/workflows/deploy-doorverwijsgids.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: netlify-doorverwijsgids
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Controleer de beslissingsboom
+        run: node doorverwijsgids/check.mjs
+
+      - name: Publiceren naar Netlify
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          # Site-id van het Netlify-project similes-doorverwijsgids (niet geheim).
+          NETLIFY_SITE_ID: ef0b2d25-3be5-4651-8167-87cfd991a012
+        run: |
+          npx --yes netlify-cli@17 deploy \
+            --dir=doorverwijsgids \
+            --site="$NETLIFY_SITE_ID" \
+            --auth="$NETLIFY_AUTH_TOKEN" \
+            --prod \
+            --message="Doorverwijsgids ${{ github.sha }}"

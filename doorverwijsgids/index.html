@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="nl-BE">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex" />
+  <title>Doorverwijsgids Similes</title>
+  <meta name="description" content="Beslissingsboom om tijdens een gesprek door te verwijzen naar de juiste hulp. Intern werkinstrument van Similes vzw." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%23e84e0f'/%3E%3Cpath d='M10 11h12M10 16h12M10 21h7' stroke='%23fff' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <a class="skip" href="#stap">Naar de inhoud</a>
+
+  <header class="kop">
+    <div class="kop-binnen">
+      <a class="merk" href="./" aria-label="Doorverwijsgids Similes, naar het begin">
+        <span class="merk-bol" aria-hidden="true"></span>
+        <span class="merk-tekst">Doorverwijsgids <strong>Similes</strong></span>
+      </a>
+      <form class="zoek" role="search" onsubmit="return false">
+        <label class="visueel-verborgen" for="zoekveld">Zoek een organisatie of trefwoord</label>
+        <input id="zoekveld" type="search" placeholder="Zoek: organisatie of trefwoord (druk /)" autocomplete="off" />
+      </form>
+    </div>
+  </header>
+
+  <div class="nood-balk" role="region" aria-label="Noodnummers">
+    <span class="nood-item"><span class="nood-label">Acuut gevaar</span> <a href="tel:112">112</a></span>
+    <span class="nood-item"><span class="nood-label">Politie</span> <a href="tel:101">101</a></span>
+    <span class="nood-item"><span class="nood-label">Zelfdoding</span> <a href="tel:1813">1813</a></span>
+    <span class="nood-item"><span class="nood-label">Huisarts van wacht</span> <a href="tel:1733">1733</a></span>
+    <span class="nood-item"><span class="nood-label">Tele-Onthaal</span> <a href="tel:106">106</a></span>
+  </div>
+
+  <noscript>
+    <p class="noscript">Deze beslissingsboom heeft JavaScript nodig. Zet JavaScript aan in je browser en laad de pagina opnieuw.</p>
+  </noscript>
+
+  <main class="hoofd">
+    <nav class="kruimels" id="kruimels" aria-label="Gevolgde weg"></nav>
+
+    <section id="stap" class="stap" aria-live="polite" tabindex="-1"></section>
+
+    <section id="zoekresultaat" class="zoekresultaat" aria-live="polite" hidden></section>
+
+    <div class="acties" id="acties">
+      <button type="button" id="knop-terug" class="knop knop-licht">← Terug <kbd>Backspace</kbd></button>
+      <button type="button" id="knop-opnieuw" class="knop knop-licht">Opnieuw beginnen <kbd>Esc</kbd></button>
+      <button type="button" id="knop-kopieer" class="knop knop-licht" hidden>Kopieer samenvatting</button>
+      <button type="button" id="knop-print" class="knop knop-licht">Afdrukken</button>
+    </div>
+  </main>
+
+  <footer class="voet">
+    <details class="regels">
+      <summary>Regels voor het gebruik van deze gids</summary>
+      <ol>
+        <li>Acuut gevaar gaat altijd voor. Verwijs dan meteen naar 112, en bij suïcidale gedachten naar de Zelfmoordlijn 1813.</li>
+        <li>Verwijs alleen door met fiches met de status Bevestigd of Deels bevestigd. Gebruik bij Deels bevestigd alleen wat in de fiche staat, en lees altijd het veld Let op.</li>
+        <li>Gebruik geen fiches die nog niet nagekeken zijn als actuele informatie. Zeg dat het nog niet is nagekeken.</li>
+        <li>Vul niets aan uit eigen kennis. Staat iets niet in de fiche, zeg dan dat het niet in de gids staat en verwijs naar de website van de organisatie.</li>
+        <li>Geef geen diagnose, geen behandeladvies en geen uitspraak over wat iemand moet doen. Deze gids dient om door te verwijzen.</li>
+        <li>Houd vier onderwerpen gescheiden: acute crisishulp, steun bij suïcidale gedachten, rouw na zelfdoding, en levenseinde of euthanasie. Leg geen voorwaarden voor euthanasie uit.</li>
+        <li>Maak het onderscheid tussen hulp voor de persoon met psychische problemen en steun voor naasten duidelijk. Naasten hebben ook eigen noden.</li>
+        <li>Spreek warm, kort en zonder stigmatiserende woorden. Zeg "naasten" en "de persoon met psychische problemen" of "je partner, kind, ouder of vriend".</li>
+      </ol>
+    </details>
+    <p class="voet-info" id="voet-info"></p>
+  </footer>
+
+  <div id="melding" class="melding" role="status" aria-live="polite"></div>
+
+  <script src="data/fiches.js"></script>
+  <script src="data/boom.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
