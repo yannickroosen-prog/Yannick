@@ -1,0 +1,11 @@
+# Netlify-configuratie als je alleen deze map als site publiceert.
+# Geen build nodig: de map is al statisch.
+[build]
+  command = ""
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex"
+    X-Content-Type-Options = "nosniff"
