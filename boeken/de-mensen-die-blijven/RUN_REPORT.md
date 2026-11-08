@@ -19,3 +19,4 @@
 - 2026-11-08: hfst. 9 "Juli" aanvaard (3.280).
 - 2026-11-08: hfst. 10 "Augustus" aanvaard (3.608). Totaal 39843.
 - 2026-11-08: panel hfst. 10: 4/4 doorlezen; tickets T10-01 t/m T10-07.
+- 2026-11-08: hfst. 11 "September" (climax) aanvaard (3.239). Totaal 43075.
