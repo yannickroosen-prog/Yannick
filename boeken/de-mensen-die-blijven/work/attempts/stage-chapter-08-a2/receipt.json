@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "status": "staged",
+  "scope": "format_only_not_editorial_acceptance",
+  "source_sha256": "1adea626643427be8765b3e125ff2713db18d9ae41906d76ee59674491931b13",
+  "staged_sha256": "1adea626643427be8765b3e125ff2713db18d9ae41906d76ee59674491931b13",
+  "body_sha256": "ec2420dcf5b703a538a868577524e993b308ae17fcb6a71425a354bb27256a74",
+  "body_unchanged": true,
+  "transform": "none",
+  "original_heading_level": 1,
+  "heading_level": 1,
+  "title": "Juni",
+  "visible_prose_words": 3490,
+  "source_file": "source.md",
+  "staged_file": "chapter.md"
+}

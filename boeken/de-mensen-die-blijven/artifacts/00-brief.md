@@ -11,7 +11,7 @@ Een droge, soms pijnlijk grappige roman over een man die een jaar lang gelooft d
 - **Genre:** literaire roman; leest als bekentenisliteratuur (ik-verteller, autofictionele vorm)
 - **Positionering:** korte literaire roman
 - **Doelgroep:** lezers van Nederlandstalige literaire fictie en bekentenisliteratuur; naasten van mensen met een psychische kwetsbaarheid; lezers die daar nooit mee te maken kregen
-- **Lengte:** vloer 48.000, doel ±54.000, plafond 65.000 woorden (bijgesteld 8 nov., oorspronkelijk 55.000-70.000; ter goedkeuring bij de auteur)
+- **Lengte:** vloer 48.000, doel ±54.000, plafond 65.000 woorden (bijgesteld 8 nov., oorspronkelijk 55.000-70.000; goedgekeurd door de auteur)
 - **Hoofdstukken:** 12 (één per maand, november tot oktober), gemiddeld ±4.500 woorden
 - **Perspectief:** ik-verteller Wouter (38), verleden tijd, onbetrouwbaar in de zin van eenzijdig
 - **Toon:** droog, observerend, soms grappig; geen uitleg, geen sentiment

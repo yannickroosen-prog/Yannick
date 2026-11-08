@@ -22,4 +22,4 @@ Elke regel is een keuze die ik maakte omdat het idee ze openliet. Corrigeer geru
 - Geen serie. Eén boek.
 - Kwaliteitsdoel: standaard (8,5).
 - Samenwerking: met check-ins (na de intake, na het plan, na hoofdstuk 1). Reden: de auteur heeft een uitgesproken visie; het boek is van hem.
-- Naam op de titelpagina: nog niet gekend. Voorlopig "Anoniem".
+- Naam op de titelpagina: Coen O. Narinsky (anagram van de naam van de auteur, op zijn vraag).

@@ -37,8 +37,8 @@ pipeline:
 manuscript:
   chapter_count_planned: 12
   average_words_per_chapter_planned: 4500
-  completed_chapters: [1, 2, 3, 4, 5, 6, 7]
-  word_count_actual: 29488
+  completed_chapters: [1, 2, 3, 4, 5, 6, 7, 8]
+  word_count_actual: 32970
   length_gate: "pending"
   status: "drafting"
 
@@ -53,12 +53,12 @@ gates:
   editorial_package: "pending"
 
 decisions:
+  - "8 nov.: auteur keurt lengte ±54.000 woorden (±200 blz.) goed."
+  - "8 nov.: auteursnaam = anagram van Yannick Roosen: Coen O. Narinsky (alternatieven: Nina Crooksney, Sonny Ackerino)."
   - "8 nov.: lengtecontract bijgesteld van 55-70k naar 48-65k (doel ±54k). Reden: de hoofdstukken landen natuurlijk op 3.700-4.300 woorden; opvullen is verboden; ±54k woorden is ±200 bladzijden, wat de auteur zelf noemde. Aan de auteur voorgelegd."
   - "Vorm: roman (optie A), gekozen door de auteur op 8 nov."
   - "Invloeden: Dostojevski, Kafka, Camus; tragikomisch; sterke zinnen met dubbele bodem."
 open_questions:
-  - "Lengtecontract bijgesteld naar 48.000-65.000 (doel ±54.000, ±200 blz.): akkoord van de auteur gevraagd."
-  - "Naam op de titelpagina?"
 
 delivery:
   status: "pending"
