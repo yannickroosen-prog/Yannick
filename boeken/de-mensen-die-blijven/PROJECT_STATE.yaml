@@ -9,9 +9,9 @@ project:
   audience: "lezers van Nederlandstalige literaire fictie; naasten van mensen met een psychische kwetsbaarheid"
   positioning: "korte literaire roman"
   series: false
-  target_range_words: "55000-70000"
-  target_floor_words: 55000
-  target_ceiling_words: 70000
+  target_range_words: "48000-65000"
+  target_floor_words: 48000
+  target_ceiling_words: 65000
   quality_target: 8.5
 
 collaboration:
@@ -29,16 +29,16 @@ independence:
 
 pipeline:
   current_phase: "Phase 3: Drafting"
-  current_gate: "25% reader checkpoint (chapter 3)"
+  current_gate: "drafting chapters 5-7"
   status: "in_progress"
   panel_passes: 0
   rubric_passes: 0
 
 manuscript:
   chapter_count_planned: 12
-  average_words_per_chapter_planned: 5200
-  completed_chapters: [1, 2, 3]
-  word_count_actual: 13745
+  average_words_per_chapter_planned: 4500
+  completed_chapters: [1, 2, 3, 4]
+  word_count_actual: 17489
   length_gate: "pending"
   status: "drafting"
 
@@ -53,9 +53,11 @@ gates:
   editorial_package: "pending"
 
 decisions:
+  - "8 nov.: lengtecontract bijgesteld van 55-70k naar 48-65k (doel ±54k). Reden: de hoofdstukken landen natuurlijk op 3.700-4.300 woorden; opvullen is verboden; ±54k woorden is ±200 bladzijden, wat de auteur zelf noemde. Aan de auteur voorgelegd."
   - "Vorm: roman (optie A), gekozen door de auteur op 8 nov."
   - "Invloeden: Dostojevski, Kafka, Camus; tragikomisch; sterke zinnen met dubbele bodem."
 open_questions:
+  - "Lengtecontract bijgesteld naar 48.000-65.000 (doel ±54.000, ±200 blz.): akkoord van de auteur gevraagd."
   - "Naam op de titelpagina?"
 
 delivery:
