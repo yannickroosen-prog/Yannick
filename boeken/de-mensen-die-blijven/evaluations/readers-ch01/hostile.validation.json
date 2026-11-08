@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "source_chapters": [
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-01.md",
+      "sha256": "64caf2a57da4e9ef9d51c37890488a48a1dee5a36e4ec0640cef327cce333d48",
+      "bytes": 28455
+    }
+  ],
+  "report_sha256": "737c7d197846231b7788b946dd5385c71f2cff041e5e010da16c7947a2b1f312",
+  "errors": [],
+  "expected_reader": "Mark",
+  "catalog_sha256": "b2add41a77d6ca0252e3872892b47786f9a7bff6c5097929dcb0c171f2ad861e",
+  "resolved_evidence": [
+    {
+      "location": "stopped_at",
+      "passage_id": "c01p0058",
+      "chapter": 1,
+      "quote": "Ik moet de groene kaft uitleggen. Het is een ringmap van het merk Esselte, A4, met een rug van acht centimeter, oorspronkelijk groen, intussen ergens tussen groen en grijs, met tien gekleurde tabbladen. Op de rug staat in de hoofdletters van mijn vader: BRAM. In de kaft zit alles. Bankafschriften, attesten van de mutualiteit, beslissingen van de vrederechter, brieven van het OCMW, facturen van de huisarts, de huurovereenkomst van het appartement aan de Nekkerspoel, kopie\u00ebn van de identiteitskaart, een lijst met telefoonnummers van mensen van wie de helft al met pensioen is. Mijn vader is al tien jaar bewindvoerder van mijn broer. Dat wil zeggen: hij beheert zijn geld, betaalt zijn rekeningen, geeft hem elke week een vast bedrag en houdt bij wat er met de rest gebeurt. De vrederechter heeft dat ooit zo beslist, op vraag van mijn ouders, na een jaar waarin Bram in drie maanden zijn spaargeld had uitgegeven aan een tweedehands vleugelpiano die niet door de deur paste."
+    },
+    {
+      "location": "strongest_passage",
+      "passage_id": "c01p0030",
+      "chapter": 1,
+      "quote": "Ik heb die twee kaartjes besproken. Het duurde zes minuten. Ik heb ze besproken met mijn telefoon met het scherm naar beneden op tafel, en met de geur van koffie die van mijn broek opsteeg, en met in mijn hoofd een beeld van mijn vader die in de badkamer zijn tanden poetst terwijl zijn hart iets doet wat het nog nooit heeft gedaan. Ik heb gezegd dat de koppeling tegen vrijdag los moest zijn en dat ik het risico zou escaleren als dat niet lukte. Ik heb het goed gedaan. Ik heb er later vaak aan teruggedacht, aan die zes minuten. Ik denk niet dat ik er iets uit geleerd heb. Ik denk alleen dat ik weet dat ik het zou herhalen."
+    },
+    {
+      "location": "weakest_passage",
+      "passage_id": "c01p0117",
+      "chapter": 1,
+      "quote": "Ik bleef zitten. Ik keek naar het woord BRAM op de rug van de kaft. Ik dacht: natuurlijk. Wat een merkwaardig woord. Het betekent dat iets vanzelf spreekt, dat het uit de natuur komt, zoals regen of zwaartekracht. Het betekent dat er niets te kiezen valt. Ik heb het gezegd zoals je ademhaalt. Er is een soort trouw die niets anders is dan een gebrek aan verbeelding."
+    },
+    {
+      "location": "remember_tomorrow[0]",
+      "passage_id": "c01p0030",
+      "chapter": 1,
+      "quote": "Ik heb die twee kaartjes besproken. Het duurde zes minuten. Ik heb ze besproken met mijn telefoon met het scherm naar beneden op tafel, en met de geur van koffie die van mijn broek opsteeg, en met in mijn hoofd een beeld van mijn vader die in de badkamer zijn tanden poetst terwijl zijn hart iets doet wat het nog nooit heeft gedaan. Ik heb gezegd dat de koppeling tegen vrijdag los moest zijn en dat ik het risico zou escaleren als dat niet lukte. Ik heb het goed gedaan. Ik heb er later vaak aan teruggedacht, aan die zes minuten. Ik denk niet dat ik er iets uit geleerd heb. Ik denk alleen dat ik weet dat ik het zou herhalen."
+    },
+    {
+      "location": "remember_tomorrow[1]",
+      "passage_id": "c01p0017",
+      "chapter": 1,
+      "quote": "Ze zei dat het een infarct was geweest, 's nachts, om vier uur. Dat hij het zelf niet wilde geloven. Dat hij nog had gezegd dat het zijn maag was en dat hij eerst een Rennie wilde nemen. Dat ze uiteindelijk zelf de ambulance had gebeld terwijl hij in de badkamer zijn tanden poetste, want hij wilde niet met vuile tanden naar het ziekenhuis. Dat ze hem nu aan het opereren waren, of dat het al gedaan was, het was niet duidelijk, de dokter had heel snel gesproken en ze had haar bril niet bij."
+    },
+    {
+      "location": "remember_tomorrow[2]",
+      "passage_id": "c01p0166",
+      "chapter": 1,
+      "quote": "Er stond \u00e9\u00e9n antwoord onder, van een moderator. Het zei: *Beste Broerke_B, voor juridische vragen verwijzen wij u door naar de griffie van uw vredegerecht.*"
+    },
+    {
+      "location": "confused_by[0]",
+      "passage_id": "c01p0001",
+      "chapter": 1,
+      "quote": "Ik heb de moed niet laf te zijn."
+    },
+    {
+      "location": "confused_by[1]",
+      "passage_id": "c01p0117",
+      "chapter": 1,
+      "quote": "Ik bleef zitten. Ik keek naar het woord BRAM op de rug van de kaft. Ik dacht: natuurlijk. Wat een merkwaardig woord. Het betekent dat iets vanzelf spreekt, dat het uit de natuur komt, zoals regen of zwaartekracht. Het betekent dat er niets te kiezen valt. Ik heb het gezegd zoals je ademhaalt. Er is een soort trouw die niets anders is dan een gebrek aan verbeelding."
+    },
+    {
+      "location": "flags[0]",
+      "passage_id": "c01p0134",
+      "chapter": 1,
+      "quote": "Ik had haar om half tien een bericht gestuurd. *Papa in ziekenhuis, hartinfarct, stabiel, ik ga erheen.* Elf woorden. Ik had het verstuurd vanuit de lift. Ze had geantwoord met een hart en *bel me als ge iets nodig hebt*. Ik had haar niet gebeld. Ik had niets nodig gehad. Ik had een soep gehad."
+    },
+    {
+      "location": "flags[1]",
+      "passage_id": "c01p0149",
+      "chapter": 1,
+      "quote": "Ik had het kunnen zeggen. Het zou gemakkelijk zijn geweest, tussen de linzen en de choco. *Papa heeft gevraagd of ik het bewind van Bram wil overnemen. Ik heb ja gezegd.* Twee zinnen. Minder woorden dan het bericht uit de lift."
+    },
+    {
+      "location": "flags[2]",
+      "passage_id": "c01p0058",
+      "chapter": 1,
+      "quote": "Ik moet de groene kaft uitleggen. Het is een ringmap van het merk Esselte, A4, met een rug van acht centimeter, oorspronkelijk groen, intussen ergens tussen groen en grijs, met tien gekleurde tabbladen. Op de rug staat in de hoofdletters van mijn vader: BRAM. In de kaft zit alles. Bankafschriften, attesten van de mutualiteit, beslissingen van de vrederechter, brieven van het OCMW, facturen van de huisarts, de huurovereenkomst van het appartement aan de Nekkerspoel, kopie\u00ebn van de identiteitskaart, een lijst met telefoonnummers van mensen van wie de helft al met pensioen is. Mijn vader is al tien jaar bewindvoerder van mijn broer. Dat wil zeggen: hij beheert zijn geld, betaalt zijn rekeningen, geeft hem elke week een vast bedrag en houdt bij wat er met de rest gebeurt. De vrederechter heeft dat ooit zo beslist, op vraag van mijn ouders, na een jaar waarin Bram in drie maanden zijn spaargeld had uitgegeven aan een tweedehands vleugelpiano die niet door de deur paste."
+    },
+    {
+      "location": "flags[3]",
+      "passage_id": "c01p0164",
+      "chapter": 1,
+      "quote": "Toen Sanne naar boven was gegaan, bleef ik in de keuken. Ik deed het licht boven het fornuis aan en het grote licht uit. Ik ging aan tafel zitten. Ik nam mijn telefoon en opende de site van de vrederechter, en daarna de site van de FOD Justitie, en daarna een forum waarop mensen vragen stelden over bewindvoering, met gebruikersnamen als *Zorgmama63* en *Broerke_B*. Ik las een halfuur. Ik leerde dat een bewindvoerder verslag moet uitbrengen bij de vrederechter, elk jaar. Dat de beschermde persoon gehoord wordt. Dat er een vertrouwenspersoon kan zijn. Dat je je kunt laten bijstaan door een advocaat. Dat je een vergoeding krijgt, drie procent van de inkomsten, die bijna niemand in de familie neemt omdat het voelt alsof je je broer een factuur stuurt."
+    },
+    {
+      "location": "flags[4]",
+      "passage_id": "c01p0117",
+      "chapter": 1,
+      "quote": "Ik bleef zitten. Ik keek naar het woord BRAM op de rug van de kaft. Ik dacht: natuurlijk. Wat een merkwaardig woord. Het betekent dat iets vanzelf spreekt, dat het uit de natuur komt, zoals regen of zwaartekracht. Het betekent dat er niets te kiezen valt. Ik heb het gezegd zoals je ademhaalt. Er is een soort trouw die niets anders is dan een gebrek aan verbeelding."
+    },
+    {
+      "location": "flags[5]",
+      "passage_id": "c01p0082",
+      "chapter": 1,
+      "quote": "Mijn vader nam het boek aan. Hij legde het op de groene kaft. Hij keek ernaar. Een gele kaft op een groene kaft. Ik dacht: dat is hun hele huwelijk. Het was geen huwelijk, het waren een vader en een zoon, maar het is de eerste gedachte die ik had en ik heb niet de gewoonte mijn eerste gedachten te verbeteren."
+    },
+    {
+      "location": "flags[6]",
+      "passage_id": "c01p0001",
+      "chapter": 1,
+      "quote": "Ik heb de moed niet laf te zijn."
+    },
+    {
+      "location": "flags[7]",
+      "passage_id": "c01p0129",
+      "chapter": 1,
+      "quote": "Het is mogelijk dat ik mezelf spaarde."
+    },
+    {
+      "location": "machine_tells[0]",
+      "passage_id": "c01p0116",
+      "chapter": 1,
+      "quote": "Toen deed hij zijn ogen dicht. Niet omdat hij wilde slapen, denk ik, maar omdat het gesprek afgelopen was en zijn ogen niets meer te doen hadden."
+    },
+    {
+      "location": "machine_tells[1]",
+      "passage_id": "c01p0082",
+      "chapter": 1,
+      "quote": "Mijn vader nam het boek aan. Hij legde het op de groene kaft. Hij keek ernaar. Een gele kaft op een groene kaft. Ik dacht: dat is hun hele huwelijk. Het was geen huwelijk, het waren een vader en een zoon, maar het is de eerste gedachte die ik had en ik heb niet de gewoonte mijn eerste gedachten te verbeteren."
+    },
+    {
+      "location": "machine_tells[2]",
+      "passage_id": "c01p0066",
+      "chapter": 1,
+      "quote": "Ik ging op de stoel naast het bed zitten. Ik zette mijn soep op mijn knie. Ze was afgekoeld tot de temperatuur waarop soep geen soep meer is maar een vloeistof met een herinnering aan tomaat."
+    },
+    {
+      "location": "machine_tells[3]",
+      "passage_id": "c01p0024",
+      "chapter": 1,
+      "quote": "Dirk is mijn baas. Hij heeft drie kinderen met haar in de kleur van stro, en op zijn bureau staat een foto van hen vieren op een zeilboot, met zonnebrillen, alle vier lachend naar iets buiten beeld. Er is geen vrouw op de foto. Ik vermoed dat zij de foto heeft getrokken. Ik heb vaak gedacht dat dat het geheim van gelukkige gezinnen is: er is altijd iemand die de foto trekt en zelf niet op de foto staat."
+    },
+    {
+      "location": "machine_tells[4]",
+      "passage_id": "c01p0117",
+      "chapter": 1,
+      "quote": "Ik bleef zitten. Ik keek naar het woord BRAM op de rug van de kaft. Ik dacht: natuurlijk. Wat een merkwaardig woord. Het betekent dat iets vanzelf spreekt, dat het uit de natuur komt, zoals regen of zwaartekracht. Het betekent dat er niets te kiezen valt. Ik heb het gezegd zoals je ademhaalt. Er is een soort trouw die niets anders is dan een gebrek aan verbeelding."
+    },
+    {
+      "location": "machine_tells[5]",
+      "passage_id": "c01p0103",
+      "chapter": 1,
+      "quote": "Hij legde zijn hand op de groene kaft. Hij legde ze er niet op zoals je een hand op een boek legt. Hij legde ze erop zoals je een hand op een hond legt die je moet achterlaten in een asiel."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "source_chapters": [
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-01.md",
+      "sha256": "64caf2a57da4e9ef9d51c37890488a48a1dee5a36e4ec0640cef327cce333d48",
+      "bytes": 28455
+    }
+  ],
+  "report_sha256": "034afa83ba2243e21da7e64ae35547d9f52f19fcff31987aae2a8f4e5159ca4e",
+  "errors": [],
+  "expected_reader": "Airport reader",
+  "catalog_sha256": "b2add41a77d6ca0252e3872892b47786f9a7bff6c5097929dcb0c171f2ad861e",
+  "resolved_evidence": [
+    {
+      "location": "stopped_at",
+      "passage_id": "c01p0058",
+      "chapter": 1,
+      "quote": "Ik moet de groene kaft uitleggen. Het is een ringmap van het merk Esselte, A4, met een rug van acht centimeter, oorspronkelijk groen, intussen ergens tussen groen en grijs, met tien gekleurde tabbladen. Op de rug staat in de hoofdletters van mijn vader: BRAM. In de kaft zit alles. Bankafschriften, attesten van de mutualiteit, beslissingen van de vrederechter, brieven van het OCMW, facturen van de huisarts, de huurovereenkomst van het appartement aan de Nekkerspoel, kopie\u00ebn van de identiteitskaart, een lijst met telefoonnummers van mensen van wie de helft al met pensioen is. Mijn vader is al tien jaar bewindvoerder van mijn broer. Dat wil zeggen: hij beheert zijn geld, betaalt zijn rekeningen, geeft hem elke week een vast bedrag en houdt bij wat er met de rest gebeurt. De vrederechter heeft dat ooit zo beslist, op vraag van mijn ouders, na een jaar waarin Bram in drie maanden zijn spaargeld had uitgegeven aan een tweedehands vleugelpiano die niet door de deur paste."
+    },
+    {
+      "location": "strongest_passage",
+      "passage_id": "c01p0030",
+      "chapter": 1,
+      "quote": "Ik heb die twee kaartjes besproken. Het duurde zes minuten. Ik heb ze besproken met mijn telefoon met het scherm naar beneden op tafel, en met de geur van koffie die van mijn broek opsteeg, en met in mijn hoofd een beeld van mijn vader die in de badkamer zijn tanden poetst terwijl zijn hart iets doet wat het nog nooit heeft gedaan. Ik heb gezegd dat de koppeling tegen vrijdag los moest zijn en dat ik het risico zou escaleren als dat niet lukte. Ik heb het goed gedaan. Ik heb er later vaak aan teruggedacht, aan die zes minuten. Ik denk niet dat ik er iets uit geleerd heb. Ik denk alleen dat ik weet dat ik het zou herhalen."
+    },
+    {
+      "location": "weakest_passage",
+      "passage_id": "c01p0117",
+      "chapter": 1,
+      "quote": "Ik bleef zitten. Ik keek naar het woord BRAM op de rug van de kaft. Ik dacht: natuurlijk. Wat een merkwaardig woord. Het betekent dat iets vanzelf spreekt, dat het uit de natuur komt, zoals regen of zwaartekracht. Het betekent dat er niets te kiezen valt. Ik heb het gezegd zoals je ademhaalt. Er is een soort trouw die niets anders is dan een gebrek aan verbeelding."
+    },
+    {
+      "location": "remember_tomorrow[0]",
+      "passage_id": "c01p0030",
+      "chapter": 1,
+      "quote": "Ik heb die twee kaartjes besproken. Het duurde zes minuten. Ik heb ze besproken met mijn telefoon met het scherm naar beneden op tafel, en met de geur van koffie die van mijn broek opsteeg, en met in mijn hoofd een beeld van mijn vader die in de badkamer zijn tanden poetst terwijl zijn hart iets doet wat het nog nooit heeft gedaan. Ik heb gezegd dat de koppeling tegen vrijdag los moest zijn en dat ik het risico zou escaleren als dat niet lukte. Ik heb het goed gedaan. Ik heb er later vaak aan teruggedacht, aan die zes minuten. Ik denk niet dat ik er iets uit geleerd heb. Ik denk alleen dat ik weet dat ik het zou herhalen."
+    },
+    {
+      "location": "remember_tomorrow[1]",
+      "passage_id": "c01p0092",
+      "chapter": 1,
+      "quote": "Mijn vader keek naar de groene kaft. Ik keek naar de groene kaft. Mijn moeder keek naar de groene kaft. Bram stond in de deuropening met een mandarijn in zijn hand die hij aan het pellen was in \u00e9\u00e9n lange spiraal, zoals hij dat al kon toen hij acht was, en hij keek naar niemand."
+    },
+    {
+      "location": "remember_tomorrow[2]",
+      "passage_id": "c01p0166",
+      "chapter": 1,
+      "quote": "Er stond \u00e9\u00e9n antwoord onder, van een moderator. Het zei: *Beste Broerke_B, voor juridische vragen verwijzen wij u door naar de griffie van uw vredegerecht.*"
+    },
+    {
+      "location": "confused_by[0]",
+      "passage_id": "c01p0001",
+      "chapter": 1,
+      "quote": "Ik heb de moed niet laf te zijn."
+    },
+    {
+      "location": "confused_by[1]",
+      "passage_id": "c01p0124",
+      "chapter": 1,
+      "quote": "Ik had mijn vader in jaren geen \"merci\" horen zeggen tegen Bram. Ik heb het mijn vader in jaren geen \"merci\" horen zeggen tegen wie dan ook. Mijn vader bedankt mensen door hun rekeningen te betalen."
+    },
+    {
+      "location": "flags[0]",
+      "passage_id": "c01p0058",
+      "chapter": 1,
+      "quote": "Ik moet de groene kaft uitleggen. Het is een ringmap van het merk Esselte, A4, met een rug van acht centimeter, oorspronkelijk groen, intussen ergens tussen groen en grijs, met tien gekleurde tabbladen. Op de rug staat in de hoofdletters van mijn vader: BRAM. In de kaft zit alles. Bankafschriften, attesten van de mutualiteit, beslissingen van de vrederechter, brieven van het OCMW, facturen van de huisarts, de huurovereenkomst van het appartement aan de Nekkerspoel, kopie\u00ebn van de identiteitskaart, een lijst met telefoonnummers van mensen van wie de helft al met pensioen is. Mijn vader is al tien jaar bewindvoerder van mijn broer. Dat wil zeggen: hij beheert zijn geld, betaalt zijn rekeningen, geeft hem elke week een vast bedrag en houdt bij wat er met de rest gebeurt. De vrederechter heeft dat ooit zo beslist, op vraag van mijn ouders, na een jaar waarin Bram in drie maanden zijn spaargeld had uitgegeven aan een tweedehands vleugelpiano die niet door de deur paste."
+    },
+    {
+      "location": "flags[1]",
+      "passage_id": "c01p0109",
+      "chapter": 1,
+      "quote": "Ik heb sindsdien veel nagedacht over wat er gebeurde in de seconde tussen die vraag en mijn antwoord. Ik heb er in de daaropvolgende maanden zo vaak over nagedacht dat ik die seconde ben gaan zien als een kamer, met een deur aan de ene kant en een deur aan de andere kant, en ik ben in mijn gedachten honderden keren door die kamer gelopen om te zien of er nog een derde deur was die ik toen over het hoofd had gezien. Ik heb er nooit een gevonden. Ik weet niet of dat bewijst dat er geen was."
+    },
+    {
+      "location": "flags[2]",
+      "passage_id": "c01p0117",
+      "chapter": 1,
+      "quote": "Ik bleef zitten. Ik keek naar het woord BRAM op de rug van de kaft. Ik dacht: natuurlijk. Wat een merkwaardig woord. Het betekent dat iets vanzelf spreekt, dat het uit de natuur komt, zoals regen of zwaartekracht. Het betekent dat er niets te kiezen valt. Ik heb het gezegd zoals je ademhaalt. Er is een soort trouw die niets anders is dan een gebrek aan verbeelding."
+    },
+    {
+      "location": "flags[3]",
+      "passage_id": "c01p0164",
+      "chapter": 1,
+      "quote": "Toen Sanne naar boven was gegaan, bleef ik in de keuken. Ik deed het licht boven het fornuis aan en het grote licht uit. Ik ging aan tafel zitten. Ik nam mijn telefoon en opende de site van de vrederechter, en daarna de site van de FOD Justitie, en daarna een forum waarop mensen vragen stelden over bewindvoering, met gebruikersnamen als *Zorgmama63* en *Broerke_B*. Ik las een halfuur. Ik leerde dat een bewindvoerder verslag moet uitbrengen bij de vrederechter, elk jaar. Dat de beschermde persoon gehoord wordt. Dat er een vertrouwenspersoon kan zijn. Dat je je kunt laten bijstaan door een advocaat. Dat je een vergoeding krijgt, drie procent van de inkomsten, die bijna niemand in de familie neemt omdat het voelt alsof je je broer een factuur stuurt."
+    },
+    {
+      "location": "flags[4]",
+      "passage_id": "c01p0004",
+      "chapter": 1,
+      "quote": "Het deksel van de thermoskan zit vast met een stuk ijzerdraad dat ik er ooit omheen heb gedraaid. Ik weet niet meer wanneer. Het was een periode waarin ik veel dingen met ijzerdraad oploste: het hekje van de koer, het handvat van de vuilbak, een lamp in de badkamer waar ik beter niet aan had gezeten. Het draad houdt het deksel op zijn plaats. Het houdt de koffie niet binnen. Dat zijn twee verschillende functies, en ik had alleen aan de eerste gedacht."
+    },
+    {
+      "location": "machine_tells[0]",
+      "passage_id": "c01p0116",
+      "chapter": 1,
+      "quote": "Toen deed hij zijn ogen dicht. Niet omdat hij wilde slapen, denk ik, maar omdat het gesprek afgelopen was en zijn ogen niets meer te doen hadden."
+    },
+    {
+      "location": "machine_tells[1]",
+      "passage_id": "c01p0066",
+      "chapter": 1,
+      "quote": "Ik ging op de stoel naast het bed zitten. Ik zette mijn soep op mijn knie. Ze was afgekoeld tot de temperatuur waarop soep geen soep meer is maar een vloeistof met een herinnering aan tomaat."
+    },
+    {
+      "location": "machine_tells[2]",
+      "passage_id": "c01p0103",
+      "chapter": 1,
+      "quote": "Hij legde zijn hand op de groene kaft. Hij legde ze er niet op zoals je een hand op een boek legt. Hij legde ze erop zoals je een hand op een hond legt die je moet achterlaten in een asiel."
+    },
+    {
+      "location": "machine_tells[3]",
+      "passage_id": "c01p0146",
+      "chapter": 1,
+      "quote": "Ze knikte. Ze vroeg niets meer. Ze is gek op Bram. Ze is een van de weinige mensen die hem vanaf het begin heeft gezien zoals hij is, en niet zoals hij soms is. Ze heeft met hem over Pascal gepraat op ons eerste kerstfeest, drie uur lang, terwijl ik de afwas deed. Ze zegt dat hij de grappigste man is die ze kent. Ik heb dat altijd een compliment voor hem gevonden en nooit een opmerking over mij."
+    },
+    {
+      "location": "machine_tells[4]",
+      "passage_id": "c01p0109",
+      "chapter": 1,
+      "quote": "Ik heb sindsdien veel nagedacht over wat er gebeurde in de seconde tussen die vraag en mijn antwoord. Ik heb er in de daaropvolgende maanden zo vaak over nagedacht dat ik die seconde ben gaan zien als een kamer, met een deur aan de ene kant en een deur aan de andere kant, en ik ben in mijn gedachten honderden keren door die kamer gelopen om te zien of er nog een derde deur was die ik toen over het hoofd had gezien. Ik heb er nooit een gevonden. Ik weet niet of dat bewijst dat er geen was."
+    }
+  ]
+}
