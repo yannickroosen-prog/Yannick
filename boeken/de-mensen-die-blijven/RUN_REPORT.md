@@ -20,3 +20,5 @@
 - 2026-11-08: hfst. 10 "Augustus" aanvaard (3.608). Totaal 39843.
 - 2026-11-08: panel hfst. 10: 4/4 doorlezen; tickets T10-01 t/m T10-07.
 - 2026-11-08: hfst. 11 "September" (climax) aanvaard (3.239). Totaal 43075.
+- 2026-11-08: hfst. 12 "Oktober" poging 1 (3.645) zou het boek onder de vloer laten; poging 2 voegt de zondag in Bonheiden (zelfgebakken rozijnenbrood) en de sleuteloverdracht aan de huisbaas toe. Aanvaard: 4.509.
+- 2026-11-08: EERSTE VOLLEDIGE VERSIE KLAAR. 12 hoofdstukken, 47.573 woorden. Lengtegate: FLAG (0,9% onder de vloer van 48.000; binnen de 10%-marge). Volgende fase: Phase 4 (volledige audit), daarna Phase 5 (revisie, waar ook de tickets van de vier lezerspanels worden verwerkt).
