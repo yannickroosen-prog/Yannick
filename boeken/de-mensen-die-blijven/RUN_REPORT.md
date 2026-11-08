@@ -9,3 +9,4 @@
 - 2026-11-08: hfst. 3 "Januari" poging 1 (3.509) te kort, nooit aanvaard; poging 2 voegt de vaas van Ilse (Sanne) en een schaakpartij met Marc toe. Aanvaard: 4.341. Totaal 13.745 na 3 hoofdstukken. Lengte herplanning: de resterende 9 hoofdstukken moeten gemiddeld ±5.300 woorden halen voor het doel (62.000) en minstens ±4.600 voor de vloer (55.000). Schrijver plant voortaan meer scènes per hoofdstuk.
 - 2026-11-08: panel hfst. 3 (25%): 4/4 doorlezen; alle vier stopten bij het Claimflow-intermezzo (T3-01, hoog). Zie evaluations/panel-chapter-03.md.
 - 2026-11-08: hfst. 4 "Februari" aanvaard (3.753). Totaal 17.489 na 4 van 12. Lengtecontract bijgesteld naar 48.000-65.000 (doel ±54.000) i.p.v. opvullen; voorgelegd aan de auteur.
+- 2026-11-08: hfst. 5 "Maart" poging 1 (3.028) te kort, nooit aanvaard; poging 2 voegt de zondagslunch (konijn met pruimen) en het spraakbericht over Sisyphus toe. Aanvaard: 4.215.
