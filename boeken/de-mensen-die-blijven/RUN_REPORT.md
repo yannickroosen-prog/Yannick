@@ -16,3 +16,4 @@
 - 2026-11-08: panel hfst. 7 (50%): 4/4 doorlezen; tickets T7-01 t/m T7-06 (samenvatting en moraal vlak voor de climax; trucje 'Dat is niet waar.').
 - 2026-11-08: auteur: lengte ±54.000 goed; schuilnaam = anagram: Coen O. Narinsky.
 - 2026-11-08: hfst. 8 "Juni" poging 1 (2.546) te kort, nooit aanvaard; poging 2 voegt de overdracht van de groene kaft (en het treinticket naar De Panne) en de avond aan het raam van De Gouden Vis toe. Aanvaard: 3.490.
+- 2026-11-08: hfst. 9 "Juli" aanvaard (3.280).

@@ -37,8 +37,8 @@ pipeline:
 manuscript:
   chapter_count_planned: 12
   average_words_per_chapter_planned: 4500
-  completed_chapters: [1, 2, 3, 4, 5, 6, 7, 8]
-  word_count_actual: 32970
+  completed_chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+  word_count_actual: 36243
   length_gate: "pending"
   status: "drafting"
 
