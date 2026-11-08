@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "source_chapters": [
+    {
+      "path": "../../manuscript/chapters/chapter-10.md",
+      "sha256": "e166c7044bb7a7b35ab11bd2d2ef392ddded7fb3d035a4d85451d8961cb41dba",
+      "bytes": 19092
+    }
+  ],
+  "report_sha256": "b8d12fcff4d3810154d337d9ae55cf2399c83196cdadbc271b780b285fce12df",
+  "errors": [],
+  "expected_reader": "Airport reader",
+  "catalog_sha256": "1ef1e3a5b74e44e4f611fa018c79bf7a6ea59d47a17da1ebf7be01ce3d198d3b",
+  "resolved_evidence": [
+    {
+      "location": "stopped_at",
+      "passage_id": "c10p0011",
+      "chapter": 10,
+      "quote": "Ik had kunnen zeggen: met mijn broer. Ik had kunnen zeggen: mijn broer ligt sinds 15 juli in een psychiatrische afdeling, en in september moet ik naar de vrederechter, en mijn vriendin vraagt niet meer of ik een kind wil. Ik had het allemaal kunnen zeggen. Dirk zou het hebben begrepen. Dirk is geen slecht mens. Hij heeft drie kinderen met haar in de kleur van stro en een vrouw die de foto's trekt, en het is mogelijk dat er in zijn familie ook iemand is van wie hij op het werk nooit iets vertelt. Ik heb dat nooit gevraagd. Niemand vraagt dat."
+    },
+    {
+      "location": "strongest_passage",
+      "passage_id": "c10p0077",
+      "chapter": 10,
+      "quote": "Ik had een heerlijke middag gehad. Terwijl mijn telefoon op het aanrecht lag, met het scherm naar beneden. Terwijl mijn broer twee keer had gebeld vanuit een psychiatrische afdeling. Terwijl ik niet wist waarom. Ik had geslapen in de zon. Ik had slagroom genomen."
+    },
+    {
+      "location": "weakest_passage",
+      "passage_id": "c10p0091",
+      "chapter": 10,
+      "quote": "Hij stotterde. Ik keek naar hem. Ik dacht aan de mop. Ik dacht dat dit de man was die hem had verteld, en dat het lang had geduurd, en dat het het wachten waard was geweest."
+    },
+    {
+      "location": "remember_tomorrow[0]",
+      "passage_id": "c10p0062",
+      "chapter": 10,
+      "quote": "Om twaalf voor \u00e9\u00e9n trilde hij opnieuw. Ik draaide hem om. Met het scherm naar beneden, op het aanrecht, naast de broodplank. Hij trilde zes keer, en het geluid van een telefoon die met zijn scherm op een aanrecht ligt te trillen is een hard, dom geluid, als een insect dat tegen een raam vliegt."
+    },
+    {
+      "location": "remember_tomorrow[1]",
+      "passage_id": "c10p0085",
+      "chapter": 10,
+      "quote": "*Kleine. Het is Bram. Ik bel om u een mop te vertellen. Ik heb hem vanmorgen gehoord van een verpleger, die stottert, dus het duurde lang, maar het was het wachten waard. Een man komt bij de psychiater. Hij zegt: dokter, ik denk dat ik een hond ben. De psychiater zegt: sinds wanneer? En de man zegt: sinds ik een puppy was.* Er was een stilte, en dan zijn lach, lang, met zijn hoofd achterover, ik hoorde het aan de manier waarop het geluid van de telefoon wegdreef. *Sinds ik een puppy was, kleine. Ik vond hem heel goed. Ik ga hem u om vier uur nog eens vertellen, maar ik wilde niet dat ge hem van iemand anders hoorde. Tot straks.*"
+    },
+    {
+      "location": "remember_tomorrow[2]",
+      "passage_id": "c10p0129",
+      "chapter": 10,
+      "quote": "Hij liep de gang in, naar zijn kamer, traag, in zijn joggingbroek. Ik keek hem na. Ik bleef staan bij het tafeltje. De stukken stonden er nog, zoals we ze hadden achtergelaten. Zijn koning lag op zijn zij. Mijn toren stond op de achterste rij. Het blauwe dopje stond rechtop naast de gevallen koning, met zijn ribbels naar boven."
+    },
+    {
+      "location": "confused_by[0]",
+      "passage_id": "c10p0118",
+      "chapter": 10,
+      "quote": "Ik wist niet of hij me had laten winnen. Ik weet niet of ik het wilde weten. Ik dacht aan mijn vader, die twee keer zijn dame had gekregen en ze had genomen, en die niets had gezegd. Ik dacht aan Fons, die zei dat ik altijd iets beschermde wat al verloren was. Ik keek naar Brams handen. Ze lagen op tafel, aan weerszijden van het bord, heel stil. Ik kon er niets aan zien."
+    },
+    {
+      "location": "flags[0]",
+      "passage_id": "c10p0061",
+      "chapter": 10,
+      "quote": "Ik kan niet goed uitleggen waarom. Ik heb het later geprobeerd, voor mezelf, op mijn blocnote. Ik heb lijstjes gemaakt. *1. Ik zou hem om vier uur zien. 2. Hij lag op een afdeling, er waren mensen. 3. Ik had kaas in mijn mond.* Het zijn allemaal redenen. Geen ervan is de reden. De reden is dat ik niet wilde. Dat ik op een zaterdag in augustus, op een feestdag, in een stil huis, met een boterham in mijn hand, \u00e9\u00e9n keer niet wilde opnemen. Niet omdat ik iets anders te doen had. Omdat ik niets te doen had, en dat wilde houden."
+    },
+    {
+      "location": "flags[1]",
+      "passage_id": "c10p0091",
+      "chapter": 10,
+      "quote": "Hij stotterde. Ik keek naar hem. Ik dacht aan de mop. Ik dacht dat dit de man was die hem had verteld, en dat het lang had geduurd, en dat het het wachten waard was geweest."
+    },
+    {
+      "location": "flags[2]",
+      "passage_id": "c10p0016",
+      "chapter": 10,
+      "quote": "Mijn vader was twee keer bij Bram geweest. Hij reed er nu zelf naartoe, korte stukjes, de cardioloog vond het goed. Hij vertelde het aan tafel, tussen de kip en de appelmoes, met de stem waarmee hij vroeger vertelde wat er in de gemeenteraad was gebeurd."
+    },
+    {
+      "location": "flags[3]",
+      "passage_id": "c10p0112",
+      "chapter": 10,
+      "quote": "Ik keek naar Bram. Hij keek naar het bord. Ik zocht in zijn gezicht naar iets. Ik weet niet wat. Een glimlach die hij inhield. Een blik naar mij die zou zeggen: ik laat u. Ik vond niets. Hij keek naar het bord zoals Meursault naar de zee keek, met een soort aandachtige onverschilligheid."
+    },
+    {
+      "location": "machine_tells[0]",
+      "passage_id": "c10p0061",
+      "chapter": 10,
+      "quote": "Ik kan niet goed uitleggen waarom. Ik heb het later geprobeerd, voor mezelf, op mijn blocnote. Ik heb lijstjes gemaakt. *1. Ik zou hem om vier uur zien. 2. Hij lag op een afdeling, er waren mensen. 3. Ik had kaas in mijn mond.* Het zijn allemaal redenen. Geen ervan is de reden. De reden is dat ik niet wilde. Dat ik op een zaterdag in augustus, op een feestdag, in een stil huis, met een boterham in mijn hand, \u00e9\u00e9n keer niet wilde opnemen. Niet omdat ik iets anders te doen had. Omdat ik niets te doen had, en dat wilde houden."
+    },
+    {
+      "location": "machine_tells[1]",
+      "passage_id": "c10p0094",
+      "chapter": 10,
+      "quote": "Maar zijn ogen waren helder. Ze keken naar mij. Ze keken naar mij en niet naar iets achter mij."
+    },
+    {
+      "location": "machine_tells[2]",
+      "passage_id": "c10p0117",
+      "chapter": 10,
+      "quote": "Hij zei het zonder iets in zijn stem. Geen glimlach, geen verwijt, geen trots. Hij stelde het vast. Zoals mijn vader zegt dat de uitkering op de vijfde komt."
+    },
+    {
+      "location": "machine_tells[3]",
+      "passage_id": "c10p0091",
+      "chapter": 10,
+      "quote": "Hij stotterde. Ik keek naar hem. Ik dacht aan de mop. Ik dacht dat dit de man was die hem had verteld, en dat het lang had geduurd, en dat het het wachten waard was geweest."
+    },
+    {
+      "location": "machine_tells[4]",
+      "passage_id": "c10p0112",
+      "chapter": 10,
+      "quote": "Ik keek naar Bram. Hij keek naar het bord. Ik zocht in zijn gezicht naar iets. Ik weet niet wat. Een glimlach die hij inhield. Een blik naar mij die zou zeggen: ik laat u. Ik vond niets. Hij keek naar het bord zoals Meursault naar de zee keek, met een soort aandachtige onverschilligheid."
+    }
+  ]
+}

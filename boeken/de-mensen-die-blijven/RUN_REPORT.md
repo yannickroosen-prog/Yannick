@@ -18,3 +18,4 @@
 - 2026-11-08: hfst. 8 "Juni" poging 1 (2.546) te kort, nooit aanvaard; poging 2 voegt de overdracht van de groene kaft (en het treinticket naar De Panne) en de avond aan het raam van De Gouden Vis toe. Aanvaard: 3.490.
 - 2026-11-08: hfst. 9 "Juli" aanvaard (3.280).
 - 2026-11-08: hfst. 10 "Augustus" aanvaard (3.608). Totaal 39843.
+- 2026-11-08: panel hfst. 10: 4/4 doorlezen; tickets T10-01 t/m T10-07.

@@ -29,7 +29,7 @@ independence:
 
 pipeline:
   current_phase: "Phase 3: Drafting"
-  current_gate: "pre-finale reader checkpoint (chapter 10)"
+  current_gate: "drafting chapters 11-12"
   status: "in_progress"
   panel_passes: 0
   rubric_passes: 0
