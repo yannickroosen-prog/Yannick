@@ -1,0 +1,30 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "09cfdad8509b8ec08fccf6955e17cf3f402d51d67365507acc7b0f7a44cc4180",
+  "reader": "Airport reader",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0015"},
+  "why_stopped": {"reason": "Na Sanne en het rozijnenbrood komt nog een boodschap bij de huisbaas; de grote momenten zijn al geweest en dit voelt als afronden van papierwerk, ik begon te bladeren."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0016", "reason": "De kip die Wouter heet en niets legt omdat ze te veel nadenkt: grappig en raak, ik lachte hardop."},
+    {"passage_id": "A:p0009", "reason": "De thermoskan van zijn eigen honderdtwintig euro, drie weken geen Gouden Carolus. Klein cadeau, groot gebaar."},
+    {"passage_id": "B:p0008", "reason": "Wouter die de hamer moet neerleggen en de scheve paus niet mag rechtzetten: eindelijk zie ik hem iets niet doen, en het kost hem moeite."}
+  ],
+  "confused_by": [
+    {"passage_id": "A:p0016", "reason": "Na 'Ik heb de moed niet laf te zijn' legt A uit dat hij niet meer weet wat hij ermee bedoelde; dat haalde de kracht eruit en ik snapte niet waarom het daar stond."}
+  ],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "A:p0016"},
+    {"flag": "over_explained", "passage_id": "A:p0004"},
+    {"flag": "slow_start", "passage_id": "B:p0013"},
+    {"flag": "no_stakes", "passage_id": "B:p0015"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0005", "reason": "De doos die scheurt en Bram die twintig minuten op de trap blijft zitten: echte wrijving midden in een verhuis die anders te vlot loopt, en Wouter weet niet wat hij moet doen."},
+  "weakest_passage": {"passage_id": "A:p0016", "reason": "Het slot legt de mooie zin meteen uit met een vergelijking over oude telefoonnummers; ik wilde gewoon de eend en de droge broek."},
+  "machine_tells": [
+    {"tell": "uitleggende samenvatting na een sterke zin", "passage_id": "A:p0016"}
+  ],
+  "felt": {"emotion": "ontroering en een lach, daarna wat ongeduld", "reason": "De vader in de auto en de thermoskan raakten me; B gaf me met de trap, de hamer en de kip meer momenten waarop iets kon misgaan, A kabbelde meer."},
+  "confidence": "medium",
+  "compare": "B"
+}

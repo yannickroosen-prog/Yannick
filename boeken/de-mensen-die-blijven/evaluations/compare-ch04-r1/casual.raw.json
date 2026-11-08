@@ -1,0 +1,35 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "92cdbc62e3ac4b62a2b48a63bc1695c6e470153ca91f357207ce852930063e10",
+  "reader": "Airport reader",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0036"},
+  "why_stopped": {"reason": "De soepgrap werkte, en dan legt de verteller ze uit als 'de kern van ons gezin'; daar zakte mijn aandacht weg, want ik had het al begrepen."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0056", "reason": "Vijfenveertig mensen die tegelijk hun telefoon wegleggen: dat geluid hoor ik nog."},
+    {"passage_id": "A:p0115", "reason": "De gezamenlijke uitroep over de zak met het gat is een slotgrap die de sleutelnacht in één regel terugbrengt."},
+    {"passage_id": "A:p0072", "reason": "Brams zin over hoe zwaar het is de reden van iemand te zijn slaat hard in midden in een feestspeech."}
+  ],
+  "confused_by": [
+    {"passage_id": "A:p0064", "reason": "Wat is de groene kaft waar vader zijn hand op legde? Dat ken ik niet uit wat ik gelezen heb."},
+    {"passage_id": "A:p0028", "reason": "Wie Dirk is en waarom die foto de verteller zo raakt, wordt niet duidelijk."}
+  ],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "B:p0036"},
+    {"flag": "over_explained", "passage_id": "B:p0049"},
+    {"flag": "over_explained", "passage_id": "B:p0095"},
+    {"flag": "over_explained", "passage_id": "A:p0025"},
+    {"flag": "confusing", "passage_id": "A:p0064"},
+    {"flag": "over_explained", "passage_id": "A:p0076"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0039", "reason": "De parking met de autosleutel in de hand en Sanne die alleen vasthoudt: echte spanning, kort en zonder uitleg."},
+  "weakest_passage": {"passage_id": "B:p0036", "reason": "Een mooie kleine observatie wordt dichtgetimmerd met een moraal over het gezin."},
+  "machine_tells": [
+    {"tell": "explaining the metaphor", "passage_id": "B:p0036"},
+    {"tell": "balanced either/or reflection", "passage_id": "B:p0049"},
+    {"tell": "aphoristic closing line", "passage_id": "B:p0095"}
+  ],
+  "felt": {"emotion": "spanning en daarna ontroering", "reason": "Het wachten op Bram trok me mee, en de speech en de taart in de verkeerde zak raakten me echt."},
+  "confidence": "medium",
+  "compare": "A"
+}

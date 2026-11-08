@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "chapter": 6,
+  "decision": "promote",
+  "accepted_sha256": "9cba84024cf38c53da167ed323f65d5e2dcdb8d135b9291b5af8c46f97307f72",
+  "candidate_sha256": "57bc6ec9f107036814fe16c351b67af5907d2770b23757a38b07412de79c6670",
+  "votes": [
+    {
+      "reader": "Lena",
+      "prefers": "revision",
+      "turn_page": "yes",
+      "compare": "A",
+      "report": "/home/user/Yannick/boeken/de-mensen-die-blijven/evaluations/compare-ch06-r1/primary.raw.json",
+      "report_sha256": "eaf946c95884b19a5be3cf724fe4947758454dc9bc4bd8f1b10d9e9470cd3940",
+      "validation": "/home/user/Yannick/boeken/de-mensen-die-blijven/evaluations/compare-ch06-r1/primary.validation.json",
+      "validation_sha256": "660d6c9c0e7ef1e53cb82f9305f4c577f1e0d08461d948d0c5adc76bbefc90f6"
+    },
+    {
+      "reader": "Mark",
+      "prefers": "revision",
+      "turn_page": "yes",
+      "compare": "B",
+      "report": "/home/user/Yannick/boeken/de-mensen-die-blijven/evaluations/compare-ch06-r1/hostile.raw.json",
+      "report_sha256": "c2c02f30476998fddc47f1a080c5d7c4f8e971f60b89f134fa83e94db7002771",
+      "validation": "/home/user/Yannick/boeken/de-mensen-die-blijven/evaluations/compare-ch06-r1/hostile.validation.json",
+      "validation_sha256": "46a81d79dc64c048c8f4dc433f766ba3fc8614d365fdf7815109669fafa4a76b"
+    },
+    {
+      "reader": "Priya",
+      "prefers": "revision",
+      "turn_page": "yes",
+      "compare": "B",
+      "report": "/home/user/Yannick/boeken/de-mensen-die-blijven/evaluations/compare-ch06-r1/adjacent.raw.json",
+      "report_sha256": "156dc9ad1f9ef0545ce4134cfcd7df62e0a0ff9999fe1d44ea3dd41dd56e3975",
+      "validation": "/home/user/Yannick/boeken/de-mensen-die-blijven/evaluations/compare-ch06-r1/adjacent.validation.json",
+      "validation_sha256": "4052af8ed0f117ff4b927dcec02aea45db38f5f9df37aeb61dfe2a65870c114b"
+    },
+    {
+      "reader": "Airport reader",
+      "prefers": "revision",
+      "turn_page": "yes",
+      "compare": "A",
+      "report": "/home/user/Yannick/boeken/de-mensen-die-blijven/evaluations/compare-ch06-r1/casual.raw.json",
+      "report_sha256": "7aa4e3db732598c0585ac10746ae603211c34e29fadf306ac59f5167cbef9f6c",
+      "validation": "/home/user/Yannick/boeken/de-mensen-die-blijven/evaluations/compare-ch06-r1/casual.validation.json",
+      "validation_sha256": "944ad7ecd2c4ea1b6b8946fabd89b711e826ed5acb7327c106d6c25bbeb0c7f3"
+    }
+  ],
+  "revision_votes": 4,
+  "accepted_votes": 0,
+  "neutral_votes": 0,
+  "reason": "at_least_3_of_4_revision",
+  "manifest_sha256": "15f2e3527252e24a7bca2a8a38fd078f12a61f2335c62549e648c8e0f762c821",
+  "index_sha256": "75761c3cb444b68627f5f4a6f96392717676d66c3a529a8ada39170d81c05cd3"
+}

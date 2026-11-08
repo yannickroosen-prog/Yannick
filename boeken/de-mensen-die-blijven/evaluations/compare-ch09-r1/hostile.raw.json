@@ -1,0 +1,38 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "733670a449d80442c27eba44a5cdde72cb86e48c2ce043343be9569e69521d74",
+  "reader": "Mark",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0028"},
+  "why_stopped": {"reason": "Portugal ligt een uur achter op België, dus om tien voor één in Lagos is het tien voor twee in België, niet tien voor twaalf; samen met '+1 uur' op het lijstje en 'tien over twaalf' na het gesprek klopt de klok in B niet meer en verlies ik vertrouwen in de verteller die alles zo precies noteert."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0045", "reason": "De moeder die toegeeft dat ze doorsliep omdat haar zoon opgenomen is: een schuldige opluchting die ik geloof."},
+    {"passage_id": "A:p0082", "reason": "Hij had de vlucht al niet geboekt voor Karim belde; de toestemming komt na de beslissing, en dat is eerlijk gezien."},
+    {"passage_id": "A:p0115", "reason": "Het ongelezen bericht van Bram is een einde dat blijft schuren."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0002", "reason": "Portugal staat als '+1 uur' genoteerd terwijl de tekst zelf even later kwart over zeven Belgisch gelijkstelt aan kwart over zes Portugees."},
+    {"passage_id": "B:p0053", "reason": "Tien over twaalf in België klopt niet met een lunch om tien voor één in Lagos."},
+    {"passage_id": "A:p0089", "reason": "Het hotel in Blankenberge en de winter zeggen me hier niets; de verwijzing hangt in de lucht."}
+  ],
+  "flags": [
+    {"flag": "continuity_doubt", "passage_id": "B:p0002"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0028"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0053"},
+    {"flag": "over_explained", "passage_id": "B:p0088"},
+    {"flag": "over_explained", "passage_id": "B:p0085"},
+    {"flag": "exposition_dump", "passage_id": "A:p0021"},
+    {"flag": "over_explained", "passage_id": "A:p0022"},
+    {"flag": "cliche", "passage_id": "A:p0116"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0047", "reason": "Hij hoort zijn moeder horen wat ze zei; het kopje-beeld maakt de schuld concreet zonder het te benoemen."},
+  "weakest_passage": {"passage_id": "B:p0088", "reason": "B legt de parallel met de moeder uit die de lezer al zelf had gelegd, en sluit zo de vraag die A open laat."},
+  "machine_tells": [
+    {"tell": "thematische samenvatting van een bekend boek als spiegel voor het verhaal", "passage_id": "A:p0022"},
+    {"tell": "nadrukkelijke symbolische beschrijving (bagageband die blijft ronddraaien)", "passage_id": "A:p0116"},
+    {"tell": "zelfbewuste verteller-aankondiging", "passage_id": "B:p0085"}
+  ],
+  "felt": {"emotion": "ongemak en herkenning", "reason": "De opluchting van de moeder en Wouters eigen geluk raakten me; in B werd dat gevoel weggeduwd door de rekenfouten en de uitleg."},
+  "confidence": "medium",
+  "compare": "A"
+}

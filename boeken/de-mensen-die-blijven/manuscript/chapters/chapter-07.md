@@ -56,7 +56,7 @@ Het werd stil. Ilse keek naar Bram. Bram keek naar mij. Hij keek met die blik va
 
 "Ik vraag gewoon..."
 
-"Natuurlijk vraagt ge naar het geld. Ge zijt bijna mijn bewindvoerder." Hij zei het zonder bitterheid. Hij zei het zoals je vaststelt dat de pasta te gaar is. "Het is minder dan hier. Er zit een premie bij van het Vlaams Agentschap. Het staat op bladzijde drie. Onderaan. In het klein. Ik weet dat gij het kleine leest."
+"Natuurlijk vraagt ge naar het geld. Ge zijt bijna mijn bewindvoerder." Hij zei het zonder bitterheid. "Het is minder dan hier. Er zit een premie bij van het Vlaams Agentschap. Het staat op bladzijde drie. Onderaan. In het klein. Ik weet dat gij het kleine leest."
 
 Ik nam de folder van Sanne en sloeg bladzijde drie op. Onderaan, in het klein, stond een bedrag. Het was minder dan de huur aan de Nekkerspoel.
 
@@ -116,7 +116,7 @@ Ze lachte. Ze lachte zoals mensen hier lachen, denk ik, met de wind in hun mond.
 
 Ik zei dat ik moest gaan. Ik zei dat het vriendelijk was. Ik stond nog even aan het hek terwijl ze haar fiets tegen de muur zette, naast de andere, en naar binnen ging door de groene deur, en ik hoorde haar binnen iets roepen, een naam, en iemand die lachte.
 
-Ik ben in de auto gestapt en weggereden. Ik keek niet in de achteruitkijkspiegel. Dat is niet waar. Ik keek twee keer. Ik zag de kippen. Ik zag het hek, dat open bleef staan in de wind.
+Ik ben in de auto gestapt en weggereden. Ik keek twee keer in de achteruitkijkspiegel. Ik zag de kippen. Ik zag het hek, dat open bleef staan in de wind.
 
 Op de E40, ter hoogte van Gent, moest ik stoppen op een parking. Ik weet niet waarom. Ik zat tien minuten in de auto naast een vrachtwagen uit Litouwen. Ik huilde niet. Ik zat alleen. Toen reed ik verder en ging naar de Brico en kocht een kraan.
 
@@ -198,7 +198,7 @@ Sanne was bij Lotte. Mats moest in bad.
 
 Het duurde drie uur.
 
-Ik ga niet alles vertellen. Het zou te lang zijn, en het zou niet waar zijn, want ik zou het vertellen alsof er een lijn in zat, en er zat geen lijn in. Het was een gesprek dat rondjes draaide, zoals de kippen in de wind, en elke keer als het ergens leek aan te komen, draaide het weer om.
+Het was een gesprek dat rondjes draaide, zoals de kippen in de wind.
 
 Mijn vader zei dat het te ver was. Hij zei het zeven keer, ik heb ze geteld. Hij zei het niet als argument. Hij zei het als feit, zoals je zegt dat de uitkering op de vijfde komt. Hij zei dat er geen trein was, alleen een bus, twee keer per dag. Hij zei dat hij niet meer mocht rijden van de cardioloog, niet zo ver. Hij zei: "Wie gaat er zijn papieren..." en maakte de zin niet af, en legde zijn hand op de kaft.
 
@@ -208,7 +208,37 @@ Karim zei dat het Brams keuze was. Hij zei het rustig, met een stem die over de 
 
 Bram zei weinig. Hij luisterde. Hij zat heel recht op zijn stoel, in een hemd dat hij voor de gelegenheid had gestreken, of had laten strijken door Ilse, en hij keek naar wie er praatte. Na anderhalf uur zei hij één zin. Hij zei: "Ik ben tweeënveertig." Daarna zei hij een uur niets.
 
-Iedereen had gelijk. Dat is het vreemde. Ik zat daar en ik luisterde en ik vond dat iedereen gelijk had. Het was te ver. Het was schoon. Het was zijn keuze. Hij was tweeënveertig. Er was niets wat niet waar was. En toch zat er aan die tafel niemand die kreeg wat hij nodig had, en ik denk dat iedereen dat voelde, behalve misschien Karim, die het al te vaak had gevoeld om het nog op te merken.
+Iedereen had gelijk. Niemand kreeg wat hij nodig had.
+
+Om half vier, bij de tweede koffie, zei mijn vader het voor de zesde keer: "Het is ver."
+
+"Hoe ver is ver, vader?" vroeg Bram.
+
+Mijn vader keek op. Bram had hem in jaren niet rechtstreeks een vraag gesteld aan tafel.
+
+"Honderdtwintig kilometer."
+
+"Van wat?"
+
+"Van hier."
+
+"Ik woon niet hier," zei Bram. "Ik woon aan de Nekkerspoel. Ge komt daar twee keer per jaar. Met de vol-au-vent. En de kaft."
+
+Mijn moeder legde haar hand op zijn arm. Hij trok hem niet weg. Hij liet hem liggen en keek naar mijn vader.
+
+"Het is ver van de kaft," zei Bram. "Dat bedoelt ge."
+
+Mijn vader zei niets. Hij legde zijn hand weer op de groene kaft naast zijn bord. Karim nam zijn appel op en legde hem weer neer.
+
+"Ik bedoel dat ge ziek wordt," zei mijn vader ten slotte. Heel stil. "En dat er dan niemand is. Op honderdtwintig kilometer."
+
+"Ilse is er."
+
+"Ilse is geen familie."
+
+Het werd stil aan tafel. Bram keek naar zijn handen.
+
+"Nog niet," zei hij.
 
 Ik zei niets. Drie uur lang zei ik bijna niets. Ik zei "ja" en "hm" en "ik weet het niet". Ik keek naar mijn bord. Ik at het konijn op en de pruimen, en mijn moeder schepte nog op, en ik at dat ook op. Ik dacht aan het hek in de polders. Ik dacht aan de kippen met hun koppen tegen de wind. Ik dacht aan Marleen, die vroeg of ik familie was. Ik dacht aan *nog niet*.
 
@@ -216,7 +246,7 @@ Om vijf over vier zei mijn vader, voor de achtste keer: "Het is ver."
 
 En toen zei ik het.
 
-Ik weet niet waar het vandaan kwam. Dat is niet waar. Ik weet precies waar het vandaan kwam. Het kwam van de trap van het vredegerecht, en van de envelop met veertien tijdstippen, en van de spreadsheet die nooit rood werd, en van de voering van een jas. Het kwam van twintig jaar. Het had daar gestaan, achter mijn tanden, zoals ik het in april op de trap had gevoeld, en het had gewacht. Het had geduld gehad, zoals enveloppen.
+Het had twintig jaar achter mijn tanden gestaan. Het had geduld gehad, zoals enveloppen.
 
 "Ge kunt niet eens een sleutel bijhouden," zei ik tegen Bram, "en ge gaat in de polders wonen."
 
@@ -228,7 +258,7 @@ Het was een stilte die ik niet kende. Ik heb in mijn leven veel stiltes gehoord 
 
 Deze was van mij.
 
-Mijn moeder keek naar haar bord. Mijn vader keek naar mij. Hij keek naar mij met een blik die ik nog nooit van hem had gezien, en ik kan hem nog altijd niet benoemen. Het was geen boosheid. Het was iets wat leek op herkenning, alsof hij in mijn gezicht iets zag wat hij kende uit een spiegel.
+Mijn moeder keek naar haar bord. Mijn vader keek naar mij. Hij keek naar mij met een blik die ik nog nooit van hem had gezien, en ik kan hem nog altijd niet benoemen. Het leek op herkenning, alsof hij in mijn gezicht iets zag wat hij kende uit een spiegel.
 
 Karim had zijn appel naar zijn mond gebracht. Hij had er een beet in genomen. Hij stopte met kauwen. Ik zag het, aan de overkant van de tafel: zijn kaken die stilvielen, met het stuk appel nog in zijn mond.
 
@@ -238,10 +268,10 @@ Hij zei niets.
 
 Hij stond op. Hij nam zijn bord en dat van mijn moeder en dat van mijn vader. Hij stapelde ze op elkaar, heel voorzichtig, met de vorken ertussen, zoals mijn moeder het hem had geleerd toen hij zes was. Hij nam de kopjes, die nog half vol waren met koude koffie uit de espressomachine. Hij liep naar het aanrecht. Hij spoelde de kopjes om onder de kraan, een voor een. Hij deed de vaatwas open.
 
-We keken allemaal naar hem. Niemand zei iets. Mijn moeder had haar hand voor haar mond. Ik zag haar trouwring, die ze sinds 1979 draagt en die ze niet meer af krijgt.
+We keken allemaal naar hem. Niemand zei iets. Mijn moeder had haar hand voor haar mond. Ik zag haar trouwring, die ze niet meer af krijgt.
 
 Bram zette de borden in de vaatwas, in het onderste rek, rechtop, in de gleufjes. Hij zette de kopjes in het bovenste rek, ondersteboven. Hij zette de vorken in het mandje, met de tanden naar beneden. Hij deed het zorgvuldig, zonder te haasten. Hij nam het blokje vaatwasmiddel uit de kast onder het aanrecht, waar het al dertig jaar staat, en pelde het uit zijn plastic en legde het in het bakje en klapte het bakje dicht. Hij deed de deur van de vaatwas dicht. Hij drukte op een knop.
 
 Toen bleef hij staan, met zijn rug naar ons, met zijn handen op het aanrecht.
 
-De vaatwas begon. Eerst een klik. Dan het geluid van water dat binnenstroomt, een ruisen, zoals de zee in een schelp, zoals het geluid van een vaart waar iets in valt, en dan het lage, regelmatige brommen van de pomp, dat de hele keuken vulde.
+De vaatwas begon. Eerst een klik. Dan het geluid van water dat binnenstroomt, een ruisen, en dan het lage, regelmatige brommen van de pomp, dat de hele keuken vulde.

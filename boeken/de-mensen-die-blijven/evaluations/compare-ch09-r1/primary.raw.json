@@ -1,0 +1,32 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "38cae1a15c6354742f427ed8ad619b084bc76bdf13b535940575d51a53949d94",
+  "reader": "Lena",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0021"},
+  "why_stopped": {"reason": "De samenvatting van De vreemdeling voelt even als een leesverslag; ik las sneller tot het telefoontje van de moeder me terugtrok."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0045", "reason": "De moeder die bekent dat ze heeft doorgeslapen en dan schrikt van haar eigen zin; dat is de kern van het hele boek."},
+    {"passage_id": "B:p0074", "reason": "Bram die via Karim vraagt dat de kleine voor een keer ergens blijft waar hij niet is: liefdevol en pijnlijk tegelijk."},
+    {"passage_id": "B:p0117", "reason": "Het ongelezen bericht in de broekzak bij de bagageband laat me met spanning achter."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0089", "reason": "De laatste dag met de keramieken sardine staat voor de voorlaatste avond, en het hotel in Blankenberge zegt me niets."},
+    {"passage_id": "A:p0028", "reason": "In A belt de moeder om tien voor twaalf Belgische tijd terwijl het in Portugal tien voor één is; dat klopt niet met het uur verschil dat eerder correct staat."}
+  ],
+  "flags": [
+    {"flag": "continuity_doubt", "passage_id": "B:p0089"},
+    {"flag": "continuity_doubt", "passage_id": "A:p0028"},
+    {"flag": "continuity_doubt", "passage_id": "A:p0002"},
+    {"flag": "over_explained", "passage_id": "A:p0088"},
+    {"flag": "over_explained", "passage_id": "A:p0085"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0047", "reason": "Ik hoorde haar horen wat ze had gezegd: het beeld van het gevallen kopje maakt de schaamte van de moeder voelbaar zonder ze te benoemen."},
+  "weakest_passage": {"passage_id": "B:p0089", "reason": "Mooie details, maar de scène staat chronologisch verkeerd en verwijst naar iets wat ik niet ken, waardoor ik even uit het verhaal viel."},
+  "machine_tells": [
+    {"tell": "uitleg van de eigen emotie in opeenvolgende ik-denk-zinnen", "passage_id": "A:p0088"}
+  ],
+  "felt": {"emotion": "ontroering en een stille schuld", "reason": "Het geluk van Wouter en zijn moeder terwijl Bram opgenomen is, raakte me; B laat dat geluk ongemakkelijk staan, A legt het te veel uit."},
+  "confidence": "medium",
+  "compare": "B"
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "0af31695934bf9ce9e1a437ad8a79c192b4daef6f9f1908cb78d486dbea3eeab",
+  "reader": "Lena",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0015"},
+  "why_stopped": {"reason": "Na de verhuis, Sanne en het rozijnenbrood voelde de huisbaas met zijn formulier als een extra ronde afscheid; ik las door, maar mijn aandacht zakte daar voor het eerst."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0005", "reason": "Bram die twintig minuten op de trap zit tussen de gevallen boeken en Ilse die ze zwijgend oppakt; ik zag het voor me en begreep zonder uitleg hoeveel die verhuis kost."},
+    {"passage_id": "A:p0008", "reason": "De spijker tussen de lippen en 'Leg die hamer neer'; het moeilijkste wat hij die dag deed was niets rechtzetten. Dat bleef hangen."},
+    {"passage_id": "A:p0009", "reason": "De thermoskan in de doos DIVERSEN; warm, grappig en meteen een beloning voor alles wat eerder in het boek lekte."},
+    {"passage_id": "A:p0016", "reason": "De kip met de witte vlek die Wouter heet en te veel nadenkt; ik lachte hardop."}
+  ],
+  "confused_by": [],
+  "flags": [
+    {"flag": "slow_start", "passage_id": "A:p0003"},
+    {"flag": "no_stakes", "passage_id": "A:p0015"},
+    {"flag": "over_explained", "passage_id": "B:p0004"},
+    {"flag": "over_explained", "passage_id": "B:p0016"},
+    {"flag": "over_explained", "passage_id": "B:p0011"},
+    {"flag": "no_stakes", "passage_id": "B:p0015"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0004", "reason": "De vader die alleen 'Het was een vergissing' zegt en dan zijn hand drie seconden op de arm legt; de korte zin liet mij de rest zelf voelen, en dat raakte harder dan elke uitleg."},
+  "weakest_passage": {"passage_id": "B:p0016", "reason": "Na 'Ik heb de moed niet laf te zijn' gaat B uitleggen dat hij niet meer weet wat hij bedoelde; dat haalde de lucht uit een sterk slot, terwijl A gewoon naar de droge broek springt."},
+  "machine_tells": [],
+  "felt": {"emotion": "ontroering en opluchting, met een glimlach", "reason": "De thermoskan, de hamer en de kip gaven me warmte zonder dat iemand zei wat ik moest voelen; in B werd het me vaker voorgezegd, vooral door de vader en in het slot."},
+  "confidence": "medium",
+  "compare": "A"
+}

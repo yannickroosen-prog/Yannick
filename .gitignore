@@ -36,3 +36,4 @@ next-env.d.ts
 # training (offline, niet meebundelen)
 /training/node_modules/
 __pycache__/
+*.holder-*.tmp

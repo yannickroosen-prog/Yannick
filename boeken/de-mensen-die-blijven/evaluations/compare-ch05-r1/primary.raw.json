@@ -1,0 +1,27 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "296a5ea4ae6744a18161b656a997dbb07e0f22d25d94ca76b12aad26b89b7afe",
+  "reader": "Lena",
+  "turn_page": "yes",
+  "stopped_at": null,
+  "why_stopped": null,
+  "remember_tomorrow": [
+    {"passage_id": "A:p0003", "reason": "Kijk naar uw handen: Bram ziet in één zin wat Wouter zichzelf niet toegeeft, en dat beeld van de handen loopt door tot bij de moeder."},
+    {"passage_id": "A:p0005", "reason": "De gedachte om het weekgeld als drukmiddel te gebruiken is lelijk en eerlijk; het toren-beeld en 'Ik heb ze nog twee keer gehad' blijven hangen."},
+    {"passage_id": "A:p0015", "reason": "Het gewiste 'Hebt ge gegeten?' is een stil, raak einde: hij wordt zijn moeder en stopt net op tijd."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0010", "reason": "De zin 'Ik had om vijf voor zeven een signaal had gezien, en dat ik daar al een plan bij had gemaakt' is grammaticaal kapot en het gevoel van opluchting, schaamte en teleurstelling ontbreekt, waardoor de pointe over gelijk hebben over een ramp uit de lucht valt."}
+  ],
+  "flags": [
+    {"flag": "confusing", "passage_id": "B:p0010"},
+    {"flag": "emotion_missed", "passage_id": "B:p0010"},
+    {"flag": "over_explained", "passage_id": "A:p0013"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0006", "reason": "De doos die hij een half uur steeds dikker tekent tot het papier scheurt toont zijn angst zonder hem te benoemen, en Bram die het opmerkt maakt het pijnlijk."},
+  "weakest_passage": {"passage_id": "B:p0010", "reason": "Op het moment dat Karims geruststelling binnenkomt, struikelt de tekst over een kapotte zin en mist de stap van opluchting naar teleurstelling die de scène draagt."},
+  "machine_tells": [],
+  "felt": {"emotion": "beklemming en ontroering", "reason": "Ik wachtte de hele tijd op het moment dat het misloopt met Bram, en de kraamkamer met Mats deed pijn omdat Wouter zo duidelijk niet aanwezig is."},
+  "confidence": "high",
+  "compare": "A"
+}

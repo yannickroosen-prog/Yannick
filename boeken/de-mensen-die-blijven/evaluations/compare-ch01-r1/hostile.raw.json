@@ -1,0 +1,32 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "86c62eeec6b2f48209d6d22e9b7c9e7a44173e48bd94896639579843c3a41d07",
+  "reader": "Mark",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0007"},
+  "why_stopped": {"reason": "'Ik moet de groene kaft uitleggen' kondigt een inventaris aan (merk, rugbreedte, elk document) en mijn aandacht zakte daar even weg, al las ik door."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0004", "reason": "De zes minuten kaartjes bespreken terwijl zijn vader op cardiologie ligt: de hele man in één keuze, zonder uitleg."},
+    {"passage_id": "B:p0014", "reason": "'Het is mogelijk dat ik mezelf spaarde.' Een eerlijke oorzaak voor het zwijgen, niet een opgelegde."},
+    {"passage_id": "B:p0018", "reason": "Het forumbericht van Broerke_B en het nutteloze moderatorantwoord zetten de prijs van het ja concreet neer."}
+  ],
+  "confused_by": [
+    {"passage_id": "A:p0012", "reason": "In A volgt 'Ik weet niet of ik dat toen al dacht' op bijna niets; er is geen gedachte waarnaar 'dat' verwijst, dus de terugblik hangt los."},
+    {"passage_id": "A:p0006", "reason": "Elf jaar boekhoudkantoor plus twintig jaar stad bij een man van tweeënzeventig laat een gat van jaren dat niet verklaard wordt."}
+  ],
+  "flags": [
+    {"flag": "exposition_dump", "passage_id": "B:p0007"},
+    {"flag": "over_explained", "passage_id": "B:p0011"},
+    {"flag": "continuity_doubt", "passage_id": "A:p0012"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0009"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0012", "reason": "De uitweiding over 'natuurlijk' en 'een soort trouw die niets anders is dan een gebrek aan verbeelding' geeft het ja een motief, en maakt de twijfel in de volgende alinea logisch."},
+  "weakest_passage": {"passage_id": "B:p0007", "reason": "De opsomming van de mapinhoud is een catalogus die de scène stilzet; alleen de laatste zin over de vleugelpiano draagt."},
+  "machine_tells": [
+    {"tell": "negatie-dan-correctie ('niet zoals je een hand op een boek legt')", "passage_id": "B:p0011"},
+    {"tell": "herhaalde drieslag 'keek naar de groene kaft'", "passage_id": "A:p0010"}
+  ],
+  "felt": {"emotion": "ongemak, wrange herkenning", "reason": "Het ja komt te snel en te gewillig, en ik voelde dat Bram buiten een beslissing over zijn eigen leven staat; dat schuurde echt."},
+  "confidence": "medium",
+  "compare": "B"
+}

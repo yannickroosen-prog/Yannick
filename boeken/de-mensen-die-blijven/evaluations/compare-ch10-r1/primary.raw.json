@@ -1,0 +1,30 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "58a4bf6774e5cb17dc5c90a7a8ba305f2fd8f677346b2d3d5e092f029498a94e",
+  "reader": "Lena",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0008"},
+  "why_stopped": {"reason": "Het ijsje, de slagroom en de eerste bladzijden van Camus aan het Zennegat rekken de middag; ik wist al waar het naartoe ging en wilde terug naar de telefoon op het aanrecht."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0005", "reason": "Sanne die toegeeft dat ze een halve minuut blij was toen Bram opgenomen werd, en jaloers is op hem; en Wouter die het niet terugzegt. Dat bleef hangen."},
+    {"passage_id": "A:p0010", "reason": "De voicemail met de puppymop na een middag vol schuld: grappig en pijnlijk tegelijk."},
+    {"passage_id": "A:p0012", "reason": "Het eerste schaakmat tegen Bram, met zijn eigen dopje in de weg, en niemand weet of hij liet winnen."}
+  ],
+  "confused_by": [],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "B:p0006"},
+    {"flag": "over_explained", "passage_id": "B:p0010"},
+    {"flag": "cliche", "passage_id": "B:p0011"},
+    {"flag": "cliche", "passage_id": "B:p0013"},
+    {"flag": "slow_start", "passage_id": "A:p0008"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0005", "reason": "In A krijgt Sanne een eigen lelijke waarheid die het vakantiehoofdstuk spiegelt; het geeft de kom echt gewicht en maakt Wouters zwijgen voelbaar. B mist deze scène helemaal."},
+  "weakest_passage": {"passage_id": "B:p0006", "reason": "B legt uit waarom hij niet opnam ('De reden is dat ik niet wilde'), terwijl de lijst met kaas in mijn mond het al zei; de uitleg haalt de spanning eruit."},
+  "machine_tells": [
+    {"tell": "aforistische oneliner als afsluiter", "passage_id": "B:p0013"},
+    {"tell": "aforisme in tweeledige vorm", "passage_id": "B:p0011"}
+  ],
+  "felt": {"emotion": "schuld en ontroering", "reason": "Ik voelde mee met de middag zonder telefoon en daarna de steek bij de voicemail; in A kwam Sannes bekentenis harder aan dan alles in B."},
+  "confidence": "medium",
+  "compare": "A"
+}

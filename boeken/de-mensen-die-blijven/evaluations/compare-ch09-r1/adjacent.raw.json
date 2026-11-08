@@ -1,0 +1,32 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "733670a449d80442c27eba44a5cdde72cb86e48c2ce043343be9569e69521d74",
+  "reader": "Priya",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0021"},
+  "why_stopped": {"reason": "De samenvatting van De vreemdeling leest als een leesverslag; mijn aandacht zakte daar even weg, al legde ik het boek niet neer."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0047", "reason": "Ik hoorde haar horen wat ze had gezegd: het moment waarop de moeder haar eigen opluchting betrapt blijft hangen."},
+    {"passage_id": "B:p0088", "reason": "Wouter verbindt zijn eigen geluk met de doorgeslapen nacht van zijn moeder; dat maakt het telefoontje achteraf nog harder."},
+    {"passage_id": "B:p0116", "reason": "Het ongelezen bericht tegen zijn dij, tien seconden die hij niet neemt, is een sterk open einde."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0028", "reason": "Ze eten om tien voor één in Portugal, maar het zou tien voor twaalf in België zijn; België loopt toch voor, niet achter."},
+    {"passage_id": "B:p0002", "reason": "Portugal staat genoteerd als +1 uur, terwijl de tekst later zelf kwart over zes Portugese tijd tegenover kwart over zeven Belgische tijd zet."}
+  ],
+  "flags": [
+    {"flag": "continuity_doubt", "passage_id": "B:p0028"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0053"},
+    {"flag": "over_explained", "passage_id": "B:p0085"},
+    {"flag": "exposition_dump", "passage_id": "B:p0021"},
+    {"flag": "slow_start", "passage_id": "B:p0115"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0045", "reason": "De moeder die toegeeft dat ze heeft doorgeslapen en het woord niet afmaakt, is het eerlijkste en pijnlijkste moment van het hoofdstuk."},
+  "weakest_passage": {"passage_id": "B:p0085", "reason": "De zin over het lelijkste wat hij heeft opgeschreven kondigt de schuld aan voordat ik ze zelf kan voelen; de volgende alinea doet dat werk al."},
+  "machine_tells": [
+    {"tell": "aankondigende zelfcommentaar-zin die het gevoel benoemt", "passage_id": "B:p0085"}
+  ],
+  "felt": {"emotion": "ongemakkelijke ontroering", "reason": "Het telefoontje van de moeder en Wouters bekentenis dat hij hetzelfde voelde raakten me; de tijdzonefouten haalden me er even uit. Versie A is tijdkundig juist, maar A:p0087 houdt het gevoel kaal en A:p0089 voelt als een losse, chronologisch verkeerd geplaatste coda, daarom houd ik B."},
+  "confidence": "medium",
+  "compare": "B"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "38cae1a15c6354742f427ed8ad619b084bc76bdf13b535940575d51a53949d94",
+  "reader": "Airport reader",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0021"},
+  "why_stopped": {"reason": "Hier krijg ik een samenvatting van De vreemdeling terwijl ik wil weten wat er met Bram gebeurt; ik bladerde door tot het telefoontje van de moeder."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0045", "reason": "De moeder die toegeeft dat ze voor het eerst doorsliep omdat haar zoon opgenomen is, dat blijft hangen."},
+    {"passage_id": "B:p0114", "reason": "Het afgebroken bericht van Bram dat hij niet leest is een sterke haak om verder te lezen."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0089", "reason": "De laatste dag staat voor de voorlaatste avond; ik moest even terugbladeren om de volgorde te snappen."}
+  ],
+  "flags": [
+    {"flag": "slow_start", "passage_id": "B:p0021"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0089"},
+    {"flag": "over_explained", "passage_id": "A:p0088"},
+    {"flag": "continuity_doubt", "passage_id": "A:p0028"},
+    {"flag": "slow_start", "passage_id": "B:p0116"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0047", "reason": "Het beeld van het gevallen kopje maakt de schuld van de moeder voelbaar zonder ze uit te leggen."},
+  "weakest_passage": {"passage_id": "A:p0088", "reason": "A legt in een lange alinea uit wat ik al begreep uit het telefoontje van de moeder; B zegt het in drie zinnen en gaat door."},
+  "machine_tells": [],
+  "felt": {"emotion": "spanning en een beetje schuld", "reason": "Het telefoontje en de geweigerde vlucht trokken me erin; het ongelezen bericht op het einde laat me de pagina omslaan."},
+  "confidence": "medium",
+  "compare": "B"
+}

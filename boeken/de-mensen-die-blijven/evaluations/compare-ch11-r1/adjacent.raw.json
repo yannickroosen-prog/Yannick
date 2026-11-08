@@ -1,0 +1,31 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "812602608e53425f3e6f9cac4210832b3d1d995aeea33c9abce7fae90a8a5303",
+  "reader": "Priya",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0103"},
+  "why_stopped": {"reason": "In A legt Bram op de bank in een lange monoloog precies uit wat ik als lezer al voelde, en daar zakte mijn aandacht weg; B houdt het kort en laat het open."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0008", "reason": "Wouter die op de wc-bril vier gemene regels schrijft en ze nooit doorstreept: eindelijk zie ik zijn woede, en hij houdt haar voor zichzelf."},
+    {"passage_id": "A:p0126", "reason": "Frieten zonder saus en de man die kijkt alsof Bram iets ernstigs zegt; klein, grappig en droevig tegelijk."},
+    {"passage_id": "B:p0006", "reason": "Bram die weet van de tabel en de treintickets bewust met de kaart betaalde; dat hij gezien wilde worden in zijn keuze raakte me."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0005", "reason": "'altijd had teruggebeld, ook de nachten dat ik niet opnam' botst een beetje met het beeld van de broer die nooit zonder telefoon de deur uitging."}
+  ],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "A:p0103"},
+    {"flag": "over_explained", "passage_id": "A:p0105"},
+    {"flag": "over_explained", "passage_id": "A:p0063"},
+    {"flag": "over_explained", "passage_id": "A:p0095"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0008", "reason": "De scène op het toilet geeft Wouter na de uitspraak een eigen reactie die niet netjes is; daardoor geloof ik de rustige bank-scène erna meer."},
+  "weakest_passage": {"passage_id": "A:p0103", "reason": "Bram formuleert de psychologie van zijn broer als een therapeut; het thema van het boek wordt hardop uitgesproken in plaats van gevoeld."},
+  "machine_tells": [
+    {"tell": "thema hardop uitgelegd door personage", "passage_id": "A:p0103"},
+    {"tell": "aangekondigde emotionele climax ('die toch aankwam alsof')", "passage_id": "A:p0063"}
+  ],
+  "felt": {"emotion": "ontroering en een zachte schaamte", "reason": "De brief voor de vrederechter en het 'eindelijk' bij de niet-opgenomen telefoon kwamen echt binnen; in B voelde ik daarna ook Wouters gekrenktheid, in A werd die weggepraat."},
+  "confidence": "medium",
+  "compare": "B"
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "22ca60fa5f54309f0f6824e34519f7104ccdb37990c4908f1320b54d61cf1659",
+  "reader": "Priya",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0005"},
+  "why_stopped": {"reason": "In B wordt het Claimflow-debacle samengevat in een opsomming van vergaderingen, en na de zin 'Ik vertel het omdat het gebeurde, niet omdat het belangrijk is' geloofde ik de verteller en las ik er even met minder aandacht doorheen."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0006", "reason": "Dat hij 'het is niets' zegt over zijn broer, en dat het elke keer makkelijker wordt, is het moment waarop ik deze man echt ging begrijpen."},
+    {"passage_id": "A:p0011", "reason": "De twee versies van de fiets en de natte onderbroek van de moeder zetten alles wat ik over Bram dacht op losse schroeven."},
+    {"passage_id": "A:p0016", "reason": "De sleutel in de voering en 'Ge zijt een goeie mens. Dat moet vermoeiend zijn.' is een slot dat blijft hangen."}
+  ],
+  "confused_by": [],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "B:p0004"},
+    {"flag": "no_stakes", "passage_id": "B:p0005"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0005", "reason": "De telefoon die met 'Bram' in witte letters op tafel trilt voor de man van de directie maakt van een werkprobleem een scène waarin de broer letterlijk de kamer binnendringt; ik voelde de schaamte mee."},
+  "weakest_passage": {"passage_id": "B:p0005", "reason": "Dezelfde crisis wordt verteld in plaats van getoond; het wegdrukken van Bram gebeurt terloops en raakte me nauwelijks."},
+  "machine_tells": [],
+  "felt": {"emotion": "ongemak en ontroering", "reason": "Het nachtelijke belregister en de trap bij de deur maakten me onrustig, en het slot met de sleutel liet me met een brok achter; in A kwam daar nog schaamte bij door de vergaderscène."},
+  "confidence": "medium",
+  "compare": "A"
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "source_chapters": [
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-03.md",
+      "sha256": "1b7bba50b3d957a2020e97adc4e45de7f541a671cbcf0749c9f2c22cc827b8b0",
+      "bytes": 23140
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/work/attempts/chapter-03/stage-r1/chapter.md",
+      "sha256": "ad6573e6ed11e91c98d1f2a7a68e197c0de07ce53df6e38fd3bf0f7e8ce3cf43",
+      "bytes": 24028
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-02.md",
+      "sha256": "b6c2e0368ac47765554cb845a3650edabcab4249207ff59bb8762f257af88a6a",
+      "bytes": 23302
+    }
+  ],
+  "report_sha256": "b2be310e60cac8d18eaf6fd021f0c6410343471eca9bbe347acf7d504d15a23b",
+  "errors": [],
+  "expected_reader": "Lena",
+  "catalog_sha256": "c441be2d53556180220f4c6f1b36add610981500e7db8eed163ba3f370b39c59",
+  "resolved_evidence": [
+    {
+      "location": "stopped_at",
+      "passage_id": "A:p0005",
+      "version": "A",
+      "quote": "Om zes uur en vier minuten meldde een man in Aalst een waterschade. Om zes uur en zes minuten meldde dezelfde man dezelfde waterschade nog eens, omdat hij geen bevestiging had gekregen. Om acht uur had hij ze zevenenveertig keer gemeld, en het systeem had zevenenveertig dossiers aangemaakt, met zevenenveertig keer dezelfde foto van een plafond met een bruine vlek die de vorm had van Afrika.\n\nEr volgde een crisisvergadering. Er volgde nog een. Er volgden er vijf in drie dagen, met mensen van de juridische dienst en mensen van de communicatiedienst en een man van de directie die alleen maar vroeg wie verantwoordelijk was. Ik zei dat ik verantwoordelijk was. Dat was waar. Het was ook het enige wat ik kon zeggen zonder iemand anders iets aan te doen.\n\n\"Goed,\" zei de man van de directie. \"Dan weten we dat.\"\n\nTijdens de vierde vergadering trilde mijn telefoon. *Bram.* Ik drukte hem weg. Hij belde opnieuw. Ik drukte hem weer weg en stuurde een bericht: *in vergadering, bel u straks*. Hij stuurde een foto terug van een vaas. Ze was grijsgroen, met een opening zo klein dat er geen bloem in kon. Daaronder: *Ilse. Voor u. Ze zegt dat gij een vaas nodig hebt waar niets in kan.*\n\nIk keek naar de foto onder de tafel terwijl de man van de directie praatte. Ik dacht: hoe weet zij wat ik nodig heb, ik heb haar nog nooit gezien. Ik dacht: Bram heeft over mij verteld. Ik dacht: wat heeft hij verteld. Ik heb die avond niet teruggebeld. Ik was het vergeten. Ik vergeet zelden iets, en ik vergat dat.\n\nDe man in Aalst kreeg uiteindelijk \u00e9\u00e9n schadevergoeding en een fles wijn van de communicatiedienst. Het plafond werd hersteld. Ik heb de foto van de vlek nog lang op mijn bureaublad gehad. Afrika, met een uitloper waar Madagaskar zou moeten liggen.\n\n---"
+    },
+    {
+      "location": "strongest_passage",
+      "passage_id": "B:p0013",
+      "version": "B",
+      "quote": "**00.36 uur.** Ik nam op. Hij stond aan de Brusselse Poort. Hij vroeg of ik wist dat de Brusselse Poort de enige overgebleven stadspoort van Mechelen is, van de twaalf die er vroeger waren. Hij vroeg waarom een stad een poort laat staan als er geen muur meer is. Hij zei dat je er gewoon omheen kunt lopen. Hij was eromheen gelopen, drie keer. Hij zei: \"Het is een poort die niets meer tegenhoudt, kleine. Zoals wij.\"\n\n**00.48 uur.** Bram. Hij was op de Grote Markt. Hij zei dat de torenwachter niet meer bestaat, dat de toren van Sint-Rombouts leeg is 's nachts, dat er niemand meer kijkt. Ik zei dat hij naar huis moest gaan. Hij zei dat hij geen huis had, hij had alleen een deur.\n\n**00.55 uur.** Ik nam niet op.\n\n**00.58 uur.** Sanne zei in het donker: \"Neem op.\" Ik nam op. Het was stil aan de andere kant. Ik hoorde wind, en een auto ver weg, en Brams adem. Hij zei niets. Na een halve minuut legde hij in.\n\n**01.04 uur.** Bram. Hij zei dat hij God had gesproken. Hij zei het niet zoals hij het soms zegt, met die vlakke, verbaasde stem die me altijd de haren op mijn armen doet rechtstaan. Hij zei het zoals je zegt dat je de buurman bent tegengekomen. Hij zei dat God op een bank zat op de Veemarkt en een blikje Jupiler dronk. \"Hij zei dat Hij ook zijn sleutel kwijt is, kleine. Al tweeduizend jaar.\"\n\n**01.11 uur.** Ik nam niet op. Ik zat op de rand van het bed met mijn voeten op de koude vloer. Ik had mijn broek al aan.\n\n**01.12 uur.** Ik nam niet op. Ik was mijn trui aan het zoeken."
+    },
+    {
+      "location": "weakest_passage",
+      "passage_id": "A:p0005",
+      "version": "A",
+      "quote": "Om zes uur en vier minuten meldde een man in Aalst een waterschade. Om zes uur en zes minuten meldde dezelfde man dezelfde waterschade nog eens, omdat hij geen bevestiging had gekregen. Om acht uur had hij ze zevenenveertig keer gemeld, en het systeem had zevenenveertig dossiers aangemaakt, met zevenenveertig keer dezelfde foto van een plafond met een bruine vlek die de vorm had van Afrika.\n\nEr volgde een crisisvergadering. Er volgde nog een. Er volgden er vijf in drie dagen, met mensen van de juridische dienst en mensen van de communicatiedienst en een man van de directie die alleen maar vroeg wie verantwoordelijk was. Ik zei dat ik verantwoordelijk was. Dat was waar. Het was ook het enige wat ik kon zeggen zonder iemand anders iets aan te doen.\n\n\"Goed,\" zei de man van de directie. \"Dan weten we dat.\"\n\nTijdens de vierde vergadering trilde mijn telefoon. *Bram.* Ik drukte hem weg. Hij belde opnieuw. Ik drukte hem weer weg en stuurde een bericht: *in vergadering, bel u straks*. Hij stuurde een foto terug van een vaas. Ze was grijsgroen, met een opening zo klein dat er geen bloem in kon. Daaronder: *Ilse. Voor u. Ze zegt dat gij een vaas nodig hebt waar niets in kan.*\n\nIk keek naar de foto onder de tafel terwijl de man van de directie praatte. Ik dacht: hoe weet zij wat ik nodig heb, ik heb haar nog nooit gezien. Ik dacht: Bram heeft over mij verteld. Ik dacht: wat heeft hij verteld. Ik heb die avond niet teruggebeld. Ik was het vergeten. Ik vergeet zelden iets, en ik vergat dat.\n\nDe man in Aalst kreeg uiteindelijk \u00e9\u00e9n schadevergoeding en een fles wijn van de communicatiedienst. Het plafond werd hersteld. Ik heb de foto van de vlek nog lang op mijn bureaublad gehad. Afrika, met een uitloper waar Madagaskar zou moeten liggen.\n\n---"
+    },
+    {
+      "location": "remember_tomorrow[0]",
+      "passage_id": "A:p0010",
+      "version": "A",
+      "quote": "\"Gij waart elf. Gij wildet mij achterna. Ik reed op mijn oude fiets naar de kiosk aan de overkant, en gij wildet mee, en ge zijt over de rand van de kade gereden. Gewoon. Ge hebt de bocht gemist. Ik hoorde de plons en ik draaide me om en gij zat in de vaart, met uw fiets boven op u.\"\n\nIk keek naar hem.\n\n\"Ik ben erin gesprongen,\" zei Bram. \"Ik heb u eruit getrokken. De fiets lag op de bodem. Ge waart zo bang. Ge waart zo bang dat papa kwaad zou zijn, want die fiets had zestienduizend frank gekost, dat had hij aan tafel gezegd, twee keer. En dan heb ik gezegd dat ik het gedaan had. Dat ik de fiets erin had gegooid.\"\n\n\"Dat is niet waar.\"\n\n\"Ik had toch al huisarrest,\" zei Bram. \"Voor iets anders. Een maand of twee maanden, dat maakte voor mij niet veel uit. Voor u wel.\"\n\n\"Bram. Dat is niet gebeurd.\"\n\nHij haalde zijn schouders op. Hij schoof een toren naar voren, langs de rand van het bord.\n\n\"Het is mijn versie,\" zei hij. \"Gij hebt de uwe.\"\n\nIk heb daarna niet goed meer gespeeld. Ik heb een stuk verloren dat ik niet hoefde te verliezen en daarna de partij. Bram zei niets meer over de fiets. Hij zei dat Fons die avond voor het eerst in zes maanden van de notaris had gewonnen, en dat de notaris zijn strik had losgemaakt, wat een teken van grote ontreddering was."
+    },
+    {
+      "location": "remember_tomorrow[1]",
+      "passage_id": "B:p0006",
+      "version": "B",
+      "quote": "Ik zei *het is niets* over mijn broer, in een vergaderzaal, tegen een man in een grijs pak, terwijl op het scherm achter hem een plafond met de vorm van Afrika hing. Ik had het nog nooit zo gezegd. Ik heb het daarna nog twee keer gezegd, in die week, tegen andere mensen, en het werd elke keer makkelijker.\n\nEr volgden nog vier vergaderingen in drie dagen. Onder de tafel stuurde ik Bram een bericht: *in vergadering, bel u straks*. Hij stuurde een foto terug van een vaas. Ze was grijsgroen, met een opening zo klein dat er geen bloem in kon. Daaronder: *Ilse. Voor u. Ze zegt dat gij een vaas nodig hebt waar niets in kan.*\n\nIk keek naar de foto onder de tafel terwijl de man van de directie praatte. Ik dacht: hoe weet zij wat ik nodig heb, ik heb haar nog nooit gezien. Ik dacht: Bram heeft over mij verteld. Ik dacht: wat heeft hij verteld. Ik heb die avond niet teruggebeld. Ik was het vergeten. Ik vergeet zelden iets, en ik vergat dat.\n\nDe man in Aalst kreeg uiteindelijk \u00e9\u00e9n schadevergoeding en een fles wijn van de communicatiedienst. Het plafond werd hersteld. Ik heb de foto van de vlek nog lang op mijn bureaublad gehad. Afrika, met een uitloper waar Madagaskar zou moeten liggen.\n\n---\n\nDe vaas stond op zaterdag voor onze deur. Hij zat in een doos van de Aldi, ingepakt in krantenpapier, met een kaartje waarop in een handschrift dat ik niet kende stond: *Voor Wouter. Niet voor bloemen. Ilse.* Er was niet aangebeld. Iemand had hem daar neergezet en was weer weggegaan, zoals je een vondeling achterlaat."
+    },
+    {
+      "location": "remember_tomorrow[2]",
+      "passage_id": "B:p0016",
+      "version": "B",
+      "quote": "Hij stond op. Ik stond ook op. Ik stak mijn hand in de rechterzak van zijn jas. Er zat een papieren zakdoek in, en een kauwgom, en een bonnetje. Ik stak mijn hand in de linkerzak. Daar zat een gat in de voering. Ik voelde door het gat, naar beneden, in de ruimte tussen de voering en de stof, helemaal onderaan, waar de jas ophoudt. Mijn vingers raakten metaal.\n\nIk haalde het eruit. Het was zijn sleutel, aan een sleutelhanger in de vorm van een schaakpaard.\n\nBram keek naar de sleutel. Hij keek naar mij. Hij nam de sleutel uit mijn hand en draaide hem om, en hield hem omhoog in het licht van de trapzaal, zoals de waard in De Gouden Vis een glas tegen het licht houdt.\n\n\"Er zit een gat in mijn jas,\" zei hij.\n\n\"Ja.\"\n\n\"Al die tijd.\"\n\n\"Ja.\"\n\nHij stak de sleutel in het slot. Hij draaide hem om. De deur ging open. Binnen was het donker en warm en het rook naar oude boeken en naar thee. Hij bleef in de deuropening staan, met zijn rug naar me toe. Hij draaide zich half om.\n\n\"Kleine,\" zei hij. \"Ge zijt een goeie mens. Dat moet vermoeiend zijn.\"\n\nHij deed de deur zachtjes dicht."
+    },
+    {
+      "location": "flags[0]",
+      "passage_id": "A:p0004",
+      "version": "A",
+      "quote": "Ik weet niet wat mijn gezicht deed. Ik weet dat Fons aan het bord naast ons zijn adem inhield, maar dat was voor zijn eigen partij. Ik weet dat de waard een glas spoelde en het tegen het licht hield. Ik weet dat ik dacht: Sinterklaas. De eerste bewindvoerder van de geschiedenis. Ik weet dat ik het warm kreeg in mijn nek, op de plek waar het warm wordt als je als kind bent betrapt op iets wat je niet eens had willen doen.\n\n\"Ik wilde u sparen,\" zei ik.\n\n\"Ik weet het,\" zei Bram. Hij zei het vriendelijk. Dat was het ergste. \"Gij spaart iedereen. Het is uw hobby. Andere mensen verzamelen postzegels.\"\n\nHij boog zich naar voren en tikte met zijn wijsvinger op de rand van het bord.\n\n\"Het is goed, kleine. Echt. Beter gij dan een notaris. Een notaris zou mij laten betalen voor zijn strik.\"\n\nDe notaris aan het volgende bord keek op. Bram hief zijn glas naar hem. De notaris hief zijn glas terug, zonder te weten waarom.\n\nIk verloor de partij in eenendertig zetten. Bram zette me mat met een pion. Hij zei dat dat zeldzaam was, mat met een pion, dat het bijna nooit gebeurde, en dat ik het mocht zien als een eer.\n\n---\n\nOp het werk ging een project mis.\n\nIk vertel het omdat het gebeurde, niet omdat het belangrijk is. Het project heette Claimflow. Het was een nieuw systeem waarmee klanten hun schade zelf konden melden via een app, met foto's, zonder dat er een mens aan te pas kwam. Ik had er acht maanden aan gewerkt. Het zou live gaan op maandag 12 januari om zes uur 's ochtends."
+    },
+    {
+      "location": "flags[1]",
+      "passage_id": "A:p0005",
+      "version": "A",
+      "quote": "Om zes uur en vier minuten meldde een man in Aalst een waterschade. Om zes uur en zes minuten meldde dezelfde man dezelfde waterschade nog eens, omdat hij geen bevestiging had gekregen. Om acht uur had hij ze zevenenveertig keer gemeld, en het systeem had zevenenveertig dossiers aangemaakt, met zevenenveertig keer dezelfde foto van een plafond met een bruine vlek die de vorm had van Afrika.\n\nEr volgde een crisisvergadering. Er volgde nog een. Er volgden er vijf in drie dagen, met mensen van de juridische dienst en mensen van de communicatiedienst en een man van de directie die alleen maar vroeg wie verantwoordelijk was. Ik zei dat ik verantwoordelijk was. Dat was waar. Het was ook het enige wat ik kon zeggen zonder iemand anders iets aan te doen.\n\n\"Goed,\" zei de man van de directie. \"Dan weten we dat.\"\n\nTijdens de vierde vergadering trilde mijn telefoon. *Bram.* Ik drukte hem weg. Hij belde opnieuw. Ik drukte hem weer weg en stuurde een bericht: *in vergadering, bel u straks*. Hij stuurde een foto terug van een vaas. Ze was grijsgroen, met een opening zo klein dat er geen bloem in kon. Daaronder: *Ilse. Voor u. Ze zegt dat gij een vaas nodig hebt waar niets in kan.*\n\nIk keek naar de foto onder de tafel terwijl de man van de directie praatte. Ik dacht: hoe weet zij wat ik nodig heb, ik heb haar nog nooit gezien. Ik dacht: Bram heeft over mij verteld. Ik dacht: wat heeft hij verteld. Ik heb die avond niet teruggebeld. Ik was het vergeten. Ik vergeet zelden iets, en ik vergat dat.\n\nDe man in Aalst kreeg uiteindelijk \u00e9\u00e9n schadevergoeding en een fles wijn van de communicatiedienst. Het plafond werd hersteld. Ik heb de foto van de vlek nog lang op mijn bureaublad gehad. Afrika, met een uitloper waar Madagaskar zou moeten liggen.\n\n---"
+    }
+  ]
+}

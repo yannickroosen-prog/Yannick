@@ -1,0 +1,497 @@
+{
+  "type": "object",
+  "properties": {
+    "reader": {
+      "type": "string",
+      "enum": [
+        "Priya"
+      ]
+    },
+    "turn_page": {
+      "type": "string",
+      "enum": [
+        "no",
+        "unsure",
+        "yes"
+      ]
+    },
+    "stopped_at": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "passage_id": {
+              "$ref": "#/$defs/passageId"
+            }
+          },
+          "required": [
+            "passage_id"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "why_stopped": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "reason": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "reason"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "remember_tomorrow": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "passage_id",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "confused_by": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "passage_id",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "flags": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "flag": {
+            "type": "string",
+            "enum": [
+              "cliche",
+              "confusing",
+              "continuity_doubt",
+              "emotion_missed",
+              "exposition_dump",
+              "flat_voice",
+              "machine_prose",
+              "no_stakes",
+              "over_explained",
+              "predictable",
+              "slow_start",
+              "stiff_dialogue"
+            ]
+          },
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          }
+        },
+        "required": [
+          "flag",
+          "passage_id"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "strongest_passage": {
+      "type": "object",
+      "properties": {
+        "passage_id": {
+          "$ref": "#/$defs/passageId"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "passage_id",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "weakest_passage": {
+      "type": "object",
+      "properties": {
+        "passage_id": {
+          "$ref": "#/$defs/passageId"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "passage_id",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "machine_tells": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "tell": {
+            "type": "string"
+          },
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          }
+        },
+        "required": [
+          "tell",
+          "passage_id"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "felt": {
+      "type": "object",
+      "properties": {
+        "emotion": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 120,
+          "description": "A short emotion label such as tension and relief, at most 120 characters. Put explanations in felt.reason; do not copy story prose here."
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "emotion",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "confidence": {
+      "type": "string",
+      "enum": [
+        "high",
+        "low",
+        "medium"
+      ]
+    },
+    "compare": {
+      "type": "string",
+      "enum": [
+        "A",
+        "B",
+        "same"
+      ]
+    },
+    "schema_version": {
+      "type": "integer",
+      "enum": [
+        3
+      ]
+    },
+    "catalog_sha256": {
+      "type": "string",
+      "enum": [
+        "ab961d2f6e9892998980c1efd27069617f25241057386295661887cbef390668"
+      ]
+    }
+  },
+  "required": [
+    "reader",
+    "turn_page",
+    "stopped_at",
+    "why_stopped",
+    "remember_tomorrow",
+    "confused_by",
+    "flags",
+    "strongest_passage",
+    "weakest_passage",
+    "machine_tells",
+    "felt",
+    "confidence",
+    "compare",
+    "schema_version",
+    "catalog_sha256"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "passageId": {
+      "type": "string",
+      "enum": [
+        "A:p0001",
+        "A:p0002",
+        "A:p0003",
+        "A:p0004",
+        "A:p0005",
+        "A:p0006",
+        "A:p0007",
+        "A:p0008",
+        "A:p0009",
+        "A:p0010",
+        "A:p0011",
+        "A:p0012",
+        "A:p0013",
+        "A:p0014",
+        "A:p0015",
+        "A:p0016",
+        "A:p0017",
+        "A:p0018",
+        "A:p0019",
+        "A:p0020",
+        "A:p0021",
+        "A:p0022",
+        "A:p0023",
+        "A:p0024",
+        "A:p0025",
+        "A:p0026",
+        "A:p0027",
+        "A:p0028",
+        "A:p0029",
+        "A:p0030",
+        "A:p0031",
+        "A:p0032",
+        "A:p0033",
+        "A:p0034",
+        "A:p0035",
+        "A:p0036",
+        "A:p0037",
+        "A:p0038",
+        "A:p0039",
+        "A:p0040",
+        "A:p0041",
+        "A:p0042",
+        "A:p0043",
+        "A:p0044",
+        "A:p0045",
+        "A:p0046",
+        "A:p0047",
+        "A:p0048",
+        "A:p0049",
+        "A:p0050",
+        "A:p0051",
+        "A:p0052",
+        "A:p0053",
+        "A:p0054",
+        "A:p0055",
+        "A:p0056",
+        "A:p0057",
+        "A:p0058",
+        "A:p0059",
+        "A:p0060",
+        "A:p0061",
+        "A:p0062",
+        "A:p0063",
+        "A:p0064",
+        "A:p0065",
+        "A:p0066",
+        "A:p0067",
+        "A:p0068",
+        "A:p0069",
+        "A:p0070",
+        "A:p0071",
+        "A:p0072",
+        "A:p0073",
+        "A:p0074",
+        "A:p0075",
+        "A:p0076",
+        "A:p0077",
+        "A:p0078",
+        "A:p0079",
+        "A:p0080",
+        "A:p0081",
+        "A:p0082",
+        "A:p0083",
+        "A:p0084",
+        "A:p0085",
+        "A:p0086",
+        "A:p0087",
+        "A:p0088",
+        "A:p0089",
+        "A:p0090",
+        "A:p0091",
+        "A:p0092",
+        "A:p0093",
+        "A:p0094",
+        "A:p0095",
+        "A:p0096",
+        "A:p0097",
+        "A:p0098",
+        "A:p0099",
+        "A:p0100",
+        "A:p0101",
+        "A:p0102",
+        "A:p0103",
+        "A:p0104",
+        "A:p0105",
+        "A:p0106",
+        "A:p0107",
+        "A:p0108",
+        "A:p0109",
+        "A:p0110",
+        "A:p0111",
+        "A:p0112",
+        "A:p0113",
+        "A:p0114",
+        "A:p0115",
+        "B:p0001",
+        "B:p0002",
+        "B:p0003",
+        "B:p0004",
+        "B:p0005",
+        "B:p0006",
+        "B:p0007",
+        "B:p0008",
+        "B:p0009",
+        "B:p0010",
+        "B:p0011",
+        "B:p0012",
+        "B:p0013",
+        "B:p0014",
+        "B:p0015",
+        "B:p0016",
+        "B:p0017",
+        "B:p0018",
+        "B:p0019",
+        "B:p0020",
+        "B:p0021",
+        "B:p0022",
+        "B:p0023",
+        "B:p0024",
+        "B:p0025",
+        "B:p0026",
+        "B:p0027",
+        "B:p0028",
+        "B:p0029",
+        "B:p0030",
+        "B:p0031",
+        "B:p0032",
+        "B:p0033",
+        "B:p0034",
+        "B:p0035",
+        "B:p0036",
+        "B:p0037",
+        "B:p0038",
+        "B:p0039",
+        "B:p0040",
+        "B:p0041",
+        "B:p0042",
+        "B:p0043",
+        "B:p0044",
+        "B:p0045",
+        "B:p0046",
+        "B:p0047",
+        "B:p0048",
+        "B:p0049",
+        "B:p0050",
+        "B:p0051",
+        "B:p0052",
+        "B:p0053",
+        "B:p0054",
+        "B:p0055",
+        "B:p0056",
+        "B:p0057",
+        "B:p0058",
+        "B:p0059",
+        "B:p0060",
+        "B:p0061",
+        "B:p0062",
+        "B:p0063",
+        "B:p0064",
+        "B:p0065",
+        "B:p0066",
+        "B:p0067",
+        "B:p0068",
+        "B:p0069",
+        "B:p0070",
+        "B:p0071",
+        "B:p0072",
+        "B:p0073",
+        "B:p0074",
+        "B:p0075",
+        "B:p0076",
+        "B:p0077",
+        "B:p0078",
+        "B:p0079",
+        "B:p0080",
+        "B:p0081",
+        "B:p0082",
+        "B:p0083",
+        "B:p0084",
+        "B:p0085",
+        "B:p0086",
+        "B:p0087",
+        "B:p0088",
+        "B:p0089",
+        "B:p0090",
+        "B:p0091",
+        "B:p0092",
+        "B:p0093",
+        "B:p0094",
+        "B:p0095",
+        "B:p0096",
+        "B:p0097",
+        "B:p0098",
+        "B:p0099",
+        "B:p0100",
+        "B:p0101",
+        "B:p0102",
+        "B:p0103",
+        "B:p0104",
+        "B:p0105",
+        "B:p0106",
+        "B:p0107",
+        "B:p0108",
+        "B:p0109",
+        "B:p0110",
+        "B:p0111",
+        "B:p0112",
+        "B:p0113",
+        "B:p0114",
+        "B:p0115",
+        "context-1:p0001",
+        "context-1:p0002",
+        "context-1:p0003",
+        "context-1:p0004",
+        "context-1:p0005",
+        "context-1:p0006",
+        "context-1:p0007",
+        "context-1:p0008",
+        "context-1:p0009",
+        "context-1:p0010",
+        "context-1:p0011",
+        "context-1:p0012",
+        "context-1:p0013",
+        "context-1:p0014",
+        "context-1:p0015",
+        "context-1:p0016"
+      ]
+    }
+  }
+}

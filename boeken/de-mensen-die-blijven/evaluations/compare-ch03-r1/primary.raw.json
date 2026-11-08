@@ -1,0 +1,24 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "c441be2d53556180220f4c6f1b36add610981500e7db8eed163ba3f370b39c59",
+  "reader": "Lena",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0005"},
+  "why_stopped": {"reason": "In A wordt de crisis op het werk samengevat in vergaderingen die 'volgden', net nadat de verteller zelf zei dat het niet belangrijk is, en daar zakte mijn aandacht even weg; ik heb het boek niet weggelegd."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0010", "reason": "Brams andere versie van de fiets kantelt alles wat ik over hem en Wouter dacht te weten."},
+    {"passage_id": "B:p0006", "reason": "Wouter die 'het is niets' zegt over zijn broer en merkt dat het elke keer makkelijker wordt, dat steekt."},
+    {"passage_id": "B:p0016", "reason": "De sleutel in de voering en 'Ge zijt een goeie mens. Dat moet vermoeiend zijn.' is een slot dat blijft hangen."}
+  ],
+  "confused_by": [],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "A:p0004"},
+    {"flag": "no_stakes", "passage_id": "A:p0005"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0013", "reason": "De nachtelijke telefoontjes met tijdstempels bouwen spanning op zonder te dramatiseren, en Brams zinnen over de poort en God op de Veemarkt zijn grappig en angstaanjagend tegelijk."},
+  "weakest_passage": {"passage_id": "A:p0005", "reason": "Vijf crisisvergaderingen worden in een opsomming afgehandeld, zodat het moment waarop Wouter Bram wegdrukt geen gewicht krijgt."},
+  "machine_tells": [],
+  "felt": {"emotion": "ontroering en onrust", "reason": "De fietsscène en de nacht met de sleutel lieten me tegelijk lachen en bang zijn voor Bram; in B voelde ik ook schaamte namens Wouter in de vergaderzaal."},
+  "confidence": "medium",
+  "compare": "B"
+}

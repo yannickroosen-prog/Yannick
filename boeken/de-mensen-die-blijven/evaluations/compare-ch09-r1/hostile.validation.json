@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "source_chapters": [
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-09.md",
+      "sha256": "1cbd9c4c7d57dce0b604066cb0bc82e41f91053057e8eef0d131955842f391a6",
+      "bytes": 17546
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/work/attempts/chapter-09/stage-r1/chapter.md",
+      "sha256": "aaaf767fc5218c865041cc875f6e248fe399b27f49dd5d99066e8652e9849a65",
+      "bytes": 17565
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-08.md",
+      "sha256": "1adea626643427be8765b3e125ff2713db18d9ae41906d76ee59674491931b13",
+      "bytes": 18716
+    }
+  ],
+  "report_sha256": "d8192f08fd871576543bde0129983bf5e5dfff67a4b6bd06f79f5084f5aa4cb0",
+  "errors": [],
+  "expected_reader": "Mark",
+  "catalog_sha256": "733670a449d80442c27eba44a5cdde72cb86e48c2ce043343be9569e69521d74",
+  "resolved_evidence": [
+    {
+      "location": "stopped_at",
+      "passage_id": "B:p0028",
+      "version": "B",
+      "quote": "Mijn moeder belt mij om kwart over zeven. Ze belt niet om tien voor twaalf Belgische tijd. Ik keek naar het scherm. Ik keek naar Sanne. Ze legde haar vork neer."
+    },
+    {
+      "location": "strongest_passage",
+      "passage_id": "A:p0047",
+      "version": "A",
+      "quote": "Ik hoorde haar ademen. Ik hoorde haar horen wat ze had gezegd. Het was een geluid dat ik ken, het geluid van iemand die een kopje laat vallen en kijkt hoe het in stukken op de grond ligt, en weet dat het niet meer heel te maken is."
+    },
+    {
+      "location": "weakest_passage",
+      "passage_id": "B:p0088",
+      "version": "B",
+      "quote": "Ik was gelukkig. Ik was gelukkig terwijl mijn broer in een psychiatrische afdeling lag in Mechelen, op tweeduizend kilometer, en ik weet niet of ik gelukkig was ondanks dat of omdat. Ik heb er lang over nagedacht. Ik denk dat het allebei was. Ik denk dat ik gelukkig was omdat ik wist waar hij was. Omdat er mensen bij hem waren. Omdat niemand mij om drie uur 's nachts ging bellen. Ik denk dat ik, op de rand van de klif bij Sagres, met een braadworst in mijn hand, precies hetzelfde voelde als mijn moeder van elf tot zeven. En ik denk dat ik het niet tegen haar mocht zeggen, en niet tegen Sanne, en niet tegen mezelf, en ik zeg het nu alleen hier."
+    },
+    {
+      "location": "remember_tomorrow[0]",
+      "passage_id": "A:p0045",
+      "version": "A",
+      "quote": "\"Ik heb deze nacht voor het eerst in maanden doorgeslapen,\" zei ze. \"Van elf tot zeven. Ik heb niet \u00e9\u00e9n keer op mijn telefoon gekeken. Ik wist dat hij daar was. Ik wist dat er mensen bij hem waren. Ik wist dat niemand mij om drie uur ging bellen. En ik heb geslapen, Wouter. Ik heb geslapen als een...\""
+    },
+    {
+      "location": "remember_tomorrow[1]",
+      "passage_id": "A:p0082",
+      "version": "A",
+      "quote": "Sanne knikte. Ze vroeg niet waarom. Ik heb het haar later verteld, wat Karim had gezegd. Toen, op dat terras, zei ik het niet. Ik weet niet waarom. Misschien omdat ik niet wilde dat ze zou denken dat ik alleen bleef omdat het mocht. Misschien omdat ik niet wilde dat ze zou weten dat ik ook zonder toestemming was gebleven. Ik denk dat ik gebleven was. Ik had de vlucht niet geboekt. Ik zat al een half uur met mijn bankkaart naast me en ik had hem niet geboekt. Karim had alleen gezegd wat ik al aan het doen was."
+    },
+    {
+      "location": "remember_tomorrow[2]",
+      "passage_id": "A:p0115",
+      "version": "A",
+      "quote": "Ik las het niet. Ik stak de telefoon in mijn zak."
+    },
+    {
+      "location": "confused_by[0]",
+      "passage_id": "B:p0002",
+      "version": "B",
+      "quote": "Ik had alles geregeld. Ik had in de week voor vertrek drie avonden aan de keukentafel gezeten met de groene kaft en mijn laptop. Ik had met mijn vader de doorlopende opdrachten nagekeken: de huur, de energie, de mutualiteit, de honderdtwintig euro op maandag. Hij had ze ingevoerd, met zijn bril op, met zijn hand die een beetje beefde boven de muis, en ik had ernaast gezeten en alles opgeschreven. Ik had tabblad drie gefotografeerd met mijn telefoon, bladzijde per bladzijde, zesendertig foto's. Ik had een lijstje gemaakt van telefoonnummers en het aan mijn moeder gegeven, en aan Karim gemaild, en aan mezelf. Bovenaan stond Karim. Daaronder de psychiater. Daaronder het mobiel team, de nachtlijn, Ilse. Onderaan stond mijn eigen nummer, met erachter, tussen haakjes: *(Portugal, +1 uur)*."
+    },
+    {
+      "location": "confused_by[1]",
+      "passage_id": "B:p0053",
+      "version": "B",
+      "quote": "Ze zweeg. Toen zei ze dat ze moest ophangen, dat de soep op het vuur stond, en ze hing op voor ik iets kon antwoorden. Het was tien over twaalf in Belgi\u00eb. Mijn moeder maakt geen soep 's middags."
+    },
+    {
+      "location": "confused_by[2]",
+      "passage_id": "A:p0089",
+      "version": "A",
+      "quote": "Op de laatste dag kocht ik in een winkeltje aan de haven een sardine van keramiek voor mijn moeder. Ze was blauw, met witte schubben en een open bek, en ze kostte zes euro. Ik dacht aan het hotel in Blankenberge en aan de winter. Ik liet ze inpakken in krantenpapier. Voor Bram kocht ik niets. Ik stond tien minuten voor een rek met kaarten van vuurtorens en meeuwen en *Last bratwurst before America*, en ik koos er geen, en ik ging naar buiten. Op het terras van de bakker ernaast zat een man alleen een pastel de nata te eten met zijn ogen dicht. Ik keek naar hem tot hij ze opendeed."
+    },
+    {
+      "location": "flags[0]",
+      "passage_id": "B:p0002",
+      "version": "B",
+      "quote": "Ik had alles geregeld. Ik had in de week voor vertrek drie avonden aan de keukentafel gezeten met de groene kaft en mijn laptop. Ik had met mijn vader de doorlopende opdrachten nagekeken: de huur, de energie, de mutualiteit, de honderdtwintig euro op maandag. Hij had ze ingevoerd, met zijn bril op, met zijn hand die een beetje beefde boven de muis, en ik had ernaast gezeten en alles opgeschreven. Ik had tabblad drie gefotografeerd met mijn telefoon, bladzijde per bladzijde, zesendertig foto's. Ik had een lijstje gemaakt van telefoonnummers en het aan mijn moeder gegeven, en aan Karim gemaild, en aan mezelf. Bovenaan stond Karim. Daaronder de psychiater. Daaronder het mobiel team, de nachtlijn, Ilse. Onderaan stond mijn eigen nummer, met erachter, tussen haakjes: *(Portugal, +1 uur)*."
+    },
+    {
+      "location": "flags[1]",
+      "passage_id": "B:p0028",
+      "version": "B",
+      "quote": "Mijn moeder belt mij om kwart over zeven. Ze belt niet om tien voor twaalf Belgische tijd. Ik keek naar het scherm. Ik keek naar Sanne. Ze legde haar vork neer."
+    },
+    {
+      "location": "flags[2]",
+      "passage_id": "B:p0053",
+      "version": "B",
+      "quote": "Ze zweeg. Toen zei ze dat ze moest ophangen, dat de soep op het vuur stond, en ze hing op voor ik iets kon antwoorden. Het was tien over twaalf in Belgi\u00eb. Mijn moeder maakt geen soep 's middags."
+    },
+    {
+      "location": "flags[3]",
+      "passage_id": "B:p0088",
+      "version": "B",
+      "quote": "Ik was gelukkig. Ik was gelukkig terwijl mijn broer in een psychiatrische afdeling lag in Mechelen, op tweeduizend kilometer, en ik weet niet of ik gelukkig was ondanks dat of omdat. Ik heb er lang over nagedacht. Ik denk dat het allebei was. Ik denk dat ik gelukkig was omdat ik wist waar hij was. Omdat er mensen bij hem waren. Omdat niemand mij om drie uur 's nachts ging bellen. Ik denk dat ik, op de rand van de klif bij Sagres, met een braadworst in mijn hand, precies hetzelfde voelde als mijn moeder van elf tot zeven. En ik denk dat ik het niet tegen haar mocht zeggen, en niet tegen Sanne, en niet tegen mezelf, en ik zeg het nu alleen hier."
+    },
+    {
+      "location": "flags[4]",
+      "passage_id": "B:p0085",
+      "version": "B",
+      "quote": "Ik schrijf het hier op omdat het waar is, en omdat het het lelijkste is wat ik in dit hele jaar heb opgeschreven."
+    },
+    {
+      "location": "flags[5]",
+      "passage_id": "A:p0021",
+      "version": "A",
+      "quote": "Het gaat over een man in Algiers, Meursault, wiens moeder sterft, en die op haar begrafenis niet huilt. Hij gaat de dag erna zwemmen. Hij gaat naar de film. Hij begint iets met een vrouw. Later, op een strand, in de zon die zo fel is dat ze hem verblindt, schiet hij een man neer, zonder reden, of zonder een reden die hij kan uitleggen. Hij zegt dat het door de zon kwam. Op het proces wordt hij niet veroordeeld voor de moord. Hij wordt veroordeeld omdat hij niet huilde op de begrafenis van zijn moeder."
+    },
+    {
+      "location": "flags[6]",
+      "passage_id": "A:p0022",
+      "version": "A",
+      "quote": "Ik had het vroeger een kil boek gevonden. Ik vond het nu, op het strand van Lagos, een warm boek. Het ging over een man die de zon voelt en de zee en het lichaam van een vrouw, en die niet doet alsof hij iets anders voelt dan hij voelt. Het ging over een samenleving die dat niet verdraagt. Die van je verlangt dat je huilt als je moet huilen, en dat je bezorgd bent als je bezorgd moet zijn, en die je ophangt als je het niet bent."
+    },
+    {
+      "location": "flags[7]",
+      "passage_id": "A:p0116",
+      "version": "A",
+      "quote": "We wachtten bij de bagageband. Het was band zeven. Er stonden tweehonderd mensen rond een band waarop nog niets lag. Toen begon hij te draaien, met een schok, en de eerste koffers kwamen door het luik, zwarte, grijze, een roze met stickers, en ze gingen rond, en rond, langs de wachtende mensen die zich naar voren bogen en weer terug, en sommige werden eraf genomen en andere niet, en die gingen opnieuw rond, en verdwenen door het luik aan de andere kant, en kwamen even later weer tevoorschijn."
+    },
+    {
+      "location": "machine_tells[0]",
+      "passage_id": "A:p0022",
+      "version": "A",
+      "quote": "Ik had het vroeger een kil boek gevonden. Ik vond het nu, op het strand van Lagos, een warm boek. Het ging over een man die de zon voelt en de zee en het lichaam van een vrouw, en die niet doet alsof hij iets anders voelt dan hij voelt. Het ging over een samenleving die dat niet verdraagt. Die van je verlangt dat je huilt als je moet huilen, en dat je bezorgd bent als je bezorgd moet zijn, en die je ophangt als je het niet bent."
+    },
+    {
+      "location": "machine_tells[1]",
+      "passage_id": "A:p0116",
+      "version": "A",
+      "quote": "We wachtten bij de bagageband. Het was band zeven. Er stonden tweehonderd mensen rond een band waarop nog niets lag. Toen begon hij te draaien, met een schok, en de eerste koffers kwamen door het luik, zwarte, grijze, een roze met stickers, en ze gingen rond, en rond, langs de wachtende mensen die zich naar voren bogen en weer terug, en sommige werden eraf genomen en andere niet, en die gingen opnieuw rond, en verdwenen door het luik aan de andere kant, en kwamen even later weer tevoorschijn."
+    },
+    {
+      "location": "machine_tells[2]",
+      "passage_id": "B:p0085",
+      "version": "B",
+      "quote": "Ik schrijf het hier op omdat het waar is, en omdat het het lelijkste is wat ik in dit hele jaar heb opgeschreven."
+    }
+  ]
+}

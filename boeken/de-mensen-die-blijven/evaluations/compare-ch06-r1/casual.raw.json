@@ -1,0 +1,29 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "c16b5e69df7636364016dedb77b7dece486b57f5cc5e4ee175594b5c7f49871e",
+  "reader": "Airport reader",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0003"},
+  "why_stopped": {"reason": "Na het strijken volgt een lange beschrijving van het gebouw, de balie, de sticker en de wachtzaal; ik wil weten of Bram komt en blader door het decor heen."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0009", "reason": "De das aan de golfbreker en 'De zee was er' is het beeld dat blijft hangen, grappig en pijnlijk tegelijk."},
+    {"passage_id": "A:p0013", "reason": "Sanne die zegt dat ze jaloers is op een man met een das aan een paal draait de hele scène om naar hun huwelijk."},
+    {"passage_id": "A:p0008", "reason": "'Wilt gij dit eigenlijk?' en het antwoord 'Natuurlijk' dat niet in de marge staat."}
+  ],
+  "confused_by": [],
+  "flags": [
+    {"flag": "slow_start", "passage_id": "A:p0001"},
+    {"flag": "over_explained", "passage_id": "B:p0009"},
+    {"flag": "over_explained", "passage_id": "B:p0011"},
+    {"flag": "over_explained", "passage_id": "B:p0006"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0013", "reason": "Sannes jaloezie geeft de ruzie een tweede laag en een echte prijs; zonder die zin (zoals in B) loopt ze gewoon weg en blijft er minder over."},
+  "weakest_passage": {"passage_id": "B:p0009", "reason": "'Het was woede' benoemt wat de kaken en handen al lieten voelen; de uitleg haalt de spanning eruit."},
+  "machine_tells": [
+    {"tell": "benoemde emotie na getoond lichaamssignaal", "passage_id": "B:p0009"},
+    {"tell": "drieslag die betekenis uitspelt", "passage_id": "B:p0011"}
+  ],
+  "felt": {"emotion": "geamuseerd, dan ongemak", "reason": "Ik lachte om de das en voelde daarna Wouters vernedering en de kilte thuis; A liet me dat zelf invullen."},
+  "confidence": "medium",
+  "compare": "A"
+}

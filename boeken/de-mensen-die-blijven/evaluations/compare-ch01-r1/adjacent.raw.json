@@ -1,0 +1,29 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "86c62eeec6b2f48209d6d22e9b7c9e7a44173e48bd94896639579843c3a41d07",
+  "reader": "Priya",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0007"},
+  "why_stopped": {"reason": "Midden in de ziekenhuisscène stopt de verteller om de inhoud van de map op te sommen, en mijn aandacht zakte daar even weg, al las ik verder."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0012", "reason": "De zin over trouw als gebrek aan verbeelding vat het hele hoofdstuk samen en bleef hangen."},
+    {"passage_id": "A:p0004", "reason": "De zes minuten waarin hij toch de kaartjes bespreekt zeggen meer over hem dan elke uitleg."},
+    {"passage_id": "B:p0018", "reason": "Het forumbericht van Broerke_B en het droge antwoord van de moderator raakten me."}
+  ],
+  "confused_by": [
+    {"passage_id": "A:p0013", "reason": "In A volgt 'Ik weet niet of ik dat toen al dacht' op bijna niets; het is onduidelijk welke gedachte bedoeld wordt."}
+  ],
+  "flags": [
+    {"flag": "exposition_dump", "passage_id": "B:p0007"},
+    {"flag": "over_explained", "passage_id": "B:p0011"},
+    {"flag": "over_explained", "passage_id": "B:p0012"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0012", "reason": "De derde deur die er niet is en de bespiegeling over 'natuurlijk' maken het moment van ja zeggen zwaar en eerlijk."},
+  "weakest_passage": {"passage_id": "B:p0007", "reason": "'Ik moet de groene kaft uitleggen' kondigt een lijst aan die het tempo breekt, al hielp het mij als buitenstaander het bewind te begrijpen."},
+  "machine_tells": [
+    {"tell": "niet X maar Y-constructie", "passage_id": "B:p0011"}
+  ],
+  "felt": {"emotion": "stille beklemming en ontroering", "reason": "Ik voelde hoe vanzelfsprekend hij zich laat vastleggen en hoe Bram buiten die beslissing blijft, vooral bij het verzwijgen tegenover Bram en Sanne."},
+  "confidence": "medium",
+  "compare": "B"
+}

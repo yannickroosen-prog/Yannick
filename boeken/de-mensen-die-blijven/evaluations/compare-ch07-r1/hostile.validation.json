@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "source_chapters": [
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-07.md",
+      "sha256": "811e0565504f7957307775b19e191eaf7bca0f84eca78f7b3d15db2dc628fcc7",
+      "bytes": 20405
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/work/attempts/chapter-07/stage-r1/chapter.md",
+      "sha256": "195dde89175aaec920960e96f1ff1f5d7df1c7860d5ba96362d1ef89a75c2483",
+      "bytes": 20210
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-06.md",
+      "sha256": "9cba84024cf38c53da167ed323f65d5e2dcdb8d135b9291b5af8c46f97307f72",
+      "bytes": 20775
+    }
+  ],
+  "report_sha256": "43922f5efb91fe7fa1698d90ec96f0eb78fdc017bec0ab165b34803d019fbf58",
+  "errors": [],
+  "expected_reader": "Mark",
+  "catalog_sha256": "69149c4a8cb221808260e1de304aec302d46ae072fb1390fcf54fc948b755ed5",
+  "resolved_evidence": [
+    {
+      "location": "stopped_at",
+      "passage_id": "B:p0100",
+      "version": "B",
+      "quote": "Ik ga niet alles vertellen. Het zou te lang zijn, en het zou niet waar zijn, want ik zou het vertellen alsof er een lijn in zat, en er zat geen lijn in. Het was een gesprek dat rondjes draaide, zoals de kippen in de wind, en elke keer als het ergens leek aan te komen, draaide het weer om."
+    },
+    {
+      "location": "strongest_passage",
+      "passage_id": "A:p0011",
+      "version": "A",
+      "quote": "Bram zei weinig. Hij luisterde. Hij zat heel recht op zijn stoel, in een hemd dat hij voor de gelegenheid had gestreken, of had laten strijken door Ilse, en hij keek naar wie er praatte. Na anderhalf uur zei hij \u00e9\u00e9n zin. Hij zei: \"Ik ben twee\u00ebnveertig.\" Daarna zei hij een uur niets.\n\nIedereen had gelijk. Niemand kreeg wat hij nodig had.\n\nOm half vier, bij de tweede koffie, zei mijn vader het voor de zesde keer: \"Het is ver.\"\n\n\"Hoe ver is ver, vader?\" vroeg Bram.\n\nMijn vader keek op. Bram had hem in jaren niet rechtstreeks een vraag gesteld aan tafel.\n\n\"Honderdtwintig kilometer.\"\n\n\"Van wat?\"\n\n\"Van hier.\"\n\n\"Ik woon niet hier,\" zei Bram. \"Ik woon aan de Nekkerspoel. Ge komt daar twee keer per jaar. Met de vol-au-vent. En de kaft.\"\n\nMijn moeder legde haar hand op zijn arm. Hij trok hem niet weg. Hij liet hem liggen en keek naar mijn vader.\n\n\"Het is ver van de kaft,\" zei Bram. \"Dat bedoelt ge.\"\n\nMijn vader zei niets. Hij legde zijn hand weer op de groene kaft naast zijn bord. Karim nam zijn appel op en legde hem weer neer.\n\n\"Ik bedoel dat ge ziek wordt,\" zei mijn vader ten slotte. Heel stil. \"En dat er dan niemand is. Op honderdtwintig kilometer.\"\n\n\"Ilse is er.\"\n\n\"Ilse is geen familie.\"\n\nHet werd stil aan tafel. Bram keek naar zijn handen.\n\n\"Nog niet,\" zei hij.\n\nIk zei niets. Drie uur lang zei ik bijna niets. Ik zei \"ja\" en \"hm\" en \"ik weet het niet\". Ik keek naar mijn bord. Ik at het konijn op en de pruimen, en mijn moeder schepte nog op, en ik at dat ook op. Ik dacht aan het hek in de polders. Ik dacht aan de kippen met hun koppen tegen de wind. Ik dacht aan Marleen, die vroeg of ik familie was. Ik dacht aan *nog niet*."
+    },
+    {
+      "location": "weakest_passage",
+      "passage_id": "B:p0109",
+      "version": "B",
+      "quote": "Ik weet niet waar het vandaan kwam. Dat is niet waar. Ik weet precies waar het vandaan kwam. Het kwam van de trap van het vredegerecht, en van de envelop met veertien tijdstippen, en van de spreadsheet die nooit rood werd, en van de voering van een jas. Het kwam van twintig jaar. Het had daar gestaan, achter mijn tanden, zoals ik het in april op de trap had gevoeld, en het had gewacht. Het had geduld gehad, zoals enveloppen."
+    },
+    {
+      "location": "remember_tomorrow[0]",
+      "passage_id": "A:p0011",
+      "version": "A",
+      "quote": "Bram zei weinig. Hij luisterde. Hij zat heel recht op zijn stoel, in een hemd dat hij voor de gelegenheid had gestreken, of had laten strijken door Ilse, en hij keek naar wie er praatte. Na anderhalf uur zei hij \u00e9\u00e9n zin. Hij zei: \"Ik ben twee\u00ebnveertig.\" Daarna zei hij een uur niets.\n\nIedereen had gelijk. Niemand kreeg wat hij nodig had.\n\nOm half vier, bij de tweede koffie, zei mijn vader het voor de zesde keer: \"Het is ver.\"\n\n\"Hoe ver is ver, vader?\" vroeg Bram.\n\nMijn vader keek op. Bram had hem in jaren niet rechtstreeks een vraag gesteld aan tafel.\n\n\"Honderdtwintig kilometer.\"\n\n\"Van wat?\"\n\n\"Van hier.\"\n\n\"Ik woon niet hier,\" zei Bram. \"Ik woon aan de Nekkerspoel. Ge komt daar twee keer per jaar. Met de vol-au-vent. En de kaft.\"\n\nMijn moeder legde haar hand op zijn arm. Hij trok hem niet weg. Hij liet hem liggen en keek naar mijn vader.\n\n\"Het is ver van de kaft,\" zei Bram. \"Dat bedoelt ge.\"\n\nMijn vader zei niets. Hij legde zijn hand weer op de groene kaft naast zijn bord. Karim nam zijn appel op en legde hem weer neer.\n\n\"Ik bedoel dat ge ziek wordt,\" zei mijn vader ten slotte. Heel stil. \"En dat er dan niemand is. Op honderdtwintig kilometer.\"\n\n\"Ilse is er.\"\n\n\"Ilse is geen familie.\"\n\nHet werd stil aan tafel. Bram keek naar zijn handen.\n\n\"Nog niet,\" zei hij.\n\nIk zei niets. Drie uur lang zei ik bijna niets. Ik zei \"ja\" en \"hm\" en \"ik weet het niet\". Ik keek naar mijn bord. Ik at het konijn op en de pruimen, en mijn moeder schepte nog op, en ik at dat ook op. Ik dacht aan het hek in de polders. Ik dacht aan de kippen met hun koppen tegen de wind. Ik dacht aan Marleen, die vroeg of ik familie was. Ik dacht aan *nog niet*."
+    },
+    {
+      "location": "remember_tomorrow[1]",
+      "passage_id": "B:p0121",
+      "version": "B",
+      "quote": "Bram zette de borden in de vaatwas, in het onderste rek, rechtop, in de gleufjes. Hij zette de kopjes in het bovenste rek, ondersteboven. Hij zette de vorken in het mandje, met de tanden naar beneden. Hij deed het zorgvuldig, zonder te haasten. Hij nam het blokje vaatwasmiddel uit de kast onder het aanrecht, waar het al dertig jaar staat, en pelde het uit zijn plastic en legde het in het bakje en klapte het bakje dicht. Hij deed de deur van de vaatwas dicht. Hij drukte op een knop."
+    },
+    {
+      "location": "remember_tomorrow[2]",
+      "passage_id": "B:p0078",
+      "version": "B",
+      "quote": "We speelden verder. Ik stond beter. Ik stond voor de eerste keer in mijn leven beter, met een paard en een toren meer dan hij. Ik zag het niet gebeuren. Bram zette zijn dame op een vakje waar ze niets leek te doen, en drie zetten later stond mijn koning mat, in een hoek van het bord, ingesloten door mijn eigen pionnen."
+    },
+    {
+      "location": "confused_by[0]",
+      "passage_id": "B:p0109",
+      "version": "B",
+      "quote": "Ik weet niet waar het vandaan kwam. Dat is niet waar. Ik weet precies waar het vandaan kwam. Het kwam van de trap van het vredegerecht, en van de envelop met veertien tijdstippen, en van de spreadsheet die nooit rood werd, en van de voering van een jas. Het kwam van twintig jaar. Het had daar gestaan, achter mijn tanden, zoals ik het in april op de trap had gevoeld, en het had gewacht. Het had geduld gehad, zoals enveloppen."
+    },
+    {
+      "location": "confused_by[1]",
+      "passage_id": "A:p0011",
+      "version": "A",
+      "quote": "Bram zei weinig. Hij luisterde. Hij zat heel recht op zijn stoel, in een hemd dat hij voor de gelegenheid had gestreken, of had laten strijken door Ilse, en hij keek naar wie er praatte. Na anderhalf uur zei hij \u00e9\u00e9n zin. Hij zei: \"Ik ben twee\u00ebnveertig.\" Daarna zei hij een uur niets.\n\nIedereen had gelijk. Niemand kreeg wat hij nodig had.\n\nOm half vier, bij de tweede koffie, zei mijn vader het voor de zesde keer: \"Het is ver.\"\n\n\"Hoe ver is ver, vader?\" vroeg Bram.\n\nMijn vader keek op. Bram had hem in jaren niet rechtstreeks een vraag gesteld aan tafel.\n\n\"Honderdtwintig kilometer.\"\n\n\"Van wat?\"\n\n\"Van hier.\"\n\n\"Ik woon niet hier,\" zei Bram. \"Ik woon aan de Nekkerspoel. Ge komt daar twee keer per jaar. Met de vol-au-vent. En de kaft.\"\n\nMijn moeder legde haar hand op zijn arm. Hij trok hem niet weg. Hij liet hem liggen en keek naar mijn vader.\n\n\"Het is ver van de kaft,\" zei Bram. \"Dat bedoelt ge.\"\n\nMijn vader zei niets. Hij legde zijn hand weer op de groene kaft naast zijn bord. Karim nam zijn appel op en legde hem weer neer.\n\n\"Ik bedoel dat ge ziek wordt,\" zei mijn vader ten slotte. Heel stil. \"En dat er dan niemand is. Op honderdtwintig kilometer.\"\n\n\"Ilse is er.\"\n\n\"Ilse is geen familie.\"\n\nHet werd stil aan tafel. Bram keek naar zijn handen.\n\n\"Nog niet,\" zei hij.\n\nIk zei niets. Drie uur lang zei ik bijna niets. Ik zei \"ja\" en \"hm\" en \"ik weet het niet\". Ik keek naar mijn bord. Ik at het konijn op en de pruimen, en mijn moeder schepte nog op, en ik at dat ook op. Ik dacht aan het hek in de polders. Ik dacht aan de kippen met hun koppen tegen de wind. Ik dacht aan Marleen, die vroeg of ik familie was. Ik dacht aan *nog niet*."
+    },
+    {
+      "location": "flags[0]",
+      "passage_id": "B:p0100",
+      "version": "B",
+      "quote": "Ik ga niet alles vertellen. Het zou te lang zijn, en het zou niet waar zijn, want ik zou het vertellen alsof er een lijn in zat, en er zat geen lijn in. Het was een gesprek dat rondjes draaide, zoals de kippen in de wind, en elke keer als het ergens leek aan te komen, draaide het weer om."
+    },
+    {
+      "location": "flags[1]",
+      "passage_id": "B:p0105",
+      "version": "B",
+      "quote": "Iedereen had gelijk. Dat is het vreemde. Ik zat daar en ik luisterde en ik vond dat iedereen gelijk had. Het was te ver. Het was schoon. Het was zijn keuze. Hij was twee\u00ebnveertig. Er was niets wat niet waar was. En toch zat er aan die tafel niemand die kreeg wat hij nodig had, en ik denk dat iedereen dat voelde, behalve misschien Karim, die het al te vaak had gevoeld om het nog op te merken."
+    },
+    {
+      "location": "flags[2]",
+      "passage_id": "B:p0109",
+      "version": "B",
+      "quote": "Ik weet niet waar het vandaan kwam. Dat is niet waar. Ik weet precies waar het vandaan kwam. Het kwam van de trap van het vredegerecht, en van de envelop met veertien tijdstippen, en van de spreadsheet die nooit rood werd, en van de voering van een jas. Het kwam van twintig jaar. Het had daar gestaan, achter mijn tanden, zoals ik het in april op de trap had gevoeld, en het had gewacht. Het had geduld gehad, zoals enveloppen."
+    },
+    {
+      "location": "flags[3]",
+      "passage_id": "B:p0107",
+      "version": "B",
+      "quote": "Om vijf over vier zei mijn vader, voor de achtste keer: \"Het is ver.\""
+    },
+    {
+      "location": "flags[4]",
+      "passage_id": "A:p0012",
+      "version": "A",
+      "quote": "Om vijf over vier zei mijn vader, voor de achtste keer: \"Het is ver.\"\n\nEn toen zei ik het.\n\nHet had twintig jaar achter mijn tanden gestaan. Het had geduld gehad, zoals enveloppen.\n\n\"Ge kunt niet eens een sleutel bijhouden,\" zei ik tegen Bram, \"en ge gaat in de polders wonen.\"\n\n---\n\nHet werd stil.\n\nHet was een stilte die ik niet kende. Ik heb in mijn leven veel stiltes gehoord in die keuken. De stilte na de eerste opname, toen ik zestien was, toen mijn ouders aan deze tafel zaten met hun handen om een kop koffie die koud werd. De stilte na het telefoontje van de politie, toen Bram vijfentwintig was en op de autosnelweg had gelopen. De stilte na *gelukkig hebben we Wouter nog*. Ik kende die stiltes. Ze waren zwaar, maar ze waren van iedereen.\n\nDeze was van mij.\n\nMijn moeder keek naar haar bord. Mijn vader keek naar mij. Hij keek naar mij met een blik die ik nog nooit van hem had gezien, en ik kan hem nog altijd niet benoemen. Het leek op herkenning, alsof hij in mijn gezicht iets zag wat hij kende uit een spiegel.\n\nKarim had zijn appel naar zijn mond gebracht. Hij had er een beet in genomen. Hij stopte met kauwen. Ik zag het, aan de overkant van de tafel: zijn kaken die stilvielen, met het stuk appel nog in zijn mond."
+    },
+    {
+      "location": "flags[5]",
+      "passage_id": "B:p0059",
+      "version": "B",
+      "quote": "Ik ben in de auto gestapt en weggereden. Ik keek niet in de achteruitkijkspiegel. Dat is niet waar. Ik keek twee keer. Ik zag de kippen. Ik zag het hek, dat open bleef staan in de wind."
+    },
+    {
+      "location": "flags[6]",
+      "passage_id": "B:p0123",
+      "version": "B",
+      "quote": "De vaatwas begon. Eerst een klik. Dan het geluid van water dat binnenstroomt, een ruisen, zoals de zee in een schelp, zoals het geluid van een vaart waar iets in valt, en dan het lage, regelmatige brommen van de pomp, dat de hele keuken vulde."
+    },
+    {
+      "location": "machine_tells[0]",
+      "passage_id": "B:p0059",
+      "version": "B",
+      "quote": "Ik ben in de auto gestapt en weggereden. Ik keek niet in de achteruitkijkspiegel. Dat is niet waar. Ik keek twee keer. Ik zag de kippen. Ik zag het hek, dat open bleef staan in de wind."
+    },
+    {
+      "location": "machine_tells[1]",
+      "passage_id": "B:p0109",
+      "version": "B",
+      "quote": "Ik weet niet waar het vandaan kwam. Dat is niet waar. Ik weet precies waar het vandaan kwam. Het kwam van de trap van het vredegerecht, en van de envelop met veertien tijdstippen, en van de spreadsheet die nooit rood werd, en van de voering van een jas. Het kwam van twintig jaar. Het had daar gestaan, achter mijn tanden, zoals ik het in april op de trap had gevoeld, en het had gewacht. Het had geduld gehad, zoals enveloppen."
+    },
+    {
+      "location": "machine_tells[2]",
+      "passage_id": "B:p0123",
+      "version": "B",
+      "quote": "De vaatwas begon. Eerst een klik. Dan het geluid van water dat binnenstroomt, een ruisen, zoals de zee in een schelp, zoals het geluid van een vaart waar iets in valt, en dan het lage, regelmatige brommen van de pomp, dat de hele keuken vulde."
+    },
+    {
+      "location": "machine_tells[3]",
+      "passage_id": "B:p0105",
+      "version": "B",
+      "quote": "Iedereen had gelijk. Dat is het vreemde. Ik zat daar en ik luisterde en ik vond dat iedereen gelijk had. Het was te ver. Het was schoon. Het was zijn keuze. Hij was twee\u00ebnveertig. Er was niets wat niet waar was. En toch zat er aan die tafel niemand die kreeg wat hij nodig had, en ik denk dat iedereen dat voelde, behalve misschien Karim, die het al te vaak had gevoeld om het nog op te merken."
+    }
+  ]
+}

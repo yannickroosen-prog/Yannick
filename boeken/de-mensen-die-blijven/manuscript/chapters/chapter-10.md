@@ -76,7 +76,7 @@ Ilse stak een sigaret op. Ze deed het op de stoep, in de straat, zonder te vrage
 
 Ik wachtte.
 
-"In juli. Toen hij niet sliep. Ik heb Karim gebeld. Om vijf uur 's ochtends. Ik had gezegd dat ik dat niet zou doen. Ik had u gezegd, op het feest van uw moeder, dat ik niet ging redden. Dat ik niet om twee uur 's nachts sleutels ging zoeken." Ze tikte de as af in de bloembak van de buren. "Ik heb ook geen sleutel gezocht. Ik heb gebeld. Dat is iets anders. Dat is wat ik kan. Ik kan bellen, en dan kan ik blijven zitten tot iemand komt die het wel kan. En dan kan ik naar huis gaan, en slapen, en de volgende dag terugkomen."
+"In juli. Toen hij niet sliep. Ik heb Karim gebeld. Om vijf uur 's ochtends. Ik had gezegd dat ik dat niet zou doen. Ik had u gezegd, op het feest van uw moeder, dat ik niet ging redden. Dat ik niet om twee uur 's nachts sleutels ging zoeken." Ze tikte de as af in de bloembak van de buren. "Ik heb ook geen sleutel gezocht. Ik heb gebeld. Dat kan ik. Ik kan bellen, en dan kan ik blijven zitten tot iemand komt die het wel kan. En dan kan ik naar huis gaan, en slapen, en de volgende dag terugkomen."
 
 "Gij zijt teruggekomen."
 
@@ -102,6 +102,22 @@ Toen Sanne thuiskwam, gaf ik haar de kom. Ik zei wat Ilse had gezegd: dat het ee
 
 De volgende ochtend at ze er yoghurt uit, met honing en een gesneden perzik. Ze zei niets. Ze waste hem af en zette hem niet in de kast, maar op de vensterbank, naast de vaas.
 
+Die zaterdag, aan het ontbijt, met de kom tussen ons in, zei ze: "Mag ik u iets zeggen wat niet schoon is?"
+
+"Natuurlijk."
+
+"Toen uw moeder belde, in Lagos. Bij de sardines." Ze draaide de kom een kwartslag op de vensterbank, zonder ernaar te kijken. "Ik was blij. Een halve minuut. Voor ik mij schaamde. Ik dacht: nu weet ik waar hij is. Nu belt hij niet. Nu zijt gij twee weken van mij."
+
+Ik keek naar haar. Ze keek terug. Ze sloeg haar ogen niet neer.
+
+"Ik ben jaloers op uw broer," zei Sanne. "Al zeven jaar. Op Kerstmis praat ik drie uur met hem over Pascal en ik vind hem de grappigste man die ik ken, en ik ben jaloers op hem. Hij krijgt het beste van u. Hij krijgt u om half twee 's nachts. Ik krijg u als hij slaapt."
+
+Ik zei niets.
+
+"Ik wilde het u zeggen," zei ze. "Omdat gij nooit iets lelijks zegt. Ik dacht: als ik het eerst zeg, zegt gij het misschien ook."
+
+Ik zei het niet. Ze wachtte nog even. Toen nam ze de kom van de vensterbank, spoelde hem om en zette hem terug, op dezelfde plek, naast de vaas.
+
 ---
 
 Zaterdag 15 augustus was een feestdag. Maria-Hemelvaart. De winkels waren dicht, behalve de bakker. Sanne was naar Lotte; ze gingen met Mats naar de zee, naar Bredene, met de auto van Pieter. Ze had gevraagd of ik mee wou. Ik had gezegd dat ik om vier uur bij Bram moest zijn. Ze had geknikt en me een kus gegeven, op mijn wang, vluchtig, zoals je een kus geeft aan iemand die je straks weer ziet.
@@ -120,7 +136,7 @@ De telefoon trilde. Hij trilde zes keer en hield op.
 
 Ik heb niet opgenomen.
 
-Ik kan niet goed uitleggen waarom. Ik heb het later geprobeerd, voor mezelf, op mijn blocnote. Ik heb lijstjes gemaakt. *1. Ik zou hem om vier uur zien. 2. Hij lag op een afdeling, er waren mensen. 3. Ik had kaas in mijn mond.* Het zijn allemaal redenen. Geen ervan is de reden. De reden is dat ik niet wilde. Dat ik op een zaterdag in augustus, op een feestdag, in een stil huis, met een boterham in mijn hand, één keer niet wilde opnemen. Niet omdat ik iets anders te doen had. Omdat ik niets te doen had, en dat wilde houden.
+Ik heb later lijstjes gemaakt, op mijn blocnote. *1. Ik zou hem om vier uur zien. 2. Hij lag op een afdeling, er waren mensen. 3. Ik had kaas in mijn mond.*
 
 Om twaalf voor één trilde hij opnieuw. Ik draaide hem om. Met het scherm naar beneden, op het aanrecht, naast de broodplank. Hij trilde zes keer, en het geluid van een telefoon die met zijn scherm op een aanrecht ligt te trillen is een hard, dom geluid, als een insect dat tegen een raam vliegt.
 
@@ -180,7 +196,7 @@ De afdeling ligt op de tweede verdieping van een nieuw gebouw achter het ziekenh
 
 "B-Bram," zei hij, toen ik het had gezegd. "Hij wacht op u. Al een uur."
 
-Hij stotterde. Ik keek naar hem. Ik dacht aan de mop. Ik dacht dat dit de man was die hem had verteld, en dat het lang had geduurd, en dat het het wachten waard was geweest.
+Hij stotterde.
 
 Bram zat in de dagzaal, aan een tafeltje bij het raam. Op de tv aan de muur liep een wielerkoers zonder geluid. Een vrouw in een ochtendjas zat ervoor en keek ernaar met haar handen in haar schoot, alsof het iets heel ernstigs was. Bram zat met zijn rug naar de tv. Voor hem stond het plastic schaakbord. De stukken stonden al klaar. Wit aan mijn kant.
 
@@ -202,7 +218,7 @@ Hij keek naar me. Hij keek naar de vlek van mokka-ijs op mijn hemd. Hij zei er n
 
 "Ik weet het. Ik heb uw voicemail gehoord."
 
-"Ik ga hem toch vertellen," zei Bram. "Een mop is pas af als hij twee keer is verteld. De eerste keer is voor de inhoud. De tweede keer is voor de vriendschap."
+"Ik ga hem toch vertellen," zei Bram. "In het echt is hij beter. Ik heb geoefend op de verpleger."
 
 Hij vertelde de mop opnieuw. Hij vertelde hem langzamer dan op de voicemail, met pauzes, alsof hij elke zin moest gaan halen in een kamer achteraan. *Sinds ik een puppy was.* Hij lachte. Het was een kleinere lach dan op de voicemail. Ik lachte mee. Ik lachte omdat hij lachte, en omdat de mop goed was, en omdat ik niet wist wat ik anders moest doen met mijn gezicht.
 
@@ -254,6 +270,6 @@ Om zes uur kwam de verpleger met de baard zeggen dat het bezoekuur voorbij was. 
 
 "Ik was te laat."
 
-"Ge zijt gekomen," zei Bram. "Te laat is een vorm van komen."
+"Ge zijt gekomen," zei Bram.
 
 Hij liep de gang in, naar zijn kamer, traag, in zijn joggingbroek. Ik keek hem na. Ik bleef staan bij het tafeltje. De stukken stonden er nog, zoals we ze hadden achtergelaten. Zijn koning lag op zijn zij. Mijn toren stond op de achterste rij. Het blauwe dopje stond rechtop naast de gevallen koning, met zijn ribbels naar boven.

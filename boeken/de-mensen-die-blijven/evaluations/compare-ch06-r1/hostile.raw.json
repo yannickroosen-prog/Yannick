@@ -1,0 +1,34 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "e2957551f543784b5e5a71828459dd81974309cc57162b839bf52e991916c55f",
+  "reader": "Mark",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0005"},
+  "why_stopped": {"reason": "Gilbert levert in een wachtzaal net op tijd een monoloog af die Brams 'ik wil weten hoe ik klink' bijna woord voor woord spiegelt; de vreemde is hier een handige thematische leverancier, geen mens die toevallig naast je zit."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0009", "reason": "De das aan de golfbreker en 'De zee was er' is een beeld dat de gemiste zitting tegelijk grappig en onvergeeflijk maakt."},
+    {"passage_id": "B:p0013", "reason": "Sannes jaloezie op 'een man met een das aan een paal' en de telefoon in de broekzak verklaart achteraf waarom Wouter kwaad is, en sluit aan op zijn eigen fantasie over de telefoon in zee."},
+    {"passage_id": "B:p0008", "reason": "'Wilt gij dit eigenlijk?' gevolgd door 'Natuurlijk' en het geraden margeschrift."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0009", "reason": "Hij was er om tien over half tien en werd om tien over half elf afgeroepen, dat is zestig minuten, geen vijfenzestig; ik ging terugrekenen in plaats van verder te lezen."},
+    {"passage_id": "B:p0011", "reason": "Waarom hij de sticker uit de vuilbak haalt wordt niet gezegd; ik kan het afleiden uit Gilbert, maar het blijft een sprong."}
+  ],
+  "flags": [
+    {"flag": "predictable", "passage_id": "B:p0005"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0009"},
+    {"flag": "over_explained", "passage_id": "A:p0009"},
+    {"flag": "over_explained", "passage_id": "A:p0011"},
+    {"flag": "predictable", "passage_id": "A:p0005"},
+    {"flag": "continuity_doubt", "passage_id": "A:p0009"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0013", "reason": "Sannes antwoord geeft de ruzie een echte oorzaak: Wouter is niet kwaad op het gemiste rendez-vous maar op de vrijheid die hij zichzelf niet gunt, en zij zegt dat hardop over zichzelf."},
+  "weakest_passage": {"passage_id": "A:p0009", "reason": "'Het was woede' benoemt wat de lichamelijke details (kaken, randen van de telefoon) al lieten voelen, en de herhaling over hoe groot en helder die woede was voelt als uitleg voor de lezer die het niet zou snappen."},
+  "machine_tells": [
+    {"tell": "benoemde emotie na getoonde emotie", "passage_id": "A:p0009"},
+    {"tell": "drievoudige herhaling ter nadruk ('Dat ik dat ben. Dat dat niet meer weggaat')", "passage_id": "A:p0011"}
+  ],
+  "felt": {"emotion": "irritatie en daarna herkenning", "reason": "Ik was even geërgerd door Brams streek en door de te handige Gilbert, maar Sannes jaloezie in B zette Wouters woede in een ander licht en dat voelde verdiend."},
+  "confidence": "medium",
+  "compare": "B"
+}

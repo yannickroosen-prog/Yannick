@@ -112,7 +112,7 @@ Toen schreef hij over mij.
 
 Hij las het traag. Zijn stem was rustig. Hij keek niet naar mij. Hij keek naar het papier.
 
-Hij schreef dat ik de beste broer was die hij kende. Hij schreef dat hij er maar één kende, maar dat dat niet uitmaakte. Hij schreef dat ik in januari om half twee 's nachts was komen fietsen voor een sleutel die in zijn eigen jas zat. Dat ik elke week vol-au-vent had gebracht toen mijn vader niet kon rijden. Dat ik nooit één keer niet had opgenomen in twintig jaar, behalve één keer, in augustus, en dat hij daar blij om was geweest. Hij schreef: *Blij, mevrouw de vrederechter. Ik heb die middag naar een telefoon geluisterd die bleef overgaan, en ik heb gedacht: eindelijk.*
+Hij schreef dat ik de beste broer was die hij kende. Hij schreef dat hij er maar één kende, maar dat dat niet uitmaakte. Hij schreef dat ik in januari om half twee 's nachts was komen fietsen voor een sleutel die in zijn eigen jas zat. Dat ik elke week vol-au-vent had gebracht toen mijn vader niet kon rijden. Dat ik in twintig jaar altijd had teruggebeld, ook de nachten dat ik niet opnam. Behalve één keer, in augustus. En dat hij daar blij om was geweest. Hij schreef: *Blij, mevrouw de vrederechter. Ik heb die middag naar een telefoon geluisterd die bleef overgaan, en ik heb gedacht: eindelijk.*
 
 Ik keek naar de wetboeken. Ik telde ze. Ik kwam tot drieëntwintig en begon opnieuw.
 
@@ -122,9 +122,9 @@ Hij schreef dat hij wist dat ik zijn slaapuren bijhield. Dat Karim ze me had ges
 
 Hij schreef dat hij wist dat mijn vader mij de groene kaft al in juni had gegeven, voor de zitting. Dat hij wist dat ik zijn afschriften had gelezen. Dat ik had gezien dat hij om zeven over zeven twee treintickets had gekocht naar De Panne. Hij schreef: *Ik wist dat hij het ging zien. Ik heb ze om die reden met de kaart gekocht en niet cash. Ik wilde dat hij wist dat ik het had gekozen. Dat het mij niet was overkomen.*
 
-Hij schreef dat hij veertig was, tweeënveertig nu, en dat hij in oktober naar de polders ging, honderdtwintig kilometer van Mechelen, een uur twintig op een zondag zonder file. Dat hij daar wilde wonen als iemand die zijn eigen sleutel kwijtraakt en hem zelf terugvindt, of niet. En dat hij het niet kon als zijn broer zijn bankafschriften las met zijn vinger, aan een keukentafel, om half één 's nachts.
+Hij schreef dat hij veertig was, tweeënveertig nu, en dat hij in oktober naar de polders ging, honderdtwintig kilometer van Mechelen, een uur twintig op een zondag zonder file. Dat hij daar wilde wonen als iemand die zijn eigen sleutel kwijtraakt en hem zelf terugvindt, of niet. En dat hij het niet kon als zijn broer zijn bankafschriften las.
 
-Toen las hij de zin die ik had verwacht, en die toch aankwam alsof ik hem nooit had verwacht.
+Toen las hij de laatste zin.
 
 *Mijn broer heeft al genoeg van mij beheerd. Ik vraag u om een bewindvoerder die mij niet graag ziet. Iemand die mijn rekeningen betaalt en verder niets. Dan kan mijn broer weer mijn broer zijn. Ik denk dat hij dat vergeten is. Ik denk dat hij het een beetje mist.*
 
@@ -158,6 +158,14 @@ Ze sloot het dossier. Ze zette haar bril af. Hij bleef hangen aan het koordje, o
 
 ---
 
+Bram ging voor me de zittingszaal uit. Ik bleef in de gang staan en ging naar het toilet, aan het eind van de gang, waar Jeannine in april had gezeten. Ik deed de deur op slot. Ik ging op de gesloten wc-bril zitten, in mijn gestreken hemd met de plooi in de kraag, met de sticker *BEZOEKER* op mijn borst.
+
+Ik nam mijn blocnote. Ik schreef: *Bram.* Ik schreef: *Ge hebt mij voorgelezen aan een vrederechter.* Ik schreef: *Ge hebt mijn tabel voorgelezen aan een griffier die alles opschrijft.* Ik schreef: *Twintig jaar, en ge zet mij in een dossier.* Ik schreef nog vier regels. Ze waren gemeen. Ze waren gemener dan de zin aan de keukentafel in mei, en ze waren allemaal waar, of ze voelden toch zo, op die wc-bril.
+
+Ik las ze over. Ik scheurde het blad niet uit. Ik sloeg de blocnote dicht, met de regels erin, naast de sticker van april en *Ge gaat het weten*. Ik heb ze nooit verstuurd. Ik heb ze ook nooit doorgestreept. Ze staan er nog.
+
+Ik trok door, hoewel ik niets had gedaan, en waste mijn handen.
+
 Buiten scheen de zon. Het was september, en de platanen op het plein begonnen bruin te worden aan de randen. Ilse zat op de trap van blauwe steen te roken. Ze stond op toen ze ons zag.
 
 "En?" zei ze.
@@ -184,11 +192,7 @@ Een meeuw landde op de reling van de brug. Hij keek naar ons met dezelfde gele b
 
 "Ik had het niet mogen zeggen," zei ik.
 
-"Nee," zei Bram. "Maar ge hebt het gezegd. Twintig jaar hebt ge het niet gezegd, en dan hebt ge het gezegd. Ik was bijna opgelucht."
-
-"Opgelucht?"
-
-"Dat ge kwaad kunt worden. Ik dacht dat ge dat niet kon." Hij keek naar me. "Ik dacht dat ge alleen kunt blijven."
+"Nee," zei Bram.
 
 Ik zei niets.
 
@@ -198,17 +202,17 @@ Hij keek weer naar het water. Het was laag en bruin en traag, en er dreef een pl
 
 "Omdat ge mijn broer zijt."
 
-"Dat is waarom ge gekomen zijt," zei Bram. "Ik vraag waarom ge gebleven zijt."
+"Daarom zijt ge gekomen," zei Bram. "Gebleven zijt ge om iets anders."
 
 Ik wist niet wat het verschil was. Ik zei het.
 
 Bram knikte. Hij nam de envelop onder zijn arm vandaan en legde hem op zijn knieën. Hij streek hem glad met zijn hand.
 
-"Ge zijt nooit gebleven omdat ge moedig waart," zei hij. Hij zei het niet als een aforisme. Hij zei het traag, zoekend, zoals je iets zegt wat je op de afdeling hebt bedacht en nog niet hardop hebt geprobeerd. "Ik heb daar veel over nagedacht. In juli. Ik had tijd. Ge zijt gebleven omdat ge bang waart. Niet van mij. Van wat ge zoudt zijn als ge wegging. Gij dacht dat ge dan een slechte mens zoudt zijn. Een broer die vertrekt. Gij dacht dat er niemand anders zou zijn als ge geen goede broer waart. Ge hebt nooit een andere versie van uzelf geprobeerd, kleine. Ge waart te bang dat het een slechtere zou zijn."
+"Ge zijt nooit gebleven omdat ge moedig waart," zei hij. Hij zei het traag, zoekend. "Ge waart bang. Niet van mij. Van wat ge zoudt zijn als ge wegging."
 
 Ik keek naar de meeuw. Hij vloog weg.
 
-"Ik heb het ook gedacht," zei Bram. "Van mezelf. Dat ik niemand zou zijn zonder mijn ziekte. Dat het het enige is wat mensen van mij weten. Ik ben dan in juli in die kamer gaan liggen, en ik heb gedacht: misschien is het waar. Misschien ben ik niemand zonder. Misschien is dat goed. Misschien moet iedereen eens niemand zijn."
+"Ik ben ook bang," zei Bram. "Van wat ik zou zijn zonder." Hij zei niet zonder wat.
 
 ---
 

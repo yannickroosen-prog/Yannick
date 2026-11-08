@@ -1,0 +1,26 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "9daa87fc785dd2165b5e352cdbc498ecf9e6e1bd536c6bf82680c9239c795df2",
+  "reader": "Airport reader",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0002"},
+  "why_stopped": {"reason": "Na een hele pagina thermoskan komt nog een functieomschrijving en een stand-up; mijn aandacht zakte daar even weg tot de moeder belt, maar ik legde het boek niet neer."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0004", "reason": "Hij bespreekt eerst nog twee kaartjes terwijl zijn vader een infarct heeft; dat zegt meteen wie hij is."},
+    {"passage_id": "B:p0011", "reason": "Neemt gij het over? De vraag waar het hele boek om draait, op het juiste moment."},
+    {"passage_id": "B:p0013", "reason": "Hij vertelt het Bram niet; 'Het is mogelijk dat ik mezelf spaarde' blijft hangen."}
+  ],
+  "confused_by": [],
+  "flags": [
+    {"flag": "slow_start", "passage_id": "B:p0001"},
+    {"flag": "exposition_dump", "passage_id": "A:p0007"},
+    {"flag": "over_explained", "passage_id": "A:p0012"},
+    {"flag": "slow_start", "passage_id": "A:p0001"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0008", "reason": "Bram komt binnen en de kamer leeft: de paraplu, 'uw hart officieel bevestigd', de kus die Wouter niet gaf. Grappig en pijnlijk tegelijk."},
+  "weakest_passage": {"passage_id": "B:p0017", "reason": "Een halve pagina regels over bewindvoering vlak voor het einde; het forumbericht redt het, maar de opsomming remt."},
+  "machine_tells": [],
+  "felt": {"emotion": "geamuseerd en ongemakkelijk", "reason": "Ik lachte om Bram en voelde het onbehagen van een broer die achter zijn rug om beslist."},
+  "confidence": "medium",
+  "compare": "B"
+}

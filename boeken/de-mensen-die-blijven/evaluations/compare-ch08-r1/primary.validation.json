@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "status": "invalid",
+  "valid": false,
+  "source_chapters": [
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-08.md",
+      "sha256": "1adea626643427be8765b3e125ff2713db18d9ae41906d76ee59674491931b13",
+      "bytes": 18716
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/work/attempts/chapter-08/stage-r1/chapter.md",
+      "sha256": "c94e109a646775e1b2c86b421b88b91f125dac0dc1dd7485a8117d72cd0686cc",
+      "bytes": 19571
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-07.md",
+      "sha256": "195dde89175aaec920960e96f1ff1f5d7df1c7860d5ba96362d1ef89a75c2483",
+      "bytes": 20210
+    }
+  ],
+  "report_sha256": "b54b6c0955cd5e3930f9fd5d786b3968a945512117cf910ca46f464655ad86fd",
+  "errors": [
+    "evidence catalog: comparison catalog differs from the assigned source files",
+    "stopped_at: unknown passage_id",
+    "strongest_passage: unknown passage_id",
+    "weakest_passage: unknown passage_id",
+    "remember_tomorrow[0]: unknown passage_id",
+    "remember_tomorrow[1]: unknown passage_id",
+    "remember_tomorrow[2]: unknown passage_id",
+    "remember_tomorrow[3]: unknown passage_id",
+    "confused_by[0]: unknown passage_id",
+    "confused_by[1]: unknown passage_id",
+    "flags[0]: unknown passage_id",
+    "flags[1]: unknown passage_id",
+    "flags[2]: unknown passage_id",
+    "stopped_at.quote must be a non-empty string",
+    "remember_tomorrow[0].quote must be a non-empty string",
+    "remember_tomorrow[1].quote must be a non-empty string",
+    "remember_tomorrow[2].quote must be a non-empty string",
+    "remember_tomorrow[3].quote must be a non-empty string",
+    "confused_by[0].quote must be a non-empty string",
+    "confused_by[1].quote must be a non-empty string",
+    "flags[0].quote must be a non-empty string",
+    "flags[1].quote must be a non-empty string",
+    "flags[2].quote must be a non-empty string",
+    "strongest_passage.quote must be a non-empty string",
+    "weakest_passage.quote must be a non-empty string"
+  ],
+  "expected_reader": "Lena"
+}

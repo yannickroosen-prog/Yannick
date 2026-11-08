@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "source_chapters": [
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-11.md",
+      "sha256": "9e153692362f9cc6bb68a6df978590ddd9d6eaba90e4a517f05ce90b2c6c71a1",
+      "bytes": 17567
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/work/attempts/chapter-11/stage-r1/chapter.md",
+      "sha256": "b18a6b2c3a14dad07ca9b375bc6ac081405e301b5fc25b3abbc55b476b8caa84",
+      "bytes": 17513
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-10.md",
+      "sha256": "e166c7044bb7a7b35ab11bd2d2ef392ddded7fb3d035a4d85451d8961cb41dba",
+      "bytes": 19092
+    }
+  ],
+  "report_sha256": "770ea34e0a612437ea20ce316c217a684a18bd5348d3ed6949118bfcace8ea9d",
+  "errors": [],
+  "expected_reader": "Lena",
+  "catalog_sha256": "812602608e53425f3e6f9cac4210832b3d1d995aeea33c9abce7fae90a8a5303",
+  "resolved_evidence": [
+    {
+      "location": "strongest_passage",
+      "passage_id": "B:p0008",
+      "version": "B",
+      "quote": "Bram ging voor me de zittingszaal uit. Ik bleef in de gang staan en ging naar het toilet, aan het eind van de gang, waar Jeannine in april had gezeten. Ik deed de deur op slot. Ik ging op de gesloten wc-bril zitten, in mijn gestreken hemd met de plooi in de kraag, met de sticker *BEZOEKER* op mijn borst.\n\nIk nam mijn blocnote. Ik schreef: *Bram.* Ik schreef: *Ge hebt mij voorgelezen aan een vrederechter.* Ik schreef: *Ge hebt mijn tabel voorgelezen aan een griffier die alles opschrijft.* Ik schreef: *Twintig jaar, en ge zet mij in een dossier.* Ik schreef nog vier regels. Ze waren gemeen. Ze waren gemener dan de zin aan de keukentafel in mei, en ze waren allemaal waar, of ze voelden toch zo, op die wc-bril.\n\nIk las ze over. Ik scheurde het blad niet uit. Ik sloeg de blocnote dicht, met de regels erin, naast de sticker van april en *Ge gaat het weten*. Ik heb ze nooit verstuurd. Ik heb ze ook nooit doorgestreept. Ze staan er nog.\n\nIk trok door, hoewel ik niets had gedaan, en waste mijn handen.\n\nBuiten scheen de zon. Het was september, en de platanen op het plein begonnen bruin te worden aan de randen. Ilse zat op de trap van blauwe steen te roken. Ze stond op toen ze ons zag.\n\n\"En?\" zei ze.\n\n\"Een notaris,\" zei Bram. \"Of een advocaat. Iemand uit Diksmuide. Iemand die mij niet graag ziet.\"\n\nIlse keek naar Bram. Ze keek naar mij. Ze trapte haar sigaret uit en stak de peuk in haar zak.\n\n\"Ik ga sigaretten halen,\" zei ze. \"Aan de Vismarkt. Dat duurt lang. Ik ken de weg niet goed.\"\n\nZe kende de weg heel goed. Ze liep weg over het plein, in haar zwarte jurk, zonder om te kijken."
+    },
+    {
+      "location": "weakest_passage",
+      "passage_id": "A:p0103",
+      "version": "A",
+      "quote": "\"Ge zijt nooit gebleven omdat ge moedig waart,\" zei hij. Hij zei het niet als een aforisme. Hij zei het traag, zoekend, zoals je iets zegt wat je op de afdeling hebt bedacht en nog niet hardop hebt geprobeerd. \"Ik heb daar veel over nagedacht. In juli. Ik had tijd. Ge zijt gebleven omdat ge bang waart. Niet van mij. Van wat ge zoudt zijn als ge wegging. Gij dacht dat ge dan een slechte mens zoudt zijn. Een broer die vertrekt. Gij dacht dat er niemand anders zou zijn als ge geen goede broer waart. Ge hebt nooit een andere versie van uzelf geprobeerd, kleine. Ge waart te bang dat het een slechtere zou zijn.\""
+    },
+    {
+      "location": "remember_tomorrow[0]",
+      "passage_id": "B:p0008",
+      "version": "B",
+      "quote": "Bram ging voor me de zittingszaal uit. Ik bleef in de gang staan en ging naar het toilet, aan het eind van de gang, waar Jeannine in april had gezeten. Ik deed de deur op slot. Ik ging op de gesloten wc-bril zitten, in mijn gestreken hemd met de plooi in de kraag, met de sticker *BEZOEKER* op mijn borst.\n\nIk nam mijn blocnote. Ik schreef: *Bram.* Ik schreef: *Ge hebt mij voorgelezen aan een vrederechter.* Ik schreef: *Ge hebt mijn tabel voorgelezen aan een griffier die alles opschrijft.* Ik schreef: *Twintig jaar, en ge zet mij in een dossier.* Ik schreef nog vier regels. Ze waren gemeen. Ze waren gemener dan de zin aan de keukentafel in mei, en ze waren allemaal waar, of ze voelden toch zo, op die wc-bril.\n\nIk las ze over. Ik scheurde het blad niet uit. Ik sloeg de blocnote dicht, met de regels erin, naast de sticker van april en *Ge gaat het weten*. Ik heb ze nooit verstuurd. Ik heb ze ook nooit doorgestreept. Ze staan er nog.\n\nIk trok door, hoewel ik niets had gedaan, en waste mijn handen.\n\nBuiten scheen de zon. Het was september, en de platanen op het plein begonnen bruin te worden aan de randen. Ilse zat op de trap van blauwe steen te roken. Ze stond op toen ze ons zag.\n\n\"En?\" zei ze.\n\n\"Een notaris,\" zei Bram. \"Of een advocaat. Iemand uit Diksmuide. Iemand die mij niet graag ziet.\"\n\nIlse keek naar Bram. Ze keek naar mij. Ze trapte haar sigaret uit en stak de peuk in haar zak.\n\n\"Ik ga sigaretten halen,\" zei ze. \"Aan de Vismarkt. Dat duurt lang. Ik ken de weg niet goed.\"\n\nZe kende de weg heel goed. Ze liep weg over het plein, in haar zwarte jurk, zonder om te kijken."
+    },
+    {
+      "location": "remember_tomorrow[1]",
+      "passage_id": "A:p0064",
+      "version": "A",
+      "quote": "*Mijn broer heeft al genoeg van mij beheerd. Ik vraag u om een bewindvoerder die mij niet graag ziet. Iemand die mijn rekeningen betaalt en verder niets. Dan kan mijn broer weer mijn broer zijn. Ik denk dat hij dat vergeten is. Ik denk dat hij het een beetje mist.*"
+    },
+    {
+      "location": "remember_tomorrow[2]",
+      "passage_id": "B:p0011",
+      "version": "B",
+      "quote": "Ik zei niets. Ik keek naar mijn handen. Ze lagen op mijn knie\u00ebn. Ik keek ernaar zoals ik in maart naar mijn handen had gekeken aan zijn tafel, toen hij zei dat ik het meende met mijn hoofd maar niet met mijn handen. Ze lagen heel stil.\n\nBram stond op.\n\n\"Ik heb honger,\" zei hij. \"Ik heb sinds gisteren niets gegeten. Van de zenuwen. Wilt ge frieten?\"\n\nIk keek op.\n\n\"Er is een frietkot aan de Grote Markt,\" zei hij. \"Het beste van Mechelen. Ik weet dat gij dat niet vindt. Gij vindt dat dat van de Veemarkt beter is. Gij hebt ongelijk.\"\n\nHij liep weg voor ik kon antwoorden. Ik bleef op de bank zitten. Ik keek naar de envelop, die hij op de bank had laten liggen, naast me. Ik raakte hem niet aan.\n\nNa tien minuten kwam hij terug met twee pakjes frieten in papieren puntzakken, met een vorkje erin. Hij gaf er een aan mij. Hij ging weer zitten.\n\n\"Ik heb zonder saus genomen,\" zei hij. \"Voor ons allebei. De man vroeg: met mayonaise? En ik zei: nee, zonder saus, graag. En hij keek naar mij alsof ik iets heel ernstigs had gezegd.\"\n\nIk nam een friet. Hij was heet en zout en knapperig. Ik had in mijn leven nooit frieten zonder saus gegeten.\n\nBram at naast me. Hij at langzaam, de ene na de andere, met zijn vingers in plaats van met het vorkje. Het grijze kostuum van mijn vader hing om hem heen. Er viel een friet op zijn das, de nieuwe, met de witte stippen, en hij liet ze liggen."
+    },
+    {
+      "location": "confused_by[0]",
+      "passage_id": "B:p0008",
+      "version": "B",
+      "quote": "Bram ging voor me de zittingszaal uit. Ik bleef in de gang staan en ging naar het toilet, aan het eind van de gang, waar Jeannine in april had gezeten. Ik deed de deur op slot. Ik ging op de gesloten wc-bril zitten, in mijn gestreken hemd met de plooi in de kraag, met de sticker *BEZOEKER* op mijn borst.\n\nIk nam mijn blocnote. Ik schreef: *Bram.* Ik schreef: *Ge hebt mij voorgelezen aan een vrederechter.* Ik schreef: *Ge hebt mijn tabel voorgelezen aan een griffier die alles opschrijft.* Ik schreef: *Twintig jaar, en ge zet mij in een dossier.* Ik schreef nog vier regels. Ze waren gemeen. Ze waren gemener dan de zin aan de keukentafel in mei, en ze waren allemaal waar, of ze voelden toch zo, op die wc-bril.\n\nIk las ze over. Ik scheurde het blad niet uit. Ik sloeg de blocnote dicht, met de regels erin, naast de sticker van april en *Ge gaat het weten*. Ik heb ze nooit verstuurd. Ik heb ze ook nooit doorgestreept. Ze staan er nog.\n\nIk trok door, hoewel ik niets had gedaan, en waste mijn handen.\n\nBuiten scheen de zon. Het was september, en de platanen op het plein begonnen bruin te worden aan de randen. Ilse zat op de trap van blauwe steen te roken. Ze stond op toen ze ons zag.\n\n\"En?\" zei ze.\n\n\"Een notaris,\" zei Bram. \"Of een advocaat. Iemand uit Diksmuide. Iemand die mij niet graag ziet.\"\n\nIlse keek naar Bram. Ze keek naar mij. Ze trapte haar sigaret uit en stak de peuk in haar zak.\n\n\"Ik ga sigaretten halen,\" zei ze. \"Aan de Vismarkt. Dat duurt lang. Ik ken de weg niet goed.\"\n\nZe kende de weg heel goed. Ze liep weg over het plein, in haar zwarte jurk, zonder om te kijken."
+    },
+    {
+      "location": "flags[0]",
+      "passage_id": "A:p0103",
+      "version": "A",
+      "quote": "\"Ge zijt nooit gebleven omdat ge moedig waart,\" zei hij. Hij zei het niet als een aforisme. Hij zei het traag, zoekend, zoals je iets zegt wat je op de afdeling hebt bedacht en nog niet hardop hebt geprobeerd. \"Ik heb daar veel over nagedacht. In juli. Ik had tijd. Ge zijt gebleven omdat ge bang waart. Niet van mij. Van wat ge zoudt zijn als ge wegging. Gij dacht dat ge dan een slechte mens zoudt zijn. Een broer die vertrekt. Gij dacht dat er niemand anders zou zijn als ge geen goede broer waart. Ge hebt nooit een andere versie van uzelf geprobeerd, kleine. Ge waart te bang dat het een slechtere zou zijn.\""
+    },
+    {
+      "location": "flags[1]",
+      "passage_id": "A:p0095",
+      "version": "A",
+      "quote": "\"Dat ge kwaad kunt worden. Ik dacht dat ge dat niet kon.\" Hij keek naar me. \"Ik dacht dat ge alleen kunt blijven.\""
+    },
+    {
+      "location": "flags[2]",
+      "passage_id": "B:p0008",
+      "version": "B",
+      "quote": "Bram ging voor me de zittingszaal uit. Ik bleef in de gang staan en ging naar het toilet, aan het eind van de gang, waar Jeannine in april had gezeten. Ik deed de deur op slot. Ik ging op de gesloten wc-bril zitten, in mijn gestreken hemd met de plooi in de kraag, met de sticker *BEZOEKER* op mijn borst.\n\nIk nam mijn blocnote. Ik schreef: *Bram.* Ik schreef: *Ge hebt mij voorgelezen aan een vrederechter.* Ik schreef: *Ge hebt mijn tabel voorgelezen aan een griffier die alles opschrijft.* Ik schreef: *Twintig jaar, en ge zet mij in een dossier.* Ik schreef nog vier regels. Ze waren gemeen. Ze waren gemener dan de zin aan de keukentafel in mei, en ze waren allemaal waar, of ze voelden toch zo, op die wc-bril.\n\nIk las ze over. Ik scheurde het blad niet uit. Ik sloeg de blocnote dicht, met de regels erin, naast de sticker van april en *Ge gaat het weten*. Ik heb ze nooit verstuurd. Ik heb ze ook nooit doorgestreept. Ze staan er nog.\n\nIk trok door, hoewel ik niets had gedaan, en waste mijn handen.\n\nBuiten scheen de zon. Het was september, en de platanen op het plein begonnen bruin te worden aan de randen. Ilse zat op de trap van blauwe steen te roken. Ze stond op toen ze ons zag.\n\n\"En?\" zei ze.\n\n\"Een notaris,\" zei Bram. \"Of een advocaat. Iemand uit Diksmuide. Iemand die mij niet graag ziet.\"\n\nIlse keek naar Bram. Ze keek naar mij. Ze trapte haar sigaret uit en stak de peuk in haar zak.\n\n\"Ik ga sigaretten halen,\" zei ze. \"Aan de Vismarkt. Dat duurt lang. Ik ken de weg niet goed.\"\n\nZe kende de weg heel goed. Ze liep weg over het plein, in haar zwarte jurk, zonder om te kijken."
+    }
+  ]
+}

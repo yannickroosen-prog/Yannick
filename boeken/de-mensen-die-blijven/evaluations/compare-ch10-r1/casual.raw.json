@@ -1,0 +1,29 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "994b9b74afc0c29174b00170e9ea3b13ec30230c5fd6918da5c79d960a0f3bdc",
+  "reader": "Airport reader",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0008"},
+  "why_stopped": {"reason": "Ijsje, slagroom, Camus en een dutje op de dijk: mooi, maar ik wilde weten wat Bram wilde en hier gebeurt een hele bladzijde niets, dus ik begon te bladeren."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0005", "reason": "Sanne die zegt dat ze jaloers is op Bram en blij was toen hij opgenomen werd; dat is een klap die ik niet zag aankomen en die het hele huwelijk openlegt."},
+    {"passage_id": "B:p0010", "reason": "De voicemail met de puppy-mop: ik verwachtte een noodoproep en kreeg een grap, dat draait de spanning in één keer om."},
+    {"passage_id": "B:p0012", "reason": "Het dopje als loper dat zijn eigen koning matzet; een beeld dat blijft hangen."}
+  ],
+  "confused_by": [],
+  "flags": [
+    {"flag": "slow_start", "passage_id": "B:p0002"},
+    {"flag": "over_explained", "passage_id": "A:p0006"},
+    {"flag": "cliche", "passage_id": "A:p0011"},
+    {"flag": "over_explained", "passage_id": "A:p0013"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0005", "reason": "Een korte, eerlijke ontbijtscène met echte inzet: Sanne zegt iets lelijks, hij zegt niets terug, en dat zwijgen zegt meer dan een uitleg."},
+  "weakest_passage": {"passage_id": "A:p0006", "reason": "Hij legt in een hele alinea uit waarom hij niet opnam, terwijl ik het al voelde; B laat alleen het lijstje staan en dat is sterker."},
+  "machine_tells": [
+    {"tell": "aforistische slotzin in dialoog", "passage_id": "A:p0013"},
+    {"tell": "aforistische uitleg in dialoog", "passage_id": "A:p0011"}
+  ],
+  "felt": {"emotion": "spanning, daarna opluchting en een steek schuld", "reason": "Het niet-opnemen deed me schrikken, de mop loste het op, en de schaakpartij liet me ongemakkelijk achter; in B kwam Sannes bekentenis er nog als extra steek bij."},
+  "confidence": "medium",
+  "compare": "B"
+}

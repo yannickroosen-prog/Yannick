@@ -82,15 +82,29 @@ Ik verloor de partij in eenendertig zetten. Bram zette me mat met een pion. Hij 
 
 Op het werk ging een project mis.
 
-Ik vertel het omdat het gebeurde, niet omdat het belangrijk is. Het project heette Claimflow. Het was een nieuw systeem waarmee klanten hun schade zelf konden melden via een app, met foto's, zonder dat er een mens aan te pas kwam. Ik had er acht maanden aan gewerkt. Het zou live gaan op maandag 12 januari om zes uur 's ochtends.
+Het project heette Claimflow. Het was een nieuw systeem waarmee klanten hun schade zelf konden melden via een app, met foto's, zonder dat er een mens aan te pas kwam. Ik had er acht maanden aan gewerkt. Het zou live gaan op maandag 12 januari om zes uur 's ochtends.
 
 Om zes uur en vier minuten meldde een man in Aalst een waterschade. Om zes uur en zes minuten meldde dezelfde man dezelfde waterschade nog eens, omdat hij geen bevestiging had gekregen. Om acht uur had hij ze zevenenveertig keer gemeld, en het systeem had zevenenveertig dossiers aangemaakt, met zevenenveertig keer dezelfde foto van een plafond met een bruine vlek die de vorm had van Afrika.
 
-Er volgde een crisisvergadering. Er volgde nog een. Er volgden er vijf in drie dagen, met mensen van de juridische dienst en mensen van de communicatiedienst en een man van de directie die alleen maar vroeg wie verantwoordelijk was. Ik zei dat ik verantwoordelijk was. Dat was waar. Het was ook het enige wat ik kon zeggen zonder iemand anders iets aan te doen.
+Om negen uur zat ik in een vergaderzaal op de zesde verdieping met mensen van de juridische dienst, mensen van de communicatiedienst en een man van de directie die ik nog nooit had gezien. Hij had een grijs pak en een bril zonder rand, en hij stelde maar één vraag. Hij stelde ze drie keer, op dezelfde toon.
+
+"Wie is hier verantwoordelijk voor?"
+
+Ik zei dat ik verantwoordelijk was. Het was waar. Het was ook het enige wat ik kon zeggen zonder dat iemand anders aan tafel naar zijn schoenen moest kijken.
 
 "Goed," zei de man van de directie. "Dan weten we dat."
 
-Tijdens de vierde vergadering trilde mijn telefoon. *Bram.* Ik drukte hem weg. Hij belde opnieuw. Ik drukte hem weer weg en stuurde een bericht: *in vergadering, bel u straks*. Hij stuurde een foto terug van een vaas. Ze was grijsgroen, met een opening zo klein dat er geen bloem in kon. Daaronder: *Ilse. Voor u. Ze zegt dat gij een vaas nodig hebt waar niets in kan.*
+Op dat moment trilde mijn telefoon op tafel. Het scherm lag naar boven. Er stond *Bram*, in grote witte letters, en iedereen aan tafel kon het lezen. De man van de directie keek ernaar. Toen keek hij naar mij.
+
+Ik drukte hem weg. Hij belde meteen opnieuw. *Bram.* De vrouw van de communicatiedienst keek naar het plafond. Ik drukte hem weer weg en draaide de telefoon om, en ik voelde hem tegen het tafelblad trillen, een derde keer, als een insect onder een glas.
+
+"Moet ge dat nemen?" vroeg de man van de directie.
+
+"Nee," zei ik. "Het is niets."
+
+Ik zei *het is niets* over mijn broer, in een vergaderzaal, tegen een man in een grijs pak, terwijl op het scherm achter hem een plafond met de vorm van Afrika hing. Ik had het nog nooit zo gezegd. Ik heb het daarna nog twee keer gezegd, in die week, tegen andere mensen, en het werd elke keer makkelijker.
+
+Er volgden nog vier vergaderingen in drie dagen. Onder de tafel stuurde ik Bram een bericht: *in vergadering, bel u straks*. Hij stuurde een foto terug van een vaas. Ze was grijsgroen, met een opening zo klein dat er geen bloem in kon. Daaronder: *Ilse. Voor u. Ze zegt dat gij een vaas nodig hebt waar niets in kan.*
 
 Ik keek naar de foto onder de tafel terwijl de man van de directie praatte. Ik dacht: hoe weet zij wat ik nodig heb, ik heb haar nog nooit gezien. Ik dacht: Bram heeft over mij verteld. Ik dacht: wat heeft hij verteld. Ik heb die avond niet teruggebeld. Ik was het vergeten. Ik vergeet zelden iets, en ik vergat dat.
 

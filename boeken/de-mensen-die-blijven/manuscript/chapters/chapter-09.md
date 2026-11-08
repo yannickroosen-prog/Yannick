@@ -2,7 +2,7 @@
 
 We vertrokken op zaterdag 11 juli, om tien over zes 's ochtends, vanuit Zaventem.
 
-Ik had alles geregeld. Ik had in de week voor vertrek drie avonden aan de keukentafel gezeten met de groene kaft en mijn laptop. Ik had met mijn vader de doorlopende opdrachten nagekeken: de huur, de energie, de mutualiteit, de honderdtwintig euro op maandag. Hij had ze ingevoerd, met zijn bril op, met zijn hand die een beetje beefde boven de muis, en ik had ernaast gezeten en alles opgeschreven. Ik had tabblad drie gefotografeerd met mijn telefoon, bladzijde per bladzijde, zesendertig foto's. Ik had een lijstje gemaakt van telefoonnummers en het aan mijn moeder gegeven, en aan Karim gemaild, en aan mezelf. Bovenaan stond Karim. Daaronder de psychiater. Daaronder het mobiel team, de nachtlijn, Ilse. Onderaan stond mijn eigen nummer, met erachter, tussen haakjes: *(Portugal, +1 uur)*.
+Ik had alles geregeld. Ik had in de week voor vertrek drie avonden aan de keukentafel gezeten met de groene kaft en mijn laptop. Ik had met mijn vader de doorlopende opdrachten nagekeken: de huur, de energie, de mutualiteit, de honderdtwintig euro op maandag. Hij had ze ingevoerd, met zijn bril op, met zijn hand die een beetje beefde boven de muis, en ik had ernaast gezeten en alles opgeschreven. Ik had tabblad drie gefotografeerd met mijn telefoon, bladzijde per bladzijde, zesendertig foto's. Ik had een lijstje gemaakt van telefoonnummers en het aan mijn moeder gegeven, en aan Karim gemaild, en aan mezelf. Bovenaan stond Karim. Daaronder de psychiater. Daaronder het mobiel team, de nachtlijn, Ilse. Onderaan stond mijn eigen nummer, met erachter, tussen haakjes: *(Portugal, −1 uur)*.
 
 Ik had Bram een bericht gestuurd. *Ik ben twee weken in Portugal met Sanne. Van 11 tot 25 juli. Mijn telefoon staat aan.* Er waren twee blauwe vinkjes gekomen. Daarna niets.
 
@@ -54,7 +54,7 @@ Op donderdag 16 juli, om tien voor één, aten we sardines op een terras aan de 
 
 Mijn telefoon trilde op tafel. *Mama.*
 
-Mijn moeder belt mij om kwart over zeven. Ze belt niet om tien voor twaalf Belgische tijd. Ik keek naar het scherm. Ik keek naar Sanne. Ze legde haar vork neer.
+Mijn moeder belt mij om kwart over zeven. Ze belt niet om tien voor twee Belgische tijd. Ik keek naar het scherm. Ik keek naar Sanne. Ze legde haar vork neer.
 
 "Neem op," zei ze.
 
@@ -104,7 +104,7 @@ Ik keek naar de zee. Ze was blauw, zoals altijd. Er voer een bootje met toeriste
 
 "Ge moogt dat zeggen."
 
-Ze zweeg. Toen zei ze dat ze moest ophangen, dat de soep op het vuur stond, en ze hing op voor ik iets kon antwoorden. Het was tien over twaalf in België. Mijn moeder maakt geen soep 's middags.
+Ze zweeg. Toen zei ze dat ze moest ophangen, dat de soep op het vuur stond, en ze hing op voor ik iets kon antwoorden. Het was tien over twee in België. Mijn moeder maakt geen soep 's middags.
 
 Ik legde de telefoon op tafel, met het scherm naar beneden. De meeuw was weg. Mijn sardines waren koud geworden. Ik at ze toch op. Ik at ze helemaal op, tot de graat, zoals de man met de schort me de eerste dag had getoond: je trekt de graat er in één keer uit, van de staart naar de kop, en wat overblijft is alleen vlees. Sanne keek naar me terwijl ik at. Ze zei niets. Ik denk dat ze nog nooit iemand zo zorgvuldig een sardine had zien eten.
 
@@ -168,13 +168,15 @@ Sanne knikte. Ze vroeg niet waarom. Ik heb het haar later verteld, wat Karim had
 
 De tweede week was de mooiste vakantie van mijn leven.
 
-Ik schrijf het hier op omdat het waar is, en omdat het het lelijkste is wat ik in dit hele jaar heb opgeschreven.
-
 We huurden een auto en reden naar Sagres, naar de kaap van Sint-Vincentius, het zuidwestelijkste punt van Europa, waar vroeger de wereld ophield. Er staat een vuurtoren op de rotsen, en er is een kraampje dat worsten verkoopt met een bord *Last bratwurst before America*. We aten er een. We stonden aan de rand van de klif, honderd meter boven het water, en keken naar de oceaan die tegen de rotsen sloeg, zo hard dat het schuim tot halverwege omhoog kwam. Het waaide. Het waaide zoals in de polders, aan het hek van De Kreek. Ik dacht aan de kippen.
 
 We zwommen elke dag. We aten elke avond vis. We sliepen elke nacht met het raam open, en de zwaluwen maakten ons wakker om half zeven, en we sliepen gewoon verder. Ik las een boek over de zeevaarders van Portugal dat ik in een tweedehandswinkel in Lagos had gevonden, in het Engels, met een kaart vooraan van de routes van Vasco da Gama. Ik las het met plezier. Ik las niets anders. Ik keek niet meer elk uur op mijn telefoon. Ik keek twee keer per dag: 's ochtends en om kwart over zes, als mijn moeder belde. Ze zei dat Bram rustte. Ze zei dat ze op zaterdag bij hem was geweest en dat hij een bord spaghetti had gegeten, helemaal, en dat hij gelachen had om een verpleger die stotterde. Ze zei niets meer over haar nachten. Ik vroeg niets.
 
-Ik was gelukkig. Ik was gelukkig terwijl mijn broer in een psychiatrische afdeling lag in Mechelen, op tweeduizend kilometer, en ik weet niet of ik gelukkig was ondanks dat of omdat. Ik heb er lang over nagedacht. Ik denk dat het allebei was. Ik denk dat ik gelukkig was omdat ik wist waar hij was. Omdat er mensen bij hem waren. Omdat niemand mij om drie uur 's nachts ging bellen. Ik denk dat ik, op de rand van de klif bij Sagres, met een braadworst in mijn hand, precies hetzelfde voelde als mijn moeder van elf tot zeven. En ik denk dat ik het niet tegen haar mocht zeggen, en niet tegen Sanne, en niet tegen mezelf, en ik zeg het nu alleen hier.
+Ik was gelukkig. Ik was gelukkig terwijl mijn broer in een psychiatrische afdeling lag in Mechelen, op tweeduizend kilometer, en ik heb het niemand gezegd. Niet aan mijn moeder, die van elf tot zeven had geslapen. Niet aan Sanne.
+
+---
+
+Op de laatste dag kocht ik in een winkeltje aan de haven een sardine van keramiek voor mijn moeder. Ze was blauw, met witte schubben en een open bek, en ze kostte zes euro. Ik dacht aan het hotel in Blankenberge en aan de winter. Ik liet ze inpakken in krantenpapier. Voor Bram kocht ik niets. Ik stond tien minuten voor een rek met kaarten van vuurtorens en meeuwen en *Last bratwurst before America*, en ik koos er geen, en ik ging naar buiten. Op het terras van de bakker ernaast zat een man alleen een pastel de nata te eten met zijn ogen dicht. Ik keek naar hem tot hij ze opendeed.
 
 ---
 
@@ -202,7 +204,7 @@ Ze zweeg lang. Ze keek naar de daken, naar de zee daarachter, die nu zwart was m
 
 "Ik weet het."
 
-"Dat zou goed zijn voor u," zei ze. Ze zei het zonder bitterheid. Ze zei het zoals je iets vaststelt. "Weg zijn. Twee weken per maand. Ge zoudt goed zijn in weg zijn, denk ik. Beter dan in hier zijn."
+"Dat zou goed zijn voor u," zei ze. Ze zei het zonder bitterheid. "Weg zijn. Twee weken per maand. Ge zoudt goed zijn in weg zijn, denk ik. Beter dan in hier zijn."
 
 Ik zei niets.
 

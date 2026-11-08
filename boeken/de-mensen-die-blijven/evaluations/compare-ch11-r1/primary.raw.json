@@ -1,0 +1,27 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "812602608e53425f3e6f9cac4210832b3d1d995aeea33c9abce7fae90a8a5303",
+  "reader": "Lena",
+  "turn_page": "yes",
+  "stopped_at": null,
+  "why_stopped": null,
+  "remember_tomorrow": [
+    {"passage_id": "B:p0008", "reason": "Wouter die op de wc-bril gemene regels in zijn blocnote schrijft en ze nooit verstuurt maar ook nooit doorstreept: eindelijk zie ik zijn woede, en ze blijft van hem."},
+    {"passage_id": "A:p0064", "reason": "De bewindvoerder 'die mij niet graag ziet' zodat zijn broer weer zijn broer kan zijn; die zin doet pijn en is mooi tegelijk."},
+    {"passage_id": "B:p0011", "reason": "Frieten zonder saus en de friet die op de das blijft liggen: een klein, stil slot dat meer zegt dan een verzoening."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0008", "reason": "Wouter blijft alleen achter op het toilet terwijl Bram vooruit is gegaan, maar Ilse staat even later op 'toen ze ons zag', alsof ze samen naar buiten komen."}
+  ],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "A:p0103"},
+    {"flag": "over_explained", "passage_id": "A:p0095"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0008"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0008", "reason": "Na de uitspraak krijgt Wouter een eigen, lelijke reactie in plaats van alleen te verstijven; het maakt de rustige bank-scène daarna geladen in plaats van te braaf."},
+  "weakest_passage": {"passage_id": "A:p0103", "reason": "Bram legt Wouters hele psychologie uit in een lange toespraak; ik voelde de schrijver praten en mijn aandacht zakte even."},
+  "machine_tells": [],
+  "felt": {"emotion": "ontroering met een steek van onbehagen", "reason": "De brief raakte me in beide versies, maar in B voelde ik ook Wouters gekwetstheid, waardoor het einde met de frieten verdiend aanvoelde."},
+  "confidence": "medium",
+  "compare": "B"
+}

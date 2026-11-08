@@ -1,0 +1,28 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "e2957551f543784b5e5a71828459dd81974309cc57162b839bf52e991916c55f",
+  "reader": "Priya",
+  "turn_page": "yes",
+  "stopped_at": null,
+  "why_stopped": null,
+  "remember_tomorrow": [
+    {"passage_id": "B:p0009", "reason": "De das vastgeknoopt aan een golfbreker met 'De zee was er' is grappig en pijnlijk tegelijk; dat beeld blijft hangen."},
+    {"passage_id": "B:p0005", "reason": "Gilbert die zich een caravan in Bredene voorstelt zonder zijn vrouw, op gewone toon in een wachtzaal, is het eerlijkste moment van het hoofdstuk."},
+    {"passage_id": "B:p0013", "reason": "Sanne die toegeeft dat ze jaloers is op een man met een das aan een paal geeft haar eindelijk een eigen wonde, niet alleen een reactie op Wouter."}
+  ],
+  "confused_by": [],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "A:p0009"},
+    {"flag": "over_explained", "passage_id": "A:p0011"},
+    {"flag": "over_explained", "passage_id": "A:p0006"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0013", "reason": "Sannes regel over zeven jaar zee met een telefoon in de broekzak draait de ruzie om en laat zien wat er tussen hen ontbreekt, zonder dat iemand het benoemt."},
+  "weakest_passage": {"passage_id": "A:p0009", "reason": "Na het lichamelijke opbouwen van de woede in kaken en handen zegt de tekst nog eens 'Het was woede', wat de spanning platslaat die ik zelf al voelde."},
+  "machine_tells": [
+    {"tell": "naming the emotion after showing it", "passage_id": "A:p0009"},
+    {"tell": "explaining the symbol", "passage_id": "A:p0011"}
+  ],
+  "felt": {"emotion": "geamuseerde ergernis, daarna ongemak", "reason": "Ik lachte om de das en voelde tegelijk Wouters frustratie; in B bleef er bij Sanne een onverwacht verdriet over dat ik niet zag aankomen."},
+  "confidence": "medium",
+  "compare": "B"
+}

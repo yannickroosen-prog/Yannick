@@ -88,7 +88,7 @@ Naast me zat een man van een jaar of zeventig met een platte pet, die hij op zij
 
 "Elk jaar," zei hij. "Voor het verslag. Ik ben de bewindvoerder van mijn vrouw."
 
-Hij zei het zoals je zegt dat je voorzitter bent van de duivenbond.
+Hij zei het met de trots van een voorzitter van de duivenbond.
 
 ---
 
@@ -134,7 +134,7 @@ Gilbert stond op. Hij zette zijn pet op. Hij liep naar haar toe, niet snel, en h
 
 Ze kwamen samen terug en gingen zitten, twee stoelen van mij. Jeannine hield haar handtas op haar schoot. Gilbert legde zijn hand op haar hand op de handtas. Hij keek recht voor zich uit, naar de affiche over ouderenmisbehandeling.
 
-Om tien over tien werden ze afgeroepen. Gilbert knikte me toe toen hij opstond. Hij zei: "Sterkte, jongen." Hij zei het zoals je het zegt tegen iemand die een lange reis begint.
+Om tien over tien werden ze afgeroepen. Gilbert knikte me toe toen hij opstond. Hij zei: "Sterkte, jongen."
 
 ---
 
@@ -204,7 +204,7 @@ Ik lachte.
 
 Ik lachte hardop, op de trap van het vredegerecht, in de zon, zo hard dat een vrouw die naar boven kwam met een map onder haar arm opzij ging. Ik lachte omdat het grappig was. Het was echt grappig. Een das aan een golfbreker. *De zee was er.* Het was het grappigste wat ik in weken had gezien.
 
-En terwijl ik lachte, voelde ik iets anders opkomen, onder het lachen, zoals water onder een dek. Ik voelde het in mijn kaken, die pijn begonnen te doen. Ik voelde het in mijn handen, die de telefoon zo hard vasthielden dat de randen in mijn vingers sneden. Het was woede. Het was een woede zo groot en zo helder dat ik er even duizelig van werd, op die trap, in die zon. Ik had een hemd gestreken. Sanne had een hemd gestreken. Ik had een spreadsheet. Ik had vijfenzestig minuten gezeten in een wachtzaal onder engeltjes, naast een man die zich een caravan in Bredene voorstelde. Ik had *ik weet het niet* gezegd tegen een vrederechter, en *natuurlijk*, en ze had iets in de marge geschreven.
+En terwijl ik lachte, voelde ik iets anders opkomen, onder het lachen, zoals water onder een dek. Ik voelde het in mijn kaken, die pijn begonnen te doen. Ik voelde het in mijn handen, die de telefoon zo hard vasthielden dat de randen in mijn vingers sneden. Ik had een hemd gestreken. Sanne had een hemd gestreken. Ik had een spreadsheet. Ik had vijfenzestig minuten gezeten in een wachtzaal onder engeltjes, naast een man die zich een caravan in Bredene voorstelde. Ik had *ik weet het niet* gezegd tegen een vrederechter, en *natuurlijk*, en ze had iets in de marge geschreven.
 
 En hij stond in De Panne met zijn das aan een paaltje.
 
@@ -236,7 +236,7 @@ Ik bleef staan bij een vuilbak. Ik keek naar mijn borst. De sticker zat er nog. 
 
 Ik gooide hem in de vuilbak.
 
-Ik bleef staan. Ik keek naar de vuilbak. Er lag een leeg blikje in en een zakje van een bakker en de sticker, die met de lijmkant naar boven op het zakje was gevallen. *BEZOEKER.* Ik dacht aan Gilbert, die elk jaar komt, voor het verslag. Ik dacht aan Jeannine, die naar het toilet gaat. Ik dacht dat ik nu ook iemand ben die naar het vredegerecht gaat. Dat ik dat ben. Dat dat niet meer weggaat met een sticker.
+Ik bleef staan. Ik keek naar de vuilbak. Er lag een leeg blikje in en een zakje van een bakker en de sticker, die met de lijmkant naar boven op het zakje was gevallen. *BEZOEKER.* Ik dacht aan Gilbert, die elk jaar komt, voor het verslag. Ik dacht aan Jeannine, die naar het toilet gaat.
 
 Ik stak mijn hand in de vuilbak en haalde de sticker eruit. Hij plakte aan mijn vingers. Er hing een kruimel aan van het zakje van de bakker.
 
@@ -311,6 +311,10 @@ Sanne keek naar me. Ze raapte het boek op en legde het op de salontafel.
 "Ik ben wel kwaad op hem."
 
 "Ge zijt kwaad omdat hij aan zee is," zei Sanne. "Dat is iets anders."
+
+"En gij vindt het grappig."
+
+"Ik vind het grappig." Ze keek naar de foto op mijn telefoon. "Hij gaat naar zee op een woensdag. Gij zijt in zeven jaar nog nooit met mij naar zee geweest zonder uw telefoon in uw broekzak. Ik ben jaloers op een man met een das aan een paal, Wouter. Dat is ook niet schoon."
 
 Ik zei niets. Ik ging naar de keuken. Ik deed de vaatwas open, die al leeg was, en ik deed hem weer dicht. Ik zette water op. Ik wilde geen thee. Ik bleef bij de waterkoker staan tot hij klikte, en dan nog een tijd, met mijn hand op het handvat, voelend hoe het warm werd.
 

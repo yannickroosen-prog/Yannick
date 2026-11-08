@@ -40,7 +40,7 @@ De nieuwe bewindvoerder heette meester Lagae. Ze had een kantoor boven een bank,
 
 Hij legde de kaft op haar bureau.
 
-"Tabblad één is identiteit," zei hij. "De kaart vervalt in 2029."
+"Tabblad één is identiteit," zei hij.
 
 Meester Lagae keek naar de kaft. Ze keek naar mijn vader. Ze nam een blocnote.
 
@@ -78,7 +78,7 @@ Ik zei niets. Ik reed. Mijn handen lagen op het stuur, op tien voor twee, zoals 
 
 Hij zweeg. Er reed een Pool voorbij met een vrachtwagen vol auto's. Mijn vader keek ernaar.
 
-"Het was een vergissing," zei hij. "We hadden u niet nog. We hadden u ook. Dat is iets anders. We hebben het nooit verbeterd. Ik heb het willen verbeteren. Ik heb het willen zeggen. Ik ben boekhouder, Wouter. Ik kan een fout zien in een kolom van duizend getallen. Ik heb er tweeëntwintig jaar over gedaan om deze te zien."
+"Het was een vergissing," zei hij.
 
 Hij legde zijn hand even op mijn arm. Op de arm waarmee ik stuurde. Hij liet ze er drie seconden liggen. Toen haalde hij ze weg en keek weer door de voorruit.
 
@@ -97,6 +97,16 @@ Bram stond boven aan de trap. Hij had een trui aan die ik niet kende en een muts
 "Kleine," zei hij. "Er zijn twaalf dozen. Ik heb ze genummerd. Er zijn er zeven met boeken. Ge gaat uw rug kapotmaken."
 
 Hij had gelijk. Er waren er twaalf, en zeven met boeken, en ik maakte bijna mijn rug kapot. We droegen ze de trap af, drie verdiepingen, langs de geur van frituur en het wasmiddel van iemand anders. Bram droeg de lichtste. Ik liet hem. Hij was nog niet sterk. Hij zei het zelf: "Ik draag de filosofie. Gij draagt de romans. Die zijn zwaarder. Er gebeurt meer in."
+
+Op de tweede verdieping scheurde de bodem uit doos zeven. De boeken vielen de trap af, tien, twintig, tot op de overloop van de eerste, met hun ruggen open. Een pocket van Pascal viel in twee stukken. Ik zette de doos neer en bukte me. Bram ging op de trap zitten.
+
+"Laat ze liggen," zei hij.
+
+"Ik raap ze op."
+
+"Laat ze liggen, kleine."
+
+Hij bleef zitten. Hij zat twintig minuten op de trap, met zijn ellebogen op zijn knieën, en hij keek naar de boeken onder hem, en hij zei niets, en ik stond ernaast met een lege doos en wist niet of hij moe was of kwaad of iets anders, en ik heb het niet gevraagd. Ilse kwam naar boven en raapte ze op, een voor een, zonder iets te zeggen. Ze legde de twee helften van Pascal op elkaar. Pas toen stond Bram op.
 
 Op de vensterbank van de trap, tussen de tweede en de derde verdieping, zette hij een stapeltje boeken. Vijf, zes. Ik zag de ruggen. *Het proces*, een tweede exemplaar. Een gids over vogels. Iets van Pascal.
 
@@ -146,6 +156,20 @@ We droegen de dozen naar binnen. De studio van Bram lag aan de kant van de dijk.
 
 De kippen liepen buiten in een kluitje over het gras, met hun koppen tegen de wind. Het waren er nu zeven. Marleen zei dat er een bij was gekomen, van een boer verderop, die niemand wilde.
 
+In de doos met de collages zat een hamer en een zakje spijkers. Ik nam ze eruit. Ik nam de collage van de paus met de benen van een wielrenner en hield hem tegen de muur boven het bed, om te zien of hij daar goed zou hangen. Ik had al een spijker tussen mijn lippen.
+
+"Kleine," zei Bram vanuit de deur.
+
+Ik keek om.
+
+"Leg die hamer neer."
+
+"Het is maar een spijker."
+
+"Leg hem neer," zei hij. Hij zei het niet kwaad. Hij zei het moe. "Ik ga ze zelf ophangen. Morgen. Of volgende week. Of nooit. Misschien laat ik de muren wit. Ik weet het nog niet."
+
+Ik legde de hamer neer. Ik haalde de spijker uit mijn mond en legde hem naast de hamer, op de vensterbank. De paus met de wielrennersbenen stond tegen de muur, op de grond, scheef. Ik had zin om hem recht te zetten. Ik deed het niet. Het was het moeilijkste wat ik die dag deed.
+
 Het duurde drie uur. Toen alles binnen stond, maakte Marleen koffie in de keuken, in de machine die werkte, en we dronken hem aan een lange tafel met een tafelkleed met appels erop, met drie andere bewoners die ik niet kende: een jongen met een koptelefoon die niets zei, een oudere man die de hele tijd vroeg of we uit Brussel kwamen, en een vrouw die zichzelf voorstelde als de koningin van de moestuin. Bram praatte met allemaal. Hij was moe. Ik zag het aan zijn handen. Hij praatte toch.
 
 ---
@@ -170,7 +194,7 @@ Ik keek naar de thermoskan. Ik keek naar Bram.
 
 "Hoe weet ge dat?"
 
-"Ge ruikt naar koffie," zei Bram. "Al twee jaar. Aan uw linkerbeen. Elke dinsdag in De Gouden Vis. Ik dacht eerst dat ge koffie morste op het werk. Toen zag ik in januari het ijzerdraad, in uw fietstas, op de trap." Hij haalde zijn schouders op. "Ik heb gewacht tot ge er zelf een zoudt kopen. Ik heb negen maanden gewacht. Ge hebt het niet gedaan."
+"Ge ruikt naar koffie," zei Bram. "Al twee jaar. Aan uw linkerbeen. Elke keer in De Gouden Vis. Ik dacht eerst dat ge koffie morste op het werk. Toen zag ik in januari het ijzerdraad, in uw fietstas, op de trap." Hij haalde zijn schouders op. "Ik heb gewacht tot ge er zelf een zoudt kopen. Ik heb negen maanden gewacht. Ge hebt het niet gedaan."
 
 "Ik had hem in een tabblad staan," zei ik. "Op mijn laptop. Sinds de zomer. Ik heb hem nooit besteld."
 
@@ -234,7 +258,7 @@ Ik keek naar de kom met de druiven.
 
 "Ik weet het echt niet, Sanne. Ik zeg het niet om tijd te winnen. Ik zeg het omdat het waar is. Misschien weet ik het binnen een jaar. Misschien weet ik het nooit. Als ge daarop niet kunt wachten, dan begrijp ik dat."
 
-Het was de eerste keer in mijn leven dat ik iemand met opzet teleurstelde. Ik voelde het. Ik voelde het in mijn handen, die op tafel lagen, en die ik niet stillegde.
+Ik stelde haar teleur. Ik deed het met opzet. Ik voelde het. Ik voelde het in mijn handen, die op tafel lagen, en die ik niet stillegde.
 
 Sanne keek lang naar me. Ze keek naar mijn mond, zoals ze altijd doet. Ik weet niet wat ze zag.
 
@@ -278,7 +302,7 @@ Mijn vader zat in de living aan het houten schaakbord. Hij speelde tegen zichzel
 
 "Ik weet dat ge hem gebracht hebt." Hij zette een paard neer, op een vakje dat ik niet had verwacht. "Ik zeg het alleen."
 
-We aten het rozijnenbrood aan de keukentafel, met boter, dik, zoals Bram het eet op zondagochtend. Het was te dicht en te zoet en aan de onderkant bitter. Mijn vader at twee sneden. Hij mocht geen boter van de cardioloog. Hij nam er toch.
+We aten het rozijnenbrood aan de keukentafel, met boter, dik, zoals Bram het eet. Het was te dicht en te zoet en aan de onderkant bitter. Mijn vader at twee sneden. Hij mocht geen boter van de cardioloog. Hij nam er toch.
 
 Mijn moeder zat tegenover me. Ze at niet. Ze keek naar ons terwijl we aten, met haar handen om een kop koffie uit de espressomachine.
 
@@ -330,11 +354,21 @@ Hij haalde een formulier uit een la van een kast in de gang. Het was een plaatsb
 
 De huisbaas keek naar me alsof ik iets heel vreemds had gezegd. Toen schreef hij op het formulier, onder *Opmerkingen*, in hoofdletters: *WATERKOKER ACHTERGELATEN (DEFECT). OP VRAAG VAN HUURDER. VOOR DE VOLGENDE.*
 
-"Er is altijd een formulier," zei ik.
+"Dat gaat de volgende niet graag hebben," zei de huisbaas.
 
-"Het is een goed formulier," zei de huisbaas. "Het is duidelijk."
+"Nee," zei ik.
 
 Ik tekende. Ik tekende met de naam van mijn broer, *voor Bram Verhaegen*, en daaronder mijn eigen naam. Het was de laatste keer dat ik iets voor hem tekende. Ik heb het hem nooit verteld. Ik denk dat hij het niet erg zou vinden.
+
+---
+
+Bram belde die week niet. Ik belde hem ook niet. Ik merkte het elke avond om tien uur, als ik mijn telefoon aan de lader legde, en elke ochtend, als ik hem eraf haalde. Er was niets. Het was een ander soort niets dan in juni.
+
+Op woensdag 21 oktober, om kwart over twaalf, kwam er een foto. Zeven kippen in een kluitje op het gras, met hun koppen tegen de wind. Daaronder:
+
+*Ik heb ze namen gegeven. Die met de witte vlek heet Wouter. Ze legt niets. Marleen zegt dat ze te veel nadenkt.*
+
+Ik lachte, aan mijn bureau, voor de berg met sneeuw. Ik stuurde niets terug. Ik keek nog een keer naar de foto en legde de telefoon in de lade van mijn bureau, en ik deed de lade dicht.
 
 ---
 
@@ -347,7 +381,5 @@ De oude stond in de kast boven de waterkoker, achteraan, naast de theepot die we
 Boven hoorde ik Sanne de douche aanzetten. Ik riep naar boven dat ik vertrok. Ze riep iets terug wat ik niet verstond en wat waarschijnlijk "tot vanavond" was, of "neem een sjaal". Ik nam een sjaal. Hij was grijs met een dunne rode rand. Ik stopte de thermoskan in mijn fietstas.
 
 Ik heb de moed niet laf te zijn.
-
-Ik weet nu niet meer zo goed wat ik daarmee bedoelde. Ik heb het lang gedacht, op donderdagochtenden, met koffie op mijn broek. Ik denk het nu nog soms. Ik denk dat ik het mijn hele leven zal blijven denken, af en toe, zoals je een oud telefoonnummer blijft kennen van een huis waar je niet meer woont.
 
 Ik fietste langs de Dijle naar het werk. Het water stond hoog. Er dreef een eend met de stroom mee, zonder te zwemmen. Mijn broek was droog.

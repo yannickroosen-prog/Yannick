@@ -1,0 +1,25 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "22ca60fa5f54309f0f6824e34519f7104ccdb37990c4908f1320b54d61cf1659",
+  "reader": "Airport reader",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0008"},
+  "why_stopped": {"reason": "Na de vaas volgt nog een rustige zondag met vader aan het schaakbord; twee huiselijke scènes na elkaar zonder nieuwe druk, hier begon ik te bladeren, al had ik het boek niet weggelegd."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0003", "reason": "Vierenvijftig dagen, hij had op zestig gegokt: de onthulling dat Bram het al wist draait de hele situatie om."},
+    {"passage_id": "A:p0006", "reason": "'Het is niets' zeggen over je broer, terwijl Afrika op het scherm hangt, en dat het elke keer makkelijker wordt: dat steekt."},
+    {"passage_id": "A:p0016", "reason": "De sleutel in de voering en 'Ge zijt een goeie mens. Dat moet vermoeiend zijn.' is een slot dat blijft hangen."}
+  ],
+  "confused_by": [],
+  "flags": [
+    {"flag": "slow_start", "passage_id": "A:p0008"},
+    {"flag": "over_explained", "passage_id": "B:p0004"},
+    {"flag": "no_stakes", "passage_id": "B:p0005"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0012", "reason": "Het nachtelijke belprotocol met tijdstippen jaagt me vooruit; korte regels, oplopende onrust, ik las het in één adem."},
+  "weakest_passage": {"passage_id": "B:p0005", "reason": "De crisisvergaderingen worden samengevat in plaats van getoond, en de zin dat het niet belangrijk is haalt er vooraf alle spanning uit."},
+  "machine_tells": [],
+  "felt": {"emotion": "spanning en ontroering", "reason": "De nachtelijke telefoontjes gaven echte onrust, en het einde aan de deur raakte me zonder dat het iets uitlegde."},
+  "confidence": "medium",
+  "compare": "A"
+}

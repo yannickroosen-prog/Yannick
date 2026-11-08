@@ -1,0 +1,26 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "9daa87fc785dd2165b5e352cdbc498ecf9e6e1bd536c6bf82680c9239c795df2",
+  "reader": "Lena",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0007"},
+  "why_stopped": {"reason": "De opsomming van wat er in de groene kaft zit (merk, rugbreedte, alle soorten papieren) remt het tempo net op het moment dat ik naar het gesprek met de vader wil; ik las het diagonaal, maar legde het boek niet weg."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0004", "reason": "Dat hij eerst nog de twee kaartjes bespreekt terwijl zijn vader op cardiologie ligt: in zes minuten weet ik wie Wouter is."},
+    {"passage_id": "A:p0012", "reason": "De seconde als kamer met twee deuren, en dan de gedachte over 'natuurlijk' en trouw als gebrek aan verbeelding; dat bleef hangen."},
+    {"passage_id": "A:p0014", "reason": "Bram die voorleest met beverige vingers terwijl de map met zijn naam achter zijn rug van eigenaar wisselt."},
+    {"passage_id": "A:p0019", "reason": "De oude thermoskan die terug in de kast gaat: een stil, perfect slotbeeld."}
+  ],
+  "confused_by": [],
+  "flags": [
+    {"flag": "exposition_dump", "passage_id": "A:p0007"},
+    {"flag": "over_explained", "passage_id": "A:p0015"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0012"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0012", "reason": "In A krijgt het 'natuurlijk' een echte nagedachte, waardoor de volgende zin 'Ik weet niet of ik dat toen al dacht' ergens naar verwijst; in B is die gedachte zo kort dat de terugblik bijna in het niets hangt."},
+  "weakest_passage": {"passage_id": "A:p0007", "reason": "De inventaris van de kaft is te volledig; B's ingekorte versie leest vlotter, al verliest die wat textuur."},
+  "machine_tells": [],
+  "felt": {"emotion": "ontroering en een knagend ongemak", "reason": "Ik voelde voor Bram en schaamde me een beetje mee met Wouter, die alles goed regelt en het belangrijkste verzwijgt."},
+  "confidence": "medium",
+  "compare": "A"
+}

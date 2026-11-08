@@ -1,0 +1,32 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "c441be2d53556180220f4c6f1b36add610981500e7db8eed163ba3f370b39c59",
+  "reader": "Mark",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0004"},
+  "why_stopped": {"reason": "In A zegt de verteller letterlijk dat het werkproject niet belangrijk is en vat hij vijf crisisvergaderingen samen in één zin, dus haak ik af omdat de tekst zelf de inzet weggeeft."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0006", "reason": "'Het is niets' over zijn broer, en dat het elke keer makkelijker werd: een echte morele verschuiving met een oorzaak die ik zag gebeuren."},
+    {"passage_id": "B:p0011", "reason": "Brams tegenversie van de fiets en de natte onderbroek van de moeder ondergraven de herinnering van de verteller zonder iets op te lossen."},
+    {"passage_id": "B:p0016", "reason": "De sleutel in de voering geeft de nacht een nuchtere, bijna komische verklaring die de angst niet wegneemt."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0003", "reason": "Dat de moeder het Bram vertelde precies terwijl de vader het Wouter vroeg, en dat Bram de dagen exact bijhield, voelt te handig geregeld."}
+  ],
+  "flags": [
+    {"flag": "no_stakes", "passage_id": "A:p0004"},
+    {"flag": "over_explained", "passage_id": "A:p0005"},
+    {"flag": "predictable", "passage_id": "B:p0007"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0003"},
+    {"flag": "predictable", "passage_id": "A:p0007"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0005", "reason": "De telefoon met 'Bram' in witte letters voor de directie maakt van de werkcrisis een scène waarin Wouter zijn broer verloochent; oorzaak en gevolg zijn zichtbaar."},
+  "weakest_passage": {"passage_id": "A:p0004", "reason": "De zin dat het verhaal 'niet belangrijk' is en de opgesomde vergaderingen zijn een kortere weg die de lezer niets laat meemaken."},
+  "machine_tells": [
+    {"tell": "herhaalde 'Ik dacht:'-reeks als emotionele versneller", "passage_id": "B:p0015"},
+    {"tell": "zorgvuldig geplante vooruitwijzing (sleutel uit een jaszak met een gat)", "passage_id": "B:p0007"}
+  ],
+  "felt": {"emotion": "ongemak en opluchting", "reason": "Het 'het is niets' in B zat me dwars, en de sleutel in de voering liet me uitademen zonder dat het echt goed voelde."},
+  "confidence": "medium",
+  "compare": "B"
+}

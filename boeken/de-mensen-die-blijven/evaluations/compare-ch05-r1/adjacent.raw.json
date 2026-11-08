@@ -1,0 +1,29 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "a2c5b8e030948fa931974122388e5aabccaa25eaaf7806d5582ee7b72388a01e",
+  "reader": "Priya",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0006"},
+  "why_stopped": {"reason": "Het overleg bij het mobiel team voelt als procedure; mijn aandacht zakte even weg bij de afspraken over signalen, al hield het einde met het doosje me vast."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0002", "reason": "Het laken over het hoofd: een beeld dat ik meteen begreep, ook zonder iets van medicatie te weten."},
+    {"passage_id": "B:p0005", "reason": "De gedachte om het weekgeld als drukmiddel te gebruiken is lelijk en eerlijk, en dat de verteller toegeeft dat hij ze nog twee keer had, blijft hangen."},
+    {"passage_id": "B:p0015", "reason": "Het wissen van 'Hebt ge gegeten?' zegt alles zonder het te zeggen."}
+  ],
+  "confused_by": [
+    {"passage_id": "A:p0010", "reason": "In de lift begint een zin met 'Ik had om vijf voor zeven een signaal had gezien' zonder aanloop; grammaticaal kapot en ik miste wat hij voelde."}
+  ],
+  "flags": [
+    {"flag": "confusing", "passage_id": "A:p0010"},
+    {"flag": "slow_start", "passage_id": "B:p0006"},
+    {"flag": "over_explained", "passage_id": "B:p0004"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0003", "reason": "'Ge meent het met uw hoofd, niet met uw handen' en de handen die met opzet stil liggen: de broers in één beweging."},
+  "weakest_passage": {"passage_id": "A:p0010", "reason": "De reactie op Karims bericht is afgekapt; het gevoel van opluchting, schaamte en teleurstelling ontbreekt en de zin loopt mank."},
+  "machine_tells": [
+    {"tell": "herhaalde Ik dacht-reeksen als ritmisch trucje", "passage_id": "B:p0009"}
+  ],
+  "felt": {"emotion": "onrust en tederheid", "reason": "Ik wachtte de hele tijd op het moment dat het misgaat met Bram, en voelde mee met Wouter die bij de baby beseft dat hij nergens anders aan denkt."},
+  "confidence": "medium",
+  "compare": "B"
+}
