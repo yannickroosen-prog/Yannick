@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "status": "staged",
+  "scope": "format_only_not_editorial_acceptance",
+  "source_sha256": "ef56ce3a968bcf936f5d30b54c6016363cfb4055d90375141b23a685d42e9e40",
+  "staged_sha256": "ef56ce3a968bcf936f5d30b54c6016363cfb4055d90375141b23a685d42e9e40",
+  "body_sha256": "dedc9d02b1cb8a129b220dca3fb2af4fecb07022f574a8a28906edac1ba95c47",
+  "body_unchanged": true,
+  "transform": "none",
+  "original_heading_level": 1,
+  "heading_level": 1,
+  "title": "Februari",
+  "visible_prose_words": 3672,
+  "source_file": "source.md",
+  "staged_file": "chapter.md"
+}

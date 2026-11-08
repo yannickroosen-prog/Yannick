@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "status": "staged",
+  "scope": "format_only_not_editorial_acceptance",
+  "source_sha256": "57bc6ec9f107036814fe16c351b67af5907d2770b23757a38b07412de79c6670",
+  "staged_sha256": "57bc6ec9f107036814fe16c351b67af5907d2770b23757a38b07412de79c6670",
+  "body_sha256": "12a1075186fe7cb03164f9a2a1f0f66cdd6da213df0f7e42867134261b4474ca",
+  "body_unchanged": true,
+  "transform": "none",
+  "original_heading_level": 1,
+  "heading_level": 1,
+  "title": "April",
+  "visible_prose_words": 3875,
+  "source_file": "source.md",
+  "staged_file": "chapter.md"
+}

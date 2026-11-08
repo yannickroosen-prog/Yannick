@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "status": "staged",
+  "scope": "format_only_not_editorial_acceptance",
+  "source_sha256": "195dde89175aaec920960e96f1ff1f5d7df1c7860d5ba96362d1ef89a75c2483",
+  "staged_sha256": "195dde89175aaec920960e96f1ff1f5d7df1c7860d5ba96362d1ef89a75c2483",
+  "body_sha256": "90332993dc64e5b762679874de2a99ac842c720ae872c0aea7c7e06c8bdabd06",
+  "body_unchanged": true,
+  "transform": "none",
+  "original_heading_level": 1,
+  "heading_level": 1,
+  "title": "Mei",
+  "visible_prose_words": 3854,
+  "source_file": "source.md",
+  "staged_file": "chapter.md"
+}

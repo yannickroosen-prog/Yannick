@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "status": "staged",
+  "scope": "format_only_not_editorial_acceptance",
+  "source_sha256": "723ce8cb34d2a6e51e1fa200c3c76b01b95e34d5a70bcf1333df89f821dc61a3",
+  "staged_sha256": "723ce8cb34d2a6e51e1fa200c3c76b01b95e34d5a70bcf1333df89f821dc61a3",
+  "body_sha256": "22f33160543768f5bc18ad3b8c867dedcd245c3cb34f3022570fe6022344555b",
+  "body_unchanged": true,
+  "transform": "none",
+  "original_heading_level": 1,
+  "heading_level": 1,
+  "title": "November",
+  "visible_prose_words": 5085,
+  "source_file": "source.md",
+  "staged_file": "chapter.md"
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "status": "staged",
+  "scope": "format_only_not_editorial_acceptance",
+  "source_sha256": "aaaf767fc5218c865041cc875f6e248fe399b27f49dd5d99066e8652e9849a65",
+  "staged_sha256": "aaaf767fc5218c865041cc875f6e248fe399b27f49dd5d99066e8652e9849a65",
+  "body_sha256": "d75f0aa00257feee1646f21a3d7a4343a1f88bde35b713bc2c666a6ccb8f69e3",
+  "body_unchanged": true,
+  "transform": "none",
+  "original_heading_level": 1,
+  "heading_level": 1,
+  "title": "Juli",
+  "visible_prose_words": 3278,
+  "source_file": "source.md",
+  "staged_file": "chapter.md"
+}
