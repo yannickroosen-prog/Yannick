@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "catalog": "catalog.json",
+  "catalog_sha256": "fe2aaa36c14000edc8edd66ee13a0afe65db655d954ae5262b2168eaf244a00f",
+  "chapters": [
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-07.md",
+      "sha256": "811e0565504f7957307775b19e191eaf7bca0f84eca78f7b3d15db2dc628fcc7"
+    }
+  ],
+  "context": {
+    "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-06.md",
+    "sha256": "9cba84024cf38c53da167ed323f65d5e2dcdb8d135b9291b5af8c46f97307f72",
+    "bytes": 20775,
+    "reader_body_sha256": "e16b4c3d5799ab4f3d03c4657778e9fea790345573358ac052a2a134fb7ca4f7",
+    "h1_omitted": true
+  },
+  "readers": [
+    {
+      "persona": "primary",
+      "reader": "Lena",
+      "packet": "primary.packet.md",
+      "packet_sha256": "17d007ec2e211eb416eef201a0ff646e7c613b9a138ca275e8d475b1076382cf",
+      "response_schema": "primary.schema.json",
+      "response_schema_sha256": "c9489f07e72fca72d93e901cc982874fa5026b61c3aa98be82b02bb85c8db6f0"
+    },
+    {
+      "persona": "hostile",
+      "reader": "Mark",
+      "packet": "hostile.packet.md",
+      "packet_sha256": "3e5f46541187fc5b042b2c974cbd58f2c8977a41b06897112e1a00527a5200d5",
+      "response_schema": "hostile.schema.json",
+      "response_schema_sha256": "aeed7b8ba87b826bad588e1dcb3925d91ef90e018c4fa7f19303a34151851342"
+    },
+    {
+      "persona": "adjacent",
+      "reader": "Priya",
+      "packet": "adjacent.packet.md",
+      "packet_sha256": "ab4058f97bc112cc66ac5a488a87bb8a411601a44567e34dba1d8b0cf39762b3",
+      "response_schema": "adjacent.schema.json",
+      "response_schema_sha256": "039370d4ed587e7d17b1bec6103e1fa335e677c58c64048e97fb64ee02da0a32"
+    },
+    {
+      "persona": "casual",
+      "reader": "Airport reader",
+      "packet": "casual.packet.md",
+      "packet_sha256": "1fb1586e82b35216c9f368e72e267988d6b4cec34aa8798c9acc8631474162b0",
+      "response_schema": "casual.schema.json",
+      "response_schema_sha256": "78cd2cb7a4c8af843bdf6c72b4c525777bf1f2f0bc9081301f8d11e12270263a"
+    }
+  ]
+}

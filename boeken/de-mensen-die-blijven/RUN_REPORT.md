@@ -12,3 +12,4 @@
 - 2026-11-08: hfst. 5 "Maart" poging 1 (3.028) te kort, nooit aanvaard; poging 2 voegt de zondagslunch (konijn met pruimen) en het spraakbericht over Sisyphus toe. Aanvaard: 4.215.
 - 2026-11-08: continuïteitscheck hfst. 1-5 door een verse auditor-subagent: 14 feitelijke punten (1 hoog), alle hersteld via gestagede kopieën; zie evaluations/continuity-ch01-05.md. Geen onafhankelijke hercontrole.
 - 2026-11-08: hfst. 6 "April" poging 1 (3.212) te kort, nooit aanvaard; poging 2 voegt Lieves telefoontje en de avond met Sanne toe. Aanvaard.
+- 2026-11-08: hfst. 7 "Mei" (middelpunt) poging 1 (3.144) te kort, nooit aanvaard; poging 2 voegt de schaakavond toe (Bram vraagt Wouter te zwijgen) en Sannes vraag "En ik ben wat?". Aanvaard.
