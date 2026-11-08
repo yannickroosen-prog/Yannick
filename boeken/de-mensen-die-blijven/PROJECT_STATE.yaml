@@ -29,7 +29,7 @@ independence:
 
 pipeline:
   current_phase: "Phase 3: Drafting"
-  current_gate: "chapter 1 reader checkpoint"
+  current_gate: "25% reader checkpoint (chapter 3)"
   status: "in_progress"
   panel_passes: 0
   rubric_passes: 0
@@ -37,8 +37,8 @@ pipeline:
 manuscript:
   chapter_count_planned: 12
   average_words_per_chapter_planned: 5200
-  completed_chapters: [1, 2]
-  word_count_actual: 9412
+  completed_chapters: [1, 2, 3]
+  word_count_actual: 13745
   length_gate: "pending"
   status: "drafting"
 
