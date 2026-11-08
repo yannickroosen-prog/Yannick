@@ -63,3 +63,8 @@
 - België, Vlaanderen. Bewindvoering via de vrederechter (verzoekschrift, zitting, beschikking). Familie kan bewindvoerder zijn; de beschermde persoon mag zijn voorkeur uitspreken.
 - Geen psychiatrische diagnose wordt ooit benoemd (Marcs infarct is een lichamelijk feit en mag benoemd worden). Medicijnen hebben geen merknamen.
 - Het jaartal wordt niet genoemd.
+
+## Vastgelegd na hoofdstuk 1-2
+- Hfst. 1: verpleegster Nathalie (klompen). Kamer 412. Cardiologe met paardenstaart. Bram brengt *Bobby Fischer leert u schaken* en mandarijnen. Lieve's kleuradvies: "winter" (hotel Blankenberge). Bram kocht ooit een vleugelpiano die niet door de deur paste (aanleiding bewind). Bram heeft geen paraplu; grijze jas van een onbekende oom. Forum: Broerke_B.
+- Hfst. 2: Marc thuis sinds ±25 nov., kamerjas. Leefrekening: €120 elke maandag. Uitkering op de 5de. Bankmedewerker Kevin. Marc betaalt de huur van december zelf ("dat was het laatste"). Sanne opent de brief van de griffie op di 9 dec. ("Ah"). Cadeaus op 20 dec.: espressomachine (Lieve), kasjmieren sjaal grijs met rode rand (Sanne), houten schaakbord (Marc), *Het proces* (Wouter). Bram: "Ik ben een paard, gij zijt een toren, Wouter is een pion." Kerstavond: Bram leest de passage over de dokter uit *De broers Karamazov*. In de auto: "Volgend jaar."
+- Open draad: Bram zegt op 6 dec. iets over Sinterklaas als "eerste bewindvoerder". Wist hij het al? In hfst. 3 blijkt: Marc had het hem al verteld.
