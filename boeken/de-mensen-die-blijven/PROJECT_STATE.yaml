@@ -15,9 +15,9 @@ project:
   quality_target: 8.5
 
 collaboration:
-  mode: "check-in"
-  waiting_for_author: true
-  pending_checkpoint: "intake"
+  mode: "autonomous (auteur: go for it, 8 nov.)"
+  waiting_for_author: false
+  pending_checkpoint: ""
 
 independence:
   level: "isolated subagents, same model family"
@@ -28,33 +28,34 @@ independence:
   notes: "No second model family installed in this environment."
 
 pipeline:
-  current_phase: "Phase 0: Intake"
-  current_gate: "intake check-in"
-  status: "waiting_for_author"
+  current_phase: "Phase 3: Drafting"
+  current_gate: "chapter 1 reader checkpoint"
+  status: "in_progress"
   panel_passes: 0
   rubric_passes: 0
 
 manuscript:
   chapter_count_planned: 12
   average_words_per_chapter_planned: 5200
-  completed_chapters: []
-  word_count_actual: 0
+  completed_chapters: [1]
+  word_count_actual: 5231
   length_gate: "pending"
-  status: "not_started"
+  status: "drafting"
 
 gates:
-  intake: "pending_author"
-  foundation: "pending"
-  architecture: "pending"
-  drafting: "pending"
+  intake: "pass"
+  foundation: "pass"
+  architecture: "pass (verified by fresh subagent)"
+  drafting: "in_progress"
   adversarial_audit: "pending"
   revision_loop: "pending"
   final_score: "pending"
   editorial_package: "pending"
 
-decisions: []
+decisions:
+  - "Vorm: roman (optie A), gekozen door de auteur op 8 nov."
+  - "Invloeden: Dostojevski, Kafka, Camus; tragikomisch; sterke zinnen met dubbele bodem."
 open_questions:
-  - "Roman (A), echte non-fictie met bronmateriaal (B) of hybride (C)?"
   - "Naam op de titelpagina?"
 
 delivery:
