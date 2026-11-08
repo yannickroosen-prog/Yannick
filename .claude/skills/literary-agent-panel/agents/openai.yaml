@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literary Agent Panel"
+  short_description: "Simulated agent, editor, bookseller and reader verdicts"
+  default_prompt: "Use $literary-agent-panel to judge whether my manuscript and query letter are ready to submit, and tell me what to fix first."
