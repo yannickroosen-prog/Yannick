@@ -38,7 +38,7 @@ Hij nam mijn loper met zijn paard. Ik had het paard niet gezien. Ik zie het paar
 
 ---
 
-Ik had me voorgenomen het hem die avond te zeggen. Ik had het voorgenomen in de auto naar Mechelen, op de parking aan de Veemarkt, op de brug over de Dijle. Ik had zinnen klaar. Ik had ze geschreven op mijn blocnote, onder de vaste kosten. *Bram, ge moet iets weten. Papa kan het niet meer. Ik ga het overnemen. Er verandert niets.* Bij die laatste zin had ik een vraagteken gezet en het weer doorgestreept.
+Ik had me voorgenomen het hem die avond te zeggen. Ik had het voorgenomen op de fiets door de Hanswijkstraat, aan het fietsrek op de Veemarkt, op de brug over de Dijle. Ik had zinnen klaar. Ik had ze geschreven op mijn blocnote, onder de vaste kosten. *Bram, ge moet iets weten. Papa kan het niet meer. Ik ga het overnemen. Er verandert niets.* Bij die laatste zin had ik een vraagteken gezet en het weer doorgestreept.
 
 Ik zei het na de vijftiende zet, toen ik al een toren en twee pionnen achterstond en er niets meer te verliezen viel.
 
@@ -54,7 +54,7 @@ Ik zweeg.
 
 Hij zette de pion terug. Hij keek naar me. Zijn ogen waren heel helder, die avond, helder op de goede manier.
 
-"Ze had het al een week gepland, kleine. Ze hebben dat samen besproken, papa en mama, aan de keukentafel. Ze hebben alleen niet besproken wie het aan mij zou zeggen. Dus heeft mama het gedaan, omdat ze het niet kon houden. Bij de automaat. Ik had een cappuccino gekozen en er kwam soep uit."
+"Ze hadden het al jaren besproken, kleine. Papa en mama, aan de keukentafel. Wie het zou overnemen, als papa niet meer kon. Ze hebben alleen niet besproken wie het aan mij zou zeggen. Dus heeft mama het gedaan, omdat ze het niet kon houden. Bij de automaat. Ik had een cappuccino gekozen en er kwam soep uit."
 
 "Ik wist niet dat ge het wist."
 
@@ -138,7 +138,7 @@ Ze zei het licht. Ze zei het zoals je iets zegt wat je al lang denkt en wat je p
 
 ---
 
-Op zondag reed ik naar Bonheiden. Mijn vader zat in de living aan het houten schaakbord van Bram, alleen, met het boek van Bobby Fischer open naast zich. Hij speelde tegen zichzelf. Hij had zijn leesbril op en een potlood achter zijn oor, en hij schreef de zetten op in een schriftje, in de kleine, rechte cijfers waarmee hij achtendertig jaar begrotingen had ingevuld.
+Op zondag reed ik naar Bonheiden. Mijn vader zat in de living aan het houten schaakbord van Bram, alleen, met het boek van Bobby Fischer open naast zich. Hij speelde tegen zichzelf. Hij had zijn leesbril op en een potlood achter zijn oor, en hij schreef de zetten op in een schriftje, in de kleine, rechte cijfers waarmee hij zijn hele loopbaan begrotingen had ingevuld.
 
 "Ge speelt," zei ik.
 
@@ -232,7 +232,7 @@ Het was vrijdag 23 januari. Ik ging om half elf slapen. Ik weet het precies, omd
 
 **23.52 uur.** Bram. Ik nam op. Hij zei dat hij zijn sleutel kwijt was. Hij stond in de gang van zijn gebouw, de deur van zijn appartement was dicht, hij had alles al afgezocht. Hij was niet in paniek. Hij klonk vooral verontwaardigd, zoals iemand die vindt dat sleutels een morele plicht hebben om er te zijn. Ik zei dat hij moest kijken in zijn jaszakken. Hij zei dat hij dat al had gedaan. Ik zei dat ik de reservesleutel had, dat ik die morgen zou brengen, dat hij misschien bij Ilse kon slapen. Hij zei dat Ilse in Willebroek was. Hij zei: "Morgen is goed. Slaapwel, kleine."
 
-**00.07 uur.** Bram. Hij had in zijn jaszakken gekeken. Er zat geen sleutel in. Hij had wel een bonnetje gevonden van de Delhaize van 1997. Hij las het voor. Een brood, een pak koffie, een fles Duvel, zes eieren. "Dat was mijn eerste week op kot, kleine. Ik heb van die zes eieren een omelet gemaakt die zo slecht was dat ik nadien twee jaar geen eieren meer heb gegeten."
+**00.07 uur.** Bram. Hij had in zijn jaszakken gekeken. Er zat geen sleutel in. Hij had wel een bonnetje gevonden van de Delhaize van 2002. Hij las het voor. Een brood, een pak koffie, een fles Duvel, zes eieren. "Dat was mijn eerste week op kot, kleine. Ik heb van die zes eieren een omelet gemaakt die zo slecht was dat ik nadien twee jaar geen eieren meer heb gegeten."
 
 **00.19 uur.** Bram. Hij was naar buiten gegaan. Hij liep naar het station om te zien of hij de sleutel daar had laten vallen. Ik zei dat hij moest teruggaan naar binnen, dat het vroor. Hij zei dat het niet vroor, dat het twee graden was, dat hij het had opgezocht.
 
@@ -245,8 +245,6 @@ Het was vrijdag 23 januari. Ik ging om half elf slapen. Ik weet het precies, omd
 **00.48 uur.** Bram. Hij was op de Grote Markt. Hij zei dat de torenwachter niet meer bestaat, dat de toren van Sint-Rombouts leeg is 's nachts, dat er niemand meer kijkt. Ik zei dat hij naar huis moest gaan. Hij zei dat hij geen huis had, hij had alleen een deur.
 
 **00.55 uur.** Ik nam niet op.
-
-**00.57 uur.** Ik nam niet op.
 
 **00.58 uur.** Sanne zei in het donker: "Neem op." Ik nam op. Het was stil aan de andere kant. Ik hoorde wind, en een auto ver weg, en Brams adem. Hij zei niets. Na een halve minuut legde hij in.
 

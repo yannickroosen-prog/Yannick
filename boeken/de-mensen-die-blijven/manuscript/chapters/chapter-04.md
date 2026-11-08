@@ -48,7 +48,7 @@ Om twintig over zeven keek mijn vader. Hij heeft een oude Nokia die hij al vijft
 
 Om half acht keek tante Rita. Zij keek niet om te zien of Bram had gebeld. Zij keek omdat iedereen keek. Zo werkt het. Als zes mensen aan een tafel tegelijk naar hun telefoon kijken, gaat de zevende ook kijken, uit beleefdheid, zoals je gaapt als iemand anders gaapt.
 
-Het was een merkwaardig gezicht, als je het van boven had kunnen zien. Zesenveertig mensen in een zaal met zeventig blauwe ballonnen, en op elke tafel een of twee mensen met een klein verlicht scherm in de hand. Niemand zei waarom. De meesten wisten het niet eens. Het was een gerucht dat zich zonder woorden verspreidde, van tafel tot tafel, van hand tot hand: er ontbreekt iemand.
+Het was een merkwaardig gezicht, als je het van boven had kunnen zien. Vijfenveertig mensen in een zaal met zeventig blauwe ballonnen, en op elke tafel een of twee mensen met een klein verlicht scherm in de hand. Niemand zei waarom. De meesten wisten het niet eens. Het was een gerucht dat zich zonder woorden verspreidde, van tafel tot tafel, van hand tot hand: er ontbreekt iemand.
 
 Ik stuurde Bram een bericht om 19.22: *Waar zijt ge?* Om 19.31: *Alles goed?* Om 19.40: *Mama vraagt naar u.* Dat laatste was niet waar. Mama vroeg niet naar hem. Mama vroeg aan niemand naar hem, ze keek alleen onder de tafel.
 
@@ -110,7 +110,7 @@ Ze stonden in de deur. Bram in het witte hemd van Kerstmis, met een losgeknoopte
 
 "Mama!" riep Bram door de zaal. "Gelukkige verjaardag! Ik ben te laat omdat de auto van de zus van Ilse is gestorven in Willebroek, op de parking van de Brico, en we zijn meegereden met een man die witloof levert aan restaurants. Hij heeft ons tot aan de kerk van Bonheiden gebracht. Hij heet Marcel. Hij wenst u ook een gelukkige verjaardag."
 
-Er ging iets door de zaal wat ik niet kan beschrijven. Het was geen zucht en geen lach. Het was het geluid van zesenveertig mensen die tegelijk hun telefoon wegleggen.
+Er ging iets door de zaal wat ik niet kan beschrijven. Het was geen zucht en geen lach. Het was het geluid van vijfenveertig mensen die tegelijk hun telefoon wegleggen.
 
 Mijn moeder stond op. Ze liep door de zaal, tussen de tafels, in haar blauwe jurk. Ze liep niet snel. Ze liep zoals je loopt naar iemand die je van op een perron ziet uitstappen. Ze omhelsde Bram. Ze hield hem vast. Ze zei iets in zijn oor wat niemand hoorde. Toen liet ze hem los en keek naar de vrouw met de groene mantel.
 
@@ -156,7 +156,7 @@ Ik huilde niet. Ik klapte. Ik klapte als eerste, omdat iemand moest beginnen, en
 
 En terwijl ik klapte, dacht ik iets wat ik hier ga opschrijven omdat ik me had voorgenomen alles op te schrijven. Ik dacht: niemand heeft ooit een speech over mij gehouden. Ik dacht: als ik zeventig word, gaat er iemand opstaan en een speech houden over mij, en wat gaat die zeggen. Hij is altijd gekomen. Hij heeft altijd opgenomen. Hij heeft de tafelschikking gemaakt. Ik dacht: dat is geen speech, dat is een functieomschrijving.
 
-Ik dacht ook: hij heeft in tien minuten meer gezegd dan ik in achtendertig jaar. En hij heeft het gezegd na twee uur te laat te komen, op een avond waarop zesenveertig mensen naar hun telefoon hebben gekeken, en iedereen huilt, en niemand denkt nog aan de soep.
+Ik dacht ook: hij heeft in tien minuten meer gezegd dan ik in achtendertig jaar. En hij heeft het gezegd na twee uur te laat te komen, op een avond waarop vijfenveertig mensen naar hun telefoon hebben gekeken, en iedereen huilt, en niemand denkt nog aan de soep.
 
 Ik schaamde me voor die gedachte. Ik schaam me er nog altijd voor. Ik heb haar toch gedacht.
 
@@ -202,7 +202,7 @@ Sanne stond naast me. Ze legde haar hoofd op mijn schouder.
 
 "Ja."
 
-"Wilt gij dat ook? Zo, later. Na vijfenveertig jaar."
+"Wilt gij dat ook? Zo, later. Na zevenenveertig jaar."
 
 Ik keek naar mijn ouders. Ik keek naar de hand van mijn vader op de rug van mijn moeder. Ik keek naar Bram, die naast de dj stond en met Ilse een soort wals deed die eigenlijk geen wals was, met heel grote passen, alsof ze over iets heen stapten wat niemand anders zag.
 

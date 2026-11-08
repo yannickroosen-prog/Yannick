@@ -110,7 +110,7 @@ Hij sliep niet. Hij keek naar het plafond. Toen ik binnenkwam, draaide hij allee
 
 "Ik ben al weg."
 
-Hij knikte. Dat is wat mijn vader doet wanneer iets gebeurd is wat niet meer ongedaan kan worden: hij knikt, zoals een boekhouder knikt naar een getal dat klopt maar dat hij liever anders had gezien. Hij heeft achtendertig jaar bij de stad op de financiële dienst gewerkt. Hij heeft in zijn leven meer begrotingen goedgekeurd dan er mensen in Bonheiden wonen. Hij spreekt weinig, en wat hij zegt, zegt hij in de vorm van een besluit.
+Hij knikte. Dat is wat mijn vader doet wanneer iets gebeurd is wat niet meer ongedaan kan worden: hij knikt, zoals een boekhouder knikt naar een getal dat klopt maar dat hij liever anders had gezien. Hij heeft elf jaar bij een boekhoudkantoor in Leuven gewerkt en daarna zevenentwintig jaar bij de stad Mechelen, op de financiële dienst. Hij heeft in zijn leven meer begrotingen goedgekeurd dan er mensen in Bonheiden wonen. Hij spreekt weinig, en wat hij zegt, zegt hij in de vorm van een besluit.
 
 Op zijn nachtkastje lag, naast een plastic bekertje met een rietje en een doosje zakdoeken, de groene kaft.
 
@@ -266,7 +266,7 @@ Thuis brandde licht in de keuken. Sanne stond aan het fornuis. Ze droeg haar gro
 
 "Hé," zei ze. "Ik heb uw berichtje gezien. Hoe is 't met uw pa?"
 
-Ik had haar om half tien een bericht gestuurd. *Papa in ziekenhuis, hartinfarct, stabiel, ik ga erheen.* Elf woorden. Ik had het verstuurd vanuit de lift. Ze had geantwoord met een hart en *bel me als ge iets nodig hebt*. Ik had haar niet gebeld. Ik had niets nodig gehad. Ik had een soep gehad.
+Ik had haar om half tien een bericht gestuurd. *Papa in ziekenhuis, hartinfarct, stabiel, ik ga erheen.* Acht woorden. Ik had het verstuurd vanuit de lift. Ze had geantwoord met een hart en *bel me als ge iets nodig hebt*. Ik had haar niet gebeld. Ik had niets nodig gehad. Ik had een soep gehad.
 
 "Hij stelt het goed," zei ik. "Twee stents. Hij moet rusten."
 
@@ -296,7 +296,7 @@ We aten. Het was een stoofpotje met linzen. Ze vertelde over haar werk, over een
 
 Ik zei niets over de groene kaft.
 
-Ik had het kunnen zeggen. Het zou gemakkelijk zijn geweest, tussen de linzen en de choco. *Papa heeft gevraagd of ik het bewind van Bram wil overnemen. Ik heb ja gezegd.* Twee zinnen. Minder woorden dan het bericht uit de lift.
+Ik had het kunnen zeggen. Het zou gemakkelijk zijn geweest, tussen de linzen en de choco. *Papa heeft gevraagd of ik het bewind van Bram wil overnemen. Ik heb ja gezegd.* Twee zinnen. Vijftien woorden. Zeven meer dan het bericht uit de lift.
 
 Ik zei het niet. Ik dacht: ze gaat vragen of ik het zeker weet. Ze gaat vragen of ik het met haar had kunnen bespreken. Ze gaat niet kwaad zijn, Sanne wordt bijna nooit kwaad, ze gaat alleen naar mijn mond kijken. En ik had die avond geen mond meer over.
 

@@ -254,7 +254,7 @@ In het pak voor mijn moeder zat een espressomachine. Een echte, met een stoompij
 
 "Ge drinkt al veertig jaar oploskoffie, mama. Dat is ook duur. Het kost u veertig jaar."
 
-In het pak voor Sanne zat een sjaal. Hij was van kasjmier. Hij was grijs met een dunne rode rand, en hij had precies de kleur van haar regenjas. Ik wist niet dat Bram wist welke kleur Sannes regenjas had. Sanne was er niet; ze werkte die zaterdag. Ik nam de sjaal mee naar huis en gaf hem haar 's avonds, en ze legde hem om haar nek en hield hem daar de hele avond, ook bij het eten.
+In het pak voor Sanne zat een sjaal. Hij was van kasjmier. Hij was grijs met een dunne rode rand, en die rand had precies de kleur van haar regenjas. Ik wist niet dat Bram wist welke kleur Sannes regenjas had. Sanne was er niet; ze werkte die zaterdag. Ik nam de sjaal mee naar huis en gaf hem haar 's avonds, en ze legde hem om haar nek en hield hem daar de hele avond, ook bij het eten.
 
 Het pak voor mijn vader was plat en rechthoekig. Er zat een schaakbord in, van hout, met stukken die in een lade onder het bord pasten. Op het papier stond: *Voor als ge Bobby Fischer uit hebt.*
 
@@ -354,6 +354,6 @@ Ik dacht aan *Ge gaat het weten.*
 
 Het licht sprong op groen. Sanne reed verder. Ze zei niets. Na een tijdje zette ze de radio wat luider, het liedje van de sneeuwman was afgelopen en er kwam een ander, over een rendier.
 
-Ik keek naar de ruitenwissers. Ik hoorde mijn eigen woorden nog in de auto hangen, tussen de warme lucht van de blazer en het geluid van de banden op de natte weg. *Volgend jaar.* Het jaar zou over zeven dagen beginnen.
+Ik keek naar de ruitenwissers. Ik hoorde mijn eigen woorden nog in de auto hangen, tussen de warme lucht van de blazer en het geluid van de banden op de natte weg. *Volgend jaar.* Het jaar zou over acht dagen beginnen.
 
 De ruitenwissers zwaaiden naar links, wachtten, en zwaaiden naar rechts.

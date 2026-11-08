@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "status": "staged",
+  "scope": "format_only_not_editorial_acceptance",
+  "source_sha256": "1b7bba50b3d957a2020e97adc4e45de7f541a671cbcf0749c9f2c22cc827b8b0",
+  "staged_sha256": "1b7bba50b3d957a2020e97adc4e45de7f541a671cbcf0749c9f2c22cc827b8b0",
+  "body_sha256": "0a72e265f54222405a173fda27736e4063a09f406b747b5b2c0d0eef9e9abd5d",
+  "body_unchanged": true,
+  "transform": "none",
+  "original_heading_level": 1,
+  "heading_level": 1,
+  "title": "Januari",
+  "visible_prose_words": 4340,
+  "source_file": "source.md",
+  "staged_file": "chapter.md"
+}

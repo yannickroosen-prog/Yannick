@@ -206,7 +206,7 @@ Het water kookte. Ik hoorde de klik van de waterkoker en zag het lampje uitgaan.
 
 Om vijf voor zeven stuurde ik Karim een bericht: *Bram heeft mij vannacht om 2u10 een spraakbericht gestuurd van 11 minuten. Is dat een signaal?*
 
-Karim antwoordde om tien over acht, toen ik al op mijn werk was.
+Karim antwoordde om twintig over negen, toen ik al op mijn werk was.
 
 *Ik heb hem net gesproken. Hij heeft van 2u30 tot 9u geslapen. Hij zegt dat hij u een boek wilde aanraden. Geen signaal. Wel een goed boek.*
 
@@ -228,7 +228,7 @@ Ik keek. Ik zag een baby. Ik zag Sanne, achter de baby, in het licht van het sch
 
 "Hij is perfect," zei Sanne.
 
-We gingen op zaterdag op kraambezoek. Ik had een knuffel gekocht in de winkel boven het kantoor van het mobiel team: een konijn met lange oren. Het leek op het konijn dat in november nat in het fietsrek van het ziekenhuis had gezeten. Ik had dat pas gezien toen ik al aan de kassa stond. Ik had het toch gekocht.
+We gingen op zaterdag op kraambezoek. Ik had een knuffel gekocht in de winkel onder het kantoor van het mobiel team: een konijn met lange oren. Het leek op het konijn dat in november nat in het fietsrek van het ziekenhuis had gezeten. Ik had dat pas gezien toen ik al aan de kassa stond. Ik had het toch gekocht.
 
 Lotte lag in een kamer met uitzicht op een parking. Haar man, Pieter, zat op een stoel naast het bed met de blik van iemand die in drie dagen zes uur heeft geslapen en dat nog niet erg vindt. Mats lag in een plastic bakje naast het bed. Hij sliep. Hij had zijn handjes naast zijn hoofd, met de vingers gespreid, alsof hij net iets had losgelaten.
 
@@ -298,7 +298,7 @@ Het laatste bericht was van hem, van donderdag: een foto van een schaakstelling,
 
 Ik typte: *Hebt ge gegeten?*
 
-Ik keek naar de vier woorden. Ik keek naar het vraagteken. Ik dacht aan Karim, die geen signalen had. Ik dacht aan zes uur twaalf. Ik dacht aan mijn moeder, die elke dag om kwart over zeven belt en elke keer vraagt of ik gegeten heb, en aan hoe ik me dan voel, elke dag, om kwart over zeven, al achtendertig jaar.
+Ik keek naar de drie woorden. Ik keek naar het vraagteken. Ik dacht aan Karim, die geen signalen had. Ik dacht aan zes uur twaalf. Ik dacht aan mijn moeder, die elke dag om kwart over zeven belt en elke keer vraagt of ik gegeten heb, en aan hoe ik me dan voel, elke dag, om kwart over zeven, al sinds ik op kot ging.
 
 Ik hoorde de kraan in de badkamer dichtgaan.
 
