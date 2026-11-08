@@ -1,0 +1,35 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "41f6557ee22acf56237aa59b24c2fdcaa03bfbc4f3a36beb5dd2ba962f007847",
+  "reader": "Mark",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0055"},
+  "why_stopped": {"reason": "De promotie bij Fidelis voelt als een handig klaargezet keuzemoment: de overname, de directeur die knikt, de reisverplichting komen precies op het moment dat Wouter een vluchtweg nodig heeft, en het leest als bedrijfsuitleg in plaats van scène."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0049", "reason": "Het treinticket om zeven uur draait de vergeten zitting om tot een keuze; dat is echte causaliteit, al klopt het uur niet helemaal."},
+    {"passage_id": "B:p0093", "reason": "Drie keer bellen om naar de inademing voor de voicemail te luisteren is een concreet, onopgesmukt beeld van gemis."},
+    {"passage_id": "B:p0109", "reason": "Een vraag die niet meer komt is beantwoord: scherp en verdiend door de frigo-scène."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0049", "reason": "Het afschrift zegt 07.02 u, de verteller leest 'zeven over zeven' en daarna 'om zeven uur gekocht'; is 07.02 het vertrekuur of het aankoopuur?"},
+    {"passage_id": "A:p0043", "reason": "'Drie weken lang' gezwegen, maar van zondag 24 mei tot donderdag 4 juni is het elf dagen."},
+    {"passage_id": "B:p0075", "reason": "Zonder uitleg dat Bram op zondag rozijnenbrood eet, moet ik zelf raden waarom 'het' naar Bram gebracht zou worden."}
+  ],
+  "flags": [
+    {"flag": "continuity_doubt", "passage_id": "A:p0043"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0049"},
+    {"flag": "continuity_doubt", "passage_id": "A:p0049"},
+    {"flag": "exposition_dump", "passage_id": "B:p0055"},
+    {"flag": "over_explained", "passage_id": "A:p0075"},
+    {"flag": "over_explained", "passage_id": "B:p0050"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0072", "reason": "De moeder die om een rozijnenbrood huilt, met dat hoge geluid als de hond aan de deur, laat de breuk zien zonder ze te benoemen."},
+  "weakest_passage": {"passage_id": "B:p0055", "reason": "Een promotie die toevallig samenvalt met de crisis en in één alinea zakelijke samenvatting wordt neergezet; het voelt als een plotapparaat."},
+  "machine_tells": [
+    {"tell": "aphoristic closer", "passage_id": "B:p0050"},
+    {"tell": "rhythmic triple repetition", "passage_id": "B:p0061"}
+  ],
+  "felt": {"emotion": "ongemak en stille schuld", "reason": "De opeenstapeling van wegvallende rituelen (dinsdag, slaapuren, de kaft, Sannes vraag) drukt, en de voicemailscène in B maakte het gemis fysiek."},
+  "confidence": "medium",
+  "compare": "B"
+}

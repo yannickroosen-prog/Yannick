@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "status": "staged",
+  "scope": "format_only_not_editorial_acceptance",
+  "source_sha256": "62595a513947aa1611d4166127c76420c146f001ecfd1c0c3fd5fbbe7e56aa0b",
+  "staged_sha256": "62595a513947aa1611d4166127c76420c146f001ecfd1c0c3fd5fbbe7e56aa0b",
+  "body_sha256": "94f2119207d24dee1817a5bd076647c662c4b9ff7bc552f4d50005a2e8342805",
+  "body_unchanged": true,
+  "transform": "none",
+  "original_heading_level": 1,
+  "heading_level": 1,
+  "title": "Oktober",
+  "visible_prose_words": 4509,
+  "source_file": "source.md",
+  "staged_file": "chapter.md"
+}

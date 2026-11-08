@@ -1,0 +1,365 @@
+{
+  "type": "object",
+  "properties": {
+    "reader": {
+      "type": "string",
+      "enum": [
+        "Airport reader"
+      ]
+    },
+    "turn_page": {
+      "type": "string",
+      "enum": [
+        "no",
+        "unsure",
+        "yes"
+      ]
+    },
+    "stopped_at": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "passage_id": {
+              "$ref": "#/$defs/passageId"
+            }
+          },
+          "required": [
+            "passage_id"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "why_stopped": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "reason": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "reason"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "remember_tomorrow": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "passage_id",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "confused_by": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "passage_id",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "flags": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "flag": {
+            "type": "string",
+            "enum": [
+              "cliche",
+              "confusing",
+              "continuity_doubt",
+              "emotion_missed",
+              "exposition_dump",
+              "flat_voice",
+              "machine_prose",
+              "no_stakes",
+              "over_explained",
+              "predictable",
+              "slow_start",
+              "stiff_dialogue"
+            ]
+          },
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          }
+        },
+        "required": [
+          "flag",
+          "passage_id"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "strongest_passage": {
+      "type": "object",
+      "properties": {
+        "passage_id": {
+          "$ref": "#/$defs/passageId"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "passage_id",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "weakest_passage": {
+      "type": "object",
+      "properties": {
+        "passage_id": {
+          "$ref": "#/$defs/passageId"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "passage_id",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "machine_tells": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "tell": {
+            "type": "string"
+          },
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          }
+        },
+        "required": [
+          "tell",
+          "passage_id"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "felt": {
+      "type": "object",
+      "properties": {
+        "emotion": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 120,
+          "description": "A short emotion label such as tension and relief, at most 120 characters. Put explanations in felt.reason; do not copy story prose here."
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "emotion",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "confidence": {
+      "type": "string",
+      "enum": [
+        "high",
+        "low",
+        "medium"
+      ]
+    },
+    "schema_version": {
+      "type": "integer",
+      "enum": [
+        2
+      ]
+    },
+    "catalog_sha256": {
+      "type": "string",
+      "enum": [
+        "fe2aaa36c14000edc8edd66ee13a0afe65db655d954ae5262b2168eaf244a00f"
+      ]
+    }
+  },
+  "required": [
+    "reader",
+    "turn_page",
+    "stopped_at",
+    "why_stopped",
+    "remember_tomorrow",
+    "confused_by",
+    "flags",
+    "strongest_passage",
+    "weakest_passage",
+    "machine_tells",
+    "felt",
+    "confidence",
+    "schema_version",
+    "catalog_sha256"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "passageId": {
+      "type": "string",
+      "enum": [
+        "c07p0001",
+        "c07p0002",
+        "c07p0003",
+        "c07p0004",
+        "c07p0005",
+        "c07p0006",
+        "c07p0007",
+        "c07p0008",
+        "c07p0009",
+        "c07p0010",
+        "c07p0011",
+        "c07p0012",
+        "c07p0013",
+        "c07p0014",
+        "c07p0015",
+        "c07p0016",
+        "c07p0017",
+        "c07p0018",
+        "c07p0019",
+        "c07p0020",
+        "c07p0021",
+        "c07p0022",
+        "c07p0023",
+        "c07p0024",
+        "c07p0025",
+        "c07p0026",
+        "c07p0027",
+        "c07p0028",
+        "c07p0029",
+        "c07p0030",
+        "c07p0031",
+        "c07p0032",
+        "c07p0033",
+        "c07p0034",
+        "c07p0035",
+        "c07p0036",
+        "c07p0037",
+        "c07p0038",
+        "c07p0039",
+        "c07p0040",
+        "c07p0041",
+        "c07p0042",
+        "c07p0043",
+        "c07p0044",
+        "c07p0045",
+        "c07p0046",
+        "c07p0047",
+        "c07p0048",
+        "c07p0049",
+        "c07p0050",
+        "c07p0051",
+        "c07p0052",
+        "c07p0053",
+        "c07p0054",
+        "c07p0055",
+        "c07p0056",
+        "c07p0057",
+        "c07p0058",
+        "c07p0059",
+        "c07p0060",
+        "c07p0061",
+        "c07p0062",
+        "c07p0063",
+        "c07p0064",
+        "c07p0065",
+        "c07p0066",
+        "c07p0067",
+        "c07p0068",
+        "c07p0069",
+        "c07p0070",
+        "c07p0071",
+        "c07p0072",
+        "c07p0073",
+        "c07p0074",
+        "c07p0075",
+        "c07p0076",
+        "c07p0077",
+        "c07p0078",
+        "c07p0079",
+        "c07p0080",
+        "c07p0081",
+        "c07p0082",
+        "c07p0083",
+        "c07p0084",
+        "c07p0085",
+        "c07p0086",
+        "c07p0087",
+        "c07p0088",
+        "c07p0089",
+        "c07p0090",
+        "c07p0091",
+        "c07p0092",
+        "c07p0093",
+        "c07p0094",
+        "c07p0095",
+        "c07p0096",
+        "c07p0097",
+        "c07p0098",
+        "c07p0099",
+        "c07p0100",
+        "c07p0101",
+        "c07p0102",
+        "c07p0103",
+        "c07p0104",
+        "c07p0105",
+        "c07p0106",
+        "c07p0107",
+        "c07p0108",
+        "c07p0109",
+        "c07p0110",
+        "c07p0111",
+        "c07p0112",
+        "c07p0113",
+        "c07p0114",
+        "c07p0115",
+        "c07p0116",
+        "c07p0117",
+        "c07p0118",
+        "c07p0119",
+        "c07p0120",
+        "c07p0121",
+        "c07p0122",
+        "c07p0123"
+      ]
+    }
+  }
+}

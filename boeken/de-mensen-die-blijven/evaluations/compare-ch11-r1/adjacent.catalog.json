@@ -1,0 +1,632 @@
+{
+  "schema_version": 3,
+  "kind": "anonymous_comparison",
+  "sources": [
+    {
+      "label": "A",
+      "sha256": "9e153692362f9cc6bb68a6df978590ddd9d6eaba90e4a517f05ce90b2c6c71a1",
+      "passages": [
+        {
+          "id": "A:p0001",
+          "text": "Op dinsdag 1 september ging ik naar Dirk. Ik had het hem beloofd: een antwoord op 1 september."
+        },
+        {
+          "id": "A:p0002",
+          "text": "\"Ik weet het nog niet,\" zei ik."
+        },
+        {
+          "id": "A:p0003",
+          "text": "Dirk keek me aan. Hij had zijn bruine kleur van Bretagne bijna kwijt. Hij leunde achterover in zijn stoel, die kraakte."
+        },
+        {
+          "id": "A:p0004",
+          "text": "\"Wouter,\" zei hij. \"Ik ken u nu zes jaar. Ge hebt in zes jaar nooit een deadline gemist. Ge zijt de enige in dit gebouw die nooit een deadline mist.\""
+        },
+        {
+          "id": "A:p0005",
+          "text": "\"Ik weet het.\""
+        },
+        {
+          "id": "A:p0006",
+          "text": "\"Dus als gij zegt dat ge het nog niet weet, dan wil dat iets zeggen.\""
+        },
+        {
+          "id": "A:p0007",
+          "text": "Ik zei niets. Ik keek naar de foto van de zeilboot."
+        },
+        {
+          "id": "A:p0008",
+          "text": "\"Eén oktober,\" zei Dirk. \"Dan moet ik het weten. Echt. Anders vragen ze iemand anders. En Wouter.\" Hij boog zich naar voren. \"Nee is ook een antwoord. Dat weet ge, hè? Ge moogt nee zeggen. Niemand gaat u dat kwalijk nemen.\""
+        },
+        {
+          "id": "A:p0009",
+          "text": "Ik bedankte hem. Ik ging terug naar mijn bureau. Ik zat er een half uur en keek naar Afrika. Toen deed ik iets wat ik nog nooit had gedaan: ik veranderde mijn bureaublad. Ik koos een standaardfoto van het systeem, een berg met sneeuw. Afrika was weg. Ik voelde er niets bij. Ik had verwacht dat ik er iets bij zou voelen."
+        },
+        {
+          "id": "A:p0010",
+          "text": "---"
+        },
+        {
+          "id": "A:p0011",
+          "text": "Bram kwam op donderdag 3 september thuis van de afdeling. Ik hoorde het van mijn moeder, om kwart over zeven."
+        },
+        {
+          "id": "A:p0012",
+          "text": "\"Hij is thuis,\" zei ze. \"Ilse heeft hem gehaald. Met de auto van haar zus. Die rijdt weer.\""
+        },
+        {
+          "id": "A:p0013",
+          "text": "\"Hoe is 't met hem?\""
+        },
+        {
+          "id": "A:p0014",
+          "text": "\"Goed. Moe. Hij is begonnen met dozen.\""
+        },
+        {
+          "id": "A:p0015",
+          "text": "\"Dozen?\""
+        },
+        {
+          "id": "A:p0016",
+          "text": "\"Voor de polders. Hij pakt al in. Ilse heeft dozen gehaald bij de Aldi.\" Ze zweeg even. \"Hij heeft gevraagd of hij een kostuum van uw vader mag lenen. Voor de vrederechter. Het grijze. Van de trouw van Rita's dochter.\""
+        },
+        {
+          "id": "A:p0017",
+          "text": "\"Dat is hem te groot.\""
+        },
+        {
+          "id": "A:p0018",
+          "text": "\"Ik weet het,\" zei mijn moeder. \"Ik ga het innemen.\""
+        },
+        {
+          "id": "A:p0019",
+          "text": "Ik vroeg of ik moest helpen met de dozen. Ze zei dat ik het aan Bram moest vragen. Ik vroeg het aan Bram, per bericht. *Zal ik komen helpen inpakken?* Hij antwoordde na twee uur: *Nee, kleine. Dank u. Ilse en ik doen het. We doen het traag. Ik wil elk boek nog een keer vasthouden.*"
+        },
+        {
+          "id": "A:p0020",
+          "text": "---"
+        },
+        {
+          "id": "A:p0021",
+          "text": "Maandag 21 september. Ik was om vijf over half tien aan het vredegerecht. Het plein met de platanen. De trap van blauwe steen. De vrouw achter het glas, die mijn naam opzocht en me een sticker gaf. *BEZOEKER. Vredegerecht.* Ik plakte hem op mijn hemd. Ik had het zelf gestreken. Er zat een plooi in de kraag."
+        },
+        {
+          "id": "A:p0022",
+          "text": "Boven, in de wachtzaal onder de engeltjes, stond de koffieautomaat. Het briefje *Buiten gebruik* was weg. Er brandde een groen lampje. Een man in een blauwe overall was hem aan het bijvullen met bekertjes."
+        },
+        {
+          "id": "A:p0023",
+          "text": "\"Hij werkt?\" vroeg ik."
+        },
+        {
+          "id": "A:p0024",
+          "text": "\"Sinds vorige week,\" zei de man. \"Drie jaar hebben ze gewacht op een onderdeel.\" Hij klapte het luikje dicht. \"Het was een vijs. Een gewone vijs van twintig cent.\""
+        },
+        {
+          "id": "A:p0025",
+          "text": "Ik kocht een koffie. Hij was heet en smaakte naar karton, zoals op het werk. Ik dronk hem op een plastic stoel en keek naar de deur."
+        },
+        {
+          "id": "A:p0026",
+          "text": "Om twintig voor tien kwam Bram de trap op."
+        },
+        {
+          "id": "A:p0027",
+          "text": "Hij droeg het grijze kostuum van mijn vader. Mijn moeder had het ingenomen, maar niet genoeg; het hing nog altijd een beetje om hem heen, zoals een jas om een kapstok. Hij droeg een wit hemd en een nieuwe das, donkerblauw met kleine witte stippen. Zijn haar was geknipt. Hij was nog mager, maar minder grauw dan in augustus. Hij had een bruine envelop in zijn hand, A5, en hij hield hem met twee handen vast, zoals Jeannine haar handtas had vastgehouden."
+        },
+        {
+          "id": "A:p0028",
+          "text": "Ilse kwam achter hem de trap op. Ze droeg geen groene mantel. Ze droeg een zwarte jurk die ik nooit had gezien, en ze zag eruit als iemand die naar een begrafenis gaat en er vrede mee heeft."
+        },
+        {
+          "id": "A:p0029",
+          "text": "\"Ik blijf hier,\" zei Ilse. \"Ik ben geen familie. Nog niet.\" Ze keek naar mij en glimlachte. Ze had het van Bram gehoord, dacht ik. Of van Marleen. Ik heb het nooit gevraagd."
+        },
+        {
+          "id": "A:p0030",
+          "text": "Bram ging naast me zitten. Hij rook naar zeep en een beetje naar mottenballen, van het kostuum."
+        },
+        {
+          "id": "A:p0031",
+          "text": "\"Kleine.\""
+        },
+        {
+          "id": "A:p0032",
+          "text": "\"Bram.\""
+        },
+        {
+          "id": "A:p0033",
+          "text": "\"Ge hebt een plooi in uw kraag.\""
+        },
+        {
+          "id": "A:p0034",
+          "text": "\"Ik weet het.\""
+        },
+        {
+          "id": "A:p0035",
+          "text": "Hij keek naar de koffieautomaat. \"Hij werkt.\""
+        },
+        {
+          "id": "A:p0036",
+          "text": "\"Sinds vorige week. Het was een vijs.\""
+        },
+        {
+          "id": "A:p0037",
+          "text": "Bram knikte. Hij keek naar de automaat met een uitdrukking die ik niet kon lezen. Hij zei niets. Ik had verwacht dat hij er iets over zou zeggen, over de vijs, over drie jaar wachten op twintig cent. Ik had de zin al bijna gehoord, in zijn stem, met een citaat erin. Hij zei niets. Hij hield zijn envelop vast."
+        },
+        {
+          "id": "A:p0038",
+          "text": "---"
+        },
+        {
+          "id": "A:p0039",
+          "text": "Om tien uur riep de griffier ons af. *Verhaegen.* Ze keek naar ons beiden. \"Allebei,\" zei ze."
+        },
+        {
+          "id": "A:p0040",
+          "text": "De zittingszaal was dezelfde. De wetboeken in hun rode banden. De lange tafel. De drie stoelen. Vrederechter Desmet zat er in een zwarte trui, met haar bril aan het koordje. Ze keek op toen we binnenkwamen. Ze keek eerst naar Bram, dan naar mij, dan weer naar Bram."
+        },
+        {
+          "id": "A:p0041",
+          "text": "\"Meneer Verhaegen,\" zei ze tegen Bram. \"U bent er.\""
+        },
+        {
+          "id": "A:p0042",
+          "text": "\"Ik ben er,\" zei Bram. \"Het spijt me van april. De zee was er.\""
+        },
+        {
+          "id": "A:p0043",
+          "text": "De vrederechter keek hem aan over haar bril. Ik zag iets in haar mondhoek bewegen. Ze schreef niets in de marge."
+        },
+        {
+          "id": "A:p0044",
+          "text": "\"Ga zitten,\" zei ze."
+        },
+        {
+          "id": "A:p0045",
+          "text": "We gingen zitten. Bram links, ik rechts. De stoel in het midden bleef leeg. Ik keek ernaar. Ik dacht aan mijn vader, die er had moeten zitten, als de bewindvoerder die werd vervangen, en die had gezegd dat hij niet zou komen, dat hij zijn handtekening al had gezet, dat hij niet meer wilde. Mijn moeder had gezegd dat hij niet kon. Het was hetzelfde."
+        },
+        {
+          "id": "A:p0046",
+          "text": "De vrederechter las voor uit het dossier. Het verzoekschrift van december. De beschikking van tien jaar geleden. De verklaring van mijn vader dat hij zijn taak wilde neerleggen. Ze las het snel, met een vlakke stem, zoals je de ingrediënten van een recept voorleest dat je al honderd keer hebt gemaakt."
+        },
+        {
+          "id": "A:p0047",
+          "text": "Toen zette ze haar bril af."
+        },
+        {
+          "id": "A:p0048",
+          "text": "\"Meneer Bram Verhaegen,\" zei ze. \"Uw broer vraagt om bewindvoerder te worden over uw goederen. Dat betekent dat hij uw geld zal beheren, uw rekeningen zal betalen, en mij elk jaar verslag zal uitbrengen. Wat denkt u daarvan?\""
+        },
+        {
+          "id": "A:p0049",
+          "text": "Bram legde de envelop op tafel. Hij opende hem. Er zaten twee blaadjes in, beschreven met de hand, met blauwe balpen, aan beide kanten. Ik herkende zijn handschrift: hoofdletters, schuin, de krul aan de W."
+        },
+        {
+          "id": "A:p0050",
+          "text": "\"Ik heb iets opgeschreven,\" zei hij. \"Mag ik het voorlezen? Ik ben te lang op papier. Maar ik ben ook te lang mondeling. Op papier ben ik tenminste te lang in een vaste volgorde.\""
+        },
+        {
+          "id": "A:p0051",
+          "text": "\"Lees het voor,\" zei de vrederechter."
+        },
+        {
+          "id": "A:p0052",
+          "text": "---"
+        },
+        {
+          "id": "A:p0053",
+          "text": "Ik heb de brief later gevraagd. Bram heeft hem me gegeven, in oktober, in de polders. Ik schrijf hier over wat er stond. Ik schrijf het niet helemaal over. Er staan dingen in die van hem zijn."
+        },
+        {
+          "id": "A:p0054",
+          "text": "Hij begon met mijn vader. Hij bedankte hem. Hij schreef dat mijn vader tien jaar lang elke maandag honderdtwintig euro op zijn rekening had gezet, en dat dat nooit één maandag te laat was geweest, ook niet de maandag na zijn hartinfarct, want dan had hij het vanuit het ziekenhuis geregeld met een telefoontje naar de bank. Ik wist dat niet. Niemand had het mij verteld. Hij schreef dat hij zijn vader nooit had bedankt omdat het moeilijk is om iemand te bedanken die je elke week een zakgeld geeft als je veertig bent. Hij schreef dat hij het nu deed, op papier, voor een vrederechter, omdat dat de enige plek was waar hij zeker wist dat het zou worden opgeschreven."
+        },
+        {
+          "id": "A:p0055",
+          "text": "Toen schreef hij over mij."
+        },
+        {
+          "id": "A:p0056",
+          "text": "Hij las het traag. Zijn stem was rustig. Hij keek niet naar mij. Hij keek naar het papier."
+        },
+        {
+          "id": "A:p0057",
+          "text": "Hij schreef dat ik de beste broer was die hij kende. Hij schreef dat hij er maar één kende, maar dat dat niet uitmaakte. Hij schreef dat ik in januari om half twee 's nachts was komen fietsen voor een sleutel die in zijn eigen jas zat. Dat ik elke week vol-au-vent had gebracht toen mijn vader niet kon rijden. Dat ik nooit één keer niet had opgenomen in twintig jaar, behalve één keer, in augustus, en dat hij daar blij om was geweest. Hij schreef: *Blij, mevrouw de vrederechter. Ik heb die middag naar een telefoon geluisterd die bleef overgaan, en ik heb gedacht: eindelijk.*"
+        },
+        {
+          "id": "A:p0058",
+          "text": "Ik keek naar de wetboeken. Ik telde ze. Ik kwam tot drieëntwintig en begon opnieuw."
+        },
+        {
+          "id": "A:p0059",
+          "text": "Toen schreef hij waarom hij niet wilde dat ik zijn bewindvoerder werd."
+        },
+        {
+          "id": "A:p0060",
+          "text": "Hij schreef dat hij wist dat ik zijn slaapuren bijhield. Dat Karim ze me had gestuurd, en dat hij dat goed had gevonden, in het begin, omdat hij dacht dat het mij gerust zou stellen. En dat het mij niet gerust had gesteld. Dat ik er een tabel van had gemaakt. Hij wist van de tabel. Ik weet niet hoe. Ik heb nooit iemand over de tabel verteld, behalve hier. Misschien had Sanne het aan Ilse gezegd. Misschien had hij het geraden. Bram ziet dingen."
+        },
+        {
+          "id": "A:p0061",
+          "text": "Hij schreef dat hij wist dat mijn vader mij de groene kaft al in juni had gegeven, voor de zitting. Dat hij wist dat ik zijn afschriften had gelezen. Dat ik had gezien dat hij om zeven over zeven twee treintickets had gekocht naar De Panne. Hij schreef: *Ik wist dat hij het ging zien. Ik heb ze om die reden met de kaart gekocht en niet cash. Ik wilde dat hij wist dat ik het had gekozen. Dat het mij niet was overkomen.*"
+        },
+        {
+          "id": "A:p0062",
+          "text": "Hij schreef dat hij veertig was, tweeënveertig nu, en dat hij in oktober naar de polders ging, honderdtwintig kilometer van Mechelen, een uur twintig op een zondag zonder file. Dat hij daar wilde wonen als iemand die zijn eigen sleutel kwijtraakt en hem zelf terugvindt, of niet. En dat hij het niet kon als zijn broer zijn bankafschriften las met zijn vinger, aan een keukentafel, om half één 's nachts."
+        },
+        {
+          "id": "A:p0063",
+          "text": "Toen las hij de zin die ik had verwacht, en die toch aankwam alsof ik hem nooit had verwacht."
+        },
+        {
+          "id": "A:p0064",
+          "text": "*Mijn broer heeft al genoeg van mij beheerd. Ik vraag u om een bewindvoerder die mij niet graag ziet. Iemand die mijn rekeningen betaalt en verder niets. Dan kan mijn broer weer mijn broer zijn. Ik denk dat hij dat vergeten is. Ik denk dat hij het een beetje mist.*"
+        },
+        {
+          "id": "A:p0065",
+          "text": "Hij vouwde de blaadjes op. Hij stak ze terug in de envelop. Hij legde de envelop op tafel, met zijn hand erop."
+        },
+        {
+          "id": "A:p0066",
+          "text": "---"
+        },
+        {
+          "id": "A:p0067",
+          "text": "Het was stil in de zittingszaal. De griffier had opgehouden met schrijven. Buiten op het plein reed een vuilniswagen voorbij en ik hoorde de container die werd leeggeschud, een lang metalen geratel."
+        },
+        {
+          "id": "A:p0068",
+          "text": "De vrederechter zette haar bril weer op. Ze keek naar mij."
+        },
+        {
+          "id": "A:p0069",
+          "text": "\"Meneer Wouter Verhaegen,\" zei ze. \"Wat denkt u hiervan?\""
+        },
+        {
+          "id": "A:p0070",
+          "text": "Ik keek naar haar. Ik keek naar Bram, die naar de envelop keek, met zijn hand erop. Ik keek naar de lege stoel tussen ons in."
+        },
+        {
+          "id": "A:p0071",
+          "text": "\"Ik begrijp het,\" zei ik."
+        },
+        {
+          "id": "A:p0072",
+          "text": "Ik begreep het niet. Ik begreep de woorden. Ik begreep elke zin. Ik begreep niet wat er met mij gebeurde. Er gebeurde iets in mijn borst wat leek op wat mijn vader in november moet hebben gevoeld, om vier uur 's nachts, in de badkamer, met zijn tandenborstel in zijn hand. Iets wat hij eerst voor zijn maag hield."
+        },
+        {
+          "id": "A:p0073",
+          "text": "De vrederechter keek me lang aan. Toen schreef ze iets in het dossier. Niet in de marge. In het midden van de bladzijde."
+        },
+        {
+          "id": "A:p0074",
+          "text": "\"Ik ga de vraag van de beschermde persoon volgen,\" zei ze. \"Ik stel een professionele bewindvoerder aan. Gezien de verhuis naar Diksmuide, iemand uit dat arrondissement. De griffie zal een naam voorstellen. Meneer Marc Verhaegen wordt ontslagen van zijn opdracht, met dank voor tien jaar. De stukken worden overgedragen aan de nieuwe bewindvoerder.\" Ze keek naar mij. \"U hebt de stukken, begrijp ik?\""
+        },
+        {
+          "id": "A:p0075",
+          "text": "\"De groene kaft,\" zei ik. \"Ja.\""
+        },
+        {
+          "id": "A:p0076",
+          "text": "\"Dan bezorgt u die aan de griffie. Of rechtstreeks aan de nieuwe bewindvoerder, als u dat verkiest.\""
+        },
+        {
+          "id": "A:p0077",
+          "text": "Ze sloot het dossier. Ze zette haar bril af. Hij bleef hangen aan het koordje, op haar zwarte trui, en schommelde even."
+        },
+        {
+          "id": "A:p0078",
+          "text": "\"Meneer Wouter Verhaegen,\" zei ze. Ze zei het anders dan daarnet. Ze zei het zoals Gilbert in april *sterkte, jongen* had gezegd. \"U mag nu naar huis.\""
+        },
+        {
+          "id": "A:p0079",
+          "text": "---"
+        },
+        {
+          "id": "A:p0080",
+          "text": "Buiten scheen de zon. Het was september, en de platanen op het plein begonnen bruin te worden aan de randen. Ilse zat op de trap van blauwe steen te roken. Ze stond op toen ze ons zag."
+        },
+        {
+          "id": "A:p0081",
+          "text": "\"En?\" zei ze."
+        },
+        {
+          "id": "A:p0082",
+          "text": "\"Een notaris,\" zei Bram. \"Of een advocaat. Iemand uit Diksmuide. Iemand die mij niet graag ziet.\""
+        },
+        {
+          "id": "A:p0083",
+          "text": "Ilse keek naar Bram. Ze keek naar mij. Ze trapte haar sigaret uit en stak de peuk in haar zak."
+        },
+        {
+          "id": "A:p0084",
+          "text": "\"Ik ga sigaretten halen,\" zei ze. \"Aan de Vismarkt. Dat duurt lang. Ik ken de weg niet goed.\""
+        },
+        {
+          "id": "A:p0085",
+          "text": "Ze kende de weg heel goed. Ze liep weg over het plein, in haar zwarte jurk, zonder om te kijken."
+        },
+        {
+          "id": "A:p0086",
+          "text": "We liepen naar de Vismarkt. We zeiden niets. Bram liep een beetje voor me, in het grijze kostuum van mijn vader dat om hem heen hing, met de envelop onder zijn arm. Bij de brug over de Dijle, tegenover De Gouden Vis, staat een bank. Hij ging erop zitten. Ik ging naast hem zitten. Achter ons, door het raam van het café, zag ik het bord bij het raam. Er stonden geen stukken op. Het was maandag."
+        },
+        {
+          "id": "A:p0087",
+          "text": "\"Bram,\" zei ik. \"Van mei. Wat ik gezegd heb aan tafel.\""
+        },
+        {
+          "id": "A:p0088",
+          "text": "\"Ge had gelijk,\" zei Bram."
+        },
+        {
+          "id": "A:p0089",
+          "text": "\"Ik had geen gelijk.\""
+        },
+        {
+          "id": "A:p0090",
+          "text": "\"Ge had gelijk,\" zei hij. \"Ik kan geen sleutel bijhouden. Ik ben mijn sleutel in mijn leven vierendertig keer kwijt geweest. Ik heb het geteld, op de afdeling, toen ik niets anders te doen had. Vierendertig keer. Ge had gelijk.\" Hij keek naar het water. \"Dat was het gemene eraan, kleine. Dat het waar was. Als ge iets had gezegd wat niet waar was, had ik u kunnen uitlachen.\""
+        },
+        {
+          "id": "A:p0091",
+          "text": "Een meeuw landde op de reling van de brug. Hij keek naar ons met dezelfde gele blik als de meeuw in Lagos."
+        },
+        {
+          "id": "A:p0092",
+          "text": "\"Ik had het niet mogen zeggen,\" zei ik."
+        },
+        {
+          "id": "A:p0093",
+          "text": "\"Nee,\" zei Bram. \"Maar ge hebt het gezegd. Twintig jaar hebt ge het niet gezegd, en dan hebt ge het gezegd. Ik was bijna opgelucht.\""
+        },
+        {
+          "id": "A:p0094",
+          "text": "\"Opgelucht?\""
+        },
+        {
+          "id": "A:p0095",
+          "text": "\"Dat ge kwaad kunt worden. Ik dacht dat ge dat niet kon.\" Hij keek naar me. \"Ik dacht dat ge alleen kunt blijven.\""
+        },
+        {
+          "id": "A:p0096",
+          "text": "Ik zei niets."
+        },
+        {
+          "id": "A:p0097",
+          "text": "Hij keek weer naar het water. Het was laag en bruin en traag, en er dreef een plastic flesje op, met de stroom mee, zoals de eend in november."
+        },
+        {
+          "id": "A:p0098",
+          "text": "\"Weet ge waarom ge gebleven zijt, kleine?\" zei hij. \"Twintig jaar?\""
+        },
+        {
+          "id": "A:p0099",
+          "text": "\"Omdat ge mijn broer zijt.\""
+        },
+        {
+          "id": "A:p0100",
+          "text": "\"Dat is waarom ge gekomen zijt,\" zei Bram. \"Ik vraag waarom ge gebleven zijt.\""
+        },
+        {
+          "id": "A:p0101",
+          "text": "Ik wist niet wat het verschil was. Ik zei het."
+        },
+        {
+          "id": "A:p0102",
+          "text": "Bram knikte. Hij nam de envelop onder zijn arm vandaan en legde hem op zijn knieën. Hij streek hem glad met zijn hand."
+        },
+        {
+          "id": "A:p0103",
+          "text": "\"Ge zijt nooit gebleven omdat ge moedig waart,\" zei hij. Hij zei het niet als een aforisme. Hij zei het traag, zoekend, zoals je iets zegt wat je op de afdeling hebt bedacht en nog niet hardop hebt geprobeerd. \"Ik heb daar veel over nagedacht. In juli. Ik had tijd. Ge zijt gebleven omdat ge bang waart. Niet van mij. Van wat ge zoudt zijn als ge wegging. Gij dacht dat ge dan een slechte mens zoudt zijn. Een broer die vertrekt. Gij dacht dat er niemand anders zou zijn als ge geen goede broer waart. Ge hebt nooit een andere versie van uzelf geprobeerd, kleine. Ge waart te bang dat het een slechtere zou zijn.\""
+        },
+        {
+          "id": "A:p0104",
+          "text": "Ik keek naar de meeuw. Hij vloog weg."
+        },
+        {
+          "id": "A:p0105",
+          "text": "\"Ik heb het ook gedacht,\" zei Bram. \"Van mezelf. Dat ik niemand zou zijn zonder mijn ziekte. Dat het het enige is wat mensen van mij weten. Ik ben dan in juli in die kamer gaan liggen, en ik heb gedacht: misschien is het waar. Misschien ben ik niemand zonder. Misschien is dat goed. Misschien moet iedereen eens niemand zijn.\""
+        },
+        {
+          "id": "A:p0106",
+          "text": "---"
+        },
+        {
+          "id": "A:p0107",
+          "text": "We zaten een tijdje. Een groepje toeristen kwam over de brug met een gids die een paraplu omhoog hield, hoewel het niet regende. De gids vertelde over de Vismarkt en over de Mechelaars die de maan probeerden te blussen omdat ze dachten dat de toren van Sint-Rombouts in brand stond. De toeristen lachten. Ze maakten foto's van de Dijle."
+        },
+        {
+          "id": "A:p0108",
+          "text": "\"Mag ik u iets vragen?\" zei ik."
+        },
+        {
+          "id": "A:p0109",
+          "text": "\"Natuurlijk.\""
+        },
+        {
+          "id": "A:p0110",
+          "text": "\"In augustus. Op de afdeling. Het schaken.\""
+        },
+        {
+          "id": "A:p0111",
+          "text": "Bram keek naar me. Zijn gezicht veranderde. Het werd ernstig op een manier die ik niet kende."
+        },
+        {
+          "id": "A:p0112",
+          "text": "\"Hebt ge mij laten winnen?\" vroeg ik."
+        },
+        {
+          "id": "A:p0113",
+          "text": "Hij antwoordde niet meteen. Hij keek naar de envelop op zijn knieën."
+        },
+        {
+          "id": "A:p0114",
+          "text": "\"Nee,\" zei hij."
+        },
+        {
+          "id": "A:p0115",
+          "text": "Ik wachtte."
+        },
+        {
+          "id": "A:p0116",
+          "text": "\"Ik laat papa winnen,\" zei Bram. \"Al sinds hij leert. Ik geef hem mijn dame, en hij neemt ze, en hij zegt niets, en ik zeg niets. Hij heeft het nodig. Hij heeft tien jaar lang alleen maar verloren, aan die keukentafel, met die kaft. Hij moet eens iets winnen.\" Hij zweeg. \"Gij hebt het niet nodig. Gij hebt het nooit nodig gehad. Gij wint nooit omdat ge niet wilt, kleine. Niet omdat ge niet kunt.\""
+        },
+        {
+          "id": "A:p0117",
+          "text": "\"Ik heb nooit gewonnen.\""
+        },
+        {
+          "id": "A:p0118",
+          "text": "\"In augustus wel,\" zei Bram. \"Ik was moe. Ik had pillen in mijn lijf die mijn hoofd traag maakten. En gij hebt goed gespeeld. Ge hebt uw paard niet vergeten. Ge hebt uw koning niet laten stikken. Ge hebt gewonnen.\" Hij keek naar me. \"Dat is het ergste, hè? Dat ge het zelf kunt.\""
+        },
+        {
+          "id": "A:p0119",
+          "text": "Ik zei niets. Ik keek naar mijn handen. Ze lagen op mijn knieën. Ik keek ernaar zoals ik in maart naar mijn handen had gekeken aan zijn tafel, toen hij zei dat ik het meende met mijn hoofd maar niet met mijn handen. Ze lagen heel stil."
+        },
+        {
+          "id": "A:p0120",
+          "text": "Bram stond op."
+        },
+        {
+          "id": "A:p0121",
+          "text": "\"Ik heb honger,\" zei hij. \"Ik heb sinds gisteren niets gegeten. Van de zenuwen. Wilt ge frieten?\""
+        },
+        {
+          "id": "A:p0122",
+          "text": "Ik keek op."
+        },
+        {
+          "id": "A:p0123",
+          "text": "\"Er is een frietkot aan de Grote Markt,\" zei hij. \"Het beste van Mechelen. Ik weet dat gij dat niet vindt. Gij vindt dat dat van de Veemarkt beter is. Gij hebt ongelijk.\""
+        },
+        {
+          "id": "A:p0124",
+          "text": "Hij liep weg voor ik kon antwoorden. Ik bleef op de bank zitten. Ik keek naar de envelop, die hij op de bank had laten liggen, naast me. Ik raakte hem niet aan."
+        },
+        {
+          "id": "A:p0125",
+          "text": "Na tien minuten kwam hij terug met twee pakjes frieten in papieren puntzakken, met een vorkje erin. Hij gaf er een aan mij. Hij ging weer zitten."
+        },
+        {
+          "id": "A:p0126",
+          "text": "\"Ik heb zonder saus genomen,\" zei hij. \"Voor ons allebei. De man vroeg: met mayonaise? En ik zei: nee, zonder saus, graag. En hij keek naar mij alsof ik iets heel ernstigs had gezegd.\""
+        },
+        {
+          "id": "A:p0127",
+          "text": "Ik nam een friet. Hij was heet en zout en knapperig. Ik had in mijn leven nooit frieten zonder saus gegeten."
+        },
+        {
+          "id": "A:p0128",
+          "text": "Bram at naast me. Hij at langzaam, de ene na de andere, met zijn vingers in plaats van met het vorkje. Het grijze kostuum van mijn vader hing om hem heen. Er viel een friet op zijn das, de nieuwe, met de witte stippen, en hij liet ze liggen."
+        }
+      ]
+    },
+    {
+      "label": "B",
+      "sha256": "b18a6b2c3a14dad07ca9b375bc6ac081405e301b5fc25b3abbc55b476b8caa84",
+      "passages": [
+        {
+          "id": "B:p0001",
+          "text": "Op dinsdag 1 september ging ik naar Dirk. Ik had het hem beloofd: een antwoord op 1 september.\n\n\"Ik weet het nog niet,\" zei ik.\n\nDirk keek me aan. Hij had zijn bruine kleur van Bretagne bijna kwijt. Hij leunde achterover in zijn stoel, die kraakte.\n\n\"Wouter,\" zei hij. \"Ik ken u nu zes jaar. Ge hebt in zes jaar nooit een deadline gemist. Ge zijt de enige in dit gebouw die nooit een deadline mist.\"\n\n\"Ik weet het.\"\n\n\"Dus als gij zegt dat ge het nog niet weet, dan wil dat iets zeggen.\"\n\nIk zei niets. Ik keek naar de foto van de zeilboot.\n\n\"Eén oktober,\" zei Dirk. \"Dan moet ik het weten. Echt. Anders vragen ze iemand anders. En Wouter.\" Hij boog zich naar voren. \"Nee is ook een antwoord. Dat weet ge, hè? Ge moogt nee zeggen. Niemand gaat u dat kwalijk nemen.\"\n\nIk bedankte hem. Ik ging terug naar mijn bureau. Ik zat er een half uur en keek naar Afrika. Toen deed ik iets wat ik nog nooit had gedaan: ik veranderde mijn bureaublad. Ik koos een standaardfoto van het systeem, een berg met sneeuw. Afrika was weg. Ik voelde er niets bij. Ik had verwacht dat ik er iets bij zou voelen.\n\n---\n\nBram kwam op donderdag 3 september thuis van de afdeling. Ik hoorde het van mijn moeder, om kwart over zeven.\n\n\"Hij is thuis,\" zei ze. \"Ilse heeft hem gehaald. Met de auto van haar zus. Die rijdt weer.\"\n\n\"Hoe is 't met hem?\"\n\n\"Goed. Moe. Hij is begonnen met dozen.\"\n\n\"Dozen?\"\n\n\"Voor de polders. Hij pakt al in. Ilse heeft dozen gehaald bij de Aldi.\" Ze zweeg even. \"Hij heeft gevraagd of hij een kostuum van uw vader mag lenen. Voor de vrederechter. Het grijze. Van de trouw van Rita's dochter.\"\n\n\"Dat is hem te groot.\"\n\n\"Ik weet het,\" zei mijn moeder. \"Ik ga het innemen.\""
+        },
+        {
+          "id": "B:p0002",
+          "text": "Ik vroeg of ik moest helpen met de dozen. Ze zei dat ik het aan Bram moest vragen. Ik vroeg het aan Bram, per bericht. *Zal ik komen helpen inpakken?* Hij antwoordde na twee uur: *Nee, kleine. Dank u. Ilse en ik doen het. We doen het traag. Ik wil elk boek nog een keer vasthouden.*\n\n---\n\nMaandag 21 september. Ik was om vijf over half tien aan het vredegerecht. Het plein met de platanen. De trap van blauwe steen. De vrouw achter het glas, die mijn naam opzocht en me een sticker gaf. *BEZOEKER. Vredegerecht.* Ik plakte hem op mijn hemd. Ik had het zelf gestreken. Er zat een plooi in de kraag.\n\nBoven, in de wachtzaal onder de engeltjes, stond de koffieautomaat. Het briefje *Buiten gebruik* was weg. Er brandde een groen lampje. Een man in een blauwe overall was hem aan het bijvullen met bekertjes.\n\n\"Hij werkt?\" vroeg ik.\n\n\"Sinds vorige week,\" zei de man. \"Drie jaar hebben ze gewacht op een onderdeel.\" Hij klapte het luikje dicht. \"Het was een vijs. Een gewone vijs van twintig cent.\"\n\nIk kocht een koffie. Hij was heet en smaakte naar karton, zoals op het werk. Ik dronk hem op een plastic stoel en keek naar de deur.\n\nOm twintig voor tien kwam Bram de trap op.\n\nHij droeg het grijze kostuum van mijn vader. Mijn moeder had het ingenomen, maar niet genoeg; het hing nog altijd een beetje om hem heen, zoals een jas om een kapstok. Hij droeg een wit hemd en een nieuwe das, donkerblauw met kleine witte stippen. Zijn haar was geknipt. Hij was nog mager, maar minder grauw dan in augustus. Hij had een bruine envelop in zijn hand, A5, en hij hield hem met twee handen vast, zoals Jeannine haar handtas had vastgehouden."
+        },
+        {
+          "id": "B:p0003",
+          "text": "Ilse kwam achter hem de trap op. Ze droeg geen groene mantel. Ze droeg een zwarte jurk die ik nooit had gezien, en ze zag eruit als iemand die naar een begrafenis gaat en er vrede mee heeft.\n\n\"Ik blijf hier,\" zei Ilse. \"Ik ben geen familie. Nog niet.\" Ze keek naar mij en glimlachte. Ze had het van Bram gehoord, dacht ik. Of van Marleen. Ik heb het nooit gevraagd.\n\nBram ging naast me zitten. Hij rook naar zeep en een beetje naar mottenballen, van het kostuum.\n\n\"Kleine.\"\n\n\"Bram.\"\n\n\"Ge hebt een plooi in uw kraag.\"\n\n\"Ik weet het.\"\n\nHij keek naar de koffieautomaat. \"Hij werkt.\"\n\n\"Sinds vorige week. Het was een vijs.\"\n\nBram knikte. Hij keek naar de automaat met een uitdrukking die ik niet kon lezen. Hij zei niets. Ik had verwacht dat hij er iets over zou zeggen, over de vijs, over drie jaar wachten op twintig cent. Ik had de zin al bijna gehoord, in zijn stem, met een citaat erin. Hij zei niets. Hij hield zijn envelop vast.\n\n---\n\nOm tien uur riep de griffier ons af. *Verhaegen.* Ze keek naar ons beiden. \"Allebei,\" zei ze.\n\nDe zittingszaal was dezelfde. De wetboeken in hun rode banden. De lange tafel. De drie stoelen. Vrederechter Desmet zat er in een zwarte trui, met haar bril aan het koordje. Ze keek op toen we binnenkwamen. Ze keek eerst naar Bram, dan naar mij, dan weer naar Bram.\n\n\"Meneer Verhaegen,\" zei ze tegen Bram. \"U bent er.\"\n\n\"Ik ben er,\" zei Bram. \"Het spijt me van april. De zee was er.\"\n\nDe vrederechter keek hem aan over haar bril. Ik zag iets in haar mondhoek bewegen. Ze schreef niets in de marge.\n\n\"Ga zitten,\" zei ze."
+        },
+        {
+          "id": "B:p0004",
+          "text": "We gingen zitten. Bram links, ik rechts. De stoel in het midden bleef leeg. Ik keek ernaar. Ik dacht aan mijn vader, die er had moeten zitten, als de bewindvoerder die werd vervangen, en die had gezegd dat hij niet zou komen, dat hij zijn handtekening al had gezet, dat hij niet meer wilde. Mijn moeder had gezegd dat hij niet kon. Het was hetzelfde.\n\nDe vrederechter las voor uit het dossier. Het verzoekschrift van december. De beschikking van tien jaar geleden. De verklaring van mijn vader dat hij zijn taak wilde neerleggen. Ze las het snel, met een vlakke stem, zoals je de ingrediënten van een recept voorleest dat je al honderd keer hebt gemaakt.\n\nToen zette ze haar bril af.\n\n\"Meneer Bram Verhaegen,\" zei ze. \"Uw broer vraagt om bewindvoerder te worden over uw goederen. Dat betekent dat hij uw geld zal beheren, uw rekeningen zal betalen, en mij elk jaar verslag zal uitbrengen. Wat denkt u daarvan?\"\n\nBram legde de envelop op tafel. Hij opende hem. Er zaten twee blaadjes in, beschreven met de hand, met blauwe balpen, aan beide kanten. Ik herkende zijn handschrift: hoofdletters, schuin, de krul aan de W.\n\n\"Ik heb iets opgeschreven,\" zei hij. \"Mag ik het voorlezen? Ik ben te lang op papier. Maar ik ben ook te lang mondeling. Op papier ben ik tenminste te lang in een vaste volgorde.\"\n\n\"Lees het voor,\" zei de vrederechter.\n\n---\n\nIk heb de brief later gevraagd. Bram heeft hem me gegeven, in oktober, in de polders. Ik schrijf hier over wat er stond. Ik schrijf het niet helemaal over. Er staan dingen in die van hem zijn."
+        },
+        {
+          "id": "B:p0005",
+          "text": "Hij begon met mijn vader. Hij bedankte hem. Hij schreef dat mijn vader tien jaar lang elke maandag honderdtwintig euro op zijn rekening had gezet, en dat dat nooit één maandag te laat was geweest, ook niet de maandag na zijn hartinfarct, want dan had hij het vanuit het ziekenhuis geregeld met een telefoontje naar de bank. Ik wist dat niet. Niemand had het mij verteld. Hij schreef dat hij zijn vader nooit had bedankt omdat het moeilijk is om iemand te bedanken die je elke week een zakgeld geeft als je veertig bent. Hij schreef dat hij het nu deed, op papier, voor een vrederechter, omdat dat de enige plek was waar hij zeker wist dat het zou worden opgeschreven.\n\nToen schreef hij over mij.\n\nHij las het traag. Zijn stem was rustig. Hij keek niet naar mij. Hij keek naar het papier.\n\nHij schreef dat ik de beste broer was die hij kende. Hij schreef dat hij er maar één kende, maar dat dat niet uitmaakte. Hij schreef dat ik in januari om half twee 's nachts was komen fietsen voor een sleutel die in zijn eigen jas zat. Dat ik elke week vol-au-vent had gebracht toen mijn vader niet kon rijden. Dat ik in twintig jaar altijd had teruggebeld, ook de nachten dat ik niet opnam. Behalve één keer, in augustus. En dat hij daar blij om was geweest. Hij schreef: *Blij, mevrouw de vrederechter. Ik heb die middag naar een telefoon geluisterd die bleef overgaan, en ik heb gedacht: eindelijk.*\n\nIk keek naar de wetboeken. Ik telde ze. Ik kwam tot drieëntwintig en begon opnieuw.\n\nToen schreef hij waarom hij niet wilde dat ik zijn bewindvoerder werd."
+        },
+        {
+          "id": "B:p0006",
+          "text": "Hij schreef dat hij wist dat ik zijn slaapuren bijhield. Dat Karim ze me had gestuurd, en dat hij dat goed had gevonden, in het begin, omdat hij dacht dat het mij gerust zou stellen. En dat het mij niet gerust had gesteld. Dat ik er een tabel van had gemaakt. Hij wist van de tabel. Ik weet niet hoe. Ik heb nooit iemand over de tabel verteld, behalve hier. Misschien had Sanne het aan Ilse gezegd. Misschien had hij het geraden. Bram ziet dingen.\n\nHij schreef dat hij wist dat mijn vader mij de groene kaft al in juni had gegeven, voor de zitting. Dat hij wist dat ik zijn afschriften had gelezen. Dat ik had gezien dat hij om zeven over zeven twee treintickets had gekocht naar De Panne. Hij schreef: *Ik wist dat hij het ging zien. Ik heb ze om die reden met de kaart gekocht en niet cash. Ik wilde dat hij wist dat ik het had gekozen. Dat het mij niet was overkomen.*\n\nHij schreef dat hij veertig was, tweeënveertig nu, en dat hij in oktober naar de polders ging, honderdtwintig kilometer van Mechelen, een uur twintig op een zondag zonder file. Dat hij daar wilde wonen als iemand die zijn eigen sleutel kwijtraakt en hem zelf terugvindt, of niet. En dat hij het niet kon als zijn broer zijn bankafschriften las.\n\nToen las hij de laatste zin.\n\n*Mijn broer heeft al genoeg van mij beheerd. Ik vraag u om een bewindvoerder die mij niet graag ziet. Iemand die mijn rekeningen betaalt en verder niets. Dan kan mijn broer weer mijn broer zijn. Ik denk dat hij dat vergeten is. Ik denk dat hij het een beetje mist.*\n\nHij vouwde de blaadjes op. Hij stak ze terug in de envelop. Hij legde de envelop op tafel, met zijn hand erop.\n\n---"
+        },
+        {
+          "id": "B:p0007",
+          "text": "Het was stil in de zittingszaal. De griffier had opgehouden met schrijven. Buiten op het plein reed een vuilniswagen voorbij en ik hoorde de container die werd leeggeschud, een lang metalen geratel.\n\nDe vrederechter zette haar bril weer op. Ze keek naar mij.\n\n\"Meneer Wouter Verhaegen,\" zei ze. \"Wat denkt u hiervan?\"\n\nIk keek naar haar. Ik keek naar Bram, die naar de envelop keek, met zijn hand erop. Ik keek naar de lege stoel tussen ons in.\n\n\"Ik begrijp het,\" zei ik.\n\nIk begreep het niet. Ik begreep de woorden. Ik begreep elke zin. Ik begreep niet wat er met mij gebeurde. Er gebeurde iets in mijn borst wat leek op wat mijn vader in november moet hebben gevoeld, om vier uur 's nachts, in de badkamer, met zijn tandenborstel in zijn hand. Iets wat hij eerst voor zijn maag hield.\n\nDe vrederechter keek me lang aan. Toen schreef ze iets in het dossier. Niet in de marge. In het midden van de bladzijde.\n\n\"Ik ga de vraag van de beschermde persoon volgen,\" zei ze. \"Ik stel een professionele bewindvoerder aan. Gezien de verhuis naar Diksmuide, iemand uit dat arrondissement. De griffie zal een naam voorstellen. Meneer Marc Verhaegen wordt ontslagen van zijn opdracht, met dank voor tien jaar. De stukken worden overgedragen aan de nieuwe bewindvoerder.\" Ze keek naar mij. \"U hebt de stukken, begrijp ik?\"\n\n\"De groene kaft,\" zei ik. \"Ja.\"\n\n\"Dan bezorgt u die aan de griffie. Of rechtstreeks aan de nieuwe bewindvoerder, als u dat verkiest.\"\n\nZe sloot het dossier. Ze zette haar bril af. Hij bleef hangen aan het koordje, op haar zwarte trui, en schommelde even.\n\n\"Meneer Wouter Verhaegen,\" zei ze. Ze zei het anders dan daarnet. Ze zei het zoals Gilbert in april *sterkte, jongen* had gezegd. \"U mag nu naar huis.\"\n\n---"
+        },
+        {
+          "id": "B:p0008",
+          "text": "Bram ging voor me de zittingszaal uit. Ik bleef in de gang staan en ging naar het toilet, aan het eind van de gang, waar Jeannine in april had gezeten. Ik deed de deur op slot. Ik ging op de gesloten wc-bril zitten, in mijn gestreken hemd met de plooi in de kraag, met de sticker *BEZOEKER* op mijn borst.\n\nIk nam mijn blocnote. Ik schreef: *Bram.* Ik schreef: *Ge hebt mij voorgelezen aan een vrederechter.* Ik schreef: *Ge hebt mijn tabel voorgelezen aan een griffier die alles opschrijft.* Ik schreef: *Twintig jaar, en ge zet mij in een dossier.* Ik schreef nog vier regels. Ze waren gemeen. Ze waren gemener dan de zin aan de keukentafel in mei, en ze waren allemaal waar, of ze voelden toch zo, op die wc-bril.\n\nIk las ze over. Ik scheurde het blad niet uit. Ik sloeg de blocnote dicht, met de regels erin, naast de sticker van april en *Ge gaat het weten*. Ik heb ze nooit verstuurd. Ik heb ze ook nooit doorgestreept. Ze staan er nog.\n\nIk trok door, hoewel ik niets had gedaan, en waste mijn handen.\n\nBuiten scheen de zon. Het was september, en de platanen op het plein begonnen bruin te worden aan de randen. Ilse zat op de trap van blauwe steen te roken. Ze stond op toen ze ons zag.\n\n\"En?\" zei ze.\n\n\"Een notaris,\" zei Bram. \"Of een advocaat. Iemand uit Diksmuide. Iemand die mij niet graag ziet.\"\n\nIlse keek naar Bram. Ze keek naar mij. Ze trapte haar sigaret uit en stak de peuk in haar zak.\n\n\"Ik ga sigaretten halen,\" zei ze. \"Aan de Vismarkt. Dat duurt lang. Ik ken de weg niet goed.\"\n\nZe kende de weg heel goed. Ze liep weg over het plein, in haar zwarte jurk, zonder om te kijken."
+        },
+        {
+          "id": "B:p0009",
+          "text": "We liepen naar de Vismarkt. We zeiden niets. Bram liep een beetje voor me, in het grijze kostuum van mijn vader dat om hem heen hing, met de envelop onder zijn arm. Bij de brug over de Dijle, tegenover De Gouden Vis, staat een bank. Hij ging erop zitten. Ik ging naast hem zitten. Achter ons, door het raam van het café, zag ik het bord bij het raam. Er stonden geen stukken op. Het was maandag.\n\n\"Bram,\" zei ik. \"Van mei. Wat ik gezegd heb aan tafel.\"\n\n\"Ge had gelijk,\" zei Bram.\n\n\"Ik had geen gelijk.\"\n\n\"Ge had gelijk,\" zei hij. \"Ik kan geen sleutel bijhouden. Ik ben mijn sleutel in mijn leven vierendertig keer kwijt geweest. Ik heb het geteld, op de afdeling, toen ik niets anders te doen had. Vierendertig keer. Ge had gelijk.\" Hij keek naar het water. \"Dat was het gemene eraan, kleine. Dat het waar was. Als ge iets had gezegd wat niet waar was, had ik u kunnen uitlachen.\"\n\nEen meeuw landde op de reling van de brug. Hij keek naar ons met dezelfde gele blik als de meeuw in Lagos.\n\n\"Ik had het niet mogen zeggen,\" zei ik.\n\n\"Nee,\" zei Bram.\n\nIk zei niets.\n\nHij keek weer naar het water. Het was laag en bruin en traag, en er dreef een plastic flesje op, met de stroom mee, zoals de eend in november.\n\n\"Weet ge waarom ge gebleven zijt, kleine?\" zei hij. \"Twintig jaar?\"\n\n\"Omdat ge mijn broer zijt.\"\n\n\"Daarom zijt ge gekomen,\" zei Bram. \"Gebleven zijt ge om iets anders.\"\n\nIk wist niet wat het verschil was. Ik zei het.\n\nBram knikte. Hij nam de envelop onder zijn arm vandaan en legde hem op zijn knieën. Hij streek hem glad met zijn hand."
+        },
+        {
+          "id": "B:p0010",
+          "text": "\"Ge zijt nooit gebleven omdat ge moedig waart,\" zei hij. Hij zei het traag, zoekend. \"Ge waart bang. Niet van mij. Van wat ge zoudt zijn als ge wegging.\"\n\nIk keek naar de meeuw. Hij vloog weg.\n\n\"Ik ben ook bang,\" zei Bram. \"Van wat ik zou zijn zonder.\" Hij zei niet zonder wat.\n\n---\n\nWe zaten een tijdje. Een groepje toeristen kwam over de brug met een gids die een paraplu omhoog hield, hoewel het niet regende. De gids vertelde over de Vismarkt en over de Mechelaars die de maan probeerden te blussen omdat ze dachten dat de toren van Sint-Rombouts in brand stond. De toeristen lachten. Ze maakten foto's van de Dijle.\n\n\"Mag ik u iets vragen?\" zei ik.\n\n\"Natuurlijk.\"\n\n\"In augustus. Op de afdeling. Het schaken.\"\n\nBram keek naar me. Zijn gezicht veranderde. Het werd ernstig op een manier die ik niet kende.\n\n\"Hebt ge mij laten winnen?\" vroeg ik.\n\nHij antwoordde niet meteen. Hij keek naar de envelop op zijn knieën.\n\n\"Nee,\" zei hij.\n\nIk wachtte.\n\n\"Ik laat papa winnen,\" zei Bram. \"Al sinds hij leert. Ik geef hem mijn dame, en hij neemt ze, en hij zegt niets, en ik zeg niets. Hij heeft het nodig. Hij heeft tien jaar lang alleen maar verloren, aan die keukentafel, met die kaft. Hij moet eens iets winnen.\" Hij zweeg. \"Gij hebt het niet nodig. Gij hebt het nooit nodig gehad. Gij wint nooit omdat ge niet wilt, kleine. Niet omdat ge niet kunt.\"\n\n\"Ik heb nooit gewonnen.\"\n\n\"In augustus wel,\" zei Bram. \"Ik was moe. Ik had pillen in mijn lijf die mijn hoofd traag maakten. En gij hebt goed gespeeld. Ge hebt uw paard niet vergeten. Ge hebt uw koning niet laten stikken. Ge hebt gewonnen.\" Hij keek naar me. \"Dat is het ergste, hè? Dat ge het zelf kunt.\""
+        },
+        {
+          "id": "B:p0011",
+          "text": "Ik zei niets. Ik keek naar mijn handen. Ze lagen op mijn knieën. Ik keek ernaar zoals ik in maart naar mijn handen had gekeken aan zijn tafel, toen hij zei dat ik het meende met mijn hoofd maar niet met mijn handen. Ze lagen heel stil.\n\nBram stond op.\n\n\"Ik heb honger,\" zei hij. \"Ik heb sinds gisteren niets gegeten. Van de zenuwen. Wilt ge frieten?\"\n\nIk keek op.\n\n\"Er is een frietkot aan de Grote Markt,\" zei hij. \"Het beste van Mechelen. Ik weet dat gij dat niet vindt. Gij vindt dat dat van de Veemarkt beter is. Gij hebt ongelijk.\"\n\nHij liep weg voor ik kon antwoorden. Ik bleef op de bank zitten. Ik keek naar de envelop, die hij op de bank had laten liggen, naast me. Ik raakte hem niet aan.\n\nNa tien minuten kwam hij terug met twee pakjes frieten in papieren puntzakken, met een vorkje erin. Hij gaf er een aan mij. Hij ging weer zitten.\n\n\"Ik heb zonder saus genomen,\" zei hij. \"Voor ons allebei. De man vroeg: met mayonaise? En ik zei: nee, zonder saus, graag. En hij keek naar mij alsof ik iets heel ernstigs had gezegd.\"\n\nIk nam een friet. Hij was heet en zout en knapperig. Ik had in mijn leven nooit frieten zonder saus gegeten.\n\nBram at naast me. Hij at langzaam, de ene na de andere, met zijn vingers in plaats van met het vorkje. Het grijze kostuum van mijn vader hing om hem heen. Er viel een friet op zijn das, de nieuwe, met de witte stippen, en hij liet ze liggen."
+        }
+      ]
+    },
+    {
+      "label": "context-1",
+      "sha256": "e166c7044bb7a7b35ab11bd2d2ef392ddded7fb3d035a4d85451d8961cb41dba",
+      "passages": [
+        {
+          "id": "context-1:p0001",
+          "text": "Ik las het bericht van Bram die avond, thuis, aan de keukentafel, met de blauwe koffer nog onuitgepakt in de gang.\n\n*Kleine, ik heb een plastic schaakbord gekocht in de cafetaria van de afdeling. Drie euro. Er ontbreekt een loper. De zwarte, die van de witte velden. Ik denk dat hij gevlucht is. Kom niet meteen. Ik ben nog niet om aan te zien. Kom op 15 augustus. Het is Maria-Hemelvaart, een dag voor mensen die opstijgen. Om 4 uur. Breng niets mee.*\n\nIk las het vier keer. Ik antwoordde: *Ik kom. 15/8, 16u.* Hij stuurde een duim. Een gele.\n\nHet was de eerste keer in negen weken dat hij me iets had gestuurd met woorden erin.\n\n---\n\nIk had tot eind juli om Dirk te antwoorden. Op maandag 27 juli ging ik naar zijn kantoor en vroeg om uitstel.\n\n\"Tot wanneer?\" vroeg Dirk.\n\n\"Tot 1 september.\"\n\nHij keek naar me over zijn bureau, langs de zeilboot en Val Thorens. Hij had een bruin kleurtje. Ze waren in Bretagne geweest.\n\n\"Is er iets?\" vroeg hij. \"Met uw vader?\"\n\nIk had kunnen zeggen: met mijn broer. Ik had kunnen zeggen: mijn broer ligt sinds 15 juli in een psychiatrische afdeling, en in september moet ik naar de vrederechter, en mijn vriendin vraagt niet meer of ik een kind wil. Ik had het allemaal kunnen zeggen. Dirk zou het hebben begrepen. Dirk is geen slecht mens. Hij heeft drie kinderen met haar in de kleur van stro en een vrouw die de foto's trekt, en het is mogelijk dat er in zijn familie ook iemand is van wie hij op het werk nooit iets vertelt. Ik heb dat nooit gevraagd. Niemand vraagt dat.\n\n\"Mijn vader stelt het goed,\" zei ik. \"Ik wil er gewoon goed over nadenken.\"\n\n\"Natuurlijk,\" zei Dirk. \"Een september dan.\"\n\n---"
+        },
+        {
+          "id": "context-1:p0002",
+          "text": "Op zondag 2 augustus aten we in Bonheiden. Het was kip. Er was niets te bespreken, dus het was kip.\n\nMijn vader was twee keer bij Bram geweest. Hij reed er nu zelf naartoe, korte stukjes, de cardioloog vond het goed. Hij vertelde het aan tafel, tussen de kip en de appelmoes, met de stem waarmee hij vroeger vertelde wat er in de gemeenteraad was gebeurd.\n\n\"We hebben geschaakt,\" zei hij. \"Op dat plastic bord. Er ontbreekt een loper. Hij gebruikt een dopje van een flesje water.\"\n\n\"Wie heeft er gewonnen?\"\n\n\"Ik,\" zei mijn vader. Hij at een stuk kip. \"Hij heeft zijn dame weggegeven. In de twaalfde zet.\"\n\n\"Weer.\"\n\n\"Weer.\" Mijn vader legde zijn vork neer. \"Ik heb ze genomen.\"\n\nMijn moeder stond op om meer appelmoes te halen. Er was nog genoeg appelmoes.\n\n\"Hij vroeg naar u,\" zei mijn vader, toen ze in de keuken was. \"Of gij goed teruggekomen waart. Of ge bruin waart.\"\n\n\"Wat hebt ge gezegd?\"\n\n\"Dat ik het niet wist,\" zei mijn vader. \"Dat ik u nog niet had gezien.\" Hij keek naar me. \"Ge zijt bruin.\"\n\n---\n\nOp woensdag 5 augustus belde Ilse aan.\n\nIk was alleen thuis. Sanne had een late dienst in het revalidatiecentrum. Het was half acht en nog licht, en ik stond in de keuken pasta te koken voor één persoon, wat ik altijd fout doe; ik maak altijd te veel. Ik deed open met de pollepel in mijn hand.\n\nZe stond op de stoep in haar groene mantel, hoewel het vijfentwintig graden was. Ze had een doos in haar armen, een schoendoos, met een elastiek eromheen.\n\n\"Ik ga niet binnenkomen,\" zei ze. \"Ik kom alleen iets brengen.\"\n\n\"Kom binnen.\""
+        },
+        {
+          "id": "context-1:p0003",
+          "text": "\"Nee,\" zei Ilse. \"Bram heeft gezegd dat gij koffie gaat aanbieden. En dan moet ik blijven. En dan ga ik iets zeggen wat ik niet wil zeggen.\" Ze lachte, met de hoek eraan. \"Het zit in de familie, blijkbaar. Ik ben besmet.\"\n\nZe gaf me de doos. Ik maakte het elastiek los. Er zat een kom in, een kleine, grijsgroen, dezelfde kleur als de vaas op de vensterbank. Dit keer was de opening groot. Er kon alles in.\n\n\"Voor Sanne,\" zei Ilse. \"Niet voor u. Voor haar. Zeg haar dat het een kom is voor ontbijt. Voor yoghurt. Zeg haar dat ze er iets in moet doen.\"\n\n\"Merci.\"\n\nIlse stak een sigaret op. Ze deed het op de stoep, in de straat, zonder te vragen of het mocht. Ze blies de rook omhoog.\n\n\"Ik heb gebeld,\" zei ze.\n\nIk wachtte.\n\n\"In juli. Toen hij niet sliep. Ik heb Karim gebeld. Om vijf uur 's ochtends. Ik had gezegd dat ik dat niet zou doen. Ik had u gezegd, op het feest van uw moeder, dat ik niet ging redden. Dat ik niet om twee uur 's nachts sleutels ging zoeken.\" Ze tikte de as af in de bloembak van de buren. \"Ik heb ook geen sleutel gezocht. Ik heb gebeld. Dat is iets anders. Dat is wat ik kan. Ik kan bellen, en dan kan ik blijven zitten tot iemand komt die het wel kan. En dan kan ik naar huis gaan, en slapen, en de volgende dag terugkomen.\"\n\n\"Gij zijt teruggekomen.\""
+        },
+        {
+          "id": "context-1:p0004",
+          "text": "\"Elke dag,\" zei Ilse. \"Behalve twee. Twee dagen ben ik niet gegaan. Ik heb in de kelder bij mijn zus gezeten en ik heb tien vazen gemaakt waar niets in kan. Daarna ben ik weer gegaan.\" Ze keek naar me. \"Hij weet dat. Ik heb het hem gezegd. Dat ik twee dagen niet ben gekomen omdat ik niet kon. Hij zei dat dat goed was. Hij zei dat het de eerste keer was dat iemand hem dat eerlijk zei.\"\n\nDe pasta kookte over in de keuken. Ik hoorde het sissen op het vuur. Ik bleef staan.\n\n\"De Kreek wacht op ons,\" zei Ilse. \"Ze houden de plaatsen vrij. Oktober. Als hij wil. Ik denk dat hij wil.\"\n\n\"Dat is goed.\"\n\n\"Hij schrijft iets,\" zei ze. \"Voor de vrederechter. Voor september. Hij schrijft het op de afdeling, 's avonds, als de anderen tv kijken. Hij laat het niemand lezen. Ook mij niet.\" Ze trapte haar sigaret uit en raapte de peuk op en stak hem in haar zak, zoals in februari. \"Ik dacht dat gij dat moest weten.\"\n\n\"Waarom?\"\n\nZe haalde haar schouders op. De mantel bewoog.\n\n\"Omdat gij graag dingen weet voor ze gebeuren,\" zei ze. \"Hij zegt dat ge daar ziek van wordt als ge ze niet weet.\"\n\nZe draaide zich om en liep de straat uit, naar de Hanswijkbasiliek, met haar groene mantel die achter haar aan waaide. Ik ging naar binnen en zette het vuur uit. De pasta was aangekoekt aan de bodem van de pot. Ik heb hem toch opgegeten, aan de keukentafel, met de kom voor Sanne naast mijn bord. Ik heb er niets in gedaan. Hij was niet voor mij."
+        },
+        {
+          "id": "context-1:p0005",
+          "text": "Toen Sanne thuiskwam, gaf ik haar de kom. Ik zei wat Ilse had gezegd: dat het een kom was voor yoghurt, en dat ze er iets in moest doen. Sanne hield hem lang in haar handen. Ze draaide hem rond, zoals ze de vaas had rondgedraaid in januari.\n\nDe volgende ochtend at ze er yoghurt uit, met honing en een gesneden perzik. Ze zei niets. Ze waste hem af en zette hem niet in de kast, maar op de vensterbank, naast de vaas.\n\n---\n\nZaterdag 15 augustus was een feestdag. Maria-Hemelvaart. De winkels waren dicht, behalve de bakker. Sanne was naar Lotte; ze gingen met Mats naar de zee, naar Bredene, met de auto van Pieter. Ze had gevraagd of ik mee wou. Ik had gezegd dat ik om vier uur bij Bram moest zijn. Ze had geknikt en me een kus gegeven, op mijn wang, vluchtig, zoals je een kus geeft aan iemand die je straks weer ziet.\n\nIk was alleen.\n\nIk deed boodschappen. Ik deed de afwas. Ik las de krant, op papier, aan de keukentafel, wat ik nooit doe. Er stond een artikel in over de droogte in de polders, over boeren die niet meer mochten sproeien. Ik dacht aan De Kreek, aan de moestuin, aan Marleen met haar krop sla. Om half één maakte ik een boterham met kaas.\n\nOm twintig voor één trilde mijn telefoon op het aanrecht. Op het scherm stond *Bram*.\n\nIk keek ernaar. Ik had een boterham in mijn hand. Ik had kaas in mijn mond.\n\nBram belt mij niet overdag. Hij belt 's nachts, of hij stuurt berichten. Als hij overdag belt, is er iets. Dat is de regel. Ik ken die regel al twintig jaar. Ik heb hem nooit opgeschreven. Ik weet hem zoals ik weet dat de uitkering nooit op de vierde komt.\n\nDe telefoon trilde. Hij trilde zes keer en hield op.\n\nIk heb niet opgenomen."
+        },
+        {
+          "id": "context-1:p0006",
+          "text": "Ik kan niet goed uitleggen waarom. Ik heb het later geprobeerd, voor mezelf, op mijn blocnote. Ik heb lijstjes gemaakt. *1. Ik zou hem om vier uur zien. 2. Hij lag op een afdeling, er waren mensen. 3. Ik had kaas in mijn mond.* Het zijn allemaal redenen. Geen ervan is de reden. De reden is dat ik niet wilde. Dat ik op een zaterdag in augustus, op een feestdag, in een stil huis, met een boterham in mijn hand, één keer niet wilde opnemen. Niet omdat ik iets anders te doen had. Omdat ik niets te doen had, en dat wilde houden.\n\nOm twaalf voor één trilde hij opnieuw. Ik draaide hem om. Met het scherm naar beneden, op het aanrecht, naast de broodplank. Hij trilde zes keer, en het geluid van een telefoon die met zijn scherm op een aanrecht ligt te trillen is een hard, dom geluid, als een insect dat tegen een raam vliegt.\n\nToen was het stil.\n\nIk at mijn boterham op. Ik waste het bordje af. Ik nam mijn fiets uit de gang, en ik liet de telefoon liggen. Ik liet hem op het aanrecht liggen, met het scherm naar beneden. Ik heb dat nog nooit gedaan. Ik ben in twintig jaar nooit de deur uitgegaan zonder mijn telefoon. Ik ben met mijn telefoon naar de bakker gegaan, naar de tandarts, naar de begrafenis van mijn grootmoeder, waar hij in mijn binnenzak trilde tijdens de communie. Ik heb hem meegenomen naar het zwembad in een plastic zakje. Ik nam *De mythe van Sisyphus* van mijn nachtkastje en stak het in mijn rugzak, en ik fietste weg.\n\n---"
+        },
+        {
+          "id": "context-1:p0007",
+          "text": "Ik fietste langs de Dijle, stroomafwaarts, de stad uit. Langs de vlonders, langs de oude brouwerij, langs de jachthaven waar mannen in korte broek op hun boten zaten te niets doen. Ik fietste naar het Zennegat, waar de Dijle in de Rupel stroomt en de Zenne erbij komt, een plek met een sluis en een café en een dijk waar je kunt zitten en kijken naar drie rivieren die besluiten één rivier te worden.\n\nHet was warm. Het was zo warm als in Lagos. Er stond geen wind. De lucht was wit van de hitte, en het water was bruin en traag, en er dreef niets op.\n\nBij het café kocht ik een ijsje. Ik had dat sinds mijn kindertijd niet meer gedaan, gewoon een ijsje, op een zaterdagmiddag, voor mezelf. Ik nam twee bollen, vanille en mokka, in een hoorntje. De vrouw achter het luik vroeg of ik slagroom wou. Ik zei ja. Ik had nog nooit slagroom op mijn ijs genomen. Ik weet niet waarom niet.\n\nIk ging op de dijk zitten, op het gras, met mijn rug tegen een paaltje. Ik at mijn ijsje. Het smolt sneller dan ik kon eten en liep over mijn vingers, en ik likte mijn vingers af, en niemand zag het, en het was mij om het even.\n\nIk nam het boek uit mijn rugzak. Ik las het eerste hoofdstuk. Camus schrijft dat er maar één werkelijk ernstig filosofisch probleem is, en dat is de vraag of het leven de moeite waard is om geleefd te worden. Ik las het en ik dacht aan Bram, en ik legde het boek even neer, en ik pakte het weer op. Ik las verder. Ik begreep de helft. De helft die ik begreep, begreep ik heel goed.\n\nIk viel in slaap."
+        },
+        {
+          "id": "context-1:p0008",
+          "text": "Ik weet niet hoe lang ik geslapen heb. Ik werd wakker omdat een hond aan mijn schoen snuffelde, een kleine bruine hond met een rood halsbandje, en een vrouw die riep: \"Bobby! Bobby, kom hier!\" De hond liep weg. Ik bleef liggen. De zon was gezakt. Het boek lag open op mijn borst, met de bladzijden naar beneden, zoals *Het proces* in december. Ik had een vlek van mokka-ijs op mijn hemd. Ik voelde de warmte van het gras door mijn rug. Ik hoorde het water. Ik hoorde een boot die de sluis in voer, en de mensen op de boot die lachten, en iemand die een fles opende.\n\nIk dacht: dit is een heerlijke middag.\n\nIk dacht het heel duidelijk, in die woorden. *Een heerlijke middag.* Het was een zin die ik nooit gebruik. Het is een zin van mijn moeder, van haar vriendinnen van de kleuterschool, een zin voor op een kaartje vanuit de Ardennen. Ik lag in het gras aan het Zennegat met mokka op mijn hemd, en ik dacht het, en het was waar.\n\nEn toen dacht ik: ik heb een heerlijke middag gehad.\n\nIk ging rechtop zitten.\n\nIk had een heerlijke middag gehad. Terwijl mijn telefoon op het aanrecht lag, met het scherm naar beneden. Terwijl mijn broer twee keer had gebeld vanuit een psychiatrische afdeling. Terwijl ik niet wist waarom. Ik had geslapen in de zon. Ik had slagroom genomen.\n\nIk keek naar mijn pols. Ik draag geen horloge. Ik heb nooit een horloge gedragen; ik heb een telefoon.\n\nIk stond op en liep naar het café en vroeg aan de vrouw achter het luik hoe laat het was.\n\n\"Kwart over vier,\" zei ze.\n\n---"
+        },
+        {
+          "id": "context-1:p0009",
+          "text": "Ik fietste zoals ik in januari had gefietst, om half twee 's nachts, door de Bruul. Ik fietste langs de Dijle terug naar de stad, en door de stad, en naar huis, waar de telefoon op het aanrecht lag. Ik draaide hem om. Vijf gemiste oproepen. Twee van Bram, om twintig en twaalf voor één. Een van mijn moeder, om half vier. Twee van Bram, om vijf over vier en tien over vier.\n\nEr was één voicemail. Van twaalf voor één.\n\nIk luisterde ernaar in de gang, met mijn fietshelm nog op.\n\n*Kleine. Het is Bram. Ik bel om u een mop te vertellen. Ik heb hem vanmorgen gehoord van een verpleger, die stottert, dus het duurde lang, maar het was het wachten waard. Een man komt bij de psychiater. Hij zegt: dokter, ik denk dat ik een hond ben. De psychiater zegt: sinds wanneer? En de man zegt: sinds ik een puppy was.* Er was een stilte, en dan zijn lach, lang, met zijn hoofd achterover, ik hoorde het aan de manier waarop het geluid van de telefoon wegdreef. *Sinds ik een puppy was, kleine. Ik vond hem heel goed. Ik ga hem u om vier uur nog eens vertellen, maar ik wilde niet dat ge hem van iemand anders hoorde. Tot straks.*\n\nIk zette mijn fietshelm af. Ik stond in de gang naast de groene kaft op het rek. Ik luisterde de voicemail nog een keer. Ik lachte niet. Ik vond hem wel goed, de mop. Ik vind hem nog altijd goed.\n\nIk sprong op mijn fiets en reed naar de afdeling. Het was tien minuten. Ik deed het in zeven.\n\n---"
+        },
+        {
+          "id": "context-1:p0010",
+          "text": "De afdeling ligt op de tweede verdieping van een nieuw gebouw achter het ziekenhuis, met een deur van glas die op slot zit en een bel ernaast met een bordje: *Bezoekers: bellen a.u.b.* Ik belde. Er kwam een verpleger, een lange jongen met een baard en klompen. Hij vroeg wie ik kwam bezoeken.\n\n\"B-Bram,\" zei hij, toen ik het had gezegd. \"Hij wacht op u. Al een uur.\"\n\nHij stotterde. Ik keek naar hem. Ik dacht aan de mop. Ik dacht dat dit de man was die hem had verteld, en dat het lang had geduurd, en dat het het wachten waard was geweest.\n\nBram zat in de dagzaal, aan een tafeltje bij het raam. Op de tv aan de muur liep een wielerkoers zonder geluid. Een vrouw in een ochtendjas zat ervoor en keek ernaar met haar handen in haar schoot, alsof het iets heel ernstigs was. Bram zat met zijn rug naar de tv. Voor hem stond het plastic schaakbord. De stukken stonden al klaar. Wit aan mijn kant.\n\nHij was mager. Hij was magerder dan ik hem ooit had gezien. Zijn gezicht was grauw onder het licht van de tl-lampen, en hij was trager, zijn handen bewogen trager, zijn hoofd draaide trager naar me toe. Hij droeg een joggingbroek en een trui die ik niet kende. Zijn haar was lang geworden.\n\nMaar zijn ogen waren helder. Ze keken naar mij. Ze keken naar mij en niet naar iets achter mij.\n\n\"Kleine,\" zei hij. \"Ge zijt te laat.\"\n\n\"Ik weet het. Het spijt me.\"\n\n\"Ge hebt niet opgenomen.\"\n\n\"Nee.\"\n\nHij keek naar me. Hij keek naar de vlek van mokka-ijs op mijn hemd. Hij zei er niets over. Ik zag dat hij het zag.\n\n\"Ik heb een mop,\" zei hij.\n\n\"Ik weet het. Ik heb uw voicemail gehoord.\""
+        },
+        {
+          "id": "context-1:p0011",
+          "text": "\"Ik ga hem toch vertellen,\" zei Bram. \"Een mop is pas af als hij twee keer is verteld. De eerste keer is voor de inhoud. De tweede keer is voor de vriendschap.\"\n\nHij vertelde de mop opnieuw. Hij vertelde hem langzamer dan op de voicemail, met pauzes, alsof hij elke zin moest gaan halen in een kamer achteraan. *Sinds ik een puppy was.* Hij lachte. Het was een kleinere lach dan op de voicemail. Ik lachte mee. Ik lachte omdat hij lachte, en omdat de mop goed was, en omdat ik niet wist wat ik anders moest doen met mijn gezicht.\n\n\"Speel,\" zei hij. \"Ge hebt wit.\"\n\nIk schoof mijn koningspion twee vakjes vooruit.\n\n---\n\nOp het bord stond, op de plaats van de zwarte loper, een blauw dopje van een flesje water. Het stond rechtop, met de ribbels naar boven, op c8.\n\n\"Het is een goede loper,\" zei Bram. \"Hij beweegt schuin, zoals een loper. Hij heeft alleen een probleem met zijn identiteit.\"\n\nWe speelden. Hij speelde langzaam. Hij dacht lang na voor elke zet, met zijn handen gevouwen voor zijn mond. Soms keek hij naar het raam, waar je een parking zag en een rij populieren en een stuk lucht dat oranje begon te worden. Soms keek hij naar mij. Ik speelde zoals ik altijd speel. Voorzichtig. Ik beschermde dingen.\n\nNa twintig zetten stond ik beter.\n\nIk merkte het niet meteen. Ik merkte het aan zijn handen. Ze bleven langer voor zijn mond. Hij keek langer naar het bord. Ik telde de stukken. Ik had een paard meer. Ik had een pion meer. Mijn koning stond veilig, achter zijn pionnen, maar niet zo dicht dat hij erin kon stikken; ik had dat geleerd in mei."
+        },
+        {
+          "id": "context-1:p0012",
+          "text": "Ik keek naar Bram. Hij keek naar het bord. Ik zocht in zijn gezicht naar iets. Ik weet niet wat. Een glimlach die hij inhield. Een blik naar mij die zou zeggen: ik laat u. Ik vond niets. Hij keek naar het bord zoals Meursault naar de zee keek, met een soort aandachtige onverschilligheid.\n\nIn de vierendertigste zet zette ik hem mat. Met mijn toren, op de achterste rij, waar zijn koning niet weg kon, omdat zijn eigen dopje van een flesje water in de weg stond.\n\nIk keek naar het bord. Ik had het nog nooit gezien: zijn koning, mat, door mij. Ik keek lang. Ik dacht dat ik iets verkeerd had geteld.\n\nBram keek ook naar het bord. Hij keek heel lang. Toen legde hij zijn koning om, met één vinger, langzaam, zodat hij op zijn zij rolde en tegen het dopje tikte.\n\n\"Ge hebt gewonnen, kleine,\" zei hij.\n\nHij zei het zonder iets in zijn stem. Geen glimlach, geen verwijt, geen trots. Hij stelde het vast. Zoals mijn vader zegt dat de uitkering op de vijfde komt.\n\nIk wist niet of hij me had laten winnen. Ik weet niet of ik het wilde weten. Ik dacht aan mijn vader, die twee keer zijn dame had gekregen en ze had genomen, en die niets had gezegd. Ik dacht aan Fons, die zei dat ik altijd iets beschermde wat al verloren was. Ik keek naar Brams handen. Ze lagen op tafel, aan weerszijden van het bord, heel stil. Ik kon er niets aan zien.\n\n\"Bram,\" zei ik. \"Wat ik in mei gezegd heb...\"\n\n\"Niet hier,\" zei hij.\n\nHij zei het zacht. Hij keek naar de vrouw in de ochtendjas, die nog altijd naar de stille wielerkoers keek.\n\n\"Niet hier, kleine. In september. Bij de dame met de bril. Dan gaan we praten. Ik heb iets geschreven.\"\n\n\"Ilse heeft het mij gezegd.\""
+        },
+        {
+          "id": "context-1:p0013",
+          "text": "\"Ilse zegt alles,\" zei Bram. Hij glimlachte, voor het eerst die middag echt. \"Dat is waarom ik haar graag zie. Gij zegt niets, en zij zegt alles, en ik zit ertussen en ik ben eindelijk eens de normale.\"\n\nOm zes uur kwam de verpleger met de baard zeggen dat het bezoekuur voorbij was. Bram stond op. Hij gaf me een hand, wat hij nooit doet. Zijn hand was koud en droog en heel licht.\n\n\"Merci dat ge gekomen zijt,\" zei hij.\n\n\"Ik was te laat.\"\n\n\"Ge zijt gekomen,\" zei Bram. \"Te laat is een vorm van komen.\"\n\nHij liep de gang in, naar zijn kamer, traag, in zijn joggingbroek. Ik keek hem na. Ik bleef staan bij het tafeltje. De stukken stonden er nog, zoals we ze hadden achtergelaten. Zijn koning lag op zijn zij. Mijn toren stond op de achterste rij. Het blauwe dopje stond rechtop naast de gevallen koning, met zijn ribbels naar boven."
+        }
+      ]
+    }
+  ]
+}

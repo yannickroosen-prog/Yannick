@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-08T14:59:20.728456+00:00",
+  "accepted": {
+    "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-12.md",
+    "sha256": "62595a513947aa1611d4166127c76420c146f001ecfd1c0c3fd5fbbe7e56aa0b",
+    "bytes": 24149,
+    "reader_body_sha256": "ce76b6fdb9744cbf7096388e14bfbb7699de442af233553c28852889458f8fc6",
+    "h1_omitted": true
+  },
+  "candidate": {
+    "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/work/attempts/chapter-12/stage-r1/chapter.md",
+    "sha256": "cd21d9a1f13838c58b4ec0144e531f0cf7554ebd5418245b98ea3c9348c56587",
+    "bytes": 25712,
+    "reader_body_sha256": "3d744d21245b41854209bd801be6aa8a5fcf795827fd9b5623654209a60c50c4",
+    "h1_omitted": true
+  },
+  "context": [
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-11.md",
+      "sha256": "9e153692362f9cc6bb68a6df978590ddd9d6eaba90e4a517f05ce90b2c6c71a1",
+      "bytes": 17567,
+      "reader_body_sha256": "af34802c5086a16e408842f375a88120a1384cec35a37a6610962b0f27242bdf",
+      "h1_omitted": true
+    }
+  ],
+  "readers": [
+    {
+      "persona": "primary",
+      "reader": "Lena",
+      "packet": "primary.packet.md",
+      "packet_sha256": "509320328b6bd20ca8fa79918ed8c4d87aade589656750bf8acce8e1dd837ea2",
+      "response_schema": "primary.schema.json",
+      "response_schema_sha256": "62b4e87e3c93940dfd4dfa352b147500f550e08b2ecc90515b2ff90d647b5218",
+      "mapping": {
+        "A": "candidate",
+        "B": "accepted"
+      },
+      "catalog": "primary.catalog.json",
+      "catalog_sha256": "0af31695934bf9ce9e1a437ad8a79c192b4daef6f9f1908cb78d486dbea3eeab"
+    },
+    {
+      "persona": "hostile",
+      "reader": "Mark",
+      "packet": "hostile.packet.md",
+      "packet_sha256": "304f86843e639140a4cca2525c093fae0cd5fb25925d4b0e48dfc93883299d44",
+      "response_schema": "hostile.schema.json",
+      "response_schema_sha256": "e6ea0619bbdb2207b43bda440a39cb360a72572dc7be862cd633962e9fa33f13",
+      "mapping": {
+        "A": "accepted",
+        "B": "candidate"
+      },
+      "catalog": "hostile.catalog.json",
+      "catalog_sha256": "09cfdad8509b8ec08fccf6955e17cf3f402d51d67365507acc7b0f7a44cc4180"
+    },
+    {
+      "persona": "adjacent",
+      "reader": "Priya",
+      "packet": "adjacent.packet.md",
+      "packet_sha256": "39849cc6fff67d6d150a965f1f1fa25e1fdeca12d90cc26ce2752b89cc39aba8",
+      "response_schema": "adjacent.schema.json",
+      "response_schema_sha256": "1eef95c4aba11c9ac733937bbf24d4efedd65dcf39389a2019dc83febe27d292",
+      "mapping": {
+        "A": "candidate",
+        "B": "accepted"
+      },
+      "catalog": "adjacent.catalog.json",
+      "catalog_sha256": "0af31695934bf9ce9e1a437ad8a79c192b4daef6f9f1908cb78d486dbea3eeab"
+    },
+    {
+      "persona": "casual",
+      "reader": "Airport reader",
+      "packet": "casual.packet.md",
+      "packet_sha256": "c6c3b2361ca967210b115138b6554460acd091a0c7bb8273cfa2ee8af14c155c",
+      "response_schema": "casual.schema.json",
+      "response_schema_sha256": "2e2a54e4d7d26f145a0f28476128c6b0f7558f33c25ba57aeaef2b18f3d43b9d",
+      "mapping": {
+        "A": "accepted",
+        "B": "candidate"
+      },
+      "catalog": "casual.catalog.json",
+      "catalog_sha256": "09cfdad8509b8ec08fccf6955e17cf3f402d51d67365507acc7b0f7a44cc4180"
+    }
+  ],
+  "private_mapping": true,
+  "order": "randomized, two candidate-A and two candidate-B"
+}

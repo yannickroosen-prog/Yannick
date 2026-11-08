@@ -1,0 +1,28 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "811d85c9039549e7349a861b8b950fd8270c41c42bd6807caec11f38cbd86c7d",
+  "reader": "Lena",
+  "compare": "B",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0100"},
+  "why_stopped": {"reason": "Bij het familieberaad gaat de verteller uitleggen dat hij niet alles gaat vertellen en vat hij drie uur samen; daar zakte mijn aandacht even weg, al legde ik het boek niet neer."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0011", "reason": "Bram die zijn vader vraagt 'Hoe ver is ver?' en 'Het is ver van de kaft', en dan 'Nog niet' over Ilse: eindelijk zegt Bram zelf iets terug, en dat echoot mooi Wouters antwoord bij het hek."},
+    {"passage_id": "A:p0121", "reason": "Bram die zwijgend de vaatwas inlaadt na de zin over de sleutel; dat beeld blijft hangen."},
+    {"passage_id": "A:p0079", "reason": "Gestikt mat, 'uw koning stikt in zijn eigen volk': een schaakterm die precies over Wouter gaat."}
+  ],
+  "confused_by": [],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "A:p0109"},
+    {"flag": "over_explained", "passage_id": "A:p0105"},
+    {"flag": "slow_start", "passage_id": "A:p0100"},
+    {"flag": "over_explained", "passage_id": "A:p0123"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0011", "reason": "De nieuwe confrontatie tussen Bram en zijn vader geeft het beraad een echte scène in plaats van een samenvatting, en maakt Wouters uitval daarna pijnlijker omdat Bram net zelf sterk stond."},
+  "weakest_passage": {"passage_id": "A:p0109", "reason": "Een opsomming van alles waar de zin vandaan komt (trap, envelop, spreadsheet, jas) legt uit wat ik al voelde; B houdt het bij twee zinnen en dat werkt beter."},
+  "machine_tells": [
+    {"tell": "zelfcorrectie 'Dat is niet waar' als vast trucje", "passage_id": "A:p0109"}
+  ],
+  "felt": {"emotion": "beklemming en schaamte namens Wouter", "reason": "Na Brams eigen 'Nog niet' komt Wouters sleutelzin in B harder aan; de stille vaatwas liet me met een knoop in mijn maag achter."},
+  "confidence": "medium"
+}

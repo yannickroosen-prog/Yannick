@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "source_chapters": [
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-09.md",
+      "sha256": "1cbd9c4c7d57dce0b604066cb0bc82e41f91053057e8eef0d131955842f391a6",
+      "bytes": 17546
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/work/attempts/chapter-09/stage-r1/chapter.md",
+      "sha256": "aaaf767fc5218c865041cc875f6e248fe399b27f49dd5d99066e8652e9849a65",
+      "bytes": 17565
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-08.md",
+      "sha256": "1adea626643427be8765b3e125ff2713db18d9ae41906d76ee59674491931b13",
+      "bytes": 18716
+    }
+  ],
+  "report_sha256": "4f5622d8a6f8905d1292e66726412c330ce262631e7ca4bcf33403f44b2f94d5",
+  "errors": [],
+  "expected_reader": "Lena",
+  "catalog_sha256": "38cae1a15c6354742f427ed8ad619b084bc76bdf13b535940575d51a53949d94",
+  "resolved_evidence": [
+    {
+      "location": "stopped_at",
+      "passage_id": "B:p0021",
+      "version": "B",
+      "quote": "Het gaat over een man in Algiers, Meursault, wiens moeder sterft, en die op haar begrafenis niet huilt. Hij gaat de dag erna zwemmen. Hij gaat naar de film. Hij begint iets met een vrouw. Later, op een strand, in de zon die zo fel is dat ze hem verblindt, schiet hij een man neer, zonder reden, of zonder een reden die hij kan uitleggen. Hij zegt dat het door de zon kwam. Op het proces wordt hij niet veroordeeld voor de moord. Hij wordt veroordeeld omdat hij niet huilde op de begrafenis van zijn moeder."
+    },
+    {
+      "location": "strongest_passage",
+      "passage_id": "B:p0047",
+      "version": "B",
+      "quote": "Ik hoorde haar ademen. Ik hoorde haar horen wat ze had gezegd. Het was een geluid dat ik ken, het geluid van iemand die een kopje laat vallen en kijkt hoe het in stukken op de grond ligt, en weet dat het niet meer heel te maken is."
+    },
+    {
+      "location": "weakest_passage",
+      "passage_id": "B:p0089",
+      "version": "B",
+      "quote": "Op de laatste dag kocht ik in een winkeltje aan de haven een sardine van keramiek voor mijn moeder. Ze was blauw, met witte schubben en een open bek, en ze kostte zes euro. Ik dacht aan het hotel in Blankenberge en aan de winter. Ik liet ze inpakken in krantenpapier. Voor Bram kocht ik niets. Ik stond tien minuten voor een rek met kaarten van vuurtorens en meeuwen en *Last bratwurst before America*, en ik koos er geen, en ik ging naar buiten. Op het terras van de bakker ernaast zat een man alleen een pastel de nata te eten met zijn ogen dicht. Ik keek naar hem tot hij ze opendeed."
+    },
+    {
+      "location": "remember_tomorrow[0]",
+      "passage_id": "B:p0045",
+      "version": "B",
+      "quote": "\"Ik heb deze nacht voor het eerst in maanden doorgeslapen,\" zei ze. \"Van elf tot zeven. Ik heb niet \u00e9\u00e9n keer op mijn telefoon gekeken. Ik wist dat hij daar was. Ik wist dat er mensen bij hem waren. Ik wist dat niemand mij om drie uur ging bellen. En ik heb geslapen, Wouter. Ik heb geslapen als een...\""
+    },
+    {
+      "location": "remember_tomorrow[1]",
+      "passage_id": "B:p0074",
+      "version": "B",
+      "quote": "\"Hij heeft het letterlijk gezegd,\" zei Karim. \"Hij zei: zeg aan de kleine dat hij niet moet komen. Dat hij in Portugal moet blijven. Dat hij voor een keer ergens moet blijven waar ik niet ben.\""
+    },
+    {
+      "location": "remember_tomorrow[2]",
+      "passage_id": "B:p0117",
+      "version": "B",
+      "quote": "Ik stond naast Sanne en keek naar de koffers. Mijn telefoon zat in mijn zak, met het bericht van Bram erin. Ik voelde het tegen mijn dij. Ik had het kunnen lezen. Het zou tien seconden hebben geduurd."
+    },
+    {
+      "location": "confused_by[0]",
+      "passage_id": "B:p0089",
+      "version": "B",
+      "quote": "Op de laatste dag kocht ik in een winkeltje aan de haven een sardine van keramiek voor mijn moeder. Ze was blauw, met witte schubben en een open bek, en ze kostte zes euro. Ik dacht aan het hotel in Blankenberge en aan de winter. Ik liet ze inpakken in krantenpapier. Voor Bram kocht ik niets. Ik stond tien minuten voor een rek met kaarten van vuurtorens en meeuwen en *Last bratwurst before America*, en ik koos er geen, en ik ging naar buiten. Op het terras van de bakker ernaast zat een man alleen een pastel de nata te eten met zijn ogen dicht. Ik keek naar hem tot hij ze opendeed."
+    },
+    {
+      "location": "confused_by[1]",
+      "passage_id": "A:p0028",
+      "version": "A",
+      "quote": "Mijn moeder belt mij om kwart over zeven. Ze belt niet om tien voor twaalf Belgische tijd. Ik keek naar het scherm. Ik keek naar Sanne. Ze legde haar vork neer."
+    },
+    {
+      "location": "flags[0]",
+      "passage_id": "B:p0089",
+      "version": "B",
+      "quote": "Op de laatste dag kocht ik in een winkeltje aan de haven een sardine van keramiek voor mijn moeder. Ze was blauw, met witte schubben en een open bek, en ze kostte zes euro. Ik dacht aan het hotel in Blankenberge en aan de winter. Ik liet ze inpakken in krantenpapier. Voor Bram kocht ik niets. Ik stond tien minuten voor een rek met kaarten van vuurtorens en meeuwen en *Last bratwurst before America*, en ik koos er geen, en ik ging naar buiten. Op het terras van de bakker ernaast zat een man alleen een pastel de nata te eten met zijn ogen dicht. Ik keek naar hem tot hij ze opendeed."
+    },
+    {
+      "location": "flags[1]",
+      "passage_id": "A:p0028",
+      "version": "A",
+      "quote": "Mijn moeder belt mij om kwart over zeven. Ze belt niet om tien voor twaalf Belgische tijd. Ik keek naar het scherm. Ik keek naar Sanne. Ze legde haar vork neer."
+    },
+    {
+      "location": "flags[2]",
+      "passage_id": "A:p0002",
+      "version": "A",
+      "quote": "Ik had alles geregeld. Ik had in de week voor vertrek drie avonden aan de keukentafel gezeten met de groene kaft en mijn laptop. Ik had met mijn vader de doorlopende opdrachten nagekeken: de huur, de energie, de mutualiteit, de honderdtwintig euro op maandag. Hij had ze ingevoerd, met zijn bril op, met zijn hand die een beetje beefde boven de muis, en ik had ernaast gezeten en alles opgeschreven. Ik had tabblad drie gefotografeerd met mijn telefoon, bladzijde per bladzijde, zesendertig foto's. Ik had een lijstje gemaakt van telefoonnummers en het aan mijn moeder gegeven, en aan Karim gemaild, en aan mezelf. Bovenaan stond Karim. Daaronder de psychiater. Daaronder het mobiel team, de nachtlijn, Ilse. Onderaan stond mijn eigen nummer, met erachter, tussen haakjes: *(Portugal, +1 uur)*."
+    },
+    {
+      "location": "flags[3]",
+      "passage_id": "A:p0088",
+      "version": "A",
+      "quote": "Ik was gelukkig. Ik was gelukkig terwijl mijn broer in een psychiatrische afdeling lag in Mechelen, op tweeduizend kilometer, en ik weet niet of ik gelukkig was ondanks dat of omdat. Ik heb er lang over nagedacht. Ik denk dat het allebei was. Ik denk dat ik gelukkig was omdat ik wist waar hij was. Omdat er mensen bij hem waren. Omdat niemand mij om drie uur 's nachts ging bellen. Ik denk dat ik, op de rand van de klif bij Sagres, met een braadworst in mijn hand, precies hetzelfde voelde als mijn moeder van elf tot zeven. En ik denk dat ik het niet tegen haar mocht zeggen, en niet tegen Sanne, en niet tegen mezelf, en ik zeg het nu alleen hier."
+    },
+    {
+      "location": "flags[4]",
+      "passage_id": "A:p0085",
+      "version": "A",
+      "quote": "Ik schrijf het hier op omdat het waar is, en omdat het het lelijkste is wat ik in dit hele jaar heb opgeschreven."
+    },
+    {
+      "location": "machine_tells[0]",
+      "passage_id": "A:p0088",
+      "version": "A",
+      "quote": "Ik was gelukkig. Ik was gelukkig terwijl mijn broer in een psychiatrische afdeling lag in Mechelen, op tweeduizend kilometer, en ik weet niet of ik gelukkig was ondanks dat of omdat. Ik heb er lang over nagedacht. Ik denk dat het allebei was. Ik denk dat ik gelukkig was omdat ik wist waar hij was. Omdat er mensen bij hem waren. Omdat niemand mij om drie uur 's nachts ging bellen. Ik denk dat ik, op de rand van de klif bij Sagres, met een braadworst in mijn hand, precies hetzelfde voelde als mijn moeder van elf tot zeven. En ik denk dat ik het niet tegen haar mocht zeggen, en niet tegen Sanne, en niet tegen mezelf, en ik zeg het nu alleen hier."
+    }
+  ]
+}

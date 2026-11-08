@@ -1,0 +1,29 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "a2c5b8e030948fa931974122388e5aabccaa25eaaf7806d5582ee7b72388a01e",
+  "reader": "Airport reader",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0004"},
+  "why_stopped": {"reason": "Na de sterke scène in de keuken zakt het tempo in een beschouwing over brochures, autonomie en vakjes op een verzoekschrift; hier begon ik te bladeren, al trok de gedachte over het geld me er meteen weer in."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0005", "reason": "De gedachte om het weekgeld als drukmiddel te gebruiken, als kijken vanaf een toren, is lelijk en eerlijk en blijft hangen."},
+    {"passage_id": "B:p0006", "reason": "Het doosje dat hij een half uur dikker tekent tot het papier scheurt: ik zag het meteen voor me."},
+    {"passage_id": "B:p0015", "reason": "Het bericht 'Hebt ge gegeten?' dat hij letter voor letter weer wist, een stil maar sterk einde."}
+  ],
+  "confused_by": [
+    {"passage_id": "A:p0010", "reason": "In de lift-alinea staat 'Ik had om vijf voor zeven een signaal had gezien, en dat ik...': de zin loopt vast en de gevoelsomslag (opluchting, schaamte, teleurstelling) ontbreekt, zodat de slotzin over gelijk hebben uit het niets komt."}
+  ],
+  "flags": [
+    {"flag": "slow_start", "passage_id": "B:p0004"},
+    {"flag": "over_explained", "passage_id": "B:p0004"},
+    {"flag": "confusing", "passage_id": "A:p0010"},
+    {"flag": "slow_start", "passage_id": "A:p0004"},
+    {"flag": "over_explained", "passage_id": "A:p0004"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0003", "reason": "'Ge meent het niet met uw handen. Kijk naar uw handen.' Een korte, scherpe ruzie zonder ruzie; Bram ziet dwars door zijn broer heen."},
+  "weakest_passage": {"passage_id": "A:p0010", "reason": "De kapotte zin in de lift haalt me uit het verhaal precies op het moment dat de verteller iets pijnlijks over zichzelf toegeeft."},
+  "machine_tells": [],
+  "felt": {"emotion": "spanning en onbehagen", "reason": "Ik wachtte de hele tijd op de terugval van Bram; het spraakbericht om twee uur 's nachts deed mijn maag ook iets, en de rustige afloop liet een ongemakkelijke stilte na."},
+  "confidence": "medium",
+  "compare": "B"
+}

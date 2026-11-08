@@ -1,0 +1,38 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "60e590ef8cca88d704edca153513ebe51b1dd784587c190b625e5f17393a33d2",
+  "reader": "Mark",
+  "compare": "B",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0028"},
+  "why_stopped": {"reason": "De foto van Dirk komt uit het niets: wie Dirk is en waarom de verteller in het toilet de kindergezichten afzoekt wordt niet verankerd, dus de spanning van het wachten lekt hier even weg in een zijpad."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0115", "reason": "De taart in de zak met het gat sluit de sleutelnacht af zonder uitleg; moeder en verteller die tegelijk spreken zegt alles over wie in dit gezin de wacht houdt."},
+    {"passage_id": "B:p0056", "reason": "Vijfenveertig mensen die tegelijk hun telefoon wegleggen: een concreet, controleerbaar beeld voor opluchting."},
+    {"passage_id": "B:p0078", "reason": "'Dat is geen speech, dat is een functieomschrijving' is de scherpste zelfkennis van de verteller tot nu toe."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0085", "reason": "'Net zoals Karim had gedaan' verwijst naar een scène die ik nergens heb gekregen; ik weet niet wanneer Karim rookte."},
+    {"passage_id": "B:p0064", "reason": "Welke groene kaft? De vergelijking leunt op een beeld dat ik als lezer niet heb."},
+    {"passage_id": "B:p0028", "reason": "Dirk wordt als bekende behandeld maar ik weet niet wie hij is of waarom zijn foto de verteller zo raakt."}
+  ],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "A:p0036"},
+    {"flag": "over_explained", "passage_id": "A:p0049"},
+    {"flag": "over_explained", "passage_id": "A:p0095"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0085"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0064"},
+    {"flag": "confusing", "passage_id": "B:p0028"},
+    {"flag": "emotion_missed", "passage_id": "B:p0076"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0072", "reason": "Bram zegt het zware ding plat en precies op een feest, en het kantelt de zaal; geen enkele uitleg erna nodig."},
+  "weakest_passage": {"passage_id": "A:p0036", "reason": "Na een goed beeld van de soep die dik wordt, spelt de verteller het als 'de kern van ons gezin' uit; dat is de schrijver die mij vertelt wat ik moet denken. B stopt terecht een zin eerder."},
+  "machine_tells": [
+    {"tell": "uitgelegde metafoor", "passage_id": "A:p0036"},
+    {"tell": "gebalanceerde tegenstelling (moed of lafheid)", "passage_id": "A:p0049"},
+    {"tell": "aforistische slotzin die de scène samenvat", "passage_id": "A:p0095"},
+    {"tell": "opsommende herhaling", "passage_id": "B:p0076"}
+  ],
+  "felt": {"emotion": "spanning, daarna ongemakkelijke ontroering", "reason": "Het wachten en de autosleutel op de parking hielden me vast; de speech raakte me, maar de collectieve huilscène voelde opgelegd."},
+  "confidence": "medium"
+}

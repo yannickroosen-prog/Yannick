@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "catalog": "catalog.json",
+  "catalog_sha256": "b2add41a77d6ca0252e3872892b47786f9a7bff6c5097929dcb0c171f2ad861e",
+  "chapters": [
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-01.md",
+      "sha256": "64caf2a57da4e9ef9d51c37890488a48a1dee5a36e4ec0640cef327cce333d48"
+    }
+  ],
+  "context": null,
+  "readers": [
+    {
+      "persona": "primary",
+      "reader": "Lena",
+      "packet": "primary.packet.md",
+      "packet_sha256": "193922f0639407b2983ab17876a80509cdc04cbe5f8186835fd00a447090c765",
+      "response_schema": "primary.schema.json",
+      "response_schema_sha256": "9c6ad08d8b8d2a2bcb63f5608eb26cc949a34a8ae1e46c4a926fa802ebf59d6a"
+    },
+    {
+      "persona": "hostile",
+      "reader": "Mark",
+      "packet": "hostile.packet.md",
+      "packet_sha256": "4503efffd93f2a66ac649f4f78afd20c69d45baf3749b200c856ab9acc8a7140",
+      "response_schema": "hostile.schema.json",
+      "response_schema_sha256": "48f21aaf11c8f203c62c83866eb431a1495b30eed509408cd5bc66dad6f95181"
+    },
+    {
+      "persona": "adjacent",
+      "reader": "Priya",
+      "packet": "adjacent.packet.md",
+      "packet_sha256": "4ddc567f9aaec56e2d088f8e0196b89802569def298b0a4e8fec44ed66be8d39",
+      "response_schema": "adjacent.schema.json",
+      "response_schema_sha256": "d407d7585041267914bae63ac0acd80751e0b41913385ac67d6c51b3ec7c65e3"
+    },
+    {
+      "persona": "casual",
+      "reader": "Airport reader",
+      "packet": "casual.packet.md",
+      "packet_sha256": "1936d70a4c6b4aa73cf9b48a1cc279bba1afe15d8f69802497b9bbbe6ba32207",
+      "response_schema": "casual.schema.json",
+      "response_schema_sha256": "d5051c9c62e76ce8633138bddf96ba0b48513d688f51f8161283aeb1e9c7f079"
+    }
+  ]
+}

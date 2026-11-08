@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "source_chapters": [
+    {
+      "path": "../../manuscript/chapters/chapter-03.md",
+      "sha256": "2e023529cada03a8dbe7946e5e0c2cf998faebcc9f16e5002b4e1c75713524b7",
+      "bytes": 23141
+    }
+  ],
+  "report_sha256": "8376bfe80b015912a62b3979d209aff5e243595c405d03ebb3de178e3b6539f6",
+  "errors": [],
+  "expected_reader": "Priya",
+  "catalog_sha256": "f85fb0ae32d16e10fd73aa1e34975400fba80ff391ea02d3738b16c91b4ad5cc",
+  "resolved_evidence": [
+    {
+      "location": "stopped_at",
+      "passage_id": "c03p0042",
+      "chapter": 3,
+      "quote": "Ik vertel het omdat het gebeurde, niet omdat het belangrijk is. Het project heette Claimflow. Het was een nieuw systeem waarmee klanten hun schade zelf konden melden via een app, met foto's, zonder dat er een mens aan te pas kwam. Ik had er acht maanden aan gewerkt. Het zou live gaan op maandag 12 januari om zes uur 's ochtends."
+    },
+    {
+      "location": "strongest_passage",
+      "passage_id": "c03p0112",
+      "chapter": 3,
+      "quote": "Ik fietste naar huis langs de Dijle. Ik probeerde me de plons te herinneren. Ik probeerde me te herinneren of het geluid van boven kwam of van onder, of ik op de kade stond of in het water lag. Ik herinnerde me de zucht van het water. Ik herinnerde me Brams gezicht, dat ik niet herkende. Ik weet niet meer of het het gezicht was van iemand die woedend is, of van iemand die van een kade springt."
+    },
+    {
+      "location": "weakest_passage",
+      "passage_id": "c03p0044",
+      "chapter": 3,
+      "quote": "Er volgde een crisisvergadering. Er volgde nog een. Er volgden er vijf in drie dagen, met mensen van de juridische dienst en mensen van de communicatiedienst en een man van de directie die alleen maar vroeg wie verantwoordelijk was. Ik zei dat ik verantwoordelijk was. Dat was waar. Het was ook het enige wat ik kon zeggen zonder iemand anders iets aan te doen."
+    },
+    {
+      "location": "remember_tomorrow[0]",
+      "passage_id": "c03p0105",
+      "chapter": 3,
+      "quote": "\"Ik ben erin gesprongen,\" zei Bram. \"Ik heb u eruit getrokken. De fiets lag op de bodem. Ge waart zo bang. Ge waart zo bang dat papa kwaad zou zijn, want die fiets had zestienduizend frank gekost, dat had hij aan tafel gezegd, twee keer. En dan heb ik gezegd dat ik het gedaan had. Dat ik de fiets erin had gegooid.\""
+    },
+    {
+      "location": "remember_tomorrow[1]",
+      "passage_id": "c03p0113",
+      "chapter": 3,
+      "quote": "Ik heb mijn moeder later gevraagd hoe het was gegaan met die fiets. Ze zei dat ze het niet goed meer wist. Ze zei: \"Bram had hem erin gegooid, toch? Dat heeft hij zelf gezegd.\" En toen, na een tijdje: \"Gij waart wel heel nat, die dag. Dat weet ik nog. Ge waart nat tot op uw onderbroek.\""
+    },
+    {
+      "location": "remember_tomorrow[2]",
+      "passage_id": "c03p0148",
+      "chapter": 3,
+      "quote": "Ik haalde het eruit. Het was zijn sleutel, aan een sleutelhanger in de vorm van een schaakpaard."
+    },
+    {
+      "location": "confused_by[0]",
+      "passage_id": "c03p0024",
+      "chapter": 3,
+      "quote": "\"Ah,\" zei hij. \"Tabblad drie.\""
+    },
+    {
+      "location": "confused_by[1]",
+      "passage_id": "c03p0033",
+      "chapter": 3,
+      "quote": "Ik weet niet wat mijn gezicht deed. Ik weet dat Fons aan het bord naast ons zijn adem inhield, maar dat was voor zijn eigen partij. Ik weet dat de waard een glas spoelde en het tegen het licht hield. Ik weet dat ik dacht: Sinterklaas. De eerste bewindvoerder van de geschiedenis. Ik weet dat ik het warm kreeg in mijn nek, op de plek waar het warm wordt als je als kind bent betrapt op iets wat je niet eens had willen doen."
+    },
+    {
+      "location": "flags[0]",
+      "passage_id": "c03p0067",
+      "chapter": 3,
+      "quote": "\"Ik denk dat hij gezegd heeft dat ge vol zit,\" zei Sanne."
+    },
+    {
+      "location": "flags[1]",
+      "passage_id": "c03p0044",
+      "chapter": 3,
+      "quote": "Er volgde een crisisvergadering. Er volgde nog een. Er volgden er vijf in drie dagen, met mensen van de juridische dienst en mensen van de communicatiedienst en een man van de directie die alleen maar vroeg wie verantwoordelijk was. Ik zei dat ik verantwoordelijk was. Dat was waar. Het was ook het enige wat ik kon zeggen zonder iemand anders iets aan te doen."
+    },
+    {
+      "location": "flags[2]",
+      "passage_id": "c03p0143",
+      "chapter": 3,
+      "quote": "Ik lachte. Ik wilde niet lachen. Hij lachte ook, en zijn lach klonk normaal, en dat maakte me op een rare manier ongerust. Ik keek naar zijn handen. Ze beefden niet. Ik keek naar zijn ogen. Ze waren moe, en een beetje te groot, maar ze keken naar mij en niet naar iets achter mij. Ik dacht: het is geen slechte nacht. Het is een nacht waarin hij zijn sleutel kwijt is en niet alleen wilde zijn. Ik dacht: het is misschien niet meer dan dat. Ik dacht: wanneer heb ik voor het laatst gedacht dat iets niet meer was dan dat."
+    },
+    {
+      "location": "flags[3]",
+      "passage_id": "c03p0050",
+      "chapter": 3,
+      "quote": "De vaas stond op zaterdag voor onze deur. Hij zat in een doos van de Aldi, ingepakt in krantenpapier, met een kaartje waarop in een handschrift dat ik niet kende stond: *Voor Wouter. Niet voor bloemen. Ilse.* Er was niet aangebeld. Iemand had hem daar neergezet en was weer weggegaan, zoals je een vondeling achterlaat."
+    },
+    {
+      "location": "machine_tells[0]",
+      "passage_id": "c03p0042",
+      "chapter": 3,
+      "quote": "Ik vertel het omdat het gebeurde, niet omdat het belangrijk is. Het project heette Claimflow. Het was een nieuw systeem waarmee klanten hun schade zelf konden melden via een app, met foto's, zonder dat er een mens aan te pas kwam. Ik had er acht maanden aan gewerkt. Het zou live gaan op maandag 12 januari om zes uur 's ochtends."
+    },
+    {
+      "location": "machine_tells[1]",
+      "passage_id": "c03p0097",
+      "chapter": 3,
+      "quote": "Op de derde dag kwam Bram thuis van school in een bui. Hij had die buien al toen, lang voor er een woord voor was. Hij was kwaad op een leraar, op mijn moeder, op de wereld, en ik stond met mijn fiets op de kade. Hij nam de fiets uit mijn handen en gooide hem in de vaart. Ik herinner me het geluid. Een plons, en dan een soort zucht van het water. Ik herinner me dat ik niet huilde. Ik herinner me dat ik bang was, niet voor de fiets, maar voor Bram, omdat ik zijn gezicht zag en het niet herkende."
+    },
+    {
+      "location": "machine_tells[2]",
+      "passage_id": "c03p0014",
+      "chapter": 3,
+      "quote": "Ik zei dat ik blij was voor hem. Ik meende het. Ik meende het ook niet helemaal, en ik weet niet goed waarom. Misschien omdat Bram met een vrouw een nieuwe kolom was in een tabel die ik nog niet had leren lezen. Misschien om iets kleiners."
+    },
+    {
+      "location": "machine_tells[3]",
+      "passage_id": "c03p0068",
+      "chapter": 3,
+      "quote": "Ze zei het licht. Ze zei het zoals je iets zegt wat je al lang denkt en wat je per ongeluk laat vallen, zoals een sleutel uit een jaszak met een gat. Daarna zette ze water op voor de pasta en vroeg of ik de kaas wilde raspen. Ik raspte de kaas. De vaas stond op de vensterbank en keek naar ons, als een vaas kan kijken, met dat ene kleine oog bovenaan."
+    },
+    {
+      "location": "machine_tells[4]",
+      "passage_id": "c03p0047",
+      "chapter": 3,
+      "quote": "Ik keek naar de foto onder de tafel terwijl de man van de directie praatte. Ik dacht: hoe weet zij wat ik nodig heb, ik heb haar nog nooit gezien. Ik dacht: Bram heeft over mij verteld. Ik dacht: wat heeft hij verteld. Ik heb die avond niet teruggebeld. Ik was het vergeten. Ik vergeet zelden iets, en ik vergat dat."
+    }
+  ]
+}

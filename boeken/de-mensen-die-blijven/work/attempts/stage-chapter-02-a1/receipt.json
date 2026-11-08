@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "status": "staged",
+  "scope": "format_only_not_editorial_acceptance",
+  "source_sha256": "a8cafdef98c227f5fad12c63def2a50053a0d214c73576f8d835c2f22868715b",
+  "staged_sha256": "a8cafdef98c227f5fad12c63def2a50053a0d214c73576f8d835c2f22868715b",
+  "body_sha256": "f8ec61627307b8c6e98919020f93487c7ebc3650a21c1a66c58b80340b181605",
+  "body_unchanged": true,
+  "transform": "none",
+  "original_heading_level": 1,
+  "heading_level": 1,
+  "title": "December",
+  "visible_prose_words": 3188,
+  "source_file": "source.md",
+  "staged_file": "chapter.md"
+}

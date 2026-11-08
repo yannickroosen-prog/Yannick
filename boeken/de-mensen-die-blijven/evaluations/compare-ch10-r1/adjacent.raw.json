@@ -1,0 +1,32 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "58a4bf6774e5cb17dc5c90a7a8ba305f2fd8f677346b2d3d5e092f029498a94e",
+  "reader": "Priya",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0006"},
+  "why_stopped": {"reason": "De opsomming van boodschappen, afwas en krant op de feestdag vertraagt net voor de telefoon gaat; mijn aandacht zakte even weg, al legde ik het boek niet neer."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0005", "reason": "Sanne die zegt dat ze jaloers is op Bram en blij was toen hij werd opgenomen; het spiegelt de moeder in Lagos en ze wacht tevergeefs tot hij iets lelijks terugzegt."},
+    {"passage_id": "A:p0009", "reason": "De gedachte 'een heerlijke middag' die omslaat in schuld, en daarna de voicemail met de puppymop: dat contrast blijft hangen."},
+    {"passage_id": "A:p0012", "reason": "Het schaakmat met het waterdopje als loper; ik weet net als de verteller niet of Bram hem liet winnen."}
+  ],
+  "confused_by": [
+    {"passage_id": "A:p0013", "reason": "Fons, 'wat ik in mei gezegd heb' en 'de dame met de bril' veronderstellen eerdere hoofdstukken die ik als buitenstaander niet helemaal kan plaatsen."}
+  ],
+  "flags": [
+    {"flag": "slow_start", "passage_id": "A:p0001"},
+    {"flag": "over_explained", "passage_id": "B:p0006"},
+    {"flag": "over_explained", "passage_id": "B:p0011"},
+    {"flag": "over_explained", "passage_id": "B:p0013"},
+    {"flag": "over_explained", "passage_id": "B:p0010"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0005", "reason": "Sannes bekentenis geeft het hoofdstuk een tweede, pijnlijke kant: niet alleen de broer, ook de relatie betaalt, en zijn zwijgen zegt meer dan een antwoord."},
+  "weakest_passage": {"passage_id": "B:p0006", "reason": "De verteller legt uit waarom hij niet opnam ('De reden is dat ik niet wilde'), terwijl het lijstje met de kaas in zijn mond dat al veel scherper liet voelen."},
+  "machine_tells": [
+    {"tell": "aforistische slotzin die de scène samenvat", "passage_id": "B:p0013"},
+    {"tell": "epigram-dialoog die de betekenis uitspelt", "passage_id": "B:p0011"}
+  ],
+  "felt": {"emotion": "beklemming en ontroering", "reason": "Ik voelde de schuld van de vrije middag en de opluchting dat Bram helder was; in A raakte Sanne mij het meest."},
+  "confidence": "medium",
+  "compare": "A"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "994b9b74afc0c29174b00170e9ea3b13ec30230c5fd6918da5c79d960a0f3bdc",
+  "reader": "Mark",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0006"},
+  "why_stopped": {"reason": "De feestdagochtend (boodschappen, afwas, krant, droogte in de polders) is opvulling vóór het telefoontje; in beide versies zakte mijn aandacht hier even weg, al las ik door."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0010", "reason": "De voicemail met de puppymop draait de hele angst om: het dagtelefoontje was geen crisis maar een grap, en dat maakt het niet-opnemen pijnlijker."},
+    {"passage_id": "B:p0005", "reason": "Sanne die zegt dat ze jaloers is op Bram en dat ze blij was bij de sardines; het maakt de kom tot meer dan een cadeau en Wouters zwijgen tot een keuze."},
+    {"passage_id": "A:p0012", "reason": "De koning die met één vinger omvalt tegen het dopje; een concreet beeld zonder uitleg."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0005", "reason": "Ze zitten aan het ontbijt met de kom tussen hen in, maar in dezelfde scène draait ze de kom op de vensterbank; waar staat dat ding nu?"},
+    {"passage_id": "B:p0011", "reason": "Bram hoorde de mop van de verpleger en zegt dan dat hij erop geoefend heeft bij diezelfde verpleger; klein, maar het wringt."}
+  ],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "A:p0006"},
+    {"flag": "over_explained", "passage_id": "A:p0010"},
+    {"flag": "cliche", "passage_id": "A:p0013"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0005"},
+    {"flag": "slow_start", "passage_id": "B:p0006"},
+    {"flag": "slow_start", "passage_id": "A:p0005"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0010", "reason": "De voicemail levert achteraf de oorzaak van de twee oproepen en ontmantelt de 'regel' van twintig jaar zonder dat de verteller iets hoeft te verklaren."},
+  "weakest_passage": {"passage_id": "A:p0006", "reason": "Na het sterke 'Ik heb niet opgenomen' legt A meteen uit dat 'de reden is dat ik niet wilde'; de verteller kauwt het motief voor en neemt mij het oordeel af. B laat het lijstje staan en vertrouwt de lezer."},
+  "machine_tells": [
+    {"tell": "aforistische slotzin die de scène samenvat", "passage_id": "A:p0013"},
+    {"tell": "aforisme in dialoog met symmetrische opbouw (eerste keer voor de inhoud, tweede voor de vriendschap)", "passage_id": "A:p0011"},
+    {"tell": "anafoor-reeks Ik heb ... Ik heb ... als nadruk", "passage_id": "B:p0007"}
+  ],
+  "felt": {"emotion": "ongemak, dan schuld en opluchting", "reason": "Het niet-opnemen voelde als een echte overtreding; de mop op de voicemail maakte het tegelijk lichter en erger. B gaf me met Sanne er nog een tweede ongemakkelijke waarheid bij."},
+  "confidence": "medium",
+  "compare": "B"
+}

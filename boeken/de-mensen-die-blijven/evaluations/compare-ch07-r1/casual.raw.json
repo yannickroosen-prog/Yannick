@@ -1,0 +1,31 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "811d85c9039549e7349a861b8b950fd8270c41c42bd6807caec11f38cbd86c7d",
+  "reader": "Airport reader",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0101"},
+  "why_stopped": {"reason": "Het familieberaad wordt hier samengevat in plaats van gespeeld: drie lange alinea's van 'hij zei, zij zei' na elkaar, en ik begon te scannen tot de klap van de sleutel-zin."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0011", "reason": "'Het is ver van de kaft' en daarna 'Nog niet' uit Brams mond: de woorden van Marleen keren terug en raken hard."},
+    {"passage_id": "A:p0121", "reason": "Bram die zwijgend de vaatwas inlaadt na de belediging; dat beeld blijft hangen."},
+    {"passage_id": "A:p0079", "reason": "Gestikt mat, 'uw koning stikt in zijn eigen volk': een schaakzet die het hele gezin samenvat."}
+  ],
+  "confused_by": [
+    {"passage_id": "A:p0109", "reason": "Envelop met veertien tijdstippen en de voering van een jas: verwijzingen die ik niet kan plaatsen."}
+  ],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "A:p0109"},
+    {"flag": "over_explained", "passage_id": "A:p0100"},
+    {"flag": "slow_start", "passage_id": "A:p0043"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0011"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0011", "reason": "Eindelijk een echte confrontatie tussen vader en Bram aan tafel, kort en scherp, waardoor de uitval van de verteller daarna nog meer pijn doet."},
+  "weakest_passage": {"passage_id": "A:p0109", "reason": "Net voor de klap legt de verteller uit waar zijn woede vandaan komt; het remt het moment en zegt wat ik al voelde."},
+  "machine_tells": [
+    {"tell": "zelfcorrectie 'Dat is niet waar' als tic", "passage_id": "A:p0059"},
+    {"tell": "herhaalde Ik dacht aan-reeks", "passage_id": "A:p0106"}
+  ],
+  "felt": {"emotion": "spanning en schaamte", "reason": "Ik schaamde me mee bij de sleutel-zin en wachtte gespannen op Brams reactie; in B voelde ik meer, omdat Bram eerst terugvecht."},
+  "confidence": "medium",
+  "compare": "B"
+}

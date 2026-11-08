@@ -1,0 +1,288 @@
+{
+  "type": "object",
+  "properties": {
+    "reader": {
+      "type": "string",
+      "enum": [
+        "Airport reader"
+      ]
+    },
+    "turn_page": {
+      "type": "string",
+      "enum": [
+        "no",
+        "unsure",
+        "yes"
+      ]
+    },
+    "stopped_at": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "passage_id": {
+              "$ref": "#/$defs/passageId"
+            }
+          },
+          "required": [
+            "passage_id"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "why_stopped": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "reason": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "reason"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "remember_tomorrow": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "passage_id",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "confused_by": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "passage_id",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "flags": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "flag": {
+            "type": "string",
+            "enum": [
+              "cliche",
+              "confusing",
+              "continuity_doubt",
+              "emotion_missed",
+              "exposition_dump",
+              "flat_voice",
+              "machine_prose",
+              "no_stakes",
+              "over_explained",
+              "predictable",
+              "slow_start",
+              "stiff_dialogue"
+            ]
+          },
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          }
+        },
+        "required": [
+          "flag",
+          "passage_id"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "strongest_passage": {
+      "type": "object",
+      "properties": {
+        "passage_id": {
+          "$ref": "#/$defs/passageId"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "passage_id",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "weakest_passage": {
+      "type": "object",
+      "properties": {
+        "passage_id": {
+          "$ref": "#/$defs/passageId"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "passage_id",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "machine_tells": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "tell": {
+            "type": "string"
+          },
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          }
+        },
+        "required": [
+          "tell",
+          "passage_id"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "felt": {
+      "type": "object",
+      "properties": {
+        "emotion": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 120,
+          "description": "A short emotion label such as tension and relief, at most 120 characters. Put explanations in felt.reason; do not copy story prose here."
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "emotion",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "confidence": {
+      "type": "string",
+      "enum": [
+        "high",
+        "low",
+        "medium"
+      ]
+    },
+    "compare": {
+      "type": "string",
+      "enum": [
+        "A",
+        "B",
+        "same"
+      ]
+    },
+    "schema_version": {
+      "type": "integer",
+      "enum": [
+        3
+      ]
+    },
+    "catalog_sha256": {
+      "type": "string",
+      "enum": [
+        "9daa87fc785dd2165b5e352cdbc498ecf9e6e1bd536c6bf82680c9239c795df2"
+      ]
+    }
+  },
+  "required": [
+    "reader",
+    "turn_page",
+    "stopped_at",
+    "why_stopped",
+    "remember_tomorrow",
+    "confused_by",
+    "flags",
+    "strongest_passage",
+    "weakest_passage",
+    "machine_tells",
+    "felt",
+    "confidence",
+    "compare",
+    "schema_version",
+    "catalog_sha256"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "passageId": {
+      "type": "string",
+      "enum": [
+        "A:p0001",
+        "A:p0002",
+        "A:p0003",
+        "A:p0004",
+        "A:p0005",
+        "A:p0006",
+        "A:p0007",
+        "A:p0008",
+        "A:p0009",
+        "A:p0010",
+        "A:p0011",
+        "A:p0012",
+        "A:p0013",
+        "A:p0014",
+        "A:p0015",
+        "A:p0016",
+        "A:p0017",
+        "A:p0018",
+        "A:p0019",
+        "B:p0001",
+        "B:p0002",
+        "B:p0003",
+        "B:p0004",
+        "B:p0005",
+        "B:p0006",
+        "B:p0007",
+        "B:p0008",
+        "B:p0009",
+        "B:p0010",
+        "B:p0011",
+        "B:p0012",
+        "B:p0013",
+        "B:p0014",
+        "B:p0015",
+        "B:p0016",
+        "B:p0017",
+        "B:p0018"
+      ]
+    }
+  }
+}

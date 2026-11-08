@@ -1,0 +1,32 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "60e590ef8cca88d704edca153513ebe51b1dd784587c190b625e5f17393a33d2",
+  "reader": "Priya",
+  "turn_page": "yes",
+  "stopped_at": null,
+  "why_stopped": null,
+  "remember_tomorrow": [
+    {"passage_id": "B:p0025", "reason": "Vijfenveertig mensen die om de beurt naar hun telefoon kijken: een beeld van wachten dat ik zelf ken, zonder dat iemand de naam zegt."},
+    {"passage_id": "B:p0115", "reason": "Het gat in de voering komt terug als grap en als zorg tegelijk; moeder en zoon zeggen hetzelfde en ik moest glimlachen."},
+    {"passage_id": "B:p0094", "reason": "Ilse zegt nuchter wat niemand in deze familie durft: blijven zolang het goed is."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0064", "reason": "De groene kaft waar de vader zijn hand op legde ken ik niet uit wat ik gelezen heb; de vergelijking landt niet."},
+    {"passage_id": "B:p0085", "reason": "Karim die rook uitblies staat nergens in wat ik kreeg, dus de verwijzing hangt in de lucht."}
+  ],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "A:p0036"},
+    {"flag": "over_explained", "passage_id": "A:p0049"},
+    {"flag": "emotion_missed", "passage_id": "B:p0076"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0064"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0072", "reason": "Brams zin over hoe zwaar het is om de reden van iemand te zijn kantelt de feestspeech plots naar iets eerlijks en ongemakkelijks; daar hield ik mijn adem in."},
+  "weakest_passage": {"passage_id": "A:p0036", "reason": "De soep wordt uitgelegd als 'de kern van ons gezin'; ik had het beeld al begrepen en voelde me betutteld. B laat het gewoon staan en is daardoor sterker."},
+  "machine_tells": [
+    {"tell": "explicit thematic summary of an image", "passage_id": "A:p0036"},
+    {"tell": "balanced either/or reflection (moed of lafheid)", "passage_id": "A:p0049"}
+  ],
+  "felt": {"emotion": "warmte met een steek ongemak", "reason": "De speech en het taartje met de nul raakten me, maar het collectieve huilen voelde opgelegd; ik huilde zoals de verteller niet."},
+  "confidence": "medium",
+  "compare": "B"
+}

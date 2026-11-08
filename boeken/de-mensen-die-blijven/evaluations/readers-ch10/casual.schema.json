@@ -1,0 +1,371 @@
+{
+  "type": "object",
+  "properties": {
+    "reader": {
+      "type": "string",
+      "enum": [
+        "Airport reader"
+      ]
+    },
+    "turn_page": {
+      "type": "string",
+      "enum": [
+        "no",
+        "unsure",
+        "yes"
+      ]
+    },
+    "stopped_at": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "passage_id": {
+              "$ref": "#/$defs/passageId"
+            }
+          },
+          "required": [
+            "passage_id"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "why_stopped": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "reason": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "reason"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "remember_tomorrow": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "passage_id",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "confused_by": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "passage_id",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "flags": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "flag": {
+            "type": "string",
+            "enum": [
+              "cliche",
+              "confusing",
+              "continuity_doubt",
+              "emotion_missed",
+              "exposition_dump",
+              "flat_voice",
+              "machine_prose",
+              "no_stakes",
+              "over_explained",
+              "predictable",
+              "slow_start",
+              "stiff_dialogue"
+            ]
+          },
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          }
+        },
+        "required": [
+          "flag",
+          "passage_id"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "strongest_passage": {
+      "type": "object",
+      "properties": {
+        "passage_id": {
+          "$ref": "#/$defs/passageId"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "passage_id",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "weakest_passage": {
+      "type": "object",
+      "properties": {
+        "passage_id": {
+          "$ref": "#/$defs/passageId"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "passage_id",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "machine_tells": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "tell": {
+            "type": "string"
+          },
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          }
+        },
+        "required": [
+          "tell",
+          "passage_id"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "felt": {
+      "type": "object",
+      "properties": {
+        "emotion": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 120,
+          "description": "A short emotion label such as tension and relief, at most 120 characters. Put explanations in felt.reason; do not copy story prose here."
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "emotion",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "confidence": {
+      "type": "string",
+      "enum": [
+        "high",
+        "low",
+        "medium"
+      ]
+    },
+    "schema_version": {
+      "type": "integer",
+      "enum": [
+        2
+      ]
+    },
+    "catalog_sha256": {
+      "type": "string",
+      "enum": [
+        "1ef1e3a5b74e44e4f611fa018c79bf7a6ea59d47a17da1ebf7be01ce3d198d3b"
+      ]
+    }
+  },
+  "required": [
+    "reader",
+    "turn_page",
+    "stopped_at",
+    "why_stopped",
+    "remember_tomorrow",
+    "confused_by",
+    "flags",
+    "strongest_passage",
+    "weakest_passage",
+    "machine_tells",
+    "felt",
+    "confidence",
+    "schema_version",
+    "catalog_sha256"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "passageId": {
+      "type": "string",
+      "enum": [
+        "c10p0001",
+        "c10p0002",
+        "c10p0003",
+        "c10p0004",
+        "c10p0005",
+        "c10p0006",
+        "c10p0007",
+        "c10p0008",
+        "c10p0009",
+        "c10p0010",
+        "c10p0011",
+        "c10p0012",
+        "c10p0013",
+        "c10p0014",
+        "c10p0015",
+        "c10p0016",
+        "c10p0017",
+        "c10p0018",
+        "c10p0019",
+        "c10p0020",
+        "c10p0021",
+        "c10p0022",
+        "c10p0023",
+        "c10p0024",
+        "c10p0025",
+        "c10p0026",
+        "c10p0027",
+        "c10p0028",
+        "c10p0029",
+        "c10p0030",
+        "c10p0031",
+        "c10p0032",
+        "c10p0033",
+        "c10p0034",
+        "c10p0035",
+        "c10p0036",
+        "c10p0037",
+        "c10p0038",
+        "c10p0039",
+        "c10p0040",
+        "c10p0041",
+        "c10p0042",
+        "c10p0043",
+        "c10p0044",
+        "c10p0045",
+        "c10p0046",
+        "c10p0047",
+        "c10p0048",
+        "c10p0049",
+        "c10p0050",
+        "c10p0051",
+        "c10p0052",
+        "c10p0053",
+        "c10p0054",
+        "c10p0055",
+        "c10p0056",
+        "c10p0057",
+        "c10p0058",
+        "c10p0059",
+        "c10p0060",
+        "c10p0061",
+        "c10p0062",
+        "c10p0063",
+        "c10p0064",
+        "c10p0065",
+        "c10p0066",
+        "c10p0067",
+        "c10p0068",
+        "c10p0069",
+        "c10p0070",
+        "c10p0071",
+        "c10p0072",
+        "c10p0073",
+        "c10p0074",
+        "c10p0075",
+        "c10p0076",
+        "c10p0077",
+        "c10p0078",
+        "c10p0079",
+        "c10p0080",
+        "c10p0081",
+        "c10p0082",
+        "c10p0083",
+        "c10p0084",
+        "c10p0085",
+        "c10p0086",
+        "c10p0087",
+        "c10p0088",
+        "c10p0089",
+        "c10p0090",
+        "c10p0091",
+        "c10p0092",
+        "c10p0093",
+        "c10p0094",
+        "c10p0095",
+        "c10p0096",
+        "c10p0097",
+        "c10p0098",
+        "c10p0099",
+        "c10p0100",
+        "c10p0101",
+        "c10p0102",
+        "c10p0103",
+        "c10p0104",
+        "c10p0105",
+        "c10p0106",
+        "c10p0107",
+        "c10p0108",
+        "c10p0109",
+        "c10p0110",
+        "c10p0111",
+        "c10p0112",
+        "c10p0113",
+        "c10p0114",
+        "c10p0115",
+        "c10p0116",
+        "c10p0117",
+        "c10p0118",
+        "c10p0119",
+        "c10p0120",
+        "c10p0121",
+        "c10p0122",
+        "c10p0123",
+        "c10p0124",
+        "c10p0125",
+        "c10p0126",
+        "c10p0127",
+        "c10p0128",
+        "c10p0129"
+      ]
+    }
+  }
+}

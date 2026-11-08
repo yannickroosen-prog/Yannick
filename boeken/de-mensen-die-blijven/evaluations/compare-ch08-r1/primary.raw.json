@@ -1,0 +1,29 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "311f675b6e7a23c864000ff741016a4e22ddb4615b24f6c93e6f5f50235b3dbb",
+  "reader": "Lena",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0055"},
+  "why_stopped": {"reason": "Na de zware scènes met Bram, Karim en papa voelt de uitleg over de overname door Fidelis als een zakelijk verslag; daar zakte mijn aandacht even, al legde ik het boek niet weg."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0093", "reason": "Drie keer bellen om naar de voicemail te luisteren en pas de derde keer de inademing horen: dat beeld van gemis blijft hangen."},
+    {"passage_id": "A:p0071", "reason": "Een moeder die in de bakkerij huilt om een rozijnenbrood; het verdriet komt binnen via iets kleins."},
+    {"passage_id": "A:p0109", "reason": "Een vraag die niet meer komt, is beantwoord. Die zin doet pijn."},
+    {"passage_id": "A:p0113", "reason": "De thermoskan zonder één woord erbij is een verzoening die niets uitspreekt."}
+  ],
+  "confused_by": [
+    {"passage_id": "A:p0075", "reason": "Zonder te weten waarom het rozijnenbrood voor Bram belangrijk is, moest ik even gissen waarom mama zo instort; B legt dat uit."},
+    {"passage_id": "B:p0043", "reason": "Drie weken zwijgen klopt niet: het familieberaad was op 24 mei en papa belt op 4 juni."}
+  ],
+  "flags": [
+    {"flag": "continuity_doubt", "passage_id": "B:p0043"},
+    {"flag": "over_explained", "passage_id": "B:p0075"},
+    {"flag": "slow_start", "passage_id": "A:p0055"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0093", "reason": "Wouter durft niets in te spreken en luistert alleen naar de stem van zijn broer; zonder dat het gezegd wordt, voel ik hoeveel hij hem mist."},
+  "weakest_passage": {"passage_id": "A:p0055", "reason": "De promotie komt binnen als bedrijfsinformatie en vertraagt het verdriet van het hoofdstuk."},
+  "machine_tells": [],
+  "felt": {"emotion": "beklemming en ontroering", "reason": "Wouter zwijgt keer op keer waar hij iets zou moeten zeggen, en ik wilde hem door elkaar schudden; de bakkerij en de thermoskan raakten me echt."},
+  "confidence": "medium",
+  "compare": "A"
+}

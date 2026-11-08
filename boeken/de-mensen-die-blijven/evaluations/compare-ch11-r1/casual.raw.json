@@ -1,0 +1,31 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "4b23f82bdc0fb0dcabcc241a6aa5fea0db49f45ee71560a5dc3ea33ee2a817a0",
+  "reader": "Airport reader",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0004"},
+  "why_stopped": {"reason": "De vrederechter die het dossier voorleest en de lege stoel die nog eens uitgelegd wordt: hier zakte mijn aandacht even weg, al legde ik het boek niet neer omdat de brief eraan kwam."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0005", "reason": "Die ene gemiste oproep in augustus waar Bram blij om was: 'eindelijk'. Dat haakt terug op het vorige hoofdstuk en het raakt."},
+    {"passage_id": "A:p0008", "reason": "Wouter op de wc-bril die gemene regels schrijft en ze nooit doorstreept. Eindelijk zie je dat hij kwaad is in plaats van dat iemand het zegt."},
+    {"passage_id": "A:p0011", "reason": "Frieten zonder saus en de friet op de das: klein, grappig en droevig tegelijk."}
+  ],
+  "confused_by": [],
+  "flags": [
+    {"flag": "slow_start", "passage_id": "A:p0001"},
+    {"flag": "slow_start", "passage_id": "B:p0001"},
+    {"flag": "over_explained", "passage_id": "B:p0103"},
+    {"flag": "over_explained", "passage_id": "B:p0105"},
+    {"flag": "over_explained", "passage_id": "B:p0063"},
+    {"flag": "over_explained", "passage_id": "B:p0095"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0008", "reason": "De toiletscène geeft Wouter een echte reactie op de brief, zonder uitleg; dat mis ik volledig in B, waar hij meteen buiten in de zon staat."},
+  "weakest_passage": {"passage_id": "B:p0103", "reason": "Bram houdt een hele analyse van Wouters angst; in A zegt hij het in drie zinnen en laat hij de rest aan mij over, hier wordt het me voorgekauwd."},
+  "machine_tells": [
+    {"tell": "aangekondigde emotie in plaats van getoond", "passage_id": "B:p0063"},
+    {"tell": "personage verklaart het thema hardop", "passage_id": "B:p0105"}
+  ],
+  "felt": {"emotion": "ontroering met een steek van ongemak", "reason": "De brief in de rechtszaal en het schaakantwoord op de bank kwamen aan; in A voelde ik ook Wouters woede, in B werd ze weggepraat."},
+  "confidence": "medium",
+  "compare": "A"
+}

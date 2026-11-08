@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "status": "invalid",
+  "valid": false,
+  "source_chapters": [
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-04.md",
+      "sha256": "66e8ab5a156e30a70304226b6b626a05125e1f337b07fb219d14bf4e0ec87f7f",
+      "bytes": 20191
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/work/attempts/chapter-04/stage-r1/chapter.md",
+      "sha256": "ef56ce3a968bcf936f5d30b54c6016363cfb4055d90375141b23a685d42e9e40",
+      "bytes": 19798
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-03.md",
+      "sha256": "ad6573e6ed11e91c98d1f2a7a68e197c0de07ce53df6e38fd3bf0f7e8ce3cf43",
+      "bytes": 24028
+    }
+  ],
+  "report_sha256": "0e32eab151f91e616443a2d431171328ac3b9929435a9793fbc602076e6cb564",
+  "errors": [
+    "evidence catalog: comparison catalog differs from the assigned source files",
+    "strongest_passage: unknown passage_id",
+    "weakest_passage: unknown passage_id",
+    "remember_tomorrow[0]: unknown passage_id",
+    "remember_tomorrow[1]: unknown passage_id",
+    "remember_tomorrow[2]: unknown passage_id",
+    "confused_by[0]: unknown passage_id",
+    "flags[0]: unknown passage_id",
+    "flags[1]: unknown passage_id",
+    "flags[2]: unknown passage_id",
+    "flags[3]: unknown passage_id",
+    "flags[4]: unknown passage_id",
+    "machine_tells[0]: unknown passage_id",
+    "machine_tells[1]: unknown passage_id",
+    "remember_tomorrow[0].quote must be a non-empty string",
+    "remember_tomorrow[1].quote must be a non-empty string",
+    "remember_tomorrow[2].quote must be a non-empty string",
+    "confused_by[0].quote must be a non-empty string",
+    "flags[0].quote must be a non-empty string",
+    "flags[1].quote must be a non-empty string",
+    "flags[2].quote must be a non-empty string",
+    "flags[3].quote must be a non-empty string",
+    "flags[4].quote must be a non-empty string",
+    "strongest_passage.quote must be a non-empty string",
+    "weakest_passage.quote must be a non-empty string",
+    "machine_tells[0].quote must be a non-empty string",
+    "machine_tells[1].quote must be a non-empty string"
+  ],
+  "expected_reader": "Lena"
+}

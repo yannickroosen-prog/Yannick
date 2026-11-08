@@ -1,0 +1,412 @@
+{
+  "type": "object",
+  "properties": {
+    "reader": {
+      "type": "string",
+      "enum": [
+        "Mark"
+      ]
+    },
+    "turn_page": {
+      "type": "string",
+      "enum": [
+        "no",
+        "unsure",
+        "yes"
+      ]
+    },
+    "stopped_at": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "passage_id": {
+              "$ref": "#/$defs/passageId"
+            }
+          },
+          "required": [
+            "passage_id"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "why_stopped": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "reason": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "reason"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "remember_tomorrow": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "passage_id",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "confused_by": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "passage_id",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "flags": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "flag": {
+            "type": "string",
+            "enum": [
+              "cliche",
+              "confusing",
+              "continuity_doubt",
+              "emotion_missed",
+              "exposition_dump",
+              "flat_voice",
+              "machine_prose",
+              "no_stakes",
+              "over_explained",
+              "predictable",
+              "slow_start",
+              "stiff_dialogue"
+            ]
+          },
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          }
+        },
+        "required": [
+          "flag",
+          "passage_id"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "strongest_passage": {
+      "type": "object",
+      "properties": {
+        "passage_id": {
+          "$ref": "#/$defs/passageId"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "passage_id",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "weakest_passage": {
+      "type": "object",
+      "properties": {
+        "passage_id": {
+          "$ref": "#/$defs/passageId"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "passage_id",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "machine_tells": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "tell": {
+            "type": "string"
+          },
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          }
+        },
+        "required": [
+          "tell",
+          "passage_id"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "felt": {
+      "type": "object",
+      "properties": {
+        "emotion": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 120,
+          "description": "A short emotion label such as tension and relief, at most 120 characters. Put explanations in felt.reason; do not copy story prose here."
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "emotion",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "confidence": {
+      "type": "string",
+      "enum": [
+        "high",
+        "low",
+        "medium"
+      ]
+    },
+    "schema_version": {
+      "type": "integer",
+      "enum": [
+        2
+      ]
+    },
+    "catalog_sha256": {
+      "type": "string",
+      "enum": [
+        "b2add41a77d6ca0252e3872892b47786f9a7bff6c5097929dcb0c171f2ad861e"
+      ]
+    }
+  },
+  "required": [
+    "reader",
+    "turn_page",
+    "stopped_at",
+    "why_stopped",
+    "remember_tomorrow",
+    "confused_by",
+    "flags",
+    "strongest_passage",
+    "weakest_passage",
+    "machine_tells",
+    "felt",
+    "confidence",
+    "schema_version",
+    "catalog_sha256"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "passageId": {
+      "type": "string",
+      "enum": [
+        "c01p0001",
+        "c01p0002",
+        "c01p0003",
+        "c01p0004",
+        "c01p0005",
+        "c01p0006",
+        "c01p0007",
+        "c01p0008",
+        "c01p0009",
+        "c01p0010",
+        "c01p0011",
+        "c01p0012",
+        "c01p0013",
+        "c01p0014",
+        "c01p0015",
+        "c01p0016",
+        "c01p0017",
+        "c01p0018",
+        "c01p0019",
+        "c01p0020",
+        "c01p0021",
+        "c01p0022",
+        "c01p0023",
+        "c01p0024",
+        "c01p0025",
+        "c01p0026",
+        "c01p0027",
+        "c01p0028",
+        "c01p0029",
+        "c01p0030",
+        "c01p0031",
+        "c01p0032",
+        "c01p0033",
+        "c01p0034",
+        "c01p0035",
+        "c01p0036",
+        "c01p0037",
+        "c01p0038",
+        "c01p0039",
+        "c01p0040",
+        "c01p0041",
+        "c01p0042",
+        "c01p0043",
+        "c01p0044",
+        "c01p0045",
+        "c01p0046",
+        "c01p0047",
+        "c01p0048",
+        "c01p0049",
+        "c01p0050",
+        "c01p0051",
+        "c01p0052",
+        "c01p0053",
+        "c01p0054",
+        "c01p0055",
+        "c01p0056",
+        "c01p0057",
+        "c01p0058",
+        "c01p0059",
+        "c01p0060",
+        "c01p0061",
+        "c01p0062",
+        "c01p0063",
+        "c01p0064",
+        "c01p0065",
+        "c01p0066",
+        "c01p0067",
+        "c01p0068",
+        "c01p0069",
+        "c01p0070",
+        "c01p0071",
+        "c01p0072",
+        "c01p0073",
+        "c01p0074",
+        "c01p0075",
+        "c01p0076",
+        "c01p0077",
+        "c01p0078",
+        "c01p0079",
+        "c01p0080",
+        "c01p0081",
+        "c01p0082",
+        "c01p0083",
+        "c01p0084",
+        "c01p0085",
+        "c01p0086",
+        "c01p0087",
+        "c01p0088",
+        "c01p0089",
+        "c01p0090",
+        "c01p0091",
+        "c01p0092",
+        "c01p0093",
+        "c01p0094",
+        "c01p0095",
+        "c01p0096",
+        "c01p0097",
+        "c01p0098",
+        "c01p0099",
+        "c01p0100",
+        "c01p0101",
+        "c01p0102",
+        "c01p0103",
+        "c01p0104",
+        "c01p0105",
+        "c01p0106",
+        "c01p0107",
+        "c01p0108",
+        "c01p0109",
+        "c01p0110",
+        "c01p0111",
+        "c01p0112",
+        "c01p0113",
+        "c01p0114",
+        "c01p0115",
+        "c01p0116",
+        "c01p0117",
+        "c01p0118",
+        "c01p0119",
+        "c01p0120",
+        "c01p0121",
+        "c01p0122",
+        "c01p0123",
+        "c01p0124",
+        "c01p0125",
+        "c01p0126",
+        "c01p0127",
+        "c01p0128",
+        "c01p0129",
+        "c01p0130",
+        "c01p0131",
+        "c01p0132",
+        "c01p0133",
+        "c01p0134",
+        "c01p0135",
+        "c01p0136",
+        "c01p0137",
+        "c01p0138",
+        "c01p0139",
+        "c01p0140",
+        "c01p0141",
+        "c01p0142",
+        "c01p0143",
+        "c01p0144",
+        "c01p0145",
+        "c01p0146",
+        "c01p0147",
+        "c01p0148",
+        "c01p0149",
+        "c01p0150",
+        "c01p0151",
+        "c01p0152",
+        "c01p0153",
+        "c01p0154",
+        "c01p0155",
+        "c01p0156",
+        "c01p0157",
+        "c01p0158",
+        "c01p0159",
+        "c01p0160",
+        "c01p0161",
+        "c01p0162",
+        "c01p0163",
+        "c01p0164",
+        "c01p0165",
+        "c01p0166",
+        "c01p0167",
+        "c01p0168",
+        "c01p0169",
+        "c01p0170"
+      ]
+    }
+  }
+}

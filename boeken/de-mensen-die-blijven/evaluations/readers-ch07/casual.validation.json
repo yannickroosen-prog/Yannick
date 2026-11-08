@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "source_chapters": [
+    {
+      "path": "../../manuscript/chapters/chapter-07.md",
+      "sha256": "811e0565504f7957307775b19e191eaf7bca0f84eca78f7b3d15db2dc628fcc7",
+      "bytes": 20405
+    }
+  ],
+  "report_sha256": "eb59cfddbfb46690f7bb298357f19fcc008270d98e452faba3c4bb7f25816b67",
+  "errors": [],
+  "expected_reader": "Airport reader",
+  "catalog_sha256": "fe2aaa36c14000edc8edd66ee13a0afe65db655d954ae5262b2168eaf244a00f",
+  "resolved_evidence": [
+    {
+      "location": "stopped_at",
+      "passage_id": "c07p0047",
+      "chapter": 7,
+      "quote": "Ik weet niet wat ik kwam doen. Ik heb er sindsdien vaak over nagedacht. Ik denk dat ik kwam controleren. Ik denk dat ik wilde zien of het er echt was, of de foto's niet logen, of er geen vlek op het plafond zat in de vorm van Afrika. Ik denk ook dat ik iets wilde zien wat niet klopte. Ik keek naar de kippen en de kat en de fiets en ik zocht een barst. Een rotte plank in het hek. Een gebroken ruit. Iets wat ik aan tafel zou kunnen zeggen, in Bonheiden, met mijn moeder en mijn vader erbij: *ik ben gaan kijken, en het klopt niet.*"
+    },
+    {
+      "location": "strongest_passage",
+      "passage_id": "c07p0121",
+      "chapter": 7,
+      "quote": "Bram zette de borden in de vaatwas, in het onderste rek, rechtop, in de gleufjes. Hij zette de kopjes in het bovenste rek, ondersteboven. Hij zette de vorken in het mandje, met de tanden naar beneden. Hij deed het zorgvuldig, zonder te haasten. Hij nam het blokje vaatwasmiddel uit de kast onder het aanrecht, waar het al dertig jaar staat, en pelde het uit zijn plastic en legde het in het bakje en klapte het bakje dicht. Hij deed de deur van de vaatwas dicht. Hij drukte op een knop."
+    },
+    {
+      "location": "weakest_passage",
+      "passage_id": "c07p0109",
+      "chapter": 7,
+      "quote": "Ik weet niet waar het vandaan kwam. Dat is niet waar. Ik weet precies waar het vandaan kwam. Het kwam van de trap van het vredegerecht, en van de envelop met veertien tijdstippen, en van de spreadsheet die nooit rood werd, en van de voering van een jas. Het kwam van twintig jaar. Het had daar gestaan, achter mijn tanden, zoals ik het in april op de trap had gevoeld, en het had gewacht. Het had geduld gehad, zoals enveloppen."
+    },
+    {
+      "location": "remember_tomorrow[0]",
+      "passage_id": "c07p0055",
+      "chapter": 7,
+      "quote": "\"Nog niet,\" zei ik."
+    },
+    {
+      "location": "remember_tomorrow[1]",
+      "passage_id": "c07p0079",
+      "chapter": 7,
+      "quote": "\"Gestikt mat,\" zei Bram. \"Zo heet dat. Uw koning stikt in zijn eigen volk.\" Hij glimlachte, eindelijk. \"Ge waart bijna, kleine. Ge waart echt bijna.\""
+    },
+    {
+      "location": "remember_tomorrow[2]",
+      "passage_id": "c07p0121",
+      "chapter": 7,
+      "quote": "Bram zette de borden in de vaatwas, in het onderste rek, rechtop, in de gleufjes. Hij zette de kopjes in het bovenste rek, ondersteboven. Hij zette de vorken in het mandje, met de tanden naar beneden. Hij deed het zorgvuldig, zonder te haasten. Hij nam het blokje vaatwasmiddel uit de kast onder het aanrecht, waar het al dertig jaar staat, en pelde het uit zijn plastic en legde het in het bakje en klapte het bakje dicht. Hij deed de deur van de vaatwas dicht. Hij drukte op een knop."
+    },
+    {
+      "location": "confused_by[0]",
+      "passage_id": "c07p0109",
+      "chapter": 7,
+      "quote": "Ik weet niet waar het vandaan kwam. Dat is niet waar. Ik weet precies waar het vandaan kwam. Het kwam van de trap van het vredegerecht, en van de envelop met veertien tijdstippen, en van de spreadsheet die nooit rood werd, en van de voering van een jas. Het kwam van twintig jaar. Het had daar gestaan, achter mijn tanden, zoals ik het in april op de trap had gevoeld, en het had gewacht. Het had geduld gehad, zoals enveloppen."
+    },
+    {
+      "location": "flags[0]",
+      "passage_id": "c07p0047",
+      "chapter": 7,
+      "quote": "Ik weet niet wat ik kwam doen. Ik heb er sindsdien vaak over nagedacht. Ik denk dat ik kwam controleren. Ik denk dat ik wilde zien of het er echt was, of de foto's niet logen, of er geen vlek op het plafond zat in de vorm van Afrika. Ik denk ook dat ik iets wilde zien wat niet klopte. Ik keek naar de kippen en de kat en de fiets en ik zocht een barst. Een rotte plank in het hek. Een gebroken ruit. Iets wat ik aan tafel zou kunnen zeggen, in Bonheiden, met mijn moeder en mijn vader erbij: *ik ben gaan kijken, en het klopt niet.*"
+    },
+    {
+      "location": "flags[1]",
+      "passage_id": "c07p0109",
+      "chapter": 7,
+      "quote": "Ik weet niet waar het vandaan kwam. Dat is niet waar. Ik weet precies waar het vandaan kwam. Het kwam van de trap van het vredegerecht, en van de envelop met veertien tijdstippen, en van de spreadsheet die nooit rood werd, en van de voering van een jas. Het kwam van twintig jaar. Het had daar gestaan, achter mijn tanden, zoals ik het in april op de trap had gevoeld, en het had gewacht. Het had geduld gehad, zoals enveloppen."
+    },
+    {
+      "location": "flags[2]",
+      "passage_id": "c07p0109",
+      "chapter": 7,
+      "quote": "Ik weet niet waar het vandaan kwam. Dat is niet waar. Ik weet precies waar het vandaan kwam. Het kwam van de trap van het vredegerecht, en van de envelop met veertien tijdstippen, en van de spreadsheet die nooit rood werd, en van de voering van een jas. Het kwam van twintig jaar. Het had daar gestaan, achter mijn tanden, zoals ik het in april op de trap had gevoeld, en het had gewacht. Het had geduld gehad, zoals enveloppen."
+    },
+    {
+      "location": "flags[3]",
+      "passage_id": "c07p0105",
+      "chapter": 7,
+      "quote": "Iedereen had gelijk. Dat is het vreemde. Ik zat daar en ik luisterde en ik vond dat iedereen gelijk had. Het was te ver. Het was schoon. Het was zijn keuze. Hij was twee\u00ebnveertig. Er was niets wat niet waar was. En toch zat er aan die tafel niemand die kreeg wat hij nodig had, en ik denk dat iedereen dat voelde, behalve misschien Karim, die het al te vaak had gevoeld om het nog op te merken."
+    },
+    {
+      "location": "machine_tells[0]",
+      "passage_id": "c07p0115",
+      "chapter": 7,
+      "quote": "Mijn moeder keek naar haar bord. Mijn vader keek naar mij. Hij keek naar mij met een blik die ik nog nooit van hem had gezien, en ik kan hem nog altijd niet benoemen. Het was geen boosheid. Het was iets wat leek op herkenning, alsof hij in mijn gezicht iets zag wat hij kende uit een spiegel."
+    },
+    {
+      "location": "machine_tells[1]",
+      "passage_id": "c07p0060",
+      "chapter": 7,
+      "quote": "Op de E40, ter hoogte van Gent, moest ik stoppen op een parking. Ik weet niet waarom. Ik zat tien minuten in de auto naast een vrachtwagen uit Litouwen. Ik huilde niet. Ik zat alleen. Toen reed ik verder en ging naar de Brico en kocht een kraan."
+    },
+    {
+      "location": "machine_tells[2]",
+      "passage_id": "c07p0105",
+      "chapter": 7,
+      "quote": "Iedereen had gelijk. Dat is het vreemde. Ik zat daar en ik luisterde en ik vond dat iedereen gelijk had. Het was te ver. Het was schoon. Het was zijn keuze. Hij was twee\u00ebnveertig. Er was niets wat niet waar was. En toch zat er aan die tafel niemand die kreeg wat hij nodig had, en ik denk dat iedereen dat voelde, behalve misschien Karim, die het al te vaak had gevoeld om het nog op te merken."
+    },
+    {
+      "location": "machine_tells[3]",
+      "passage_id": "c07p0047",
+      "chapter": 7,
+      "quote": "Ik weet niet wat ik kwam doen. Ik heb er sindsdien vaak over nagedacht. Ik denk dat ik kwam controleren. Ik denk dat ik wilde zien of het er echt was, of de foto's niet logen, of er geen vlek op het plafond zat in de vorm van Afrika. Ik denk ook dat ik iets wilde zien wat niet klopte. Ik keek naar de kippen en de kat en de fiets en ik zocht een barst. Een rotte plank in het hek. Een gebroken ruit. Iets wat ik aan tafel zou kunnen zeggen, in Bonheiden, met mijn moeder en mijn vader erbij: *ik ben gaan kijken, en het klopt niet.*"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "311f675b6e7a23c864000ff741016a4e22ddb4615b24f6c93e6f5f50235b3dbb",
+  "reader": "Airport reader",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0055"},
+  "why_stopped": {"reason": "Na de scherpe scènes met Fons, Karim en de vader zakt het tempo in een kantooruitleg over overnames in Portugal en Polen; daar keek ik even op van het boek, al las ik wel door."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0092", "reason": "Het voicemailbericht van Bram is grappig en pijnlijk tegelijk; zijn stem is er, hij zelf niet."},
+    {"passage_id": "A:p0072", "reason": "Een moeder die in de bakkerij huilt om een rozijnenbrood: klein, concreet, onvergetelijk."},
+    {"passage_id": "A:p0049", "reason": "De treintickets om zeven uur maken van vergeten een keuze; dat sloeg in."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0043", "reason": "Drie weken zwijgen klopt niet: het familieberaad was op 24 mei en de vader belt op 4 juni."}
+  ],
+  "flags": [
+    {"flag": "exposition_dump", "passage_id": "A:p0055"},
+    {"flag": "exposition_dump", "passage_id": "B:p0055"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0043"},
+    {"flag": "over_explained", "passage_id": "B:p0075"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0093", "reason": "Drie keer bellen om de ademhaling voor het eerste woord te horen: de hele breuk tussen de broers in één detail, en het ontbreekt in B."},
+  "weakest_passage": {"passage_id": "A:p0055", "reason": "Bedrijfsuitleg die als samenvatting leest, net op het moment dat ik meer van Bram wilde."},
+  "machine_tells": [],
+  "felt": {"emotion": "schuld en gemis", "reason": "Wouter duwt iedereen weg en ik voelde het vooral bij de voicemail en de frigo."},
+  "confidence": "medium",
+  "compare": "A"
+}

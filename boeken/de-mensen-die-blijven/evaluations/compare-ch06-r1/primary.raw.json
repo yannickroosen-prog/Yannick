@@ -1,0 +1,25 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "c16b5e69df7636364016dedb77b7dece486b57f5cc5e4ee175594b5c7f49871e",
+  "reader": "Lena",
+  "turn_page": "yes",
+  "stopped_at": null,
+  "why_stopped": null,
+  "remember_tomorrow": [
+    {"passage_id": "A:p0009", "reason": "De das aan de golfbreker en 'De zee was er' is grappig en schrijnend tegelijk; dat beeld blijft hangen."},
+    {"passage_id": "A:p0005", "reason": "Gilbert die zich een caravan in Bredene voorstelt, hardop in de wachtzaal, is ontwapenend eerlijk."},
+    {"passage_id": "A:p0008", "reason": "'Wilt gij dit eigenlijk?' en het 'natuurlijk' dat niet in de marge staat: de vraag die de hele roman draagt."}
+  ],
+  "confused_by": [],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "B:p0009"},
+    {"flag": "over_explained", "passage_id": "B:p0011"},
+    {"flag": "over_explained", "passage_id": "A:p0013"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0009", "reason": "Het lachen dat onder het lachen iets anders laat opkomen, zonder dat het benoemd wordt; ik voelde de woede zelf in plaats van ze te lezen."},
+  "weakest_passage": {"passage_id": "B:p0009", "reason": "B zegt 'Het was woede' en vult de duizeligheid in, terwijl de kaken en de handen dat al lieten voelen; de spanning loopt erdoor weg."},
+  "machine_tells": [],
+  "felt": {"emotion": "ontroering en ingehouden ergernis", "reason": "Ik zat mee te wachten in die wachtzaal, lachte om de das en voelde daarna dezelfde steek als Wouter."},
+  "confidence": "medium",
+  "compare": "A"
+}

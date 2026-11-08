@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "source_chapters": [
+    {
+      "path": "../../manuscript/chapters/chapter-03.md",
+      "sha256": "2e023529cada03a8dbe7946e5e0c2cf998faebcc9f16e5002b4e1c75713524b7",
+      "bytes": 23141
+    }
+  ],
+  "report_sha256": "cf999426c689712a48649684e85fe4a869db780d9ac11944e02975e2ea7909cd",
+  "errors": [],
+  "expected_reader": "Airport reader",
+  "catalog_sha256": "f85fb0ae32d16e10fd73aa1e34975400fba80ff391ea02d3738b16c91b4ad5cc",
+  "resolved_evidence": [
+    {
+      "location": "stopped_at",
+      "passage_id": "c03p0042",
+      "chapter": 3,
+      "quote": "Ik vertel het omdat het gebeurde, niet omdat het belangrijk is. Het project heette Claimflow. Het was een nieuw systeem waarmee klanten hun schade zelf konden melden via een app, met foto's, zonder dat er een mens aan te pas kwam. Ik had er acht maanden aan gewerkt. Het zou live gaan op maandag 12 januari om zes uur 's ochtends."
+    },
+    {
+      "location": "strongest_passage",
+      "passage_id": "c03p0147",
+      "chapter": 3,
+      "quote": "Hij stond op. Ik stond ook op. Ik stak mijn hand in de rechterzak van zijn jas. Er zat een papieren zakdoek in, en een kauwgom, en een bonnetje. Ik stak mijn hand in de linkerzak. Daar zat een gat in de voering. Ik voelde door het gat, naar beneden, in de ruimte tussen de voering en de stof, helemaal onderaan, waar de jas ophoudt. Mijn vingers raakten metaal."
+    },
+    {
+      "location": "weakest_passage",
+      "passage_id": "c03p0044",
+      "chapter": 3,
+      "quote": "Er volgde een crisisvergadering. Er volgde nog een. Er volgden er vijf in drie dagen, met mensen van de juridische dienst en mensen van de communicatiedienst en een man van de directie die alleen maar vroeg wie verantwoordelijk was. Ik zei dat ik verantwoordelijk was. Dat was waar. Het was ook het enige wat ik kon zeggen zonder iemand anders iets aan te doen."
+    },
+    {
+      "location": "remember_tomorrow[0]",
+      "passage_id": "c03p0113",
+      "chapter": 3,
+      "quote": "Ik heb mijn moeder later gevraagd hoe het was gegaan met die fiets. Ze zei dat ze het niet goed meer wist. Ze zei: \"Bram had hem erin gegooid, toch? Dat heeft hij zelf gezegd.\" En toen, na een tijdje: \"Gij waart wel heel nat, die dag. Dat weet ik nog. Ge waart nat tot op uw onderbroek.\""
+    },
+    {
+      "location": "remember_tomorrow[1]",
+      "passage_id": "c03p0126",
+      "chapter": 3,
+      "quote": "**01.04 uur.** Bram. Hij zei dat hij God had gesproken. Hij zei het niet zoals hij het soms zegt, met die vlakke, verbaasde stem die me altijd de haren op mijn armen doet rechtstaan. Hij zei het zoals je zegt dat je de buurman bent tegengekomen. Hij zei dat God op een bank zat op de Veemarkt en een blikje Jupiler dronk. \"Hij zei dat Hij ook zijn sleutel kwijt is, kleine. Al tweeduizend jaar.\""
+    },
+    {
+      "location": "remember_tomorrow[2]",
+      "passage_id": "c03p0148",
+      "chapter": 3,
+      "quote": "Ik haalde het eruit. Het was zijn sleutel, aan een sleutelhanger in de vorm van een schaakpaard."
+    },
+    {
+      "location": "confused_by[0]",
+      "passage_id": "c03p0011",
+      "chapter": 3,
+      "quote": "Ze heette Ilse. Ze was de vrouw van de vazen."
+    },
+    {
+      "location": "confused_by[1]",
+      "passage_id": "c03p0024",
+      "chapter": 3,
+      "quote": "\"Ah,\" zei hij. \"Tabblad drie.\""
+    },
+    {
+      "location": "flags[0]",
+      "passage_id": "c03p0001",
+      "chapter": 3,
+      "quote": "De Gouden Vis ligt aan de Vismarkt, op de hoek bij de brug over de Dijle. Het is een caf\u00e9 met een lage zoldering en een vloer van rode en zwarte tegels, waar de waard al sinds de jaren negentig dezelfde vijf soorten bier tapt en weigert er een zesde bij te nemen. Op dinsdagavond schuiven ze achteraan twee tafels tegen elkaar en zetten ze er vier schaakborden op. Er komen altijd dezelfde mensen: een gepensioneerde notaris met een strik, twee studenten van de hogeschool die alleen met elkaar spelen, een man die Fons heet en die bij elke zet zijn adem inhoudt, en mijn broer."
+    },
+    {
+      "location": "flags[1]",
+      "passage_id": "c03p0044",
+      "chapter": 3,
+      "quote": "Er volgde een crisisvergadering. Er volgde nog een. Er volgden er vijf in drie dagen, met mensen van de juridische dienst en mensen van de communicatiedienst en een man van de directie die alleen maar vroeg wie verantwoordelijk was. Ik zei dat ik verantwoordelijk was. Dat was waar. Het was ook het enige wat ik kon zeggen zonder iemand anders iets aan te doen."
+    },
+    {
+      "location": "flags[2]",
+      "passage_id": "c03p0132",
+      "chapter": 3,
+      "quote": "Voor ik vertrok, draaide Sanne zich om in bed. Ze zei niets. Ze legde haar hand even op mijn rug, tussen mijn schouderbladen, en haalde hem weer weg. Ik weet niet of het betekende: ga maar, of: blijf, of: ik ben er. Ik denk dat zij het ook niet wist."
+    },
+    {
+      "location": "flags[3]",
+      "passage_id": "c03p0068",
+      "chapter": 3,
+      "quote": "Ze zei het licht. Ze zei het zoals je iets zegt wat je al lang denkt en wat je per ongeluk laat vallen, zoals een sleutel uit een jaszak met een gat. Daarna zette ze water op voor de pasta en vroeg of ik de kaas wilde raspen. Ik raspte de kaas. De vaas stond op de vensterbank en keek naar ons, als een vaas kan kijken, met dat ene kleine oog bovenaan."
+    },
+    {
+      "location": "flags[4]",
+      "passage_id": "c03p0035",
+      "chapter": 3,
+      "quote": "\"Ik weet het,\" zei Bram. Hij zei het vriendelijk. Dat was het ergste. \"Gij spaart iedereen. Het is uw hobby. Andere mensen verzamelen postzegels.\""
+    },
+    {
+      "location": "machine_tells[0]",
+      "passage_id": "c03p0042",
+      "chapter": 3,
+      "quote": "Ik vertel het omdat het gebeurde, niet omdat het belangrijk is. Het project heette Claimflow. Het was een nieuw systeem waarmee klanten hun schade zelf konden melden via een app, met foto's, zonder dat er een mens aan te pas kwam. Ik had er acht maanden aan gewerkt. Het zou live gaan op maandag 12 januari om zes uur 's ochtends."
+    },
+    {
+      "location": "machine_tells[1]",
+      "passage_id": "c03p0097",
+      "chapter": 3,
+      "quote": "Op de derde dag kwam Bram thuis van school in een bui. Hij had die buien al toen, lang voor er een woord voor was. Hij was kwaad op een leraar, op mijn moeder, op de wereld, en ik stond met mijn fiets op de kade. Hij nam de fiets uit mijn handen en gooide hem in de vaart. Ik herinner me het geluid. Een plons, en dan een soort zucht van het water. Ik herinner me dat ik niet huilde. Ik herinner me dat ik bang was, niet voor de fiets, maar voor Bram, omdat ik zijn gezicht zag en het niet herkende."
+    },
+    {
+      "location": "machine_tells[2]",
+      "passage_id": "c03p0132",
+      "chapter": 3,
+      "quote": "Voor ik vertrok, draaide Sanne zich om in bed. Ze zei niets. Ze legde haar hand even op mijn rug, tussen mijn schouderbladen, en haalde hem weer weg. Ik weet niet of het betekende: ga maar, of: blijf, of: ik ben er. Ik denk dat zij het ook niet wist."
+    },
+    {
+      "location": "machine_tells[3]",
+      "passage_id": "c03p0143",
+      "chapter": 3,
+      "quote": "Ik lachte. Ik wilde niet lachen. Hij lachte ook, en zijn lach klonk normaal, en dat maakte me op een rare manier ongerust. Ik keek naar zijn handen. Ze beefden niet. Ik keek naar zijn ogen. Ze waren moe, en een beetje te groot, maar ze keken naar mij en niet naar iets achter mij. Ik dacht: het is geen slechte nacht. Het is een nacht waarin hij zijn sleutel kwijt is en niet alleen wilde zijn. Ik dacht: het is misschien niet meer dan dat. Ik dacht: wanneer heb ik voor het laatst gedacht dat iets niet meer was dan dat."
+    }
+  ]
+}

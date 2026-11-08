@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "source_chapters": [
+    {
+      "path": "../../manuscript/chapters/chapter-03.md",
+      "sha256": "2e023529cada03a8dbe7946e5e0c2cf998faebcc9f16e5002b4e1c75713524b7",
+      "bytes": 23141
+    }
+  ],
+  "report_sha256": "c45ecbe5aa068dd32b0832d4d581dd4a331efd82494df65c3af793e8f10c2ec5",
+  "errors": [],
+  "expected_reader": "Mark",
+  "catalog_sha256": "f85fb0ae32d16e10fd73aa1e34975400fba80ff391ea02d3738b16c91b4ad5cc",
+  "resolved_evidence": [
+    {
+      "location": "stopped_at",
+      "passage_id": "c03p0042",
+      "chapter": 3,
+      "quote": "Ik vertel het omdat het gebeurde, niet omdat het belangrijk is. Het project heette Claimflow. Het was een nieuw systeem waarmee klanten hun schade zelf konden melden via een app, met foto's, zonder dat er een mens aan te pas kwam. Ik had er acht maanden aan gewerkt. Het zou live gaan op maandag 12 januari om zes uur 's ochtends."
+    },
+    {
+      "location": "strongest_passage",
+      "passage_id": "c03p0112",
+      "chapter": 3,
+      "quote": "Ik fietste naar huis langs de Dijle. Ik probeerde me de plons te herinneren. Ik probeerde me te herinneren of het geluid van boven kwam of van onder, of ik op de kade stond of in het water lag. Ik herinnerde me de zucht van het water. Ik herinnerde me Brams gezicht, dat ik niet herkende. Ik weet niet meer of het het gezicht was van iemand die woedend is, of van iemand die van een kade springt."
+    },
+    {
+      "location": "weakest_passage",
+      "passage_id": "c03p0042",
+      "chapter": 3,
+      "quote": "Ik vertel het omdat het gebeurde, niet omdat het belangrijk is. Het project heette Claimflow. Het was een nieuw systeem waarmee klanten hun schade zelf konden melden via een app, met foto's, zonder dat er een mens aan te pas kwam. Ik had er acht maanden aan gewerkt. Het zou live gaan op maandag 12 januari om zes uur 's ochtends."
+    },
+    {
+      "location": "remember_tomorrow[0]",
+      "passage_id": "c03p0113",
+      "chapter": 3,
+      "quote": "Ik heb mijn moeder later gevraagd hoe het was gegaan met die fiets. Ze zei dat ze het niet goed meer wist. Ze zei: \"Bram had hem erin gegooid, toch? Dat heeft hij zelf gezegd.\" En toen, na een tijdje: \"Gij waart wel heel nat, die dag. Dat weet ik nog. Ge waart nat tot op uw onderbroek.\""
+    },
+    {
+      "location": "remember_tomorrow[1]",
+      "passage_id": "c03p0147",
+      "chapter": 3,
+      "quote": "Hij stond op. Ik stond ook op. Ik stak mijn hand in de rechterzak van zijn jas. Er zat een papieren zakdoek in, en een kauwgom, en een bonnetje. Ik stak mijn hand in de linkerzak. Daar zat een gat in de voering. Ik voelde door het gat, naar beneden, in de ruimte tussen de voering en de stof, helemaal onderaan, waar de jas ophoudt. Mijn vingers raakten metaal."
+    },
+    {
+      "location": "remember_tomorrow[2]",
+      "passage_id": "c03p0131",
+      "chapter": 3,
+      "quote": "Dat zijn er veertien. Ik heb ze die nacht geteld, op de achterkant van de envelop. Ik heb de envelop nog. Ik weet niet waarom ik hem heb gehouden. Ik denk dat ik wilde bewijzen dat het er veertien waren, al weet ik niet aan wie."
+    },
+    {
+      "location": "confused_by[0]",
+      "passage_id": "c03p0050",
+      "chapter": 3,
+      "quote": "De vaas stond op zaterdag voor onze deur. Hij zat in een doos van de Aldi, ingepakt in krantenpapier, met een kaartje waarop in een handschrift dat ik niet kende stond: *Voor Wouter. Niet voor bloemen. Ilse.* Er was niet aangebeld. Iemand had hem daar neergezet en was weer weggegaan, zoals je een vondeling achterlaat."
+    },
+    {
+      "location": "confused_by[1]",
+      "passage_id": "c03p0085",
+      "chapter": 3,
+      "quote": "\"Ik heb vorige week tegen hem gespeeld. Hij was hier, met de bus. Hij heeft me laten winnen.\""
+    },
+    {
+      "location": "flags[0]",
+      "passage_id": "c03p0042",
+      "chapter": 3,
+      "quote": "Ik vertel het omdat het gebeurde, niet omdat het belangrijk is. Het project heette Claimflow. Het was een nieuw systeem waarmee klanten hun schade zelf konden melden via een app, met foto's, zonder dat er een mens aan te pas kwam. Ik had er acht maanden aan gewerkt. Het zou live gaan op maandag 12 januari om zes uur 's ochtends."
+    },
+    {
+      "location": "flags[1]",
+      "passage_id": "c03p0132",
+      "chapter": 3,
+      "quote": "Voor ik vertrok, draaide Sanne zich om in bed. Ze zei niets. Ze legde haar hand even op mijn rug, tussen mijn schouderbladen, en haalde hem weer weg. Ik weet niet of het betekende: ga maar, of: blijf, of: ik ben er. Ik denk dat zij het ook niet wist."
+    },
+    {
+      "location": "flags[2]",
+      "passage_id": "c03p0121",
+      "chapter": 3,
+      "quote": "**00.36 uur.** Ik nam op. Hij stond aan de Brusselse Poort. Hij vroeg of ik wist dat de Brusselse Poort de enige overgebleven stadspoort van Mechelen is, van de twaalf die er vroeger waren. Hij vroeg waarom een stad een poort laat staan als er geen muur meer is. Hij zei dat je er gewoon omheen kunt lopen. Hij was eromheen gelopen, drie keer. Hij zei: \"Het is een poort die niets meer tegenhoudt, kleine. Zoals wij.\""
+    },
+    {
+      "location": "flags[3]",
+      "passage_id": "c03p0050",
+      "chapter": 3,
+      "quote": "De vaas stond op zaterdag voor onze deur. Hij zat in een doos van de Aldi, ingepakt in krantenpapier, met een kaartje waarop in een handschrift dat ik niet kende stond: *Voor Wouter. Niet voor bloemen. Ilse.* Er was niet aangebeld. Iemand had hem daar neergezet en was weer weggegaan, zoals je een vondeling achterlaat."
+    },
+    {
+      "location": "flags[4]",
+      "passage_id": "c03p0136",
+      "chapter": 3,
+      "quote": "Hij zat op de bovenste trede van de derde verdieping, met zijn rug tegen de deur van zijn appartement. Hij had zijn lange grijze jas aan, die van de oom die we nooit hebben gekend. Hij had zijn knie\u00ebn opgetrokken en zijn armen eromheen geslagen, zoals een kind dat wacht tot het wordt opgehaald. Hij keek op toen hij me hoorde. Hij glimlachte."
+    },
+    {
+      "location": "machine_tells[0]",
+      "passage_id": "c03p0042",
+      "chapter": 3,
+      "quote": "Ik vertel het omdat het gebeurde, niet omdat het belangrijk is. Het project heette Claimflow. Het was een nieuw systeem waarmee klanten hun schade zelf konden melden via een app, met foto's, zonder dat er een mens aan te pas kwam. Ik had er acht maanden aan gewerkt. Het zou live gaan op maandag 12 januari om zes uur 's ochtends."
+    },
+    {
+      "location": "machine_tells[1]",
+      "passage_id": "c03p0097",
+      "chapter": 3,
+      "quote": "Op de derde dag kwam Bram thuis van school in een bui. Hij had die buien al toen, lang voor er een woord voor was. Hij was kwaad op een leraar, op mijn moeder, op de wereld, en ik stond met mijn fiets op de kade. Hij nam de fiets uit mijn handen en gooide hem in de vaart. Ik herinner me het geluid. Een plons, en dan een soort zucht van het water. Ik herinner me dat ik niet huilde. Ik herinner me dat ik bang was, niet voor de fiets, maar voor Bram, omdat ik zijn gezicht zag en het niet herkende."
+    },
+    {
+      "location": "machine_tells[2]",
+      "passage_id": "c03p0132",
+      "chapter": 3,
+      "quote": "Voor ik vertrok, draaide Sanne zich om in bed. Ze zei niets. Ze legde haar hand even op mijn rug, tussen mijn schouderbladen, en haalde hem weer weg. Ik weet niet of het betekende: ga maar, of: blijf, of: ik ben er. Ik denk dat zij het ook niet wist."
+    },
+    {
+      "location": "machine_tells[3]",
+      "passage_id": "c03p0121",
+      "chapter": 3,
+      "quote": "**00.36 uur.** Ik nam op. Hij stond aan de Brusselse Poort. Hij vroeg of ik wist dat de Brusselse Poort de enige overgebleven stadspoort van Mechelen is, van de twaalf die er vroeger waren. Hij vroeg waarom een stad een poort laat staan als er geen muur meer is. Hij zei dat je er gewoon omheen kunt lopen. Hij was eromheen gelopen, drie keer. Hij zei: \"Het is een poort die niets meer tegenhoudt, kleine. Zoals wij.\""
+    },
+    {
+      "location": "machine_tells[4]",
+      "passage_id": "c03p0014",
+      "chapter": 3,
+      "quote": "Ik zei dat ik blij was voor hem. Ik meende het. Ik meende het ook niet helemaal, en ik weet niet goed waarom. Misschien omdat Bram met een vrouw een nieuwe kolom was in een tabel die ik nog niet had leren lezen. Misschien om iets kleiners."
+    }
+  ]
+}

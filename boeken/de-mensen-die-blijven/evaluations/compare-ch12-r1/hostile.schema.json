@@ -1,0 +1,411 @@
+{
+  "type": "object",
+  "properties": {
+    "reader": {
+      "type": "string",
+      "enum": [
+        "Mark"
+      ]
+    },
+    "turn_page": {
+      "type": "string",
+      "enum": [
+        "no",
+        "unsure",
+        "yes"
+      ]
+    },
+    "stopped_at": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "passage_id": {
+              "$ref": "#/$defs/passageId"
+            }
+          },
+          "required": [
+            "passage_id"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "why_stopped": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "reason": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "reason"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "remember_tomorrow": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "passage_id",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "confused_by": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "passage_id",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "flags": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "flag": {
+            "type": "string",
+            "enum": [
+              "cliche",
+              "confusing",
+              "continuity_doubt",
+              "emotion_missed",
+              "exposition_dump",
+              "flat_voice",
+              "machine_prose",
+              "no_stakes",
+              "over_explained",
+              "predictable",
+              "slow_start",
+              "stiff_dialogue"
+            ]
+          },
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          }
+        },
+        "required": [
+          "flag",
+          "passage_id"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "strongest_passage": {
+      "type": "object",
+      "properties": {
+        "passage_id": {
+          "$ref": "#/$defs/passageId"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "passage_id",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "weakest_passage": {
+      "type": "object",
+      "properties": {
+        "passage_id": {
+          "$ref": "#/$defs/passageId"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "passage_id",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "machine_tells": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "tell": {
+            "type": "string"
+          },
+          "passage_id": {
+            "$ref": "#/$defs/passageId"
+          }
+        },
+        "required": [
+          "tell",
+          "passage_id"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "felt": {
+      "type": "object",
+      "properties": {
+        "emotion": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 120,
+          "description": "A short emotion label such as tension and relief, at most 120 characters. Put explanations in felt.reason; do not copy story prose here."
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "emotion",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "confidence": {
+      "type": "string",
+      "enum": [
+        "high",
+        "low",
+        "medium"
+      ]
+    },
+    "compare": {
+      "type": "string",
+      "enum": [
+        "A",
+        "B",
+        "same"
+      ]
+    },
+    "schema_version": {
+      "type": "integer",
+      "enum": [
+        3
+      ]
+    },
+    "catalog_sha256": {
+      "type": "string",
+      "enum": [
+        "09cfdad8509b8ec08fccf6955e17cf3f402d51d67365507acc7b0f7a44cc4180"
+      ]
+    }
+  },
+  "required": [
+    "reader",
+    "turn_page",
+    "stopped_at",
+    "why_stopped",
+    "remember_tomorrow",
+    "confused_by",
+    "flags",
+    "strongest_passage",
+    "weakest_passage",
+    "machine_tells",
+    "felt",
+    "confidence",
+    "compare",
+    "schema_version",
+    "catalog_sha256"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "passageId": {
+      "type": "string",
+      "enum": [
+        "A:p0001",
+        "A:p0002",
+        "A:p0003",
+        "A:p0004",
+        "A:p0005",
+        "A:p0006",
+        "A:p0007",
+        "A:p0008",
+        "A:p0009",
+        "A:p0010",
+        "A:p0011",
+        "A:p0012",
+        "A:p0013",
+        "A:p0014",
+        "A:p0015",
+        "A:p0016",
+        "B:p0001",
+        "B:p0002",
+        "B:p0003",
+        "B:p0004",
+        "B:p0005",
+        "B:p0006",
+        "B:p0007",
+        "B:p0008",
+        "B:p0009",
+        "B:p0010",
+        "B:p0011",
+        "B:p0012",
+        "B:p0013",
+        "B:p0014",
+        "B:p0015",
+        "B:p0016",
+        "context-1:p0001",
+        "context-1:p0002",
+        "context-1:p0003",
+        "context-1:p0004",
+        "context-1:p0005",
+        "context-1:p0006",
+        "context-1:p0007",
+        "context-1:p0008",
+        "context-1:p0009",
+        "context-1:p0010",
+        "context-1:p0011",
+        "context-1:p0012",
+        "context-1:p0013",
+        "context-1:p0014",
+        "context-1:p0015",
+        "context-1:p0016",
+        "context-1:p0017",
+        "context-1:p0018",
+        "context-1:p0019",
+        "context-1:p0020",
+        "context-1:p0021",
+        "context-1:p0022",
+        "context-1:p0023",
+        "context-1:p0024",
+        "context-1:p0025",
+        "context-1:p0026",
+        "context-1:p0027",
+        "context-1:p0028",
+        "context-1:p0029",
+        "context-1:p0030",
+        "context-1:p0031",
+        "context-1:p0032",
+        "context-1:p0033",
+        "context-1:p0034",
+        "context-1:p0035",
+        "context-1:p0036",
+        "context-1:p0037",
+        "context-1:p0038",
+        "context-1:p0039",
+        "context-1:p0040",
+        "context-1:p0041",
+        "context-1:p0042",
+        "context-1:p0043",
+        "context-1:p0044",
+        "context-1:p0045",
+        "context-1:p0046",
+        "context-1:p0047",
+        "context-1:p0048",
+        "context-1:p0049",
+        "context-1:p0050",
+        "context-1:p0051",
+        "context-1:p0052",
+        "context-1:p0053",
+        "context-1:p0054",
+        "context-1:p0055",
+        "context-1:p0056",
+        "context-1:p0057",
+        "context-1:p0058",
+        "context-1:p0059",
+        "context-1:p0060",
+        "context-1:p0061",
+        "context-1:p0062",
+        "context-1:p0063",
+        "context-1:p0064",
+        "context-1:p0065",
+        "context-1:p0066",
+        "context-1:p0067",
+        "context-1:p0068",
+        "context-1:p0069",
+        "context-1:p0070",
+        "context-1:p0071",
+        "context-1:p0072",
+        "context-1:p0073",
+        "context-1:p0074",
+        "context-1:p0075",
+        "context-1:p0076",
+        "context-1:p0077",
+        "context-1:p0078",
+        "context-1:p0079",
+        "context-1:p0080",
+        "context-1:p0081",
+        "context-1:p0082",
+        "context-1:p0083",
+        "context-1:p0084",
+        "context-1:p0085",
+        "context-1:p0086",
+        "context-1:p0087",
+        "context-1:p0088",
+        "context-1:p0089",
+        "context-1:p0090",
+        "context-1:p0091",
+        "context-1:p0092",
+        "context-1:p0093",
+        "context-1:p0094",
+        "context-1:p0095",
+        "context-1:p0096",
+        "context-1:p0097",
+        "context-1:p0098",
+        "context-1:p0099",
+        "context-1:p0100",
+        "context-1:p0101",
+        "context-1:p0102",
+        "context-1:p0103",
+        "context-1:p0104",
+        "context-1:p0105",
+        "context-1:p0106",
+        "context-1:p0107",
+        "context-1:p0108",
+        "context-1:p0109",
+        "context-1:p0110",
+        "context-1:p0111",
+        "context-1:p0112",
+        "context-1:p0113",
+        "context-1:p0114",
+        "context-1:p0115",
+        "context-1:p0116",
+        "context-1:p0117",
+        "context-1:p0118",
+        "context-1:p0119",
+        "context-1:p0120",
+        "context-1:p0121",
+        "context-1:p0122",
+        "context-1:p0123",
+        "context-1:p0124",
+        "context-1:p0125",
+        "context-1:p0126",
+        "context-1:p0127",
+        "context-1:p0128"
+      ]
+    }
+  }
+}

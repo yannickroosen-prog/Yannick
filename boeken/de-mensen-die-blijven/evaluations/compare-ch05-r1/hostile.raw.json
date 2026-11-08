@@ -1,0 +1,30 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "296a5ea4ae6744a18161b656a997dbb07e0f22d25d94ca76b12aad26b89b7afe",
+  "reader": "Mark",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0010"},
+  "why_stopped": {"reason": "In B breekt de liftzin grammaticaal ('Ik had om vijf voor zeven een signaal had gezien, en dat ik...') en ontbreekt de stap opluchting-schaamte-teleurstelling, zodat de conclusie over gelijk hebben over een ramp uit het niets komt; in A loopt dezelfde passage wel causaal door."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0005", "reason": "De gedachte om het weekgeld als hefboom te gebruiken is lelijk en eerlijk, en de toren-vergelijking maakt duidelijk dat het geen plan is maar een mogelijkheid."},
+    {"passage_id": "A:p0006", "reason": "Het doosje dat hij een half uur dikker tekent tot het papier scheurt toont zijn controledrang zonder dat iemand het benoemt."},
+    {"passage_id": "A:p0015", "reason": "Het gewiste 'Hebt ge gegeten?' sluit de lus met de moeder en de autonomievraag in één gebaar."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0010", "reason": "De zin met dubbel 'had' en een losse 'dat'-reeks is onaf; ik moest terug om te begrijpen wat hij in de lift voelde."}
+  ],
+  "flags": [
+    {"flag": "continuity_doubt", "passage_id": "B:p0010"},
+    {"flag": "emotion_missed", "passage_id": "B:p0010"},
+    {"flag": "over_explained", "passage_id": "A:p0004"},
+    {"flag": "continuity_doubt", "passage_id": "A:p0001"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0003", "reason": "'Ge meent het met uw hoofd. Ge meent het niet met uw handen' en de handen die hij met opzet stil had gelegd: de verteller wordt betrapt, niet uitgelegd."},
+  "weakest_passage": {"passage_id": "B:p0010", "reason": "Kapotte zin en weggevallen emotionele tussenstap; de pointe over ramp versus boek is daardoor niet verdiend."},
+  "machine_tells": [
+    {"tell": "aangekondigde bekentenis ('iets wat ik hier ga opschrijven') herhaald uit het vorige hoofdstuk", "passage_id": "A:p0004"}
+  ],
+  "felt": {"emotion": "ongemak en herkenning", "reason": "De afstand tussen 'het is uw beslissing' en wat zijn handen doen voelde echt; de babyscène trok me minder, maar het gewiste bericht raakte."},
+  "confidence": "high",
+  "compare": "A"
+}

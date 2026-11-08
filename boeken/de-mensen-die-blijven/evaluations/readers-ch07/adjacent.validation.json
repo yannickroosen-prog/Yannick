@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "source_chapters": [
+    {
+      "path": "../../manuscript/chapters/chapter-07.md",
+      "sha256": "811e0565504f7957307775b19e191eaf7bca0f84eca78f7b3d15db2dc628fcc7",
+      "bytes": 20405
+    }
+  ],
+  "report_sha256": "489739757bad70ac1ec5931fb9a8af1274c4b2c4ec877615eeec5df878fdda5e",
+  "errors": [],
+  "expected_reader": "Priya",
+  "catalog_sha256": "fe2aaa36c14000edc8edd66ee13a0afe65db655d954ae5262b2168eaf244a00f",
+  "resolved_evidence": [
+    {
+      "location": "stopped_at",
+      "passage_id": "c07p0100",
+      "chapter": 7,
+      "quote": "Ik ga niet alles vertellen. Het zou te lang zijn, en het zou niet waar zijn, want ik zou het vertellen alsof er een lijn in zat, en er zat geen lijn in. Het was een gesprek dat rondjes draaide, zoals de kippen in de wind, en elke keer als het ergens leek aan te komen, draaide het weer om."
+    },
+    {
+      "location": "strongest_passage",
+      "passage_id": "c07p0119",
+      "chapter": 7,
+      "quote": "Hij stond op. Hij nam zijn bord en dat van mijn moeder en dat van mijn vader. Hij stapelde ze op elkaar, heel voorzichtig, met de vorken ertussen, zoals mijn moeder het hem had geleerd toen hij zes was. Hij nam de kopjes, die nog half vol waren met koude koffie uit de espressomachine. Hij liep naar het aanrecht. Hij spoelde de kopjes om onder de kraan, een voor een. Hij deed de vaatwas open."
+    },
+    {
+      "location": "weakest_passage",
+      "passage_id": "c07p0105",
+      "chapter": 7,
+      "quote": "Iedereen had gelijk. Dat is het vreemde. Ik zat daar en ik luisterde en ik vond dat iedereen gelijk had. Het was te ver. Het was schoon. Het was zijn keuze. Hij was twee\u00ebnveertig. Er was niets wat niet waar was. En toch zat er aan die tafel niemand die kreeg wat hij nodig had, en ik denk dat iedereen dat voelde, behalve misschien Karim, die het al te vaak had gevoeld om het nog op te merken."
+    },
+    {
+      "location": "remember_tomorrow[0]",
+      "passage_id": "c07p0055",
+      "chapter": 7,
+      "quote": "\"Nog niet,\" zei ik."
+    },
+    {
+      "location": "remember_tomorrow[1]",
+      "passage_id": "c07p0121",
+      "chapter": 7,
+      "quote": "Bram zette de borden in de vaatwas, in het onderste rek, rechtop, in de gleufjes. Hij zette de kopjes in het bovenste rek, ondersteboven. Hij zette de vorken in het mandje, met de tanden naar beneden. Hij deed het zorgvuldig, zonder te haasten. Hij nam het blokje vaatwasmiddel uit de kast onder het aanrecht, waar het al dertig jaar staat, en pelde het uit zijn plastic en legde het in het bakje en klapte het bakje dicht. Hij deed de deur van de vaatwas dicht. Hij drukte op een knop."
+    },
+    {
+      "location": "remember_tomorrow[2]",
+      "passage_id": "c07p0079",
+      "chapter": 7,
+      "quote": "\"Gestikt mat,\" zei Bram. \"Zo heet dat. Uw koning stikt in zijn eigen volk.\" Hij glimlachte, eindelijk. \"Ge waart bijna, kleine. Ge waart echt bijna.\""
+    },
+    {
+      "location": "confused_by[0]",
+      "passage_id": "c07p0109",
+      "chapter": 7,
+      "quote": "Ik weet niet waar het vandaan kwam. Dat is niet waar. Ik weet precies waar het vandaan kwam. Het kwam van de trap van het vredegerecht, en van de envelop met veertien tijdstippen, en van de spreadsheet die nooit rood werd, en van de voering van een jas. Het kwam van twintig jaar. Het had daar gestaan, achter mijn tanden, zoals ik het in april op de trap had gevoeld, en het had gewacht. Het had geduld gehad, zoals enveloppen."
+    },
+    {
+      "location": "flags[0]",
+      "passage_id": "c07p0105",
+      "chapter": 7,
+      "quote": "Iedereen had gelijk. Dat is het vreemde. Ik zat daar en ik luisterde en ik vond dat iedereen gelijk had. Het was te ver. Het was schoon. Het was zijn keuze. Hij was twee\u00ebnveertig. Er was niets wat niet waar was. En toch zat er aan die tafel niemand die kreeg wat hij nodig had, en ik denk dat iedereen dat voelde, behalve misschien Karim, die het al te vaak had gevoeld om het nog op te merken."
+    },
+    {
+      "location": "flags[1]",
+      "passage_id": "c07p0109",
+      "chapter": 7,
+      "quote": "Ik weet niet waar het vandaan kwam. Dat is niet waar. Ik weet precies waar het vandaan kwam. Het kwam van de trap van het vredegerecht, en van de envelop met veertien tijdstippen, en van de spreadsheet die nooit rood werd, en van de voering van een jas. Het kwam van twintig jaar. Het had daar gestaan, achter mijn tanden, zoals ik het in april op de trap had gevoeld, en het had gewacht. Het had geduld gehad, zoals enveloppen."
+    },
+    {
+      "location": "flags[2]",
+      "passage_id": "c07p0074",
+      "chapter": 7,
+      "quote": "\"Ik vraag u alleen om niets te zeggen tegen.\" Hij legde zijn hand op het bord, plat, over de stukken heen, zodat een paar ervan omvielen. \"Zwijg gewoon, kleine. Zit erbij en zwijg. Dat kunt ge goed. Als gij zwijgt, dan weten ze niet aan welke kant ge staat, en dan winnen ze niet. Dan is het twee tegen twee. Karim en ik tegen papa en mama. En dan is het mijn beslissing.\""
+    },
+    {
+      "location": "flags[3]",
+      "passage_id": "c07p0047",
+      "chapter": 7,
+      "quote": "Ik weet niet wat ik kwam doen. Ik heb er sindsdien vaak over nagedacht. Ik denk dat ik kwam controleren. Ik denk dat ik wilde zien of het er echt was, of de foto's niet logen, of er geen vlek op het plafond zat in de vorm van Afrika. Ik denk ook dat ik iets wilde zien wat niet klopte. Ik keek naar de kippen en de kat en de fiets en ik zocht een barst. Een rotte plank in het hek. Een gebroken ruit. Iets wat ik aan tafel zou kunnen zeggen, in Bonheiden, met mijn moeder en mijn vader erbij: *ik ben gaan kijken, en het klopt niet.*"
+    },
+    {
+      "location": "machine_tells[0]",
+      "passage_id": "c07p0115",
+      "chapter": 7,
+      "quote": "Mijn moeder keek naar haar bord. Mijn vader keek naar mij. Hij keek naar mij met een blik die ik nog nooit van hem had gezien, en ik kan hem nog altijd niet benoemen. Het was geen boosheid. Het was iets wat leek op herkenning, alsof hij in mijn gezicht iets zag wat hij kende uit een spiegel."
+    },
+    {
+      "location": "machine_tells[1]",
+      "passage_id": "c07p0115",
+      "chapter": 7,
+      "quote": "Mijn moeder keek naar haar bord. Mijn vader keek naar mij. Hij keek naar mij met een blik die ik nog nooit van hem had gezien, en ik kan hem nog altijd niet benoemen. Het was geen boosheid. Het was iets wat leek op herkenning, alsof hij in mijn gezicht iets zag wat hij kende uit een spiegel."
+    },
+    {
+      "location": "machine_tells[2]",
+      "passage_id": "c07p0109",
+      "chapter": 7,
+      "quote": "Ik weet niet waar het vandaan kwam. Dat is niet waar. Ik weet precies waar het vandaan kwam. Het kwam van de trap van het vredegerecht, en van de envelop met veertien tijdstippen, en van de spreadsheet die nooit rood werd, en van de voering van een jas. Het kwam van twintig jaar. Het had daar gestaan, achter mijn tanden, zoals ik het in april op de trap had gevoeld, en het had gewacht. Het had geduld gehad, zoals enveloppen."
+    },
+    {
+      "location": "machine_tells[3]",
+      "passage_id": "c07p0059",
+      "chapter": 7,
+      "quote": "Ik ben in de auto gestapt en weggereden. Ik keek niet in de achteruitkijkspiegel. Dat is niet waar. Ik keek twee keer. Ik zag de kippen. Ik zag het hek, dat open bleef staan in de wind."
+    }
+  ]
+}

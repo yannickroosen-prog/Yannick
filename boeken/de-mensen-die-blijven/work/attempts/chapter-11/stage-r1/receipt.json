@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "status": "staged",
+  "scope": "format_only_not_editorial_acceptance",
+  "source_sha256": "b18a6b2c3a14dad07ca9b375bc6ac081405e301b5fc25b3abbc55b476b8caa84",
+  "staged_sha256": "b18a6b2c3a14dad07ca9b375bc6ac081405e301b5fc25b3abbc55b476b8caa84",
+  "body_sha256": "4919c3e414016b360a0c24d49d40ccc7921fc1838078533c185c6f1659b44d68",
+  "body_unchanged": true,
+  "transform": "none",
+  "original_heading_level": 1,
+  "heading_level": 1,
+  "title": "September",
+  "visible_prose_words": 3229,
+  "source_file": "source.md",
+  "staged_file": "chapter.md"
+}

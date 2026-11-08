@@ -1,0 +1,27 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "41f6557ee22acf56237aa59b24c2fdcaa03bfbc4f3a36beb5dd2ba962f007847",
+  "reader": "Priya",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0055"},
+  "why_stopped": {"reason": "De overname in Portugal en Polen en de directie voelen als een ander boek; mijn aandacht zakte hier weg, al las ik door tot de bakkerij me terugtrok."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0093", "reason": "Drie keer bellen om de inademing voor 'U bent' te horen: de stilste en pijnlijkste manier om spijt te tonen."},
+    {"passage_id": "B:p0072", "reason": "Een moeder die huilt om een rozijnenbrood; de hond aan de deur als echo blijft hangen."},
+    {"passage_id": "B:p0113", "reason": "De thermoskan zonder woord is vergeving zonder het woord vergeving."}
+  ],
+  "confused_by": [
+    {"passage_id": "A:p0043", "reason": "'Drie weken lang' gezwegen, terwijl er tussen 24 mei en 4 juni maar elf dagen zitten."}
+  ],
+  "flags": [
+    {"flag": "continuity_doubt", "passage_id": "A:p0043"},
+    {"flag": "over_explained", "passage_id": "A:p0075"},
+    {"flag": "slow_start", "passage_id": "B:p0055"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0093", "reason": "Wouter kan niet spreken maar luistert naar zijn broers adem; het voegt een scène toe waarin hij eindelijk iets doet, en het gaat me raken."},
+  "weakest_passage": {"passage_id": "B:p0055", "reason": "Verzekeringsjargon en zakelijke uitleg remmen het ritme tussen twee emotioneel sterke scènes."},
+  "machine_tells": [],
+  "felt": {"emotion": "schuldgevoel en tederheid", "reason": "Ik voelde Wouters onvermogen om te zeggen wat hij bedoelt, en de opluchting bij de thermoskan."},
+  "confidence": "medium",
+  "compare": "B"
+}

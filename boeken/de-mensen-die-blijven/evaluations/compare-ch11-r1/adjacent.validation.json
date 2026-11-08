@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "source_chapters": [
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-11.md",
+      "sha256": "9e153692362f9cc6bb68a6df978590ddd9d6eaba90e4a517f05ce90b2c6c71a1",
+      "bytes": 17567
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/work/attempts/chapter-11/stage-r1/chapter.md",
+      "sha256": "b18a6b2c3a14dad07ca9b375bc6ac081405e301b5fc25b3abbc55b476b8caa84",
+      "bytes": 17513
+    },
+    {
+      "path": "/home/user/Yannick/boeken/de-mensen-die-blijven/manuscript/chapters/chapter-10.md",
+      "sha256": "e166c7044bb7a7b35ab11bd2d2ef392ddded7fb3d035a4d85451d8961cb41dba",
+      "bytes": 19092
+    }
+  ],
+  "report_sha256": "76282503e971bdd92880e56d4cb3a01aacfd3872af66553fac4519bb3e7678e6",
+  "errors": [],
+  "expected_reader": "Priya",
+  "catalog_sha256": "812602608e53425f3e6f9cac4210832b3d1d995aeea33c9abce7fae90a8a5303",
+  "resolved_evidence": [
+    {
+      "location": "stopped_at",
+      "passage_id": "A:p0103",
+      "version": "A",
+      "quote": "\"Ge zijt nooit gebleven omdat ge moedig waart,\" zei hij. Hij zei het niet als een aforisme. Hij zei het traag, zoekend, zoals je iets zegt wat je op de afdeling hebt bedacht en nog niet hardop hebt geprobeerd. \"Ik heb daar veel over nagedacht. In juli. Ik had tijd. Ge zijt gebleven omdat ge bang waart. Niet van mij. Van wat ge zoudt zijn als ge wegging. Gij dacht dat ge dan een slechte mens zoudt zijn. Een broer die vertrekt. Gij dacht dat er niemand anders zou zijn als ge geen goede broer waart. Ge hebt nooit een andere versie van uzelf geprobeerd, kleine. Ge waart te bang dat het een slechtere zou zijn.\""
+    },
+    {
+      "location": "strongest_passage",
+      "passage_id": "B:p0008",
+      "version": "B",
+      "quote": "Bram ging voor me de zittingszaal uit. Ik bleef in de gang staan en ging naar het toilet, aan het eind van de gang, waar Jeannine in april had gezeten. Ik deed de deur op slot. Ik ging op de gesloten wc-bril zitten, in mijn gestreken hemd met de plooi in de kraag, met de sticker *BEZOEKER* op mijn borst.\n\nIk nam mijn blocnote. Ik schreef: *Bram.* Ik schreef: *Ge hebt mij voorgelezen aan een vrederechter.* Ik schreef: *Ge hebt mijn tabel voorgelezen aan een griffier die alles opschrijft.* Ik schreef: *Twintig jaar, en ge zet mij in een dossier.* Ik schreef nog vier regels. Ze waren gemeen. Ze waren gemener dan de zin aan de keukentafel in mei, en ze waren allemaal waar, of ze voelden toch zo, op die wc-bril.\n\nIk las ze over. Ik scheurde het blad niet uit. Ik sloeg de blocnote dicht, met de regels erin, naast de sticker van april en *Ge gaat het weten*. Ik heb ze nooit verstuurd. Ik heb ze ook nooit doorgestreept. Ze staan er nog.\n\nIk trok door, hoewel ik niets had gedaan, en waste mijn handen.\n\nBuiten scheen de zon. Het was september, en de platanen op het plein begonnen bruin te worden aan de randen. Ilse zat op de trap van blauwe steen te roken. Ze stond op toen ze ons zag.\n\n\"En?\" zei ze.\n\n\"Een notaris,\" zei Bram. \"Of een advocaat. Iemand uit Diksmuide. Iemand die mij niet graag ziet.\"\n\nIlse keek naar Bram. Ze keek naar mij. Ze trapte haar sigaret uit en stak de peuk in haar zak.\n\n\"Ik ga sigaretten halen,\" zei ze. \"Aan de Vismarkt. Dat duurt lang. Ik ken de weg niet goed.\"\n\nZe kende de weg heel goed. Ze liep weg over het plein, in haar zwarte jurk, zonder om te kijken."
+    },
+    {
+      "location": "weakest_passage",
+      "passage_id": "A:p0103",
+      "version": "A",
+      "quote": "\"Ge zijt nooit gebleven omdat ge moedig waart,\" zei hij. Hij zei het niet als een aforisme. Hij zei het traag, zoekend, zoals je iets zegt wat je op de afdeling hebt bedacht en nog niet hardop hebt geprobeerd. \"Ik heb daar veel over nagedacht. In juli. Ik had tijd. Ge zijt gebleven omdat ge bang waart. Niet van mij. Van wat ge zoudt zijn als ge wegging. Gij dacht dat ge dan een slechte mens zoudt zijn. Een broer die vertrekt. Gij dacht dat er niemand anders zou zijn als ge geen goede broer waart. Ge hebt nooit een andere versie van uzelf geprobeerd, kleine. Ge waart te bang dat het een slechtere zou zijn.\""
+    },
+    {
+      "location": "remember_tomorrow[0]",
+      "passage_id": "B:p0008",
+      "version": "B",
+      "quote": "Bram ging voor me de zittingszaal uit. Ik bleef in de gang staan en ging naar het toilet, aan het eind van de gang, waar Jeannine in april had gezeten. Ik deed de deur op slot. Ik ging op de gesloten wc-bril zitten, in mijn gestreken hemd met de plooi in de kraag, met de sticker *BEZOEKER* op mijn borst.\n\nIk nam mijn blocnote. Ik schreef: *Bram.* Ik schreef: *Ge hebt mij voorgelezen aan een vrederechter.* Ik schreef: *Ge hebt mijn tabel voorgelezen aan een griffier die alles opschrijft.* Ik schreef: *Twintig jaar, en ge zet mij in een dossier.* Ik schreef nog vier regels. Ze waren gemeen. Ze waren gemener dan de zin aan de keukentafel in mei, en ze waren allemaal waar, of ze voelden toch zo, op die wc-bril.\n\nIk las ze over. Ik scheurde het blad niet uit. Ik sloeg de blocnote dicht, met de regels erin, naast de sticker van april en *Ge gaat het weten*. Ik heb ze nooit verstuurd. Ik heb ze ook nooit doorgestreept. Ze staan er nog.\n\nIk trok door, hoewel ik niets had gedaan, en waste mijn handen.\n\nBuiten scheen de zon. Het was september, en de platanen op het plein begonnen bruin te worden aan de randen. Ilse zat op de trap van blauwe steen te roken. Ze stond op toen ze ons zag.\n\n\"En?\" zei ze.\n\n\"Een notaris,\" zei Bram. \"Of een advocaat. Iemand uit Diksmuide. Iemand die mij niet graag ziet.\"\n\nIlse keek naar Bram. Ze keek naar mij. Ze trapte haar sigaret uit en stak de peuk in haar zak.\n\n\"Ik ga sigaretten halen,\" zei ze. \"Aan de Vismarkt. Dat duurt lang. Ik ken de weg niet goed.\"\n\nZe kende de weg heel goed. Ze liep weg over het plein, in haar zwarte jurk, zonder om te kijken."
+    },
+    {
+      "location": "remember_tomorrow[1]",
+      "passage_id": "A:p0126",
+      "version": "A",
+      "quote": "\"Ik heb zonder saus genomen,\" zei hij. \"Voor ons allebei. De man vroeg: met mayonaise? En ik zei: nee, zonder saus, graag. En hij keek naar mij alsof ik iets heel ernstigs had gezegd.\""
+    },
+    {
+      "location": "remember_tomorrow[2]",
+      "passage_id": "B:p0006",
+      "version": "B",
+      "quote": "Hij schreef dat hij wist dat ik zijn slaapuren bijhield. Dat Karim ze me had gestuurd, en dat hij dat goed had gevonden, in het begin, omdat hij dacht dat het mij gerust zou stellen. En dat het mij niet gerust had gesteld. Dat ik er een tabel van had gemaakt. Hij wist van de tabel. Ik weet niet hoe. Ik heb nooit iemand over de tabel verteld, behalve hier. Misschien had Sanne het aan Ilse gezegd. Misschien had hij het geraden. Bram ziet dingen.\n\nHij schreef dat hij wist dat mijn vader mij de groene kaft al in juni had gegeven, voor de zitting. Dat hij wist dat ik zijn afschriften had gelezen. Dat ik had gezien dat hij om zeven over zeven twee treintickets had gekocht naar De Panne. Hij schreef: *Ik wist dat hij het ging zien. Ik heb ze om die reden met de kaart gekocht en niet cash. Ik wilde dat hij wist dat ik het had gekozen. Dat het mij niet was overkomen.*\n\nHij schreef dat hij veertig was, twee\u00ebnveertig nu, en dat hij in oktober naar de polders ging, honderdtwintig kilometer van Mechelen, een uur twintig op een zondag zonder file. Dat hij daar wilde wonen als iemand die zijn eigen sleutel kwijtraakt en hem zelf terugvindt, of niet. En dat hij het niet kon als zijn broer zijn bankafschriften las.\n\nToen las hij de laatste zin.\n\n*Mijn broer heeft al genoeg van mij beheerd. Ik vraag u om een bewindvoerder die mij niet graag ziet. Iemand die mijn rekeningen betaalt en verder niets. Dan kan mijn broer weer mijn broer zijn. Ik denk dat hij dat vergeten is. Ik denk dat hij het een beetje mist.*\n\nHij vouwde de blaadjes op. Hij stak ze terug in de envelop. Hij legde de envelop op tafel, met zijn hand erop.\n\n---"
+    },
+    {
+      "location": "confused_by[0]",
+      "passage_id": "B:p0005",
+      "version": "B",
+      "quote": "Hij begon met mijn vader. Hij bedankte hem. Hij schreef dat mijn vader tien jaar lang elke maandag honderdtwintig euro op zijn rekening had gezet, en dat dat nooit \u00e9\u00e9n maandag te laat was geweest, ook niet de maandag na zijn hartinfarct, want dan had hij het vanuit het ziekenhuis geregeld met een telefoontje naar de bank. Ik wist dat niet. Niemand had het mij verteld. Hij schreef dat hij zijn vader nooit had bedankt omdat het moeilijk is om iemand te bedanken die je elke week een zakgeld geeft als je veertig bent. Hij schreef dat hij het nu deed, op papier, voor een vrederechter, omdat dat de enige plek was waar hij zeker wist dat het zou worden opgeschreven.\n\nToen schreef hij over mij.\n\nHij las het traag. Zijn stem was rustig. Hij keek niet naar mij. Hij keek naar het papier.\n\nHij schreef dat ik de beste broer was die hij kende. Hij schreef dat hij er maar \u00e9\u00e9n kende, maar dat dat niet uitmaakte. Hij schreef dat ik in januari om half twee 's nachts was komen fietsen voor een sleutel die in zijn eigen jas zat. Dat ik elke week vol-au-vent had gebracht toen mijn vader niet kon rijden. Dat ik in twintig jaar altijd had teruggebeld, ook de nachten dat ik niet opnam. Behalve \u00e9\u00e9n keer, in augustus. En dat hij daar blij om was geweest. Hij schreef: *Blij, mevrouw de vrederechter. Ik heb die middag naar een telefoon geluisterd die bleef overgaan, en ik heb gedacht: eindelijk.*\n\nIk keek naar de wetboeken. Ik telde ze. Ik kwam tot drie\u00ebntwintig en begon opnieuw.\n\nToen schreef hij waarom hij niet wilde dat ik zijn bewindvoerder werd."
+    },
+    {
+      "location": "flags[0]",
+      "passage_id": "A:p0103",
+      "version": "A",
+      "quote": "\"Ge zijt nooit gebleven omdat ge moedig waart,\" zei hij. Hij zei het niet als een aforisme. Hij zei het traag, zoekend, zoals je iets zegt wat je op de afdeling hebt bedacht en nog niet hardop hebt geprobeerd. \"Ik heb daar veel over nagedacht. In juli. Ik had tijd. Ge zijt gebleven omdat ge bang waart. Niet van mij. Van wat ge zoudt zijn als ge wegging. Gij dacht dat ge dan een slechte mens zoudt zijn. Een broer die vertrekt. Gij dacht dat er niemand anders zou zijn als ge geen goede broer waart. Ge hebt nooit een andere versie van uzelf geprobeerd, kleine. Ge waart te bang dat het een slechtere zou zijn.\""
+    },
+    {
+      "location": "flags[1]",
+      "passage_id": "A:p0105",
+      "version": "A",
+      "quote": "\"Ik heb het ook gedacht,\" zei Bram. \"Van mezelf. Dat ik niemand zou zijn zonder mijn ziekte. Dat het het enige is wat mensen van mij weten. Ik ben dan in juli in die kamer gaan liggen, en ik heb gedacht: misschien is het waar. Misschien ben ik niemand zonder. Misschien is dat goed. Misschien moet iedereen eens niemand zijn.\""
+    },
+    {
+      "location": "flags[2]",
+      "passage_id": "A:p0063",
+      "version": "A",
+      "quote": "Toen las hij de zin die ik had verwacht, en die toch aankwam alsof ik hem nooit had verwacht."
+    },
+    {
+      "location": "flags[3]",
+      "passage_id": "A:p0095",
+      "version": "A",
+      "quote": "\"Dat ge kwaad kunt worden. Ik dacht dat ge dat niet kon.\" Hij keek naar me. \"Ik dacht dat ge alleen kunt blijven.\""
+    },
+    {
+      "location": "machine_tells[0]",
+      "passage_id": "A:p0103",
+      "version": "A",
+      "quote": "\"Ge zijt nooit gebleven omdat ge moedig waart,\" zei hij. Hij zei het niet als een aforisme. Hij zei het traag, zoekend, zoals je iets zegt wat je op de afdeling hebt bedacht en nog niet hardop hebt geprobeerd. \"Ik heb daar veel over nagedacht. In juli. Ik had tijd. Ge zijt gebleven omdat ge bang waart. Niet van mij. Van wat ge zoudt zijn als ge wegging. Gij dacht dat ge dan een slechte mens zoudt zijn. Een broer die vertrekt. Gij dacht dat er niemand anders zou zijn als ge geen goede broer waart. Ge hebt nooit een andere versie van uzelf geprobeerd, kleine. Ge waart te bang dat het een slechtere zou zijn.\""
+    },
+    {
+      "location": "machine_tells[1]",
+      "passage_id": "A:p0063",
+      "version": "A",
+      "quote": "Toen las hij de zin die ik had verwacht, en die toch aankwam alsof ik hem nooit had verwacht."
+    }
+  ]
+}

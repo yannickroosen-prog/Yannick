@@ -1,0 +1,32 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "92cdbc62e3ac4b62a2b48a63bc1695c6e470153ca91f357207ce852930063e10",
+  "reader": "Lena",
+  "turn_page": "yes",
+  "stopped_at": null,
+  "why_stopped": null,
+  "remember_tomorrow": [
+    {"passage_id": "A:p0115", "reason": "Het slot met de zak met het gat in de voering, en moeder en verteller die het tegelijk zeggen: grappig en pijnlijk tegelijk, het blijft hangen."},
+    {"passage_id": "A:p0056", "reason": "Vijfenveertig mensen die tegelijk hun telefoon wegleggen: ik hoorde dat geluid echt."},
+    {"passage_id": "A:p0078", "reason": "Geen speech maar een functieomschrijving: een gedachte waar ik zelf om moest slikken."}
+  ],
+  "confused_by": [
+    {"passage_id": "A:p0028", "reason": "Wie Dirk is en waarom zijn skifoto zo zwaar weegt, werd me niet duidelijk; ik voelde dat het iets betekende maar wist niet wat."}
+  ],
+  "flags": [
+    {"flag": "confusing", "passage_id": "A:p0028"},
+    {"flag": "over_explained", "passage_id": "B:p0036"},
+    {"flag": "over_explained", "passage_id": "B:p0049"},
+    {"flag": "over_explained", "passage_id": "B:p0095"},
+    {"flag": "confusing", "passage_id": "B:p0028"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0072", "reason": "Brams zin dat het zwaar is om de reden van iemand te zijn, slaat de lach uit de zaal en uit mij; de stilte erna is verdiend."},
+  "weakest_passage": {"passage_id": "B:p0036", "reason": "De soep is al een prachtig beeld en dan legt de verteller uit dat het de kern van het gezin is; daar voelde ik me bij de hand genomen en zakte het even in."},
+  "machine_tells": [
+    {"tell": "uitgelegde metafoor", "passage_id": "B:p0036"},
+    {"tell": "nette slotaforisme", "passage_id": "B:p0095"}
+  ],
+  "felt": {"emotion": "spanning, dan ontroering en een steek van schaamte", "reason": "Het wachten op Bram hield me vast, de speech raakte me, en de jaloerse gedachte van de verteller herkende ik ongemakkelijk goed."},
+  "confidence": "medium",
+  "compare": "A"
+}

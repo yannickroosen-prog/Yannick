@@ -1,0 +1,37 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "69149c4a8cb221808260e1de304aec302d46ae072fb1390fcf54fc948b755ed5",
+  "reader": "Mark",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0100"},
+  "why_stopped": {"reason": "De verteller kondigt aan dat hij niet alles gaat vertellen en legt uit waarom het gesprek geen lijn had; dat is de schrijver die het beraad samenvat in plaats van het te tonen, en daar zakte mijn aandacht."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0011", "reason": "Bram die vraagt 'Hoe ver is ver?' en 'Het is ver van de kaft' zegt, en dan 'Nog niet' terug op 'Ilse is geen familie': hier krijgt de vader eindelijk een echte reden en wordt het een confrontatie."},
+    {"passage_id": "B:p0121", "reason": "Bram die zwijgend de vaatwas inruimt na de belediging; het antwoord zonder woorden blijft hangen."},
+    {"passage_id": "B:p0078", "reason": "Het gestikt mat, net nadat Wouter belooft te zwijgen, voorspelt precies wat er aan tafel gebeurt."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0109", "reason": "De envelop met veertien tijdstippen en de voering van een jas worden opgesomd als oorzaak, maar ik weet niet waar ze naar verwijzen."},
+    {"passage_id": "A:p0011", "reason": "Na Brams rechtstreekse aanval zegt de vader alsnog een achtste keer 'Het is ver', alsof het gesprek niet net gekanteld was."}
+  ],
+  "flags": [
+    {"flag": "over_explained", "passage_id": "B:p0100"},
+    {"flag": "over_explained", "passage_id": "B:p0105"},
+    {"flag": "over_explained", "passage_id": "B:p0109"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0107"},
+    {"flag": "continuity_doubt", "passage_id": "A:p0012"},
+    {"flag": "machine_prose", "passage_id": "B:p0059"},
+    {"flag": "cliche", "passage_id": "B:p0123"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0011", "reason": "Het enige moment waarop de familie echt botst: de vader zegt eindelijk wat hij bedoelt (dat er niemand is als Bram ziek wordt), en Brams 'Nog niet' maakt Wouters latere uitval tegen die achtergrond pijnlijker."},
+  "weakest_passage": {"passage_id": "B:p0109", "reason": "De uitval wordt achteraf verklaard met een lijstje oorzaken en het trucje 'Ik weet niet... Dat is niet waar'; de causaliteit wordt opgeplakt in plaats van verdiend in de scène."},
+  "machine_tells": [
+    {"tell": "zelfcorrectie-formule 'Dat is niet waar'", "passage_id": "B:p0059"},
+    {"tell": "zelfcorrectie-formule 'Dat is niet waar'", "passage_id": "B:p0109"},
+    {"tell": "gestapelde vergelijkingen", "passage_id": "B:p0123"},
+    {"tell": "samenvattende thesiszin", "passage_id": "B:p0105"}
+  ],
+  "felt": {"emotion": "beklemming en schaamte", "reason": "Ik schaamde me mee bij de sleutelzin en voelde de stilte tijdens het inruimen van de vaatwas; in A sterker omdat de vader eerst een echte tegenstander werd."},
+  "confidence": "medium",
+  "compare": "A"
+}

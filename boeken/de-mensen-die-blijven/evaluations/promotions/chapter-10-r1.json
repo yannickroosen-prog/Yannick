@@ -1,0 +1,17 @@
+{
+  "accepted_path": "manuscript/chapters/chapter-10.md",
+  "accepted_sha256_before": "e166c7044bb7a7b35ab11bd2d2ef392ddded7fb3d035a4d85451d8961cb41dba",
+  "backup_path": "manuscript/chapters/.chapter-promotion-backups/chapter-10.md.20261108T164546167926Z-d117cd857ab9477da813762ec10fcfe6.bak",
+  "candidate_path": "work/attempts/chapter-10/stage-r1/chapter.md",
+  "candidate_sha256": "55b0e46b6ca033e3b39b13429f09744fc842a547c02cace550b83ee9d0c19e1e",
+  "chapter": 10,
+  "decision_sha256": "6a0ce767b2db05d167069738c2a3db8038c8b7749577b64b06e476bcd4e5a114",
+  "panel": {
+    "accepted_votes": 0,
+    "panel_rule": "at_least_3_of_4_revision",
+    "revision_votes": 4
+  },
+  "promoted_at": "2026-11-08T16:45:46.175216Z",
+  "schema_version": 1,
+  "status": "promoted"
+}

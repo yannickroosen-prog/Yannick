@@ -1,0 +1,33 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "09cfdad8509b8ec08fccf6955e17cf3f402d51d67365507acc7b0f7a44cc4180",
+  "reader": "Mark",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "B:p0013"},
+  "why_stopped": {"reason": "Na de verhuis en het gesprek met Sanne komt nog een keukentafelscène waarin weer iemand netjes een verzoeningszin krijgt; de afwikkeling wordt een rondgang langs alle personages en mijn aandacht zakte."},
+  "remember_tomorrow": [
+    {"passage_id": "B:p0005", "reason": "De gescheurde doos en Bram die twintig minuten op de trap zit: eindelijk wrijving die de verhuis niet vanzelf laat lukken, en Wouter mag niet redden."},
+    {"passage_id": "B:p0008", "reason": "De hamer neerleggen en de scheve paus niet rechtzetten is een concrete handeling die het hele thema van het boek draagt zonder het uit te leggen."},
+    {"passage_id": "B:p0016", "reason": "De kip die Wouter heet en te veel nadenkt: grappig, verdiend, en Wouter antwoordt niet, wat klopt."}
+  ],
+  "confused_by": [
+    {"passage_id": "B:p0009", "reason": "Hoe weet Bram van het tabblad op de laptop? De tekst haalt zelf de schouders op met 'misschien had hij het gezien', dat is een sluiproute in de causaliteit."},
+    {"passage_id": "B:p0016", "reason": "'Ik heb de moed niet laf te zijn' staat verderop los, zonder aanloop; ik weet niet of het een terugkerende zin is of een slotformule."}
+  ],
+  "flags": [
+    {"flag": "continuity_doubt", "passage_id": "B:p0009"},
+    {"flag": "predictable", "passage_id": "B:p0013"},
+    {"flag": "over_explained", "passage_id": "A:p0004"},
+    {"flag": "over_explained", "passage_id": "A:p0016"},
+    {"flag": "predictable", "passage_id": "A:p0013"}
+  ],
+  "strongest_passage": {"passage_id": "B:p0008", "reason": "Een handeling met kosten: Wouter wil ophangen, Bram zegt nee, moe in plaats van kwaad, en het niet-rechtzetten wordt het moeilijkste van de dag; geen enkele zin legt uit wat het betekent."},
+  "weakest_passage": {"passage_id": "A:p0004", "reason": "De vader legt zijn eigen fout uit als boekhouder met tweeëntwintig jaar en een kolom getallen; de rake zin 'Het was een vergissing' wordt doodgepraat."},
+  "machine_tells": [
+    {"tell": "uitgelegde pointe na sterke beeldzin", "passage_id": "A:p0016"},
+    {"tell": "gebalanceerde aforistische correctie (niet nog, maar ook)", "passage_id": "A:p0004"}
+  ],
+  "felt": {"emotion": "lichte ontroering met ongeduld", "reason": "De thermoskan en de kippen raakten me, maar de reeks verzoeningsscènes aan tafels voelde als een checklist die wordt afgewerkt."},
+  "confidence": "medium",
+  "compare": "B"
+}

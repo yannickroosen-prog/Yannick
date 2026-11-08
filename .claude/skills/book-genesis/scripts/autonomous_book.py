@@ -1,0 +1,1425 @@
+"""Execute the existing skill with read-only native roles and code-owned state.
+
+One process owns the book. Native roles only return responses; they never edit
+the workspace or operate another orchestrator. All creative prompts, phase
+routing, readers, comparison, calibration and export come from this skill.
+"""
+from __future__ import annotations
+
+import argparse
+from collections import Counter
+import json
+import math
+from pathlib import Path
+import re
+from statistics import median
+import sys
+
+from build_comparison import build_comparison, READERS
+from check_progress import _parse_yaml_subset, parse_project_state, reconcile_book
+from check_correction import (prepare as prepare_correction, decision as correction_decision,
+                              validate_report as validate_correction_report)
+from correction_edits import apply_passage_corrections, correction_schema, source_passages
+from craft_context import draft_knowledge, revision_knowledge
+from editorial_context import continuity_view, method_section
+from narrative_evidence import INSTRUCTIONS as CAUSAL_EVIDENCE_INSTRUCTIONS
+from editorial_feedback import score_blind
+from reader_experience import draft_reader_experience
+from research_context import frozen_reference_metadata
+from decide_comparison import decide
+from export_book import discover_chapters, export_book, word_count_receipt
+from prepare_readers import prepare_readers
+from prepare_rubric import build_catalog, catalog_digest
+from promote_chapter import promote_chapter
+from revision_viability import (INSTRUCTIONS as VIABILITY_INSTRUCTIONS, CHECKS as VIABILITY_CHECKS,
+                                response_schema as viability_schema, validate_response as validate_viability)
+from stage_chapter import stage_chapter
+from validate_blind_reader import validate_blind_reader_report
+from validate_rubric import validate_rubric, rubric_schema
+from verify_book import verify_book
+from workflow_roles import (AUDIT_PASSES, PLAN_PASSES, PROOF_PASSES, PROSE_SCHEMA, TEXT,
+    INTEGER, array, artifact_schema, enum, obj, text_catalog, review_schema, hook_schema, validate_hook,
+    validate_json, validate_prose, validate_prose_text, validate_review, neutral_contract_schema,
+    plan_schema, validate_neutral, render_plan,
+    plan_repair_schema, plan_repair_targets, plan_edit_items, apply_plan_edits, validate_shape, character_context, production_facts)
+from workflow_issues import reconcile_issues
+from workflow_state import Journal, WorkflowError, atomic, digest, encoded, freeze, read_json
+from revision_context import render_context as render_revision_context
+from revision_plan_context import render_plan_context
+
+
+def production_allowance(chapters, remaining, used, min_words, max_words):
+    """Reserve room for every remaining chapter without imposing equal lengths.
+
+    Ordinary chapter lengths guide the target and reserve future capacity; they
+    are not extra author contracts. A longer or shorter chapter is acceptable
+    when the remaining ordinary chapters can still meet the whole-book range.
+    Every chapter contains prose, and the ending must meet the actual book floor.
+    """
+    if not 1 <= remaining <= chapters or used < 0:
+        raise WorkflowError("Invalid remaining production scope")
+    preferred_min = max(100, math.floor(min_words / chapters * .8))
+    preferred_max = math.ceil(max_words / chapters * 1.25)
+    low = max(100, min_words - used - (remaining - 1) * preferred_max)
+    high = max_words - used - (remaining - 1) * preferred_min
+    if high < low:
+        raise WorkflowError("No feasible chapter allowance within the frozen book length")
+    preferred_target = min(preferred_max, max(preferred_min,
+        round(((min_words + max_words) / 2 - used) / remaining)))
+    target = min(high, max(low, preferred_target))
+    return low, high, target
+
+
+def score_text(value):
+    return "unassessed" if value is None else f"{value:.2f}"
+
+
+class BookWorkflow:
+    def __init__(self, root: Path, command: dict, *, chapters: int, min_words: int, max_words: int,
+                 quality_target: float = 8.5, weighted_quality_target: float | None = None, transport=None):
+        self.root = root.resolve()
+        self.skill = Path(__file__).resolve().parents[1]
+        self.config = read_json(self.root / ".book-genesis/project.json")
+        if self.config["host"] not in {"codex", "claude"} or self.config["collaboration"] != "autonomous":
+            raise WorkflowError("The controlled autonomous runner supports native Codex and Claude autonomous projects")
+        if not self.config.get("author_name"):
+            raise WorkflowError("An explicit title-page author is required before unattended execution")
+        if not 1 <= chapters <= 100 or min_words < chapters * 100 or max_words < min_words or not 0 <= quality_target <= 9.2:
+            raise WorkflowError("Invalid chapter, production length or quality contract")
+        if weighted_quality_target is not None and not 0 <= weighted_quality_target < 9.2:
+            raise WorkflowError("Weighted target must be below the calibrated maximum 9.2")
+        self.manifest = list(_parse_yaml_subset(self.ref("pipeline/manifest.yaml")).values())
+        self.command = command
+        self.transport = transport
+        self.contract = {"chapters": chapters, "min_words": min_words, "max_words": max_words,
+            "quality_target": quality_target, "model": self.config.get("model"), "effort": self.config.get("effort"),
+            "project_sha256": digest((self.root / ".book-genesis/project.json").read_bytes()),
+            "install_sha256": digest((self.root / ".book-genesis/skills/.book-genesis-install.json").read_bytes()),
+            "runner_sha256": digest(Path(__file__).read_bytes()), "command": command}
+        if weighted_quality_target is not None:
+            self.contract["weighted_quality_target"] = weighted_quality_target
+        self.journal = Journal(self.root, self.contract)
+        self.state_path = self.root / "PROJECT_STATE.yaml"
+        if not self.state_path.exists():
+            self.state = _parse_yaml_subset(self.ref("pipeline/project-state.yaml"))
+            self.state["project"].update(id=self.root.name, idea=self.config["idea"], language=self.config["language"],
+                target_floor_words=min_words, target_ceiling_words=max_words, target_range_words=f"{min_words}-{max_words}",
+                quality_target=quality_target)
+            self.state["collaboration"].update(mode="autonomous", waiting_for_author=False)
+            self.state["independence"].update(level="Fresh native CLI contexts", grade="B", writer_model=self.config["model"],
+                reader_model=self.config["model"], isolation_check="not_needed",
+                notes="Sequential official CLI sessions in empty temporary directories; same model family; simulated readers.")
+            self.state["manuscript"].update(chapter_count_planned=chapters, average_words_per_chapter_planned=(min_words + max_words) // (2 * chapters))
+        else:
+            self.state = parse_project_state(self.state_path)
+        self.sync()
+
+    def ref(self, name):
+        return (self.skill / "references" / name).read_text(encoding="utf-8")
+
+    def log(self, text):
+        print(text, flush=True)
+        with (self.root / "RUN_REPORT.md").open("a", encoding="utf-8") as handle:
+            handle.write(f"\n- {Journal.now()} {text}\n")
+
+    def sync(self):
+        paths = list((self.root / "manuscript/chapters").glob("*.md"))
+        chapters = discover_chapters(self.root / "manuscript/chapters") if paths else []
+        words = word_count_receipt(chapters)["total"]
+        self.state["manuscript"].update(completed_chapters=[c.number for c in chapters], word_count_actual=words,
+            length_gate="PASS" if self.contract["min_words"] <= words <= self.contract["max_words"] else "pending",
+            status="complete" if len(chapters) == self.contract["chapters"] else "in_progress")
+        phase = min(self.journal.data["phase"], 7)
+        self.state["pipeline"].update(current_phase=self.manifest[phase]["label"], status="in_progress" if self.journal.data["status"] == "running" else self.journal.data["status"],
+            panel_passes=sum(row["panel_failed"] for row in self.journal.data["passes"]),
+            rubric_passes=sum(row["rubric_failed"] for row in self.journal.data["passes"]))
+        for number, record in self.journal.data["phase_evidence"].items():
+            self.state["gates"][self.manifest[int(number)]["gate"]] = record["outcome"]
+        atomic(self.state_path, encoded(self.state))  # JSON is a strict YAML subset.
+        report = reconcile_book(self.root)
+        if not report["ok"]:
+            raise WorkflowError("Program-owned progress does not reconcile: " + json.dumps(report["mismatches"]))
+
+    def call(self, key, packet, schema, validator=None, *, feedback=False, feedback_response=False):
+        self.journal.check_canonical()
+        kwargs = {"transport": self.transport} if self.transport is not None else {}
+        result = self.journal.call(key, packet if isinstance(packet, bytes) else packet.encode("utf-8"), schema,
+            self.command, validator or (lambda p: validate_json(p, schema)),
+            feedback=feedback, feedback_response=feedback_response, **kwargs)
+        self.journal.check_canonical()
+        return result
+
+    def finish(self, phase, evidence, outcome="completed"):
+        self.journal.finish_phase(phase, evidence, outcome=outcome)
+        self.sync()
+        self.log(f"{self.manifest[phase]['label']} | {outcome}")
+
+    def files(self, names):
+        return {name: (self.root / name).read_text(encoding="utf-8") for name in names}
+
+    def artifact_paths(self, phase):
+        return [name for name in self.manifest[phase]["outputs"] if name.endswith(".md")]
+
+    def publish_artifacts(self, data):
+        for name, text in data["files"].items():
+            freeze(self.root / name, text.encode("utf-8"))
+
+    def phase_packet(self, phase, inputs):
+        row = self.manifest[phase]
+        instructions = (self.skill / row["prompt"]).read_text(encoding="utf-8")
+        # Only these planning specialists see their allowed planning references.
+        refs = "\n\n".join((self.skill / p).read_text(encoding="utf-8") for p in row["references"])
+        return ("You are a scoped book planning specialist, not a host orchestrator. Use only this packet. "
+            "Do not run tools, write files, request user input or start other agents. Return the requested JSON artifacts. "
+            "Do not claim you browsed or performed live market research. Supplied dated publisher metadata can "
+            "support only its cited edition facts; mark comparison relevance and unverified market hypotheses honestly. "
+            "Do not invent process records or review results. The program handles them.\n\n"
+            + instructions + "\n\n" + refs
+            + ("\n\n" + method_section(self.skill, 'Planning') if phase in (0, 1, 2) else "")
+            + "\n\nAuthor contract and allowed material:\n" + json.dumps(inputs, ensure_ascii=False))
+
+    def planning(self):
+        if self.journal.data["phase"] > 0:
+            self.journal.verify_files(self.journal.data["phase_evidence"]["0"]["files"])
+        if self.journal.data["phase"] == 0:
+            research_path = self.root / "work/research/reference-metadata.json"
+            research = frozen_reference_metadata(self.skill, self.config["language"], research_path)
+            schema = artifact_schema([p for p in self.artifact_paths(0) if p != "artifacts/00-brief.md"], metadata=True)
+            schema["properties"]["contract"] = neutral_contract_schema()
+            schema["required"].append("contract")
+            packet = self.phase_packet(0, {"idea": self.config["idea"], "language": self.config["language"],
+                "chapters": self.contract["chapters"], "min_words": self.contract["min_words"], "max_words": self.contract["max_words"],
+                "reference_metadata": research,
+                "author": self.config["author_name"], "collaboration": "autonomous; make reasonable creative assumptions and record them"})
+            packet += "\nReturn the neutral story contract separately; the program renders the brief from it and the author's exact idea/length. "
+            packet += "Keep the market map under 700 words and story engine under 800. No process verdicts, gate outcomes or quality scores in story fields."
+            packet += (" Preserve every explicit author requirement. Where the author leaves POV or timing open, "
+                "choose a coherent creative default without inventing an unnecessary exact deadline or rigid viewpoint cycle. "
+                "Describe ordinary durations as approximate; distinguish the central action's deadline from a later aftermath.")
+            def validate_intake(path):
+                report = validate_json(path, schema)
+                if report["valid"]:
+                    report["errors"] += validate_neutral(read_json(path)["contract"])
+                    report["valid"] = not report["errors"]
+                return report
+            response, _ = self.call("intake", packet, schema, validate_intake, feedback=True)
+            data = read_json(response)
+            brief = ["# Book brief", "", "## Author's idea", self.config["idea"], "", "## Production scope",
+                f"{self.contract['chapters']} chapters; {self.contract['min_words']}-{self.contract['max_words']} prose words; {self.config['language']}.", ""]
+            brief += [f"## {key.replace('_', ' ').title()}\n\n{value}\n" for key, value in data["contract"].items()]
+            data["files"]["artifacts/00-brief.md"] = "\n".join(brief)
+            self.publish_artifacts(data)
+            self.state["project"].update(data["book"])
+            freeze(self.root / "work/book-metadata.json", encoded(data["book"]))
+            self.finish(0, [self.root / name for name in self.artifact_paths(0)] + [self.root / "work/book-metadata.json", research_path])
+        if self.journal.data["phase"] == 1:
+            schema = artifact_schema(self.artifact_paths(1))
+            response, _ = self.call("foundation", self.phase_packet(1, self.files(self.artifact_paths(0)))
+                + "\nKeep each artifact under 800 words; retain concrete character, voice and story facts. Do not include process claims.", schema, feedback=True)
+            self.publish_artifacts(read_json(response))
+            self.finish(1, [self.root / name for name in self.artifact_paths(1)])
+        if self.journal.data["phase"] == 2:
+            schema = plan_schema(self.contract["chapters"])
+            inputs = self.files(self.artifact_paths(0) + self.artifact_paths(1))
+            packet = self.phase_packet(2, inputs) + (
+                f"\nPlan exactly {self.contract['chapters']} chapters numbered in order. The chapters array is the writer's compact packet: "
+                "give only each chapter's relevant character/voice cards, current knowledge/custody facts and scene work. "
+                "Do not expose future reveals in early packets. Ledger facts must distinguish planned from demonstrated events. "
+                "The program supplies exact per-chapter word allowances. Return only the neutral structured fields: "
+                "chapters, canon, writer_facts, promises and opening_strategy. The promises array maps each indispensable "
+                "part of the author's idea to an on-page setup action and a concrete causal resolution, with chapter numbers. "
+                "Specify who physically does what, by what available route or means, and the resulting state; 'enables rescue' "
+                "or 'truth permits resolution' alone is not a rescue or resolution. Do not replace literal requested events "
+                "with thematic equivalents. Include emotional consequences without letting them substitute for physical outcomes. "
+                "This global promise map is for plan verification only. Put each chapter's actual on-page actions and any "
+                "payoff earned in that chapter into that chapter's events and ending fields. Writers receive those local "
+                "fields, never the combined resolution of a promise that spans future chapters. "
+                "writer_facts is the stable baseline supplied to EVERY writer: "
+                "canonical full names and ages (explicitly unstated when unknown), relationships, setting rules and an unambiguous "
+                "calendar anchor mapping story days to weekdays and dated deadlines. Keep it under 600 words. "
+                "Exclude future revelations, secret identities, planned rescues and character arc outcomes from that baseline; "
+                "those belong only in their relevant chapter entries and the full canon. Ensure chapter POV and time windows "
+                "agree with this baseline and the author contract. Include scene_contract (goal, resistance, choice, change, cost, consequence), "
+                "knowledge_boundary (before/acquisition/reader disclosure) and arc_change (what changes beyond another clue or delay). "
+                "Keep each chapter entry below 450 words, the full canon below 1500, "
+                "and the opening strategy below 600. The program renders the outline and ledger from those facts. "
+                "Do not include verification claims, process verdicts, a brief-check register, repair history or references to findings. "
+                "An independent verifier and the program supply the separate process record.")
+            def validate_plan(path):
+                report = validate_json(path, schema)
+                if report["valid"] and [c["number"] for c in read_json(path)["chapters"]] != list(range(1, self.contract["chapters"] + 1)):
+                    report.update(valid=False, errors=["Plan must contain every approved chapter in order"])
+                if report["valid"]:
+                    for promise in read_json(path)["promises"]:
+                        if any(not 1 <= n <= self.contract["chapters"] for n in promise["setup_chapters"] + promise["payoff_chapters"]):
+                            report["errors"].append("Story promise names a chapter outside the approved plan")
+                    report["errors"] += validate_neutral(read_json(path))
+                    report["valid"] = not report["errors"]
+                return report
+            response, _ = self.call("architecture", packet, schema, validate_plan, feedback=True)
+            data = read_json(response)
+            # Three bounded, substantive repairs. Each edits named plan fields;
+            # no unchanged plan is rerated in search of a favorable verdict.
+            for attempt in range(4):
+                freeze(self.root / f"work/plan-candidates/plan-{attempt}.json", encoded(data))
+                rendered = render_plan(data)
+                review_sources = {"approved-brief": inputs["artifacts/00-brief.md"],
+                    "outline": rendered["artifacts/07-outline.md"], "ledger": rendered["artifacts/09-continuity-ledger.md"]}
+                review = self.review(f"plan-check-{attempt}", review_sources, PLAN_PASSES,
+                    "Verify the plan against the neutral approved brief. Examine every chapter and every timeline/world-rule entry. "
+                    "A contradiction of an exact constraint blocks drafting. Use revise for any such contradiction. "
+                    "Treat ordinary approximate durations as approximate. Do not invent exact requirements. "
+                    "Check scene_contract, knowledge_boundary and arc_change under Chapter dependencies: "
+                    "identify repeated deferrals with no consequential change, impossible knowledge acquisition, "
+                    "or missing setup/cost/payoff. Quiet scenes may change a decision or relationship; do not demand "
+                    "a fixed beat percentage or a cliffhanger in every chapter. Cite actual plan evidence for defects. "
+                    "Return concise evidence-bound findings, not a new outline. ending_resolved means the planned resolution is causal and complete.")
+                if review["data"]["verdict"] == "pass" and review["data"]["ending_resolved"]:
+                    break
+                if attempt == 3:
+                    raise WorkflowError("Independent architecture verification still blocks drafting after three bounded plan repairs")
+                repair_schema = plan_repair_schema(data)
+                repair = packet + "\n\nReturn the fixed edits OBJECT specified by the schema, not an array or a replacement plan. "
+                repair += "Each property is one existing field path. Supply its complete replacement text when changing it; "
+                repair += "use null to retain the exact original. Include all schema properties exactly once, including unchanged "
+                repair += "ones as null. Do not retype unchanged text. Change all necessary dependent fields, "
+                repair += "including promise setup/resolution text and ledger facts. Preserve every unrelated event, detail and physical outcome; "
+                repair += "do not shorten unaffected scenes. The chapter count, numbering and promise chapter assignments are fixed. "
+                repair += "If several defects affect a field, consolidate their changes into its single replacement value, "
+                repair += "not alternative values or sequential patches. At least one field must change substantively. "
+                repair += "Replacement fields contain ONLY current story facts, never what was fixed, who reviewed it, pass/fail or process history."
+                repair += (" Use the supplied chapter_addresses and cited_evidence.editable_paths literally. "
+                    "Chapter numbers are not array indexes: Chapter 8 uses /chapters/7, not /chapters/8. "
+                    "Never infer an edit path from a passage ID, a chapter number or a property's display order. "
+                    "Match the current editable_fields text to the cited passage before choosing the replacement slot. "
+                    "The address map identifies sources; it does not decide which story resolution is correct.")
+                repair += "\nProposed plan:\n" + json.dumps(data, ensure_ascii=False, sort_keys=True)
+                repair += "\nExact repair targets:\n" + json.dumps(
+                    plan_repair_targets(data, text_catalog(review_sources), review["data"]["findings"]),
+                    ensure_ascii=False)
+                repair += "\nSupported defects:\n" + json.dumps(review["data"]["findings"], ensure_ascii=False, sort_keys=True)
+                earlier = []
+                for previous in range(attempt):
+                    step = self.journal.data["steps"][f"plan-check-{previous}"]
+                    self.journal.verify_files(step["evidence"])
+                    earlier.append({"original_plan": self.journal.record_file(
+                        self.root / f"work/plan-candidates/plan-{previous}.json"),
+                        "review": self.journal.record_file(self.root / step["response"]),
+                        "findings": read_json(self.root / step["response"])["findings"]})
+                repair += ("\nEarlier repair findings (writer context only):\n" + json.dumps(earlier, ensure_ascii=False, sort_keys=True)
+                    + "\nThese describe earlier plan versions, not new defects when already resolved. Preserve their earned "
+                    "repairs. Before returning edits, check the complete current brief, every chapter's POV and start/end "
+                    "time, knowledge acquisition, object custody, world-rule first demonstration and promise payoff. "
+                    "Propagate each chosen resolution through all dependent fields. Do not put this repair history into story facts.")
+                def validate_repair(path):
+                    report = validate_json(path, repair_schema)
+                    if report["valid"]:
+                        try:
+                            proposed = apply_plan_edits(data, read_json(path)["edits"])
+                            report["errors"] += validate_shape(proposed, schema) + validate_neutral(proposed)
+                            report["plan_base_sha256"] = digest(encoded(data))
+                            report["plan_sha256"] = digest(encoded(proposed))
+                        except ValueError as exc:
+                            report["errors"].append(str(exc))
+                        report["valid"] = not report["errors"]
+                    return report
+                response, _ = self.call(f"architecture-repair-{attempt + 1}", repair, repair_schema, validate_repair,
+                                        feedback=True, feedback_response=True)
+                proposed = apply_plan_edits(data, read_json(response)["edits"])
+                from workflow_roles import plan_text_fields
+                original_fields = plan_text_fields(data)
+                freeze(self.root / f"work/plan-candidates/changes-{attempt + 1}.json", encoded({
+                    "base_sha256": digest(encoded(data)), "result_sha256": digest(encoded(proposed)),
+                    "response": self.journal.record_file(response),
+                    "edits": [{"path": edit["path"], "before": original_fields[edit["path"]], "after": edit["after"]}
+                              for edit in plan_edit_items(read_json(response)["edits"])]}))
+                data = proposed
+            data["files"] = render_plan(data)
+            self.publish_artifacts(data)
+            freeze(self.root / "work/approved-plan.json", encoded(data))
+            freeze(self.root / "evaluations/plan-verification.json", encoded(review))
+            self.finish(2, [self.root / name for name in self.artifact_paths(2)] + [self.root / "work/approved-plan.json", self.root / "evaluations/plan-verification.json"])
+        self.metadata = read_json(self.root / "work/book-metadata.json")
+        self.plan = read_json(self.root / "work/approved-plan.json")
+
+    def review(self, key, sources, passes, instructions):
+        already_saved = self.journal.data['steps'].get(key, {}).get('status') == 'completed'
+        catalog = text_catalog(sources)
+        schema = review_schema(catalog, passes=passes)
+        if passes == PLAN_PASSES:
+            from plan_verification import INSTRUCTIONS, chapter_requirements
+            instructions += "\n\n" + INSTRUCTIONS + "\nChapter coverage map:\n" + json.dumps(chapter_requirements(catalog), ensure_ascii=False)
+        packet = ("Read-only independent review. Use only this packet; do not use tools or seek prior reports. "
+            "Report evidence by the supplied passage IDs. Read ALL supplied sources in order. "
+            "coverage lists ONLY names from the Complete sources catalog exactly once; do not list the reference guides as sources. "
+            "checks lists every required check exactly once. "
+            "No findings is valid only when the checks support it. A negative verdict is valid.\n\n"
+            + instructions + "\n\nRequired checks: " + json.dumps(passes) + "\n\nComplete sources:\n" + json.dumps(catalog, ensure_ascii=False))
+        response, validation = self.call(key, packet, schema,
+            lambda p: validate_review(p, schema, catalog, passes, max_chapter=self.contract["chapters"]), feedback=True)
+        data = read_json(response)
+        if not already_saved:
+            self.log(f"Review | {key} | verdict {data['verdict']} | {len(data['findings'])} findings")
+        return {"report": str(response.relative_to(self.root)), "validation": validation, "data": data}
+
+    def snapshot(self, key):
+        folder = self.root / "work/snapshots" / key
+        existing = folder / "snapshot.json"
+        if existing.exists():
+            record = read_json(existing)
+            self.journal.verify_files(record["files"])
+            return [self.root / row["path"] for row in record["files"]]
+        paths = []
+        for source in sorted((self.root / "manuscript/chapters").glob("chapter-*.md")):
+            target = folder / source.name
+            freeze(target, source.read_bytes())
+            paths.append(target)
+        freeze(existing, encoded({"files": [self.journal.record_file(path) for path in paths]}))
+        return paths
+
+    def draft(self):
+        if self.journal.data["phase"] != 3:
+            return
+        count = self.contract["chapters"]
+        checkpoints = {1, max(1, round(count * .25)), max(1, round(count * .5)), max(1, round(count * .8))}
+        all_evidence = []
+        from draft_length_recovery import load_recovery, recover as recover_length
+        for entry in self.plan["chapters"]:
+            number = entry["number"]
+            key = f"draft-{number:02d}"
+            target = self.root / f"manuscript/chapters/chapter-{number:02d}.md"
+            recovery = load_recovery(self, key)
+            if recovery is not None:
+                prior = ([c for c in discover_chapters(self.root / 'manuscript/chapters') if c.number < number]
+                         if number > 1 else [])
+                used_before = word_count_receipt(prior)['total']
+                low, high, _ = production_allowance(count, count - number + 1, used_before,
+                    self.contract['min_words'], self.contract['max_words'])
+                record = read_json(recovery['record_path'])
+                if (record['low'], record['high']) != (low, high):
+                    raise WorkflowError('Recovered draft allowance differs from the frozen production contract')
+                # The durable recovery record precedes publication. Resume never
+                # redispatches or recomputes the allowance after a partial publish.
+                staged = self.stage_response(recovery['step'], recovery['response'], corrected_prose=recovery['prose'])
+                if target.exists():
+                    if digest(target.read_bytes()) != digest(staged.read_bytes()):
+                        raise WorkflowError('Recovered draft differs from its staged publication')
+                else:
+                    self.journal.publish(staged, target)
+                    self.sync()
+            if not target.exists():
+                used = self.state["manuscript"]["word_count_actual"]
+                remaining = count - number + 1
+                low, high, target_words = production_allowance(count, remaining, used,
+                    self.contract["min_words"], self.contract["max_words"])
+                previous = ""
+                if number > 1:
+                    previous = (self.root / f"manuscript/chapters/chapter-{number-1:02d}.md").read_bytes().decode("utf-8")
+                earlier = {f"chapter-{prior:02d}.md":
+                           (self.root / f"manuscript/chapters/chapter-{prior:02d}.md").read_bytes().decode("utf-8")
+                           for prior in range(1, number - 1)}
+                characters = character_context((self.root / "artifacts/03-characters.md").read_text(encoding="utf-8"),
+                                               entry["characters"] + "\n" + entry["point_of_view"])
+                packet = ("Write one complete, engrossing chapter. Use only this packet; no tools, files or other agents. "
+                    "Return JSON with prose (one leading Markdown heading, then the entire chapter, no commentary) "
+                    "and continuity_delta (only facts actually demonstrated here: who learned what, when, place and object custody). "
+                    "Dramatize consequential choices and pressure rather than explaining the theme. Trust voice and scene. "
+                    "Honor the approved character cards and stable identities. Read the complete earlier chapters in order "
+                    "and then the previous chapter. These are the published story so far, including minor details a "
+                    "summary may omit: names, memories, dates, transactions, object custody and who learned what. "
+                    "Writer-reported summaries are provisional and must not override those source scenes. "
+                    "Keep established details consistent when they recur. A fact known to the reader is not necessarily "
+                    "known to the current viewpoint character; honor the on-page knowledge boundaries. "
+                    "Continue from those actions without replaying an exchange already completed. "
+                    "A character arc is direction, not permission to perform a later chapter's resolution now. "
+                    "No outline, summary, placeholder or word-count claim in the prose. "
+                    f"Aim for approximately {target_words} prose words; the accepted interval is {low} to {high}. "
+                    "That interval protects the whole-book budget, not a suggested chapter length; do not expand toward its upper bound. "
+                    "Plan the chapter's scene work for that target; finish at its earned ending without repeating the same beat to add length.\n\n"
+                    + json.dumps({"brief": self.files(["artifacts/00-brief.md"]), "chapter": entry,
+                        "craft_knowledge": draft_knowledge(self.skill),
+                        "stable_story_facts": self.plan["writer_facts"],
+                        "characters": characters,
+                        "voice": (self.root / "artifacts/05-voice.md").read_text(encoding="utf-8"),
+                        "earlier_reader_experience": draft_reader_experience(self.journal, number),
+                        "earlier_chapters": earlier,
+                        "previous_chapter": previous, "demonstrated_facts": self.demonstrated(number - 1),
+                        "continuity_source_view": continuity_view(
+                            {**earlier, **({f'chapter-{number-1:02d}.md': previous} if number > 1 else {})},
+                            through=number - 1, provisional=self.demonstrated(number - 1)),
+                        "production": {"chapter_words_min": low, "chapter_words_max": high, "chapter_words_target": target_words,
+                            "book_words_min": self.contract["min_words"], "book_words_max": self.contract["max_words"],
+                            "remaining_chapters_including_this": remaining}}, ensure_ascii=False))
+                try:
+                    response, validation = self.call(key, packet, PROSE_SCHEMA,
+                        lambda p: validate_prose(p, low=low, high=high), feedback=True, feedback_response=True)
+                except WorkflowError:
+                    recovery = recover_length(self, key, low=low, high=high)
+                    if recovery is None:
+                        raise
+                    response, validation = recovery['response'], recovery['validation']
+                staged = (self.stage_response(recovery['step'], response, corrected_prose=recovery['prose'])
+                          if recovery is not None else self.stage_response(key, response))
+                self.journal.publish(staged, target)
+                self.sync()
+                self.log(f"Chapter {number}/{count} saved | {validation['words']} words | manuscript {self.state['manuscript']['word_count_actual']} words")
+            all_evidence += ([recovery['record_path'], recovery['validation_path']]
+                             if recovery is not None else [self.root / self.journal.data["steps"][key]["validation"]])
+            if number in checkpoints:
+                self.panel(f"draft-check-{number:02d}", [target])
+            if number % 5 == 0 or number == count:
+                snap = self.snapshot(f"continuity-{number:02d}")
+                record = self.review(f"continuity-{number:02d}", self.neutral_sources(snap),
+                    ["Facts", "Timeline", "Knowledge", "Object custody"], self.ref("specialists/continuity.md")
+                    + "\nOnly check the supplied completed chapters; future planned chapters are not missing draft content. "
+                    "Preserve open findings for the full audit. Do not claim projected events occurred.")
+                path = self.root / f"evaluations/continuity-{number:02d}.json"
+                freeze(path, encoded(record))
+                all_evidence.append(path)
+        if self.state["manuscript"]["length_gate"] != "PASS":
+            raise WorkflowError("The complete draft is outside its frozen length contract")
+        snapshot = self.snapshot("original-draft")
+        all_evidence += [self.root / "work/snapshots/original-draft/snapshot.json"]
+        self.finish(3, all_evidence)
+
+    def demonstrated(self, through):
+        from draft_length_recovery import load_recovery
+        rows = []
+        for number in range(1, through + 1):
+            step = self.journal.data["steps"].get(f"draft-{number:02d}")
+            if step and step["status"] == "completed":
+                rows.append({"chapter": number, "facts": read_json(self.root / step["response"])["continuity_delta"]})
+            elif step:
+                recovery = load_recovery(self, f'draft-{number:02d}')
+                if recovery is not None:
+                    rows.append({'chapter': number, 'facts': read_json(recovery['source_response'])['continuity_delta'],
+                                 'summary_source': 'Provisional writer summary before a small length edit; current prose takes precedence.'})
+        return rows
+
+    def stage_response(self, key, response, *, corrected_prose=None):
+        folder = self.root / "work/attempts" / key
+        source = folder / "extracted.md"
+        prose = corrected_prose if corrected_prose is not None else read_json(response)["prose"]
+        freeze(source, prose.encode("utf-8"))
+        stage = folder / "stage"
+        if not (stage / "receipt.json").exists():
+            stage_chapter(source, stage)
+        receipt = read_json(stage / "receipt.json")
+        if receipt["source_sha256"] != digest(source.read_bytes()) or receipt["staged_sha256"] != digest((stage / "chapter.md").read_bytes()):
+            raise WorkflowError("Staged chapter changed")
+        freeze(folder / "extraction.json", encoded({"response": self.journal.record_file(response), "extracted": self.journal.record_file(source),
+            "stage": self.journal.record_file(stage / "chapter.md"),
+            "extraction": "verified_literal_replacements" if corrected_prose is not None else "json_prose_field"}))
+        return stage / "chapter.md"
+
+    def neutral_sources(self, chapters):
+        names = ["artifacts/00-brief.md", "artifacts/02-story-engine.md", "artifacts/03-characters.md", "artifacts/04-theme.md",
+                 "artifacts/05-voice.md", "artifacts/07-outline.md", "artifacts/08-opening-strategy.md", "artifacts/09-continuity-ledger.md"]
+        return {**self.files(names),
+                "controller/production-counts.json": json.dumps(production_facts(chapters, self.contract), ensure_ascii=False, indent=2),
+                **{path.name: path.read_text(encoding="utf-8") for path in chapters}}
+
+    def panel(self, key, paths):
+        bundle = self.root / "work/panels" / key
+        first = min(paths, key=lambda path: int(re.fullmatch(r"chapter-(\d+)\.md", path.name)[1]))
+        first_number = int(re.fullmatch(r"chapter-(\d+)\.md", first.name)[1])
+        context = None
+        if first_number > 1:
+            previous = first.parent / f"chapter-{first_number - 1:02d}.md"
+            if not previous.is_file():
+                raise WorkflowError("Blind reader is missing the preceding chapter context")
+            # Keep the original context immutable even after a later accepted
+            # revision changes the canonical preceding chapter. The packet
+            # builder exposes only its final 300 visible words, not the plan.
+            context = self.root / "work/panel-context" / key / previous.name
+            freeze(context, previous.read_bytes())
+        if not (bundle / "manifest.private.json").exists():
+            prepare_readers(paths, bundle, audience=self.metadata["genre"] + "; " + self.metadata["audience"], context_chapter=context)
+        manifest = read_json(bundle / "manifest.private.json")
+        if [(p.resolve().as_posix(), digest(p.read_bytes())) for p in paths] != [(Path(r['path']).as_posix(), r['sha256']) for r in manifest['chapters']]:
+            raise WorkflowError("Panel sources changed; existing reads cannot be reused")
+        expected_context = (str(context.resolve()), digest(context.read_bytes())) if context else None
+        recorded_context = (manifest["context"]["path"], manifest["context"]["sha256"]) if manifest.get("context") else None
+        if recorded_context != expected_context:
+            raise WorkflowError("Reader context changed; existing reads cannot be rebound")
+        reports, index, evidence, reused = [], [], [self.journal.record_file(bundle / "manifest.private.json")], 0
+        if context:
+            evidence.append(self.journal.record_file(context))
+        for row in manifest["readers"]:
+            step_key = key + "-" + row["persona"]
+            packet = (bundle / row["packet"]).read_bytes()
+            schema = read_json(bundle / row["response_schema"])
+            validator = lambda p, row=row: validate_blind_reader_report(paths, p,
+                expected_reader=row["reader"], catalog_path=bundle / "catalog.json")
+            previous = self.journal.matching_completed_read(packet, schema, self.command)
+            if previous:
+                original_key, response, validation = previous
+                fresh = validator(response)
+                if not fresh["valid"]:
+                    raise WorkflowError("Saved reader evidence no longer validates against the current sources")
+                reused += original_key != step_key
+                step_key = original_key
+            else:
+                response, validation = self.call(step_key, packet, schema, validator)
+            reports.append(read_json(response))
+            evidence += self.journal.data["steps"][step_key]["evidence"]
+            index.append({"reader": row["reader"], "report": str(response.relative_to(self.root)),
+                "validation": self.journal.data["steps"][step_key]["validation"],
+                "catalog": str((bundle / "catalog.json").relative_to(self.root))})
+        stops = Counter(r["stopped_at"]["passage_id"] for r in reports if r["stopped_at"])
+        flags = Counter(flag["flag"] for r in reports for flag in {f["flag"]: f for f in r["flags"]}.values())
+        result = {"scope": key, "chapters": [p.name for p in paths], "readers": index,
+            "yes": sum(r["turn_page"] == "yes" for r in reports), "shared_stop": any(n >= 2 for n in stops.values()),
+            "shared_flags": [f for f, n in flags.items() if n >= 2], "reports": reports,
+            "evidence": evidence, "reused_readings": reused}
+        result["passed"] = result["yes"] >= 3 and not result["shared_stop"]
+        freeze(self.root / f"evaluations/{key}.json", encoded(result))
+        if key == "draft-check-01":
+            freeze(self.root / "evaluations/panel-chapter-01.md", ("# Opening checkpoint\n\n" + json.dumps(result, ensure_ascii=False, indent=2)).encode("utf-8"))
+        self.log(f"Readers | {key} | {result['yes']}/4 would keep reading | shared stop: {result['shared_stop']} | {reused}/4 original reads reused")
+        return result
+
+    def audit(self, key, snapshot):
+        standards = "\n\n".join(self.ref(name) for name in ("roles/auditor.md", "patterns/prose.md",
+            "patterns/structure-and-emotion.md", "patterns/ai-tells-en.md", "specialists/continuity.md", "patterns/causal-evidence.md"))
+        return self.review(key, self.neutral_sources(snapshot), AUDIT_PASSES, standards
+            + "\n\n" + CAUSAL_EVIDENCE_INSTRUCTIONS
+            + "\nUse passage IDs in place of copied quotations; the host resolves them without changing your report. "
+            "Judge the current prose, not planned events as if they had happened. Mark ending_resolved false for an unfulfilled central promise.")
+
+    def initial_audit(self):
+        if self.journal.data["phase"] != 4:
+            return
+        audit = self.audit("audit-original", self.snapshot("original-draft"))
+        path = self.root / "artifacts/10-adversarial-audit.md"
+        freeze(path, ("# Independent manuscript audit\n\n" + json.dumps(audit, ensure_ascii=False, indent=2)
+                      + "\n\naudit_status: " + audit["data"]["verdict"] + "\n").encode("utf-8"))
+        self.finish(4, [path], audit["data"]["verdict"])
+
+    def rubric(self, key, snapshot):
+        folder = self.root / "work/rubric" / key
+        catalog = build_catalog(snapshot)
+        freeze(folder / "catalog.json", encoded(catalog))
+        measured = production_facts(snapshot, self.contract)
+        locations = {"whole_book_prose_words": measured["prose_word_count"]["total"],
+                     "chapter_positions": measured["chapter_positions"]}
+        packet = ("You are an independent read-only literary evaluator. Use only this packet. No tools. "
+            "Read the complete manuscript; do not seek previous evaluations. Return the required JSON with genuine evidence.\n\n"
+            + self.ref("scoring/rubric-criteria.md") + "\n\n" + self.ref("patterns/prose.md")
+            + "\n\n" + self.ref("patterns/structure-and-emotion.md") + "\n\n" + self.ref("patterns/ai-tells-en.md")
+            + "\n\nMarket context (unverified positioning hypotheses):\n" + (self.root / "artifacts/01-market-map.md").read_text(encoding="utf-8")
+            + "\n\nMeasured chapter locations:\n" + json.dumps(locations, ensure_ascii=False)
+            + "\nAn event lies within its chapter's measured whole-book interval. These are factual positions, "
+              "not prescribed beat percentages. Assess pacing through action and consequences, not a percentage alone."
+            + "\n\nComplete frozen manuscript:\n" + json.dumps(catalog, ensure_ascii=False)
+            + "\ncatalog_sha256: " + catalog_digest(catalog))
+        rows = []
+        # Separate native steps retain every judgment, including an unfavorable
+        # third reading. Never reuse one response as another rubric replica.
+        for number in (1, 2, 3):
+            response, validation = self.call(f"{key}-{number}", packet, rubric_schema(catalog),
+                lambda p: validate_rubric(snapshot, p, expected_chapters=self.contract["chapters"], catalog_path=folder / "catalog.json"))
+            rows.append({"report": str(response.relative_to(self.root)), "validation": validation, "data": read_json(response)})
+        dimensions = []
+        weights = {}
+        # Read the weights from the canonical rubric; no second rubric definition.
+        for match in re.finditer(r"^\|\s*\d+\s*\|\s*(\w+)\s*\|\s*([\d.]+)\s*\|", self.ref("scoring/rubric-criteria.md"), re.M):
+            weights[match[1]] = float(match[2])
+        if len(weights) != 10:
+            raise WorkflowError("Canonical rubric weights are missing or ambiguous")
+        for name, weight in weights.items():
+            scores = [next(d["score"] for d in row["data"]["dimensions"] if d["name"] == name) for row in rows]
+            if any(score is None for score in scores):
+                dimensions.append({"name": name, "raw_median": None, "calibrated": None,
+                                   "weight": weight, "disagreement": True})
+                continue
+            raw = median(scores)
+            dimensions.append({"name": name, "raw_median": raw, "calibrated": round(max(0, raw - .8), 3),
+                               "weight": weight, "disagreement": max(scores) - min(scores) >= 1.5})
+        complete = all(d["calibrated"] is not None for d in dimensions)
+        floor = min(d["calibrated"] for d in dimensions) if complete else None
+        weighted = round(sum(d["calibrated"] * d["weight"] for d in dimensions) / sum(weights.values()), 3) if complete else None
+        weighted_target = self.contract.get("weighted_quality_target")
+        return {"readings": rows, "dimensions": dimensions, "floor": floor,
+            "weighted": weighted,
+            "confidence": "low" if any(d["disagreement"] for d in dimensions) else "medium",
+            "passed": complete and floor >= self.contract["quality_target"] and (weighted_target is None or weighted > weighted_target),
+            "unassessed": [d["name"] for d in dimensions if d["calibrated"] is None], "calibration": -0.8}
+
+    def measure(self, number):
+        key = f"measure-{number}"
+        result_path = self.root / f"evaluations/{key}.json"
+        if result_path.exists():
+            result = read_json(result_path)
+            self.journal.verify_files(result["evidence"])
+            return result
+        snapshot = self.snapshot(key)
+        sample = {1, max(1, round(self.contract["chapters"] / 2)), max(1, self.contract["chapters"] - 1), self.contract["chapters"]}
+        sample.update(self.journal.data.get("revision_chapters", []))
+        panels = [self.panel(f"{key}-c{n:02d}", [snapshot[n - 1]]) for n in sorted(sample)]
+        audit = self.audit(f"{key}-audit", snapshot)
+        rubric = self.rubric(f"{key}-rubric", snapshot)
+        proof = self.review(f"{key}-proof", {p.name: p.read_text(encoding="utf-8") for p in snapshot}, PROOF_PASSES,
+            self.ref("specialists/production.md").split("## Part 2")[0] + "\nTechnical proofreading only, no stylistic rewrite. "
+            "List actionable corrections with source evidence; do not invent defects to fill the form.")
+        issues = reconcile_issues(self, number, snapshot)
+        panel_passed = (all(panel["passed"] for panel in panels)
+            and not any(f["severity"] == "high" for f in audit["data"]["findings"]) and issues["passed"])
+        result = {"number": number, "sources": {p.name: digest(p.read_bytes()) for p in snapshot}, "panels": panels,
+            "audit": audit, "rubric": rubric, "proofread": proof, "issue_ledger": issues, "panel_passed": panel_passed,
+            "passed": panel_passed and rubric["passed"] and audit["data"]["verdict"] == "pass"
+                      and audit["data"]["ending_resolved"] and not proof["data"]["findings"]}
+        prefix = key + "-"
+        result["evidence"] = [row for name, step in self.journal.data["steps"].items() if name.startswith(prefix)
+                              for row in step.get("evidence", [])]
+        result["evidence"].append(self.journal.record_file(self.root / f"work/snapshots/{key}/snapshot.json"))
+        result["evidence"] += [row for panel in panels for row in panel["evidence"]]
+        result["evidence"] += issues["evidence"] + ([issues["ledger"]] if "ledger" in issues else [])
+        freeze(result_path, encoded(result))
+        self.log(f"Review {number} | panel {'passed' if panel_passed else 'needs work'} | audit {audit['data']['verdict']} | calibrated craft floor {score_text(rubric['floor'])}/10")
+        return result
+
+    def revision_plan_key(self, number, packet=None):
+        key = f"revision-plan-{number}"
+        step = self.journal.data['steps'].get(key, {})
+        if step.get('status') == 'blocked_input_size':
+            attempt = step['attempts'][-1]
+            self.journal.verify_files(attempt['input_evidence'])
+            if attempt.get('native_dispatched') is not False:
+                raise WorkflowError('Cannot replace a planning request that may have been dispatched')
+            if (key + '-compact' in self.journal.data['steps'] or
+                    packet is not None and len(packet) <= 1048576):
+                return key + '-compact'
+        return key
+
+    def revision_plan(self, number, measurement):
+        open_issues = measurement["issue_ledger"]["open"]
+        issue_ids = [issue["id"] for issue in open_issues]
+        schema = obj({"strategy": TEXT, "deferred": array(TEXT), "tasks": array(obj({"chapter": INTEGER, "ticket": TEXT,
+            "preserve": TEXT, "mode": enum(("factual", "creative")),
+            "issue_ids": array(enum(issue_ids)) if issue_ids else {**array(TEXT), "maxItems": 0},
+            "revision_class": enum(("continuity", "structural", "character", "voice", "prose", "proofread"))}))})
+        # Evaluators keep their scores. Editors get observations, never numbers.
+        reasons = [{"dimension": d["name"], "reason": d["reason"], "evidence": d["evidence"]}
+                   for reading in measurement["rubric"]["readings"] for d in reading["data"]["dimensions"]]
+        reports = [report for panel in measurement["panels"] for report in panel["reports"]]
+        prefix = ("Create one bounded, coherent revision plan. Use only this packet; no tools. "
+            "Fix supported high-severity audit defects first, then shared reader stops, then the weakest craft risks. "
+            "Address setup AND consequences; do not substitute more explanation for a missing scene. "
+            "Give at most one factual task and one creative task per affected chapter. First separate strictly factual "
+            "corrections supported by existing canon (names, established ages/dates, typos) from creative changes. "
+            "Factual typography may remove a redundant Chapter N: prefix while retaining the exact title. "
+            "Do not mix stylistic edits into a factual task. New canon choices, viewpoint, actions, event order, motivation "
+            "or a missing scene require creative mode. Essential factual dependencies run before creative repairs; "
+            "pure proofreading runs last. Do not connect unrelated cosmetic edits to structural dependencies. "
+            "Factual tasks sharing an issue ID are staged and checked as one complete group. Include EVERY affected "
+            "chapter needed for that correction; do not rely on a later creative task to make a factual group coherent. "
+            "Resolving competing on-page chronologies is a creative continuity decision, not a factual typo. "
+            "Creative tasks sharing an issue ID also form one coordinated revision: specify one consistent resolution "
+            "in shared strategy, all affected chapters, and the setup and consequence each must supply. The complete "
+            "proposed book must resolve these dependencies before any member can be published. "
+            "Each task must name the historical issue IDs it addresses. Every required unresolved issue must have a task. "
+            "Join dependent fixes coherently and preserve remembered strengths. "
+            "Do not change the approved premise, POV, time window, chapter count or production length. "
+            "A later pass must learn from failed earlier strategies rather than repeat them. "
+            "A harmless taste difference is not a mandate to rewrite. Defer low-priority suggestions explicitly.\n\n"
+            + self.ref("specialists/revision-editor.md") + "\n\n")
+        context = {
+                "craft_knowledge": revision_knowledge(self.skill, self.config["language"]),
+                "current_sources": self.neutral_sources(self.snapshot(f"measure-{measurement['number']}")),
+                **score_blind({"audit_findings": measurement["audit"]["data"]["findings"],
+                    "causal_evidence": measurement["audit"]["data"].get("causal_traces", []),
+                    "proofread_findings": measurement["proofread"]["data"]["findings"],
+                    "unresolved_findings": open_issues,
+                    "reader_experience": reports, "craft_observations": reasons,
+                    "earlier_revision_outcomes": [row.get("outcomes", []) for row in self.journal.data["passes"][:number - 1]],
+                    "earlier_strategies": self.journal.data.get("strategies", [])[:number - 1]})}
+        prefix += '\n\n' + method_section(self.skill, 'Revision') + '\n\n'
+        packet = prefix + render_plan_context(context, prefix_chars=len(prefix))
+        def validate(path):
+            report = validate_json(path, schema)
+            if report["valid"]:
+                tasks = read_json(path)["tasks"]
+                identities = [(t["chapter"], t["mode"]) for t in tasks]
+                counts = {identity: identities.count(identity) for identity in set(identities)}
+                duplicates = sorted(identity for identity, count in counts.items() if count > 1)
+                if duplicates:
+                    rendered = ", ".join(f"chapter {chapter} {mode}" for chapter, mode in duplicates)
+                    report["errors"].append(
+                        "Revision tasks require unique chapter/mode pairs. Duplicate pairs: " + rendered
+                        + ". Consolidate each repeated pair into one task and merge its ticket and issue_ids; "
+                          "each chapter may have at most one factual and one creative task.")
+                if any(not 1 <= n <= self.contract["chapters"] for n, _ in identities):
+                    report["errors"].append("Revision tasks include a chapter outside the approved chapter range")
+                addressed = {identifier for task in tasks for identifier in task["issue_ids"]}
+                required = {issue["id"] for issue in open_issues if issue["requires_resolution"]}
+                if not required.issubset(addressed):
+                    missing = sorted(required - addressed)
+                    chapters_by_issue = {issue["id"]: issue.get("finding", {}).get("chapters", [])
+                        for issue in open_issues if issue["id"] in missing}
+                    details = "; ".join(f"{identifier} affected chapter(s): "
+                        + (", ".join(str(chapter) for chapter in chapters_by_issue[identifier]) or "unspecified")
+                        for identifier in missing)
+                    report["errors"].append("Revision plan omits unresolved required issues: "
+                        + ", ".join(missing) + ". Add each missing issue ID to an existing task for its affected "
+                          "chapter(s); create a new task only if that chapter/mode pair is not already present. "
+                          + details)
+                report["valid"] = not report["errors"]
+            return report
+        response, _ = self.call(self.revision_plan_key(number, packet), packet, schema, validate, feedback=True)
+        return read_json(response)
+
+    def revise_chapter(self, number, task, strategy, *, stage_only=False, companion_tasks=None,
+                       staged_companions=None, remaining_companions=None):
+        n = task["chapter"]
+        factual = task["mode"] == "factual"
+        # A broad factual ticket may include already-correct chapters. A group
+        # reviewer must still check them, but they must not be changed just to
+        # satisfy an artificial per-member edit requirement.
+        allow_unchanged = factual
+        key = f"revision-{number}-c{n:02d}" + ("-facts" if factual else "")
+        decision_path = self.root / f"evaluations/decisions/{key}.json"
+        outcome_path = self.root / f"evaluations/decisions/{key}-outcome.json"
+        if outcome_path.exists():
+            return read_json(outcome_path)
+        target = self.root / f"manuscript/chapters/chapter-{n:02d}.md"
+        accepted = self.root / f"work/revisions/{key}/chapter-{n:02d}.md"
+        # This copy is immutable, including across a crash after promotion.
+        if not accepted.exists():
+            freeze(accepted, target.read_bytes())
+        # Revision tickets can rely on facts many chapters away. Freeze the
+        # entire accepted book for both the editor and the factual verifier;
+        # neither a summary nor the outline proves an event happened on-page.
+        manuscript = self.snapshot(key + "-source-book")
+        current_words = word_count_receipt(discover_chapters(self.root / "manuscript/chapters"))["total"]
+        from export_book import Chapter, count_prose_words
+        original_text = accepted.read_bytes().decode("utf-8")
+        original_words = count_prose_words(Chapter(n, accepted, original_text.splitlines()[0][2:], "\n".join(original_text.splitlines()[1:]), digest(accepted.read_bytes())))
+        # Reserve length for earlier proposals in the same unpublished group.
+        # They remain proposed context, never silently accepted manuscript.
+        for name, proposed_text in (staged_companions or {}).items():
+            old = (self.root / "manuscript/chapters" / name).read_text(encoding="utf-8")
+            for sign, text in ((-1, old), (1, proposed_text)):
+                current_words += sign * count_prose_words(Chapter(int(name[8:-3]), accepted,
+                    text.splitlines()[0][2:], "\n".join(text.splitlines()[1:]), digest(text.encode("utf-8"))))
+        low = max(100, self.contract["min_words"] - (current_words - original_words))
+        high = self.contract["max_words"] - (current_words - original_words)
+        # Unpublished creative companions may supply later scene expansion.
+        # The last member and the final assembled group still owe the full
+        # production floor; no individual proposal becomes canon here.
+        if stage_only and not factual and remaining_companions:
+            low = 100
+        context = []
+        for adjacent in (n - 1, n + 1):
+            if 1 <= adjacent <= self.contract["chapters"]:
+                source = self.root / f"manuscript/chapters/chapter-{adjacent:02d}.md"
+                saved = accepted.parent / f"context-{adjacent:02d}.md"
+                if not saved.exists():
+                    freeze(saved, source.read_bytes())
+                context.append(saved)
+        packet_path = self.root / f"work/workflow/{key}/packet.md"
+        if packet_path.exists():
+            packet = packet_path.read_bytes()
+            # The original allowance was frozen before dispatch; reuse it on resume.
+            allowance = read_json(accepted.parent / "allowance.json")
+            low, high = allowance["low"], allowance["high"]
+        else:
+            freeze(accepted.parent / "allowance.json", encoded({"low": low, "high": high}))
+            output_instruction = ("The accepted chapter is supplied as original passages with stable IDs. Return only corrections "
+                "naming from_passage and through_passage (inclusive) and the complete new after text for that range. "
+                "Use the same ID for both ends when changing one passage. Do not transcribe a before value or put IDs in after. "
+                "Ranges cannot overlap. The program retains all original text and whitespace outside the named ranges. "
+                "Correct only demonstrable facts or typos supported by existing canon, not style, actions, motivation "
+                "or event order. A redundant Chapter N: prefix may be removed, preserving the actual title exactly. "
+                "A fresh correctness checker will inspect every difference. "
+                if factual else "Return the full chapter, including unchanged passages, in prose, with its existing heading, "
+                "and an accurate continuity_delta. Preserve strengths, voice and asymmetry. ")
+            if allow_unchanged:
+                output_instruction += ("If this chapter already satisfies its factual tickets, return corrections: [] "
+                    "and retain it byte for byte. The group checker will verify that claim against the entire proposed book. "
+                    "Do not invent an edit to make every group member different. ")
+            packet = ("Address ONLY the named tickets and their required consequences. Use only this packet; no tools. "
+                + output_instruction +
+                ("Do not add new canon to erase a factual problem; honor the supplied existing contract. " if factual else
+                 "For creative tickets, dramatize the explicitly authorized new actions, clue tests and consequences "
+                 "inside the named scenes. Preserve unaffected canon and coordinate every changed dependency; "
+                 "do not merely append an explanation that claims the scene now works. ") +
+                "The revision must remain a real scene, not explanatory compliance. "
+                "Use the complete current manuscript to check distant facts and consequences. "
+                "If companion tasks and unaccepted companion proposals are supplied, coordinate with their explicit "
+                "shared resolution. They are proposed changes, not established canon. Your chapter and every companion "
+                "must form a consistent complete book before any of them can be accepted. "
+                "Planning notes do not prove that a planned event actually happened.\n\n" + self.ref("specialists/revision-editor.md")
+                + "\n\n")
+            editor_context = {"task": score_blind(task), "shared_revision_strategy": score_blind(strategy),
+                    "companion_tasks": score_blind(companion_tasks or []),
+                    "unaccepted_companion_proposals": staged_companions or {},
+                    "craft_knowledge": None if factual else revision_knowledge(self.skill, self.config["language"]),
+                    "accepted_chapter": [{"id": p["id"], "text": p["text"]} for p in source_passages(original_text)] if factual else original_text,
+                    "other_current_chapters": {p.name: p.read_bytes().decode("utf-8") for p in manuscript if p.name != target.name},
+                    "adjacent_context": [p.read_text(encoding="utf-8") for p in context],
+                    "brief": (self.root / "artifacts/00-brief.md").read_text(encoding="utf-8"),
+                    "characters": (self.root / "artifacts/03-characters.md").read_text(encoding="utf-8"),
+                    "existing_canon": (self.root / "artifacts/09-continuity-ledger.md").read_text(encoding="utf-8"),
+                    "voice": (self.root / "artifacts/05-voice.md").read_text(encoding="utf-8"),
+                    "production_words": {"min": low, "max": high}}
+            if stage_only and not factual and remaining_companions:
+                editor_context["coordinated_length"] = {
+                    "remaining_chapters": [row["chapter"] for row in remaining_companions],
+                    "final_book_min_words": self.contract["min_words"],
+                    "final_book_max_words": self.contract["max_words"],
+                    "rule": "These future companions are not written or accepted yet. Do not pad this scene "
+                        "to meet an intermediate whole-book floor. The complete simultaneous proposed book "
+                        "must still meet the final range before review or publication. Keep the existing upper allowance."}
+            packet += render_revision_context(editor_context, prefix_chars=len(packet))
+        schema = correction_schema(original_text, allow_unchanged=allow_unchanged) if factual else PROSE_SCHEMA
+        def validate_factual(path):
+            report = validate_json(path, schema)
+            if report["valid"]:
+                try:
+                    proposed = apply_passage_corrections(original_text, read_json(path)["corrections"], allow_unchanged=allow_unchanged)
+                    report = validate_prose_text(proposed, path, low=low, high=high, report=report)
+                except ValueError as exc:
+                    report.update(valid=False, errors=[str(exc)])
+            return report
+        validator = validate_factual if factual else (lambda p: validate_prose(p, low=low, high=high))
+        try:
+            response, _ = self.call(key, packet, schema, validator, feedback=True, feedback_response=True)
+        except WorkflowError:
+            # A malformed optional revision cannot destroy the accepted book or
+            # stop delivery. Auth, transport, tampering and unverified work still
+            # block. A failed draft has no accepted chapter and never uses this.
+            evidence = self.rejected_validation_evidence(key)
+            if evidence is None:
+                raise
+            step = self.journal.data["steps"][key]
+            outcome = {"chapter": n, "mode": task["mode"], "decision": "reject", "reason": "Both bounded revision attempts failed output validation; accepted text retained.",
+                       "validation_errors": [row["validation_errors"] for row in step["attempts"]
+                                             if row["status"] != "provider_wait"], "evidence": evidence}
+            freeze(outcome_path, encoded(outcome))
+            self.log(f"Revision pass {number}, chapter {n} | rejected invalid proposals; accepted chapter retained")
+            return outcome
+        corrected = apply_passage_corrections(original_text, read_json(response)["corrections"], allow_unchanged=allow_unchanged) if factual else None
+        candidate = self.stage_response(key, response, corrected_prose=corrected)
+        if allow_unchanged and stage_only:
+            return {"key": key, "task": task, "accepted": accepted, "candidate": candidate,
+                    "target": target, "manuscript": manuscript, "outcome_path": outcome_path}
+        if candidate.read_bytes() == accepted.read_bytes():
+            decision = {"decision": "reject", "reason": "Proposal is identical to the accepted chapter; no new preference panel is needed."}
+            freeze(decision_path, encoded(decision))
+            outcome = {"chapter": n, "mode": task["mode"], **decision,
+                "candidate": self.journal.record_file(candidate), "evidence": self.journal.record_file(decision_path)}
+            freeze(outcome_path, encoded(outcome))
+            self.log(f"Revision pass {number}, chapter {n} | unchanged proposal; accepted text retained")
+            return outcome
+        if stage_only:
+            return {"key": key, "task": task, "accepted": accepted, "candidate": candidate,
+                    "target": target, "manuscript": manuscript, "outcome_path": outcome_path}
+        if factual:
+            decision = self.check_factual_revision(key, task, accepted, candidate, context, decision_path)
+        else:
+            viability = self.check_creative_viability(key, task, accepted, candidate, manuscript)
+            viability_record = self.journal.record_file(self.root / f"evaluations/decisions/{key}-viability.json")
+            if viability["passed"]:
+                decision = self.compare_revision(key, n, accepted, candidate, context, decision_path)
+                # Comparison calls cannot silently stale the repair check or
+                # replace its original supporting material before promotion.
+                self.journal.verify_files(viability["evidence"] + [viability_record])
+            else:
+                decision = {"decision": "reject", "reason": viability["reason"],
+                            "viability": viability_record}
+                freeze(decision_path, encoded(decision))
+        if decision["decision"] == "promote":
+            receipt = self.root / f"evaluations/promotions/{key}.json"
+            self.journal.publish(candidate, target, receipt=receipt, promote=lambda: promote_chapter(target, candidate, decision_path, receipt))
+            self.journal.data.setdefault("revision_chapters", [])
+            if n not in self.journal.data["revision_chapters"]:
+                self.journal.data["revision_chapters"].append(n)
+            self.journal.save()
+            self.sync()
+        outcome = {"chapter": n, "mode": task["mode"], "decision": decision["decision"],
+                   "reason": decision.get("reason", "Fresh evidence-bound factual verification"),
+                   "candidate": self.journal.record_file(candidate), "evidence": self.journal.record_file(decision_path)}
+        if not factual:
+            outcome["viability"] = viability_record
+        freeze(outcome_path, encoded(outcome))
+        detail = ("factual correctness check" if factual else
+                  f"{decision['revision_votes']}/4 preferred the candidate" if "revision_votes" in decision else
+                  "repair check blocked; accepted chapter retained" if not viability["passed"] else
+                  "incomplete comparison; accepted chapter retained")
+        self.log(f"Revision pass {number}, chapter {n} | {decision['decision']} | {detail}")
+        return outcome
+
+    def revise_factual_group(self, number, tasks, strategy):
+        from correction_groups import (group_key, schema_for, validate_report, packet_for, publish, verify_receipt)
+        key = group_key("facts", number, tasks)
+        # A legacy oversized request was never dispatched. Keep its packet and
+        # attempt intact; the lossless wire receives a separate review identity.
+        legacy_step = self.journal.data["steps"].get(key + "-check", {})
+        if legacy_step.get("status") == "blocked_input_size":
+            self.journal.verify_files(legacy_step["attempts"][-1]["input_evidence"])
+            if legacy_step["attempts"][-1].get("native_dispatched") is not False:
+                raise WorkflowError("Cannot replace a group review that may have been dispatched")
+            key += "-compact"
+        folder = self.root / "work/correction-groups" / key
+        manifest_path = folder / "manifest.json"
+        result_path = self.root / f"evaluations/decisions/{key}.json"
+        receipt_path = self.root / f"evaluations/promotions/{key}.json"
+        call_key = key + "-check"
+        if result_path.exists():
+            result = read_json(result_path)
+            self.journal.verify_files(result["evidence"])
+            return result["outcomes"]
+        # Recovery may already have completed the whole publication before the
+        # controller was able to save its outcomes. Never restage against it.
+        if receipt_path.exists():
+            manifest = verify_receipt(self.journal, manifest_path, call_key, receipt_path)
+            reason = "Fresh correctness review authorized the complete factual group."
+            decision = "promote"
+        else:
+            prepared = [self.revise_chapter(number, task, strategy, stage_only=True,
+                                           companion_tasks=[t for t in tasks if t != task]) for task in tasks]
+            failed = [row for row in prepared if "decision" in row]
+            if failed:
+                decision = "reject"
+                reason = "A member of this interdependent correction group produced no valid proposal; all accepted chapters retained."
+                evidence = []
+                for row in prepared:
+                    if "decision" in row:
+                        path = self.root / f"evaluations/decisions/revision-{number}-c{row['chapter']:02d}-facts-outcome.json"
+                        evidence.append(self.journal.record_file(path))
+                    else:
+                        evidence += [self.journal.record_file(row["accepted"]), self.journal.record_file(row["candidate"])]
+                outcomes = [{"chapter": t["chapter"], "mode": "factual", "decision": decision,
+                             "reason": reason, "group": key} for t in tasks]
+                freeze(result_path, encoded({"outcomes": outcomes, "evidence": evidence}))
+                self.log(f"Revision pass {number} | rejected incomplete factual group")
+                return outcomes
+            sources = {"original/" + p.name: p for p in prepared[0]["manuscript"]}
+            sources.update({"proposed/" + row["target"].name: row["candidate"] for row in prepared})
+            sources.update({"contract/" + name: self.root / "artifacts" / name for name in
+                            ("00-brief.md", "03-characters.md", "07-outline.md", "09-continuity-ledger.md")})
+            members = [{"chapter": row["task"]["chapter"], "target": row["target"].relative_to(self.root).as_posix(),
+                "before": digest(row["accepted"].read_bytes()), "candidate": self.journal.record_file(row["candidate"])} for row in prepared]
+            manifest = {"schema_version": 3, "kind": "factual_correction_group", "tasks": score_blind(tasks),
+                "sources": {name: self.journal.record_file(path) for name, path in sources.items()},
+                "publications": [row for row in members if row["before"] != row["candidate"]["sha256"]],
+                "unchanged_members": [row for row in members if row["before"] == row["candidate"]["sha256"]]}
+            if manifest_path.exists():
+                existing = read_json(manifest_path)
+                # Existing valid v1/v2 publications keep their original wire.
+                if existing.get("schema_version") in (1, 2):
+                    manifest["schema_version"] = existing["schema_version"]
+            freeze(manifest_path, encoded(manifest))
+            # Serialization defines source order; reloading keeps paragraph IDs
+            # byte-identical after a crash or journal reload.
+            manifest = read_json(manifest_path)
+            assembled = {p.name: p for p in prepared[0]["manuscript"]}
+            assembled.update({row["target"].name: row["candidate"] for row in prepared})
+            from export_book import Chapter, count_prose_words
+            total = 0
+            for name, path in assembled.items():
+                text = path.read_bytes().decode("utf-8")
+                total += count_prose_words(Chapter(int(name[8:-3]), path, text.splitlines()[0][2:],
+                                                   "\n".join(text.splitlines()[1:]), digest(path.read_bytes())))
+            if not self.contract["min_words"] <= total <= self.contract["max_words"]:
+                decision, reason = "reject", "Combined factual corrections violate the frozen production length."
+            else:
+                catalog = text_catalog({name: (self.root / row["path"]).read_bytes().decode("utf-8")
+                                        for name, row in manifest["sources"].items()})
+                members = [t["chapter"] for t in tasks]
+                schema = schema_for(catalog, members)
+                try:
+                    response, _ = self.call(call_key, packet_for(manifest, catalog), schema,
+                                           lambda p: validate_report(p, schema, catalog, members), feedback=True)
+                except WorkflowError:
+                    if self.rejected_validation_evidence(call_key) is None:
+                        raise
+                    decision, reason = "reject", "Group checker exhausted bounded output-validation attempts; all accepted chapters retained."
+                else:
+                    report = read_json(response)
+                    decision = "promote" if report["verdict"] == "pass" else "reject"
+                    reason = ("Fresh correctness review authorized the complete factual group." if decision == "promote" else
+                              "Factual group blocked: " + "; ".join(report["findings"]))
+                    if decision == "promote":
+                        if manifest["publications"]:
+                            publish(self.journal, manifest_path, call_key, receipt_path)
+                        else:
+                            decision, reason = "unchanged", "The fresh group review confirmed no factual changes were needed; original chapters retained."
+        evidence = [self.journal.record_file(manifest_path)] + list(manifest["sources"].values())
+        step = self.journal.data["steps"].get(call_key, {})
+        evidence += step.get("evidence", []) + step.get("rejected_evidence", [])
+        if decision == "promote":
+            evidence.append(self.journal.record_file(receipt_path))
+            chapters = self.journal.data.setdefault("revision_chapters", [])
+            for publication in manifest["publications"]:
+                if publication["chapter"] not in chapters:
+                    chapters.append(publication["chapter"])
+            self.journal.save()
+            self.sync()
+        unchanged = {row["chapter"] for row in manifest.get("unchanged_members", [])}
+        outcomes = [{"chapter": t["chapter"], "mode": "factual",
+                     "decision": "unchanged" if decision == "promote" and t["chapter"] in unchanged else decision,
+                     "reason": ("Fresh group review confirmed this chapter already satisfied its factual tickets; original text retained."
+                                if decision == "promote" and t["chapter"] in unchanged else reason),
+                     "group": key, "evidence": evidence} for t in tasks]
+        freeze(result_path, encoded({"outcomes": outcomes, "evidence": evidence}))
+        affected = [row["chapter"] for row in manifest["publications"]] if decision == "promote" else [t["chapter"] for t in tasks]
+        retained = f" | {len(unchanged)} reviewed chapters retained unchanged" if decision == "promote" and unchanged else ""
+        self.log(f"Revision pass {number} | {decision} factual group | chapters " + ", ".join(map(str, affected)) + retained)
+        return outcomes
+
+    def check_creative_viability(self, key, task, accepted, candidate, manuscript):
+        folder = self.root / "work/viability" / key
+        result_path = self.root / f"evaluations/decisions/{key}-viability.json"
+        sources = {"accepted-chapter.md": accepted, "candidate-chapter.md": candidate}
+        sources.update({"current/" + p.name: p for p in manuscript if p.name != accepted.name})
+        sources.update({name: self.root / name for name in
+                        ("artifacts/00-brief.md", "artifacts/03-characters.md", "artifacts/05-voice.md")})
+        bindings = [self.journal.record_file(p) for p in sources.values()]
+        manifest = folder / "sources.json"
+        freeze(manifest, encoded({"task": score_blind(task), "files": bindings}))
+        catalog = text_catalog({name: p.read_bytes().decode("utf-8") for name, p in sources.items()})
+        schema = viability_schema(catalog)
+        packet = (VIABILITY_INSTRUCTIONS + "\nAssigned task:\n" + json.dumps(score_blind(task), ensure_ascii=False, sort_keys=True)
+            + "\nRequired checks:\n" + json.dumps(VIABILITY_CHECKS)
+            + "\nComplete sources:\n" + json.dumps(catalog, ensure_ascii=False, sort_keys=True))
+        call_key = key + "-viability"
+        try:
+            response, _ = self.call(call_key, packet, schema, lambda p: validate_viability(p, schema, catalog))
+        except WorkflowError:
+            evidence = self.rejected_validation_evidence(call_key)
+            if evidence is None:
+                raise
+            result = {"passed": False, "reason": "Creative repair check exhausted its output-validation attempts; accepted chapter retained.",
+                      "evidence": evidence}
+        else:
+            report = read_json(response)
+            result = {"passed": report["verdict"] == "pass", "report": self.journal.record_file(response),
+                      "reason": "Creative repair verified." if report["verdict"] == "pass" else
+                                "Creative repair check blocked: " + "; ".join(report["findings"]),
+                      "evidence": list(self.journal.data["steps"][call_key]["evidence"])}
+        result["evidence"] += bindings + [self.journal.record_file(manifest)]
+        self.journal.verify_files(result["evidence"])
+        freeze(result_path, encoded(result))
+        return result
+
+    def rejected_validation_evidence(self, key):
+        """Retain verified malformed optional work; never mask transport failure."""
+        step = self.journal.data["steps"].get(key, {})
+        self.journal.verify_provider_waits(step)
+        attempts = [row for row in step.get("attempts", []) if row["status"] != "provider_wait"]
+        if step.get("status") != "failed" or not attempts or not all(row.get("validation_errors") for row in attempts):
+            return None
+        evidence = [record for row in step.get("attempts", []) if row["status"] == "provider_wait"
+                    for record in row["provider_evidence"]]
+        for attempt in attempts:
+            folder = self.root / "work/host-calls" / attempt["call_id"]
+            receipt = read_json(folder / "receipt.json")
+            for name in ("packet", "response", "stdout", "stderr"):
+                if digest((folder / name).read_bytes()) != receipt[name + "_sha256"]:
+                    raise WorkflowError("Rejected revision evidence changed")
+                evidence.append(self.journal.record_file(folder / name))
+            evidence.append(self.journal.record_file(folder / "receipt.json"))
+        step["rejected_evidence"] = evidence
+        self.journal.save()
+        return evidence
+
+    def check_factual_revision(self, key, task, accepted, candidate, context, decision_path):
+        bundle = self.root / f"work/corrections/{key}"
+        manifest = bundle / "manifest.private.json"
+        if not manifest.exists():
+            manuscript = self.snapshot(key + "-source-book")
+            target_name = f"chapter-{task['chapter']:02d}.md"
+            prepare_correction(accepted, candidate,
+                [p for p in manuscript if p.name != target_name]
+                + [self.root / f"artifacts/{name}" for name in ("00-brief.md", "03-characters.md", "07-outline.md", "09-continuity-ledger.md")],
+                context, score_blind(task["ticket"]), bundle, publication_target=self.root / f"manuscript/chapters/{target_name}")
+        schema = read_json(bundle / "review.schema.json")
+        from check_correction import validation_schema
+        strict_schema = validation_schema(manifest)
+        try:
+            response, _ = self.call(key + "-check", (bundle / "review.packet.md").read_bytes(), schema,
+                                   lambda p: validate_correction_report(p, strict_schema))
+        except WorkflowError:
+            evidence = self.rejected_validation_evidence(key + "-check")
+            if evidence is None:
+                raise
+            decision = {"decision": "reject", "reason": "Factual checker exhausted bounded output-validation attempts; accepted text retained.",
+                        "evidence": evidence, "manifest": self.journal.record_file(manifest)}
+            freeze(decision_path, encoded(decision))
+            return decision
+        report = read_json(response)
+        if report["verdict"] == "pass" and all(report[k] for k in ("canon_supported", "factual_only", "dependencies_safe")) and not report["findings"]:
+            # This verifies the original native receipt, complete sources and all
+            # cited evidence again. A model's pass alone never publishes prose.
+            if decision_path.exists():
+                from check_correction import verify
+                verify(manifest, response.parent)
+                return read_json(decision_path)
+            return correction_decision(manifest, response.parent, decision_path)
+        decision = {"decision": "reject", "reason": "Factual checker blocked: " + "; ".join(report["findings"]),
+                    "report": self.journal.record_file(response), "manifest": self.journal.record_file(manifest)}
+        freeze(decision_path, encoded(decision))
+        return decision
+
+    def compare_revision(self, key, n, accepted, candidate, context, decision_path):
+        bundle = self.root / f"work/comparisons/{key}"
+        if not (bundle / "manifest.private.json").exists():
+            build_comparison(accepted, candidate, bundle, context)
+        manifest = read_json(bundle / "manifest.private.json")
+        index = {}
+        paths = [accepted, candidate, *context]
+        for row in manifest["readers"]:
+            call_key = key + "-" + row["persona"]
+            try:
+                report, _ = self.call(call_key, (bundle / row["packet"]).read_bytes(), read_json(bundle / row["response_schema"]),
+                    lambda p, row=row: validate_blind_reader_report(paths, p, expected_reader=row["reader"], catalog_path=bundle / row["catalog"]))
+            except WorkflowError:
+                evidence = self.rejected_validation_evidence(call_key)
+                if evidence is None:
+                    raise
+                decision = {"decision": "reject", "reason": "A comparison reader exhausted bounded output-validation attempts; "
+                            "no complete panel authorized this candidate. Accepted chapter retained.",
+                            "unverified_reader": row["reader"], "evidence": evidence,
+                            "manifest": self.journal.record_file(bundle / "manifest.private.json")}
+                freeze(decision_path, encoded(decision))
+                return decision
+            index[row["persona"]] = {"report": str(report), "validation": str(self.root / self.journal.data["steps"][call_key]["validation"])}
+        freeze(bundle / "index.json", encoded(index))
+        decision = decide(bundle / "manifest.private.json", bundle / "index.json", n)
+        freeze(decision_path, encoded(decision))
+        return decision
+
+    def revision(self):
+        if self.journal.data["phase"] != 5:
+            return
+        measurement = self.measure(0)
+        for number in range(1, 4):
+            if measurement["passed"]:
+                break
+            new_pass = number > len(self.journal.data["passes"])
+            row = self.journal.reserve_pass(number, panel_failed=not measurement["panel_passed"], rubric_failed=not measurement["rubric"]["passed"])
+            if "schedule_version" not in row:
+                row["schedule_version"] = 3 if new_pass else 1
+                self.journal.save()
+            self.sync()
+            if row["status"] == "completed":
+                self.journal.verify_files([row["measurement"]])
+                measurement = read_json(self.root / row["measurement"]["path"])
+                self.journal.verify_files(measurement["evidence"])
+                if row.get("stop_reason") == "invalid_revision_plan":
+                    self.journal.verify_files(row["evidence"])
+                    break
+                continue
+            try:
+                saved_plans = self.journal.data.get("strategies", [])
+                if len(saved_plans) >= number:
+                    step = self.journal.data["steps"][self.revision_plan_key(number)]
+                    if step["status"] != "completed":
+                        raise WorkflowError("Saved revision strategy lacks its original completed response")
+                    self.journal.verify_files(step["evidence"])
+                    plan = read_json(self.root / step["response"])
+                    expected_sources = {"manuscript/chapters/" + name: sha for name, sha in measurement["sources"].items()}
+                    if plan != saved_plans[number - 1] or row["sources"] != expected_sources:
+                        raise WorkflowError("Saved revision strategy differs from its original response or measurement")
+                else:
+                    plan = self.revision_plan(number, measurement)
+            except WorkflowError:
+                # A fully drafted, reviewed manuscript can still be delivered
+                # when both plan responses are invalid. Never invent tasks or
+                # rerate unchanged prose. Transport/auth/tampering still block.
+                evidence = self.rejected_validation_evidence(self.revision_plan_key(number))
+                if evidence is None:
+                    raise
+                row.update(status="completed", stop_reason="invalid_revision_plan", outcomes=[],
+                           evidence=evidence, measurement=self.journal.record_file(
+                               self.root / f"evaluations/measure-{measurement['number']}.json"))
+                self.journal.save()
+                self.log(f"Revision pass {number} | both revision plans failed validation; "
+                         "keeping the reviewed manuscript and its unresolved findings for draft delivery")
+                break
+            plans = self.journal.data.setdefault("strategies", [])
+            if len(plans) < number:
+                plans.append(plan)
+                self.journal.save()
+            from correction_groups import revision_schedule
+            from creative_groups import execute as revise_creative_group
+            from revision_partition import execute_partitioned
+            outcomes = []
+            for group in revision_schedule(plan["tasks"], version=row["schedule_version"]):
+                if len(group) == 1:
+                    outcomes.append(self.revise_chapter(number, group[0], plan["strategy"]))
+                elif group[0]["mode"] == "factual":
+                    outcomes.extend(self.revise_factual_group(number, group, plan["strategy"]))
+                else:
+                    execute_group = execute_partitioned if row['schedule_version'] >= 3 else revise_creative_group
+                    outcomes.extend(execute_group(self, number, group, plan["strategy"]))
+            row.update(status="revisions_saved", outcomes=outcomes)
+            self.journal.save()
+            current = {p.name: digest(p.read_bytes()) for p in (self.root / "manuscript/chapters").glob("*.md")}
+            if current != measurement["sources"]:
+                measurement = self.measure(number)
+            else:
+                self.log(f"Revision pass {number} | manuscript unchanged; retaining current reviews and scores without rerating")
+            row.update(status="completed", measurement=self.journal.record_file(self.root / f"evaluations/measure-{measurement['number']}.json"))
+            self.journal.save()
+        result_path = self.root / "evaluations/final-measurement.json"
+        freeze(result_path, encoded(measurement))
+        freeze(self.root / "evaluations/revision-plan.md", ("# Revision strategies\n\n" + json.dumps(self.journal.data.get("strategies", []), ensure_ascii=False, sort_keys=True, indent=2)).encode("utf-8"))
+        freeze(self.root / "evaluations/revision-loop.md", ("# Bounded revision record\n\n" + json.dumps(self.journal.data["passes"], ensure_ascii=False, sort_keys=True, indent=2)
+            + "\n\n" + ("PASSED" if measurement["passed"] else "STOPPED: the bounded quality gates remain unmet; deliver the complete draft honestly.")).encode("utf-8"))
+        freeze(self.root / "evaluations/proofread.md", ("# Current manuscript technical proofreading\n\n" + json.dumps(measurement["proofread"], ensure_ascii=False, sort_keys=True, indent=2)).encode("utf-8"))
+        index = {"schema_version": 1, "scopes": [{k: p[k] for k in ("scope", "chapters", "readers")} for p in measurement["panels"]]}
+        freeze(self.root / "evaluations/final-reader-index.json", encoded(index))
+        group_evidence = []
+        for path in sorted((self.root / "evaluations/decisions").glob("revision-*-group-*-outcomes.json")) + sorted(
+                (self.root / "evaluations/decisions").glob("revision-*-facts-group-*.json")):
+            records = read_json(path)["evidence"]
+            self.journal.verify_files(records)
+            group_evidence += [path] + [self.root / row["path"] for row in records]
+        self.finish(5, [result_path, self.root / "evaluations/revision-loop.md", self.root / "evaluations/revision-plan.md",
+                       self.root / "evaluations/proofread.md", self.root / "evaluations/final-reader-index.json", *group_evidence],
+                    "passed" if measurement["passed"] else "gates_not_met")
+
+    def final_score(self):
+        if self.journal.data["phase"] != 6:
+            return
+        result = read_json(self.root / "evaluations/final-measurement.json")
+        canonical = {p.name: digest(p.read_bytes()) for p in (self.root / "manuscript/chapters").glob("*.md")}
+        if canonical != result["sources"]:
+            raise WorkflowError("Final measurement is stale; scoring is blocked")
+        self.journal.verify_files(result["evidence"])
+        check = verify_book(self.root, "evaluations/final-reader-index.json")
+        if check["reviews"]["status"] != "current":
+            raise WorkflowError("Final reader evidence is invalid: " + json.dumps(check["reviews"]))
+        lines = [f"# {self.metadata['title']}: Genesis report", "", "A complete draft, assessed by simulated readers in fresh contexts.",
+            f"{self.contract['chapters']} chapters; {self.state['manuscript']['word_count_actual']} prose words; approved range {self.contract['min_words']}-{self.contract['max_words']}.",
+            "", "Gates met." if result["passed"] else "Gates not met. Completion and export do not imply literary approval.", "",
+            "| Dimension | Raw median | Calibrated |", "|---|---:|---:|"]
+        for d in result["rubric"]["dimensions"]:
+            lines.append(f"| {d['name']} | {score_text(d['raw_median'])} | {score_text(d['calibrated'])} |")
+        lines += ["", f"Calibrated floor: {score_text(result['rubric']['floor'])}/10. Weighted score: {score_text(result['rubric']['weighted'])}/10. Target: {self.contract['quality_target']:.2f}/10.",
+            f"Audit: {result['audit']['data']['verdict']}. Central ending resolved: {result['audit']['data']['ending_resolved']}.",
+            f"Panel: {'passed' if result['panel_passed'] else 'not met'}. Proofread findings remaining: {len(result['proofread']['data']['findings'])}.",
+            f"Independence B: fresh native {self.config['model']} contexts, effort {self.config['effort']}, one model family. Confidence: {result['rubric']['confidence']}.",
+            "No outside human validation, market test or publication approval. No prediction of sales.", "",
+            "## Remaining findings", json.dumps(result["audit"]["data"]["findings"] + result["proofread"]["data"]["findings"], ensure_ascii=False, indent=2),
+            "## Unresolved historical findings", json.dumps(result["issue_ledger"]["open"], ensure_ascii=False, indent=2)]
+        if any(row.get("stop_reason") == "invalid_revision_plan" for row in self.journal.data["passes"]):
+            lines += ["", "Revision stopped after two invalid revision plans. No corrections from those plans "
+                      "were applied. The original negative reviews and unresolved findings remain current; "
+                      "this export is an unapproved draft. See evaluations/revision-loop.md for the preserved attempts."]
+        path = self.root / "artifacts/11-genesis-score.md"
+        freeze(path, ("\n".join(lines) + "\n").encode("utf-8"))
+        self.finish(6, [path], "passed" if result["passed"] else "gates_not_met")
+
+    def package(self):
+        if self.journal.data["phase"] != 7:
+            return
+        schema = obj({"editorial_package": TEXT, "positioning": TEXT,
+            "options": {**array(obj({"id": {"type": "integer", "enum": [1, 2, 3]}, "title": TEXT, "logline": TEXT, "blurb": TEXT})),
+                        "minItems": 3, "maxItems": 3}})
+        snapshot = self.snapshot("delivery")
+        packet = ("Prepare the book's editorial package. Use only this packet, no tools. Return JSON. "
+            "editorial_package includes logline, blurb, full ending-inclusive synopsis, query letter, cover brief and format notes. "
+            "Give exactly three distinct marketing-angle options. Do not change the manuscript or invent author credentials, reviews, awards or verified research. "
+            "positioning must distinguish hypotheses from measured results; the host will run a simulated hook test.\n\n"
+            + json.dumps({"book": self.metadata, "author": self.config["author_name"],
+                         "manuscript": {p.name: p.read_text(encoding="utf-8") for p in snapshot},
+                         "market_hypotheses": (self.root / "artifacts/01-market-map.md").read_text(encoding="utf-8")}, ensure_ascii=False))
+        def validate(path):
+            report = validate_json(path, schema)
+            if report["valid"] and sorted(row["id"] for row in read_json(path)["options"]) != [1, 2, 3]:
+                report.update(valid=False, errors=["Provide three package options numbered 1, 2, 3"])
+            return report
+        response, _ = self.call("editorial-package", packet, schema, validate)
+        package = read_json(response)
+        hooks = []
+        first = " ".join(snapshot[0].read_text(encoding="utf-8").split()[2:252])
+        for persona, (reader, lens) in READERS.items():
+            report, _ = self.call("hook-" + persona, f"You are {reader}, {lens}. Use only this packet, no tools. "
+                f"Return reader as the exact identity string {json.dumps(reader)}, with your opinions only in each option's reason. "
+                "Include each option ID 1, 2, 3 exactly once. For each package, would you click, buy, and keep reading? "
+                "Give honest reasons. This is a simulated preference, not a sale.\n"
+                + json.dumps({"packages": package["options"], "opening_250_words": first}, ensure_ascii=False),
+                hook_schema(reader), lambda path, reader=reader: validate_hook(path, reader))
+            hooks.append(read_json(report))
+        ranking = sorted(range(1, 4), key=lambda n: (sum(sum(r[k] for k in ("click", "buy", "keep_reading"))
+            for h in hooks for r in h["options"] if r["id"] == n),
+            sum(r[k] for r in hooks[0]["options"] if r["id"] == n for k in ("click", "buy", "keep_reading"))), reverse=True)
+        freeze(self.root / "artifacts/12-editorial-package.md", package["editorial_package"].encode("utf-8"))
+        freeze(self.root / "artifacts/13-positioning.md", (package["positioning"] + "\n\n## Simulated hook test\n\n"
+            + json.dumps({"ranking": ranking, "options": package["options"], "readers": hooks}, ensure_ascii=False, indent=2)
+            + "\n\nThe ranking is simulated. No human purchase, conversion or sales result has been measured.\n").encode("utf-8"))
+        self.state["gates"]["editorial_package"] = "in_progress"
+        self.sync()
+        receipt = self.root / "delivery/export-receipt.json"
+        if not receipt.exists():
+            export_book(self.root, "delivery", title=self.metadata["title"], author=self.config["author_name"], language=self.config["language"],
+                require_complete_pipeline=True, expected_chapters=self.contract["chapters"], min_words=self.contract["min_words"], max_words=self.contract["max_words"])
+        verified = verify_book(self.root, "evaluations/final-reader-index.json")
+        if verified["delivery"]["status"] != "delivered" or verified["reviews"]["status"] != "current":
+            raise WorkflowError("Export verification failed: " + json.dumps(verified))
+        freeze(self.root / "evaluations/delivery-verification.json", encoded(verified))
+        self.finish(7, [self.root / "artifacts/12-editorial-package.md", self.root / "artifacts/13-positioning.md",
+            receipt, self.root / "evaluations/delivery-verification.json"])
+        self.journal.data.update(status="completed", finished_at=Journal.now())
+        self.journal.save()
+        self.state["delivery"].update(status="exported", scope="complete_pipeline", receipt="delivery/export-receipt.json")
+        self.sync()
+        self.log(f"Finished | {self.metadata['title']} | complete manuscript and validated EPUB saved in delivery/")
+
+    def run(self):
+        try:
+            if self.journal.data["phase"] == 8:
+                from workflow_state import verify_execution
+                verify_execution(self.root, required_phase=8)
+                verified = verify_book(self.root, "evaluations/final-reader-index.json")
+                if verified["delivery"]["status"] != "delivered" or verified["reviews"]["status"] != "current":
+                    raise WorkflowError("Previously completed delivery is missing or stale")
+                self.log("Completed book verified again; no model call needed")
+                return 0
+            self.journal.data["status"] = "running"
+            self.journal.save()
+            self.sync()
+            self.log("Controlled native workflow | one owner | sequential fresh contexts | original responses retained")
+            self.planning()
+            self.draft()
+            self.initial_audit()
+            self.revision()
+            self.final_score()
+            self.package()
+            return 0
+        except (Exception, KeyboardInterrupt) as exc:
+            waiting = isinstance(exc, KeyboardInterrupt) and self.journal.data["status"] == "waiting_for_provider"
+            self.journal.data.update(status="waiting_for_provider" if waiting else "blocked", error=str(exc))
+            self.journal.save()
+            self.sync()
+            message = "Subscription wait interrupted. Resume will honor the saved retry time." if waiting else str(exc)
+            atomic(self.root / "DELIVERY_STATUS.md", ("# Delivery paused\n\n" + message
+                + "\n\nOriginal files and attempt budgets are preserved. Resume the same exact build after resolving the stated error.\n").encode("utf-8"))
+            raise
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--book-dir", type=Path, required=True)
+    parser.add_argument("--command-file", type=Path, required=True)
+    parser.add_argument("--chapters", type=int, required=True)
+    parser.add_argument("--min-words", type=int, required=True)
+    parser.add_argument("--max-words", type=int, required=True)
+    parser.add_argument("--quality-target", type=float, default=8.5)
+    parser.add_argument("--weighted-quality-target", type=float)
+    args = parser.parse_args()
+    try:
+        return BookWorkflow(args.book_dir, read_json(args.command_file), chapters=args.chapters,
+            min_words=args.min_words, max_words=args.max_words, quality_target=args.quality_target,
+            weighted_quality_target=args.weighted_quality_target).run()
+    except (ValueError, OSError, RuntimeError) as exc:
+        print(f"Book paused with all evidence preserved: {exc}", file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

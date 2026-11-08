@@ -1,0 +1,32 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "4b23f82bdc0fb0dcabcc241a6aa5fea0db49f45ee71560a5dc3ea33ee2a817a0",
+  "reader": "Mark",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0006"},
+  "why_stopped": {"reason": "Bram weet ineens van de tabel en koopt tickets bewust met de kaart zodat Wouter het ziet; 'Bram ziet dingen' en 'misschien had hij het geraden' dekken een gat in de causaliteit af in plaats van het te verklaren."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0008", "reason": "Wouter die op de wc-bril gemene regels schrijft en ze nooit doorstreept: eindelijk een reactie die niet netjes is, en daardoor geloofwaardig."},
+    {"passage_id": "A:p0011", "reason": "Frieten zonder saus, de friet op de das: een klein, concreet beeld dat niets uitlegt."}
+  ],
+  "confused_by": [
+    {"passage_id": "A:p0006", "reason": "Hoe Bram van de tabel weet blijft open; de verteller haalt zijn schouders op en gaat door."},
+    {"passage_id": "B:p0061", "reason": "Dezelfde onwaarschijnlijke planning met de bankkaart, en in B ook zonder de rauwe reactie van Wouter die het zou compenseren."}
+  ],
+  "flags": [
+    {"flag": "continuity_doubt", "passage_id": "A:p0006"},
+    {"flag": "over_explained", "passage_id": "B:p0103"},
+    {"flag": "over_explained", "passage_id": "B:p0105"},
+    {"flag": "over_explained", "passage_id": "B:p0063"},
+    {"flag": "continuity_doubt", "passage_id": "B:p0061"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0008", "reason": "Na de nette rechtszaal komt er wrok die de tekst niet oplost; dat maakt de verzoening op de bank daarna verdiend in plaats van gratis."},
+  "weakest_passage": {"passage_id": "B:p0103", "reason": "Bram legt Wouters psychologie in een lange preek uit en de tekst zegt er zelf bij dat het 'niet als een aforisme' was; dat is de schrijver die de lezer geruststelt."},
+  "machine_tells": [
+    {"tell": "zin die aankondigt wat de lezer moet voelen", "passage_id": "B:p0063"},
+    {"tell": "therapeutische samenvatting in dialoog", "passage_id": "B:p0105"}
+  ],
+  "felt": {"emotion": "ongemak, daarna lichte ontroering", "reason": "In A voelde ik Wouters gekwetstheid echt door de wc-scène; in B werd de emotie mij voorgekauwd en voelde ik minder."},
+  "confidence": "medium",
+  "compare": "A"
+}

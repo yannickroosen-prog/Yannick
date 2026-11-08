@@ -1,0 +1,18 @@
+{
+ "primary": {
+  "report": "primary.raw.json",
+  "validation": "primary.validation.json"
+ },
+ "hostile": {
+  "report": "hostile.raw.json",
+  "validation": "hostile.validation.json"
+ },
+ "adjacent": {
+  "report": "adjacent.raw.json",
+  "validation": "adjacent.validation.json"
+ },
+ "casual": {
+  "report": "casual.raw.json",
+  "validation": "casual.validation.json"
+ }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 3,
+  "catalog_sha256": "0af31695934bf9ce9e1a437ad8a79c192b4daef6f9f1908cb78d486dbea3eeab",
+  "reader": "Priya",
+  "turn_page": "yes",
+  "stopped_at": {"passage_id": "A:p0015"},
+  "why_stopped": {"reason": "Na de thermoskan, Sanne en de soep bij de moeder voelde de huisbaas met het formulier als nog een afsluitend tafereel te veel; mijn aandacht zakte daar even weg, al zou ik het boek niet wegleggen."},
+  "remember_tomorrow": [
+    {"passage_id": "A:p0009", "reason": "De thermoskan uit de doos DIVERSEN, gekocht van zijn honderdtwintig euro: klein, concreet en het zegt alles over hoe goed Bram zijn broer ziet."},
+    {"passage_id": "A:p0008", "reason": "Wouter die de hamer neerlegt en de scheve paus niet rechtzet; 'het moeilijkste wat ik die dag deed' bleef bij me omdat het zijn hele verandering in één gebaar toont."},
+    {"passage_id": "A:p0016", "reason": "De kip met de witte vlek die Wouter heet en te veel nadenkt: grappig en teder tegelijk."}
+  ],
+  "confused_by": [
+    {"passage_id": "A:p0016", "reason": "De losse zin over de moed om niet laf te zijn kwam voor mij als buitenstaander uit het niets; ik ken de herkomst niet."},
+    {"passage_id": "A:p0004", "reason": "In A blijft 'Het was een vergissing' kaal; ik moest zelf invullen wat de vader bedoelde, wat werkt, maar ik twijfelde even of ik het goed begreep."}
+  ],
+  "flags": [
+    {"flag": "slow_start", "passage_id": "A:p0015"},
+    {"flag": "over_explained", "passage_id": "B:p0016"},
+    {"flag": "over_explained", "passage_id": "B:p0004"},
+    {"flag": "confusing", "passage_id": "A:p0016"}
+  ],
+  "strongest_passage": {"passage_id": "A:p0005", "reason": "De gescheurde doos, de boeken die de trap afvallen en Bram die twintig minuten zit terwijl Wouter niet weet wat hij voelt: hier voelde ik Brams breekbaarheid zonder dat iemand ze benoemde, en Ilse die zwijgend opraapt is prachtig."},
+  "weakest_passage": {"passage_id": "B:p0016", "reason": "De uitleg na de slotzin over wat hij daarmee bedoelde haalt de lucht uit het einde; het oude-telefoonnummerbeeld is mooi maar voelt als een schrijver die het nog eens wil zeggen."},
+  "machine_tells": [
+    {"tell": "staccato reeks korte zinnen die hetzelfde herhaalt", "passage_id": "A:p0011"}
+  ],
+  "felt": {"emotion": "ontroering en warmte", "reason": "Vooral de thermoskan en de moeder die soep opwarmt raakten me; het hoofdstuk voelt als een zacht afscheid waarin mensen elkaar eindelijk laten."},
+  "confidence": "medium",
+  "compare": "A"
+}

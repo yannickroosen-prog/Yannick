@@ -1,0 +1,66 @@
+schema_version: 6
+
+project:
+  id: "de-mensen-die-blijven"
+  title: "De mensen die blijven"
+  idea: "artifacts/idea.md"
+  language: "nl-BE"
+  genre: "literaire roman (bekentenisvorm)"
+  audience: "lezers van Nederlandstalige literaire fictie; naasten van mensen met een psychische kwetsbaarheid"
+  positioning: "korte literaire roman"
+  series: false
+  target_range_words: "48000-65000"
+  target_floor_words: 48000
+  target_ceiling_words: 65000
+  quality_target: 8.5
+
+collaboration:
+  mode: "autonomous (auteur: go for it, 8 nov.)"
+  waiting_for_author: false
+  pending_checkpoint: ""
+
+independence:
+  level: "isolated subagents, same model family"
+  grade: "B (pending isolation check)"
+  writer_model: "host model"
+  reader_model: "host model, fresh isolated subagent context"
+  isolation_check: "not_run"
+  notes: "No second model family installed in this environment."
+
+pipeline:
+  current_phase: "Phase 4: Adversarial Audit"
+  current_gate: "full audit (pending)"
+  status: "in_progress"
+  panel_passes: 0
+  rubric_passes: 0
+
+manuscript:
+  chapter_count_planned: 12
+  average_words_per_chapter_planned: 4500
+  completed_chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+  word_count_actual: 47573
+  length_gate: "FLAG (47.573; 0,9% onder de vloer van 48.000)"
+  status: "first_draft_complete"
+
+gates:
+  intake: "pass"
+  foundation: "pass"
+  architecture: "pass (verified by fresh subagent)"
+  drafting: "pass"
+  adversarial_audit: "pending"
+  revision_loop: "pending"
+  final_score: "pending"
+  editorial_package: "pending"
+
+decisions:
+  - "8 nov.: auteur keurt lengte ±54.000 woorden (±200 blz.) goed."
+  - "8 nov.: auteursnaam = anagram van Yannick Roosen: Coen O. Narinsky (alternatieven: Nina Crooksney, Sonny Ackerino)."
+  - "8 nov.: lengtecontract bijgesteld van 55-70k naar 48-65k (doel ±54k). Reden: de hoofdstukken landen natuurlijk op 3.700-4.300 woorden; opvullen is verboden; ±54k woorden is ±200 bladzijden, wat de auteur zelf noemde. Aan de auteur voorgelegd."
+  - "Vorm: roman (optie A), gekozen door de auteur op 8 nov."
+  - "Invloeden: Dostojevski, Kafka, Camus; tragikomisch; sterke zinnen met dubbele bodem."
+open_questions:
+
+delivery:
+  status: "pending"
+  scope: ""
+  receipt: ""

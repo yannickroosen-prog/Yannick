@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "status": "staged",
+  "scope": "format_only_not_editorial_acceptance",
+  "source_sha256": "dc39c10f2ec095c79711c7cde927bf1d1cc4f4b8f8cf6683c23918030ba4e7cd",
+  "staged_sha256": "dc39c10f2ec095c79711c7cde927bf1d1cc4f4b8f8cf6683c23918030ba4e7cd",
+  "body_sha256": "52b0b476fcaf8501a9302071cd418c51fd6c6a71ce79c88e2fd204f1dbc760b6",
+  "body_unchanged": true,
+  "transform": "none",
+  "original_heading_level": 1,
+  "heading_level": 1,
+  "title": "Maart",
+  "visible_prose_words": 4218,
+  "source_file": "source.md",
+  "staged_file": "chapter.md"
+}
