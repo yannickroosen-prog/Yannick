@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "status": "staged",
+  "scope": "format_only_not_editorial_acceptance",
+  "source_sha256": "e166c7044bb7a7b35ab11bd2d2ef392ddded7fb3d035a4d85451d8961cb41dba",
+  "staged_sha256": "e166c7044bb7a7b35ab11bd2d2ef392ddded7fb3d035a4d85451d8961cb41dba",
+  "body_sha256": "b154fbebdc01430705b1ee04a9a612b6d6a4d3ff42b62fec9fb6ba2883664e67",
+  "body_unchanged": true,
+  "transform": "none",
+  "original_heading_level": 1,
+  "heading_level": 1,
+  "title": "Augustus",
+  "visible_prose_words": 3608,
+  "source_file": "source.md",
+  "staged_file": "chapter.md"
+}
