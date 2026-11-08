@@ -13,3 +13,4 @@
 - 2026-11-08: continuïteitscheck hfst. 1-5 door een verse auditor-subagent: 14 feitelijke punten (1 hoog), alle hersteld via gestagede kopieën; zie evaluations/continuity-ch01-05.md. Geen onafhankelijke hercontrole.
 - 2026-11-08: hfst. 6 "April" poging 1 (3.212) te kort, nooit aanvaard; poging 2 voegt Lieves telefoontje en de avond met Sanne toe. Aanvaard.
 - 2026-11-08: hfst. 7 "Mei" (middelpunt) poging 1 (3.144) te kort, nooit aanvaard; poging 2 voegt de schaakavond toe (Bram vraagt Wouter te zwijgen) en Sannes vraag "En ik ben wat?". Aanvaard.
+- 2026-11-08: panel hfst. 7 (50%): 4/4 doorlezen; tickets T7-01 t/m T7-06 (samenvatting en moraal vlak voor de climax; trucje 'Dat is niet waar.').
