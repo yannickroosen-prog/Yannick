@@ -1,0 +1,64 @@
+schema_version: 6
+
+project:
+  id: "de-kamers-waar-niemand-slaapt"
+  title: "De kamers waar niemand slaapt"
+  idea: "Vlaamse literaire roman over een man en een vrouw die geen kinderen kunnen krijgen; existentieel, niet medisch."
+  language: "nl-BE"
+  genre: "literaire fictie"
+  audience: "volwassen lezers van Vlaamse/Nederlandse literatuur"
+  positioning: "korte literaire roman"
+  series: false
+  target_range_words: "42000-52000"
+  target_floor_words: 42000
+  target_ceiling_words: 52000
+  quality_target: 8.5
+
+collaboration:
+  mode: "autonomous"
+  waiting_for_author: false
+  pending_checkpoint: ""
+
+independence:
+  level: "isolated_subagent_same_family"
+  grade: "B (geïsoleerde context, zelfde modelfamilie)"
+  writer_model: "Claude (hoofdsessie)"
+  reader_model: "Claude (aparte subagenten)"
+  isolation_check: "not_run"
+  notes: "Geen tweede modelfamilie beschikbaar in deze cloudomgeving."
+
+pipeline:
+  current_phase: "Phase 7: Editorial Package"
+  current_gate: ""
+  status: "delivered_with_unmet_gates"
+  panel_passes: 3
+  rubric_passes: 3
+
+manuscript:
+  chapter_count_planned: 14
+  average_words_per_chapter_planned: 3321
+  completed_chapters: [1,2,3,4,5,6,7,8,9,10,11,12,13,14]
+  word_count_actual: 42232
+  length_gate: "PASS"
+  status: "drafted"
+
+gates:
+  intake: "passed"
+  foundation: "passed"
+  architecture: "passed (verification: degraded, not independent)"
+  drafting: "passed"
+  adversarial_audit: "volledige audit revise → verwerkt; gerichte slotverificatie h11-14: pass"
+  revision_loop: "panel: passed (4 aparte lezers); rubric: niet gehaald (mediaan ruw 8,06 / gekalibreerd 7,26)"
+  final_score: "zie artifacts/11-genesis-score.md"
+  editorial_package: "aanwezig; hooktest uitgevoerd (winnaar A)"
+
+decisions:
+  - "Autonome modus: de opdracht vraagt een volledige roman."
+  - "Korte literaire roman 42.000-52.000 woorden op basis van Vlaamse comps (ongeverifieerd)."
+  - "Pleegzorg in plaats van adoptie als alternatief pad; geen verlossing."
+open_questions: []
+
+delivery:
+  status: "exported"
+  scope: "manuscript.md + EPUB, gevalideerd"
+  receipt: ""

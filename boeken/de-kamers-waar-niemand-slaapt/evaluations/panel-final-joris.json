@@ -1,0 +1,663 @@
+[
+  {
+    "reader": "Joris",
+    "chapter": "01",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "Het kinderslot."
+    },
+    "why_stopped": {
+      "reason": "Een kinderslot in het huis van een kinderloos koppel, en dan nog als alinea van twee woorden: de auteur tikt op mijn schouder om te zeggen dat dit een symbool is. Ik las verder omdat hij het daarna met rust laat."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "Je kunt aan iemands PMD-zak veel zien.",
+        "reason": "Droog, Elsschot-achtig, en de inventaris van de zak doet het werk zonder commentaar."
+      },
+      {
+        "quote": "Een vaatwasser voor twee mensen is eigenlijk een kast met ambities.",
+        "reason": "Eindelijk een zin met een eigen toon in plaats van een thema."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "over_explained",
+        "quote": "Het defect was ik. Dat is altijd een beetje een teleurstelling, als je iets wil herstellen."
+      },
+      {
+        "flag": "slow_start",
+        "quote": "Ik ging op mijn hurken zitten en keek naar het water."
+      }
+    ],
+    "strongest_passage": {
+      "quote": "Ze vroeg het niet aan mij. Ze vroeg het aan de pasta.",
+      "reason": "Het machtsevenwicht van het huwelijk in twee korte zinnen, zonder dat iemand het benoemt."
+    },
+    "weakest_passage": {
+      "quote": "Ik dacht dat ik dat behang er nu eindelijk eens af moest halen.",
+      "reason": "De drie kamers worden als een plattegrond van het thema uitgelegd; ik zie het skelet van de roman al in hoofdstuk een."
+    },
+    "machine_tells": [
+      {
+        "tell": "triad",
+        "quote": "Roger is iemand die het weer, de afvalkalender en de kinderen van andere mensen als één onderwerp beschouwt"
+      },
+      {
+        "tell": "image_then_explanation",
+        "quote": "Het defect was ik."
+      }
+    ],
+    "felt": {
+      "emotion": "tegenzin die langzaam wijkt",
+      "reason": "De toon is droog genoeg om me niet te laten afhaken, maar de symboliek (kinderslot, lege kamer, behang) ligt te klaar."
+    },
+    "confidence": "medium"
+  },
+  {
+    "reader": "Joris",
+    "chapter": "04",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "Het was een lampje dat het werk deed van zichtbaar maken wie je bent"
+    },
+    "why_stopped": {
+      "reason": "Het keuringsverhaal was grappig tot de verteller het lampje tot metafoor promoveert. Het rode papier had gewerkt; de uitleg is precies de fout waarop ik wacht."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "Ik hield de test onder het licht. Ik hield hem schuin. Ik hield hem bij het raam.",
+        "reason": "Het zoeken naar een tweede streepje is fysiek en vernederend, zonder één gevoelswoord."
+      },
+      {
+        "quote": "Het ziekenfonds betaalde er zes terug. We hadden er nog vijf.",
+        "reason": "Een slotzin die een getal is in plaats van een les."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "over_explained",
+        "quote": "Het voelde als een testament schrijven voor iemand die nog moest worden geboren, en ik bedacht dat dat eigenlijk precies was wat het was."
+      },
+      {
+        "flag": "over_explained",
+        "quote": "Het was een lampje dat het werk deed van zichtbaar maken wie je bent"
+      },
+      {
+        "flag": "cliche",
+        "quote": "Het was zoals luisteren naar de uitslag van een wielerwedstrijd waarin je renners een voor een uit de groep vallen."
+      }
+    ],
+    "strongest_passage": {
+      "quote": "Ik rolde de test weer in het papier. Ik deed het zorgvuldig, zoals zij het gedaan had, zodat ze niet zou zien dat ik hem had gevonden.",
+      "reason": "Twee mensen die elk alleen hetzelfde slechte nieuws verstoppen; dat is het huwelijk in één handeling."
+    },
+    "weakest_passage": {
+      "quote": "Het was een lampje dat het werk deed van zichtbaar maken wie je bent, dat 's nachts je nummerplaat verlicht, zodat de politie kan zien welke auto je bent.",
+      "reason": "Uitgelegd symbool, en nog onhandig geformuleerd ook."
+    },
+    "machine_tells": [
+      {
+        "tell": "image_then_explanation",
+        "quote": "en ik bedacht dat dat eigenlijk precies was wat het was"
+      },
+      {
+        "tell": "contrast_by_negation",
+        "quote": "Je zou denken dat dat een opluchting is. Dat was het ook. Dat was het ergste eraan."
+      }
+    ],
+    "felt": {
+      "emotion": "ongemak, echt",
+      "reason": "De vuilbakscène kwam binnen; de rest van het hoofdstuk dient zich te vaak aan als betekenisvol."
+    },
+    "confidence": "medium"
+  },
+  {
+    "reader": "Joris",
+    "chapter": "06",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "maar dat ik deze keer niet wist welke filter ik moest losdraaien"
+    },
+    "why_stopped": {
+      "reason": "De olijfpit uit hoofdstuk een wordt terug opgediend als sleutel voor de lezer die het nog niet doorhad. Een callback die zichzelf uitlegt."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "*07.2018 — Kroatië — niet geboekt*",
+        "reason": "Het kasboek is het beste idee van het boek: verdriet als boekhouding, zonder één adjectief."
+      },
+      {
+        "quote": "'Of,' zei ik, 'als ge hem niet wilt, die derde. Dan kunt ge hem altijd nog laten weghalen, hé.",
+        "reason": "Eindelijk is de verteller niet sympathiek. Dit is lelijk en daarom geloofwaardig."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "over_explained",
+        "quote": "Ik dacht dat ik iets kapot had gemaakt dat ik niet kon benoemen, zoals de olijfpit in de vaatwasser"
+      },
+      {
+        "flag": "over_explained",
+        "quote": "Het kon niets betekenen. Het betekende ook niets. Het was gewoon wat Roger zei."
+      }
+    ],
+    "strongest_passage": {
+      "quote": "Het konijn en het lampje hoorden er niet in. De doopsuiker ook niet. Ik heb ze er toch in gezet, en ik heb ze niet doorgestreept.",
+      "reason": "Hier vertrouwt de auteur de lijst; de uitleg blijft beperkt tot een feit."
+    },
+    "weakest_passage": {
+      "quote": "Ik dacht: vier kleine dingen in een ketel van min honderdzesennegentig graden, en het is Kerstmis, en zij weten van niets. Zij zijn in de beste zin van het woord nergens.",
+      "reason": "Zelfmedelijden met een poëtisch strikje erom."
+    },
+    "machine_tells": [
+      {
+        "tell": "image_then_explanation",
+        "quote": "zoals de olijfpit in de vaatwasser, maar dat ik deze keer niet wist welke filter ik moest losdraaien"
+      },
+      {
+        "tell": "contrast_by_negation",
+        "quote": "Het was niet de cava. Het was Bert."
+      }
+    ],
+    "felt": {
+      "emotion": "schok, dan schaamte voor de verteller",
+      "reason": "Het koertje werkt; de wandeling naar huis daarna praat de schok weer klein."
+    },
+    "confidence": "high"
+  },
+  {
+    "reader": "Joris",
+    "chapter": "07",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "Dat is ook iets wat de dood meebrengt: alle zinnen die niemand nog zal afmaken."
+    },
+    "why_stopped": {
+      "reason": "Een tegeltjeswijsheid midden in een scène die ze niet nodig had; hier hoorde ik de auteur in plaats van Steven."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "'Polypropyleen,' zei ze. 'Dat veroudert door uv-licht. In een schuif niet. Dat blijft goed.'",
+        "reason": "Het beste antwoord in het boek tot nu: een laborante die troost in materiaalkunde, en het is meer liefde dan een omhelzing."
+      },
+      {
+        "quote": "*STEVEN — VOOR LATER*",
+        "reason": "De doos zegt alles; gelukkig zegt de vader zelf niets."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "over_explained",
+        "quote": "Het was een grap geweest die we vijf jaar lang in een schuif hadden bewaard."
+      },
+      {
+        "flag": "cliche",
+        "quote": "Dat is ook iets wat de dood meebrengt: alle zinnen die niemand nog zal afmaken."
+      },
+      {
+        "flag": "over_explained",
+        "quote": "Het was het eerste echte wat ik in maanden tegen haar zei."
+      }
+    ],
+    "strongest_passage": {
+      "quote": "'Polypropyleen,' zei ze. 'Dat veroudert door uv-licht. In een schuif niet. Dat blijft goed.'",
+      "reason": "De vraag gaat over kinderloosheid, het antwoord over kunststof, en niemand vertaalt het."
+    },
+    "weakest_passage": {
+      "quote": "Ze zei niet *het komt goed*. Ze zei niet *hij heeft niets gevoeld*. Ze stond daar gewoon.",
+      "reason": "De huilscène wordt afgerond met een verzorgingsclausule; het redemptieve register sluipt binnen."
+    },
+    "machine_tells": [
+      {
+        "tell": "moral_generalization",
+        "quote": "Dat is ook iets wat de dood meebrengt: alle zinnen die niemand nog zal afmaken."
+      },
+      {
+        "tell": "contrast_by_negation",
+        "quote": "Ik had gezegd dat Kristof het beter kon. Dat was waar. Het was niet de reden."
+      },
+      {
+        "tell": "triad",
+        "quote": "Ze bedoelde niet dat we iets weggooiden. Ze bedoelde dat we erin gingen staan."
+      }
+    ],
+    "felt": {
+      "emotion": "ontroering, tegen mijn zin",
+      "reason": "De polypropyleen-dialoog raakte me; de uitgeschreven huilbui eromheen haalde het weer terug."
+    },
+    "confidence": "medium"
+  },
+  {
+    "reader": "Joris",
+    "chapter": "08",
+    "turn_page": "unsure",
+    "stopped_at": {
+      "quote": "en het was belachelijk, en ik weet niet wanneer ik me ooit gelukkiger heb gevoeld."
+    },
+    "why_stopped": {
+      "reason": "Verfgevecht met de partner en daarna vrijen op het plastic: dit is een scène uit een romantische komedie, en het geluk wordt ook nog benoemd."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "We hadden niets aangekruist voor als een van ons niet meer wilde. Daar was geen vakje voor.",
+        "reason": "Het formulier uit hoofdstuk vier keert terug met een echte consequentie."
+      },
+      {
+        "quote": "'Nog één keer,' zei ik.",
+        "reason": "Hij kiest verkeerd en weet het; dat is de motor die het boek nodig heeft."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "cliche",
+        "quote": "daarna waren we vijf minuten lang twee mensen van achtendertig en zevenendertig die elkaar met verf achternaliepen"
+      },
+      {
+        "flag": "emotion_missed",
+        "quote": "ik weet niet wanneer ik me ooit gelukkiger heb gevoeld"
+      },
+      {
+        "flag": "over_explained",
+        "quote": "iets wat ik niet herkende en waarvan ik pas veel later begreep dat het opluchting was"
+      },
+      {
+        "flag": "cliche",
+        "quote": "het was alsof er twee mensen in mij zaten die elk een andere mail hadden gelezen"
+      }
+    ],
+    "strongest_passage": {
+      "quote": "Ik wil niet meer naar dat potje van u kijken als ge thuiskomt.",
+      "reason": "Eén concrete, wrede zin in een lange tirade; die blijft."
+    },
+    "weakest_passage": {
+      "quote": "Daarna vrijden we op het plastic. Het was geen vuurwerkjesdag.",
+      "reason": "Verplichte bevrijdingsscène; ik zag hem drie bladzijden van tevoren aankomen."
+    },
+    "machine_tells": [
+      {
+        "tell": "emotion_label",
+        "quote": "waarvan ik pas veel later begreep dat het opluchting was"
+      },
+      {
+        "tell": "moral_generalization",
+        "quote": "Een mogelijkheid kan niet mislukken."
+      },
+      {
+        "tell": "feelings_in_dialogue",
+        "quote": "Ik wil mijn lijf terug."
+      }
+    ],
+    "felt": {
+      "emotion": "verveling, dan even interesse",
+      "reason": "De lockdown-sfeer is ingevuld met krantenclichés (applaus, lege lucht, Brico-rij); pas aan de barbecue wordt het weer een roman."
+    },
+    "confidence": "medium"
+  },
+  {
+    "reader": "Joris",
+    "chapter": "09",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "en het was het mooiste moment uit die hele zes jaar, en ik wist dat het fout was terwijl ik het deed."
+    },
+    "why_stopped": {
+      "reason": "De scène achter het raam was sterk genoeg; de verteller moet ze niet zelf beoordelen als mooiste moment én als fout."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "Een vrouw met goed nieuws loopt naar iemand. Zij liep naar een Skoda Octavia break uit 2011 op een parking in Gent.",
+        "reason": "Merknaam en bouwjaar als slag in het gezicht. Dit is Verhulst-terrein, in de goede zin."
+      },
+      {
+        "quote": "Het is de enige datum in dat schrift zonder bedrag ernaast.",
+        "reason": "Het kasboek betaalt zich uit; geen enkel gevoelswoord nodig."
+      },
+      {
+        "quote": "'Dank u,' zei ik.",
+        "reason": "Het slot dat ik verwachtte te haten en niet kon haten."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "over_explained",
+        "quote": "en het was het mooiste moment uit die hele zes jaar, en ik wist dat het fout was terwijl ik het deed."
+      },
+      {
+        "flag": "over_explained",
+        "quote": "Roger zag meer dan ik altijd had gedacht."
+      },
+      {
+        "flag": "predictable",
+        "quote": "Ik kan dat vakje niet aankruisen."
+      }
+    ],
+    "strongest_passage": {
+      "quote": "Ze trok haar mondmasker af. Ze vouwde het in tweeën en daarna in vieren, heel precies, en stak het in het zijvak van haar handtas.",
+      "reason": "Het verdriet zit volledig in de handen; geen woord ervan wordt uitgelegd."
+    },
+    "weakest_passage": {
+      "quote": "Er was niets om in te vullen. Er was geen vakje.",
+      "reason": "Het vakje-motief wordt voor de derde keer aangeduid; ik voel de auteur een draad strakker trekken die al strak stond."
+    },
+    "machine_tells": [
+      {
+        "tell": "contrast_by_negation",
+        "quote": "Ik weet niet waarom ik het deed. Nee. Dat is niet waar. Ik weet het wel."
+      },
+      {
+        "tell": "triad",
+        "quote": "Er was geen begrafenis. Er was geen akte. Er was geen kerk"
+      }
+    ],
+    "felt": {
+      "emotion": "keel dicht, op de parking",
+      "reason": "De tweeënvijftig minuten wachten en het lopen naar de auto waren echt; het enige hoofdstuk waar ik mijn vijandigheid vergat."
+    },
+    "confidence": "high"
+  },
+  {
+    "reader": "Joris",
+    "chapter": "11",
+    "turn_page": "no",
+    "stopped_at": {
+      "quote": "'Daarom hebt ge die kamers,' zei hij."
+    },
+    "why_stopped": {
+      "reason": "Een wijs kind dat in de babyafdeling van de Colruyt de titel van het boek uitspreekt en het symbool voor de volwassenen uitlegt. Hier sluit ik het boek: dit is het verlossende pleegkind uit een tv-film."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "Ik schreef: *Omdat we een kamer hebben.*",
+        "reason": "Het eerlijkste antwoord in het hoofdstuk, en het is van Steven, niet van het kind."
+      },
+      {
+        "quote": "'Bij de Aldi zijn ze vier negenenveertig,' zei hij. 'Maar dat is anderhalve kilo.",
+        "reason": "Het eerste gesprek met Dylan werkt nog, omdat het over prijzen gaat en niet over betekenis."
+      }
+    ],
+    "confused_by": [
+      {
+        "quote": "Ze bedoelde wat ze in mei had gezegd, in de tuin, bij de radijzen. *Iets wat niet over ons gaat.*",
+        "reason": "Verwijst naar een scène die ik niet heb gelezen; het klinkt als een thema dat al eerder werd aangekondigd."
+      }
+    ],
+    "flags": [
+      {
+        "flag": "over_explained",
+        "quote": "'Ja,' zei Dylan. 'Maar niks van iemand.'"
+      },
+      {
+        "flag": "cliche",
+        "quote": "Hij zei het niet als een opschepper. Hij zei het als een feit."
+      },
+      {
+        "flag": "predictable",
+        "quote": "'Steven,' fluisterde ze. 'Er slaapt iemand.'"
+      },
+      {
+        "flag": "over_explained",
+        "quote": "'Lang,' zei ze. 'Als ze koud genoeg liggen. Heel lang.'"
+      },
+      {
+        "flag": "over_explained",
+        "quote": "een menen dat waar is, en dat toch ergens anders pijn doet"
+      }
+    ],
+    "strongest_passage": {
+      "quote": "Ik had niet hard genoeg doorgestreept.",
+      "reason": "Een droge zin die het verlangen toont zonder er een boodschap van te maken."
+    },
+    "weakest_passage": {
+      "quote": "'Daarom hebt ge die kamers,' zei hij.",
+      "reason": "Titelvermelding door een kindmond; het symbool wordt hardop voorgelezen."
+    },
+    "machine_tells": [
+      {
+        "tell": "contrast_by_negation",
+        "quote": "Niet omdat ze ontevreden was. Integendeel."
+      },
+      {
+        "tell": "moral_at_door",
+        "quote": "en hij zoemde, en hij liep drie uur en vijfendertig minuten, en hij piepte drie keer, en toen was het stil."
+      },
+      {
+        "tell": "image_then_explanation",
+        "quote": "'Omdat het bij de ballonnen past. Alles wat vliegt.'"
+      }
+    ],
+    "felt": {
+      "emotion": "ergernis",
+      "reason": "Het gist-gesprek, de folder met de grasmachine, de drie vorken in de vaatwasser: elk detail wordt een knipoog. Verlossing per pleegweekend."
+    },
+    "confidence": "high"
+  },
+  {
+    "reader": "Joris",
+    "chapter": "12",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "Het was de hand van mijn vader. Ik had dat nooit gezien."
+    },
+    "why_stopped": {
+      "reason": "Sentimentele erfenis-zin na een scène die goed was zolang ze over vijfenzeventig kilo teak ging."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "*Maar ze kon het dus wel.*",
+        "reason": "De lelijkste gedachte van het boek, en daardoor de eerlijkste. Dit redt het hoofdstuk van zelfmedelijden."
+      },
+      {
+        "quote": "'Ik ben een van die mensen, Steven.'",
+        "reason": "Het koertje van hoofdstuk zes wordt een val die dichtklapt; dat had ik niet zien aankomen."
+      },
+      {
+        "quote": "Het was het overtrek met de raketten. Zonder dekbed erin.",
+        "reason": "Een gebaar dat zowel zorg als verwijt is."
+      }
+    ],
+    "confused_by": [
+      {
+        "quote": "Tot die dokter met die rode bril vroeg of ik ooit zwanger was geweest.",
+        "reason": "Verwijst naar een consultatie die ik niet heb gelezen; ik moet het geloven op gezag."
+      }
+    ],
+    "flags": [
+      {
+        "flag": "over_explained",
+        "quote": "Ik hield van hem en ik was jaloers op hem, op een manier waarvoor ik me schaamde, en ik wilde hem slaan, en ik wilde hem vastpakken"
+      },
+      {
+        "flag": "over_explained",
+        "quote": "Gewoon het overtrek, een lege hoes van katoen, die niets warm hield."
+      },
+      {
+        "flag": "over_explained",
+        "quote": "Ik denk dat ze van dezelfde man komen."
+      }
+    ],
+    "strongest_passage": {
+      "quote": "Ik weet niet wat mijn gezicht deed. Ik weet dat zij het zag. Ik weet dat ze het zag en dat ze knikte, één keer.",
+      "reason": "De onthulling draait om wat niet gezegd wordt; strak, onbarmhartig."
+    },
+    "weakest_passage": {
+      "quote": "Ik denk dat ze van dezelfde man komen. Ik lag op een plooibed onder de luchtballonnen van de Brackes, met mijn voeten over de rand, en ik wist voor het eerst niet meer wie die man was.",
+      "reason": "De verteller vat zijn eigen hoofdstuk samen als zelfkennis-moment."
+    },
+    "machine_tells": [
+      {
+        "tell": "emotion_label",
+        "quote": "Ik hield van hem en ik was jaloers op hem"
+      },
+      {
+        "tell": "image_then_explanation",
+        "quote": "een lege hoes van katoen, die niets warm hield"
+      },
+      {
+        "tell": "contrast_by_negation",
+        "quote": "Ze deed het portier niet hard dicht. Ze deed het zachtjes dicht"
+      }
+    ],
+    "felt": {
+      "emotion": "schrik, dan respect",
+      "reason": "Na hoofdstuk elf wilde ik stoppen; de onthulling in de auto en Stevens eigen lelijke gedachte trekken het boek terug uit de verlossingsmodus."
+    },
+    "confidence": "medium"
+  },
+  {
+    "reader": "Joris",
+    "chapter": "13",
+    "turn_page": "unsure",
+    "stopped_at": {
+      "quote": "'Omdat de bovenste takken alles pakken, anders. Dan wordt ze kaal vanonder.'"
+    },
+    "why_stopped": {
+      "reason": "De buurman die een snoeiles geeft die een levensles is, gevolgd door een eigen vruchtbaarheidsbiecht: de wijze oude man als verzoeningsmachine."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "Ge hebt zeven jaar lang *ik weet het* gezegd, Steven, en ge wist niks.",
+        "reason": "Lies krijgt eindelijk de woorden die het boek haar onthield; dit corrigeert de verteller van binnenuit."
+      },
+      {
+        "quote": "'Omdat ik dan degene was die stopte,' zei ik.",
+        "reason": "De echte reden, kaal gezegd, zonder verzachting."
+      },
+      {
+        "quote": "'Een gezin,' zei ik. 'Van twee.'",
+        "reason": "Droog, en het blijft net aan de goede kant van de knipoog."
+      }
+    ],
+    "confused_by": [
+      {
+        "quote": "Fanny Twee lag aan zijn voeten.",
+        "reason": "Wie of wat is Fanny Twee? Elders blijkbaar geïntroduceerd; hier valt het uit de lucht."
+      },
+      {
+        "quote": "aan de tuin in juni, aan de verbrande worsten en het vliegtuig met de witte streep.",
+        "reason": "Ik herinner me geen verbrande worsten; gewone worsten in hoofdstuk acht."
+      }
+    ],
+    "flags": [
+      {
+        "flag": "over_explained",
+        "quote": "Anders krijgen de onderste takken geen licht."
+      },
+      {
+        "flag": "cliche",
+        "quote": "Ze zei: er bestaan geen gewone vragen."
+      },
+      {
+        "flag": "predictable",
+        "quote": "Hij stond in de deuropening met zijn pet in zijn handen, zoals een man in een oude film."
+      },
+      {
+        "flag": "continuity_doubt",
+        "quote": "aan de verbrande worsten"
+      }
+    ],
+    "strongest_passage": {
+      "quote": "'Ik heb drie jaar gewacht tot ge ergens mee zoudt smijten,' zei ze. 'Met een bord. Met die gele emmer. Met iets. Ge hebt nooit met iets gesmeten. Ge hebt het gras gemaaid in januari.'",
+      "reason": "Het boek kijkt eindelijk kritisch naar zijn eigen stille, beheerste verteller."
+    },
+    "weakest_passage": {
+      "quote": "'Wij hebben ook lang gewacht, hé,' zei hij. 'Jeanine en ik.'",
+      "reason": "Elke bijfiguur krijgt nu een onvruchtbaarheidsverleden; de wereld wordt een spiegelpaleis rond Steven."
+    },
+    "machine_tells": [
+      {
+        "tell": "contrast_by_negation",
+        "quote": "Ze vergaf me niet. Ze zei niet dat het goed was."
+      },
+      {
+        "tell": "moral_generalization",
+        "quote": "Ze zei: er bestaan geen gewone vragen."
+      },
+      {
+        "tell": "feelings_in_dialogue",
+        "quote": "'Ik wilde ook niet meer,' zei ik."
+      }
+    ],
+    "felt": {
+      "emotion": "wisselend: geraakt aan tafel, geïrriteerd aan de haag",
+      "reason": "De keukentafel is het beste dialoogwerk van het boek; de haag en de radiator zijn verzoeningsrituelen met te duidelijke handleiding."
+    },
+    "confidence": "medium"
+  },
+  {
+    "reader": "Joris",
+    "chapter": "14",
+    "turn_page": "no",
+    "stopped_at": {
+      "quote": "Ik dacht: dit is het."
+    },
+    "why_stopped": {
+      "reason": "De epifanie in de scheerspiegel met daarna een inventaris van zegeningen: precies de verlossende toon waarvoor ik dit soort boeken dichtsla."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "'Of het verouderde. Suiker. Als ge het niet gebruikt.'",
+        "reason": "De polypropyleenvraag komt terug als slapstick, en dat is de enige verzoening die ik geloof."
+      },
+      {
+        "quote": "'Een raderdiertje,' zei ze. 'Ze zitten overal. In elke plas. Niemand kijkt ernaar.'",
+        "reason": "Lies krijgt iets van zichzelf, zonder dat het een kind moet zijn."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "over_explained",
+        "quote": "ik denk dat iets wat tien jaar niet gebeurd is, mag blijven zoals het is"
+      },
+      {
+        "flag": "cliche",
+        "quote": "Er was geen loket. Er was een man die zich stond te scheren."
+      },
+      {
+        "flag": "over_explained",
+        "quote": "Ik dacht aan Lies op de rand van het bad, aan de pen, aan het druppeltje naast haar navel."
+      },
+      {
+        "flag": "predictable",
+        "quote": "Ik draag hem morgen toch naar buiten met twee handen."
+      }
+    ],
+    "strongest_passage": {
+      "quote": "Ik stak hem in mijn mond. Ik beet. Er kraakte iets. Ik wist niet of het de suikerboon was of mijn tand.",
+      "reason": "Fysiek, absurd, en het lachen daarna is verdiend."
+    },
+    "weakest_passage": {
+      "quote": "Er was geen loket. Er was een man die zich stond te scheren. Er was de Siemens beneden, die om zes uur gepiept had.",
+      "reason": "Een aftelrijm van alle motieven als slotbalans; de roman schrijft zijn eigen recensie."
+    },
+    "machine_tells": [
+      {
+        "tell": "moral_at_door",
+        "quote": "Ik draag hem morgen toch naar buiten met twee handen."
+      },
+      {
+        "tell": "significance_inflation",
+        "quote": "Ik dacht het niet als een groot moment."
+      },
+      {
+        "tell": "image_then_explanation",
+        "quote": "Ik dacht aan Lies op de rand van het bad, aan de pen, aan het druppeltje naast haar navel."
+      },
+      {
+        "tell": "moral_generalization",
+        "quote": "zoals mijn vader deed, zoals iedere man doet"
+      }
+    ],
+    "felt": {
+      "emotion": "geraakt door de suikerboon, dan gemanipuleerd",
+      "reason": "Elk motief krijgt netjes zijn afsluitende plaats; de PMD-zak uit hoofdstuk een als slotakkoord is te symmetrisch om nog iets te voelen."
+    },
+    "confidence": "high"
+  }
+]

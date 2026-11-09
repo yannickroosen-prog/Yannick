@@ -1,0 +1,111 @@
+[
+ {
+  "reader": "Hilde, 52, leesclub Lokeren",
+  "turn_page": "yes",
+  "stopped_at": null,
+  "why_stopped": null,
+  "attention_dropped": {"quote": "De bank moest verwittigd worden, en het pensioenfonds van de spoorwegen", "reason": "De opsomming herken ik wel, maar ze duurt een zin te lang; ik las schuin tot 'Ik deed het meeste ervan.'"},
+  "remember_tomorrow": [
+   {"quote": "omdat hij geloofde in de IJsheiligen zoals andere mensen in God", "reason": "Dat is mijn schoonvader. Eén zin en de hele man staat er, Oost-Vlaams tot in de bonenstaken."},
+   {"quote": "'Ga maar. Ik doe uw lijst wel.'", "reason": "Klein, droog, en het pijnlijke zit in 'ik heb het hem nooit gezegd'."},
+   {"quote": "'Polypropyleen,' zei ze. 'Dat veroudert door uv-licht. In een schuif niet. Dat blijft goed.'", "reason": "Ze antwoordt op de vraag die hij stelt, niet op die eronder, en toch antwoordt ze op allebei. Daar kreeg ik het moeilijk."},
+   {"quote": "en het daar instoppen, met de rand van haar hand, één keer", "reason": "Het einde troost zonder te troosten. Dat gebaar onthoud ik."}
+  ],
+  "confused_by": [
+   {"quote": "de kamer van Zacht Salie", "reason": "Verwijst naar een eerder hoofdstuk; ik moest even terugdenken wat dat was (verfkleur?)."}
+  ],
+  "flags": [
+   {"flag": "over_explained", "quote": "Iets wat nergens was, en dus overal."},
+   {"flag": "machine_prose", "quote": "Ik weet niet waarom ik het zei."}
+  ],
+  "strongest_passage": {"quote": "Ik scheurde de verpakking open. Ik weet niet waarom. Ik haalde er twee uit.", "reason": "De stopcontactbeveiligers van de Action, één euro negenenveertig, de grap van 2014: zo herkenbaar Vlaams en zo wreed. Dit is de zin die pijn doet die ik zoek."},
+  "weakest_passage": {"quote": "Maar ik huilde ook om iets wat geen akte had en geen kerk en geen stempel.", "reason": "Hier wordt het me voorgezegd. Ik had de bananendoos en de ketel in Gent al zelf aan elkaar geknoopt; nu voelt het even als een preek bij de koffietafel."},
+  "machine_tells": [
+   {"tell": "Tic: 'Ik weet niet (meer) waarom' keert minstens vier keer terug, het verliest zijn kracht", "quote": "Ik weet niet meer waarom ik een schroevendraaier nodig had."},
+   {"tell": "Moraal / veralgemening aan het einde van een scène", "quote": "Dat is ook iets wat de dood meebrengt: alle zinnen die niemand nog zal afmaken."}
+  ],
+  "felt": {"emotion": "ontroering, met een krop in de keel bij de keukentafel", "reason": "Het verdriet om de vader en om het kind dat er niet is lopen in elkaar over via dingen (trein, doos, beveiligers), niet via woorden. Alleen de uitleg erna haalde me er even uit."},
+  "confidence": "hoog"
+ },
+ {
+  "reader": "Joris, 44, criticus",
+  "turn_page": "unsure",
+  "stopped_at": {"quote": "Ik weet niet om wie ik huilde. Ik dacht dat ik het wist."},
+  "why_stopped": {"reason": "Tot daar had ik geen munitie: geen zelfbeklag, droge zinnen, de beveiligers waren goed. Maar hier legt de verteller het symbool uit (akte versus bananendoos versus ketel), met een aforisme als strik erop. Precies wat ik kwam zoeken. Ik lees verder alleen om te zien of het slot het overdoet."},
+  "remember_tomorrow": [
+   {"quote": "met de contouren van elk stuk gereedschap erop getekend met een zwarte stift, zodat je zag wat er ontbrak", "reason": "Het beste beeld van het hoofdstuk, en het wordt níet uitgelegd. De ontbrekende schroevendraaier tussen de bonenstaken: zo moet het."},
+   {"quote": "Ik had gezegd dat Kristof het beter kon. Dat was waar. Het was niet de reden.", "reason": "Weigert de reden te geven. Toont dat de auteur het kan als hij wil."}
+  ],
+  "confused_by": [],
+  "flags": [
+   {"flag": "over_explained", "quote": "Iets wat nergens was, en dus overal."},
+   {"flag": "over_explained", "quote": "Alles loopt erheen, zoals water."},
+   {"flag": "cliche", "quote": "zoals je een doos neerzet waar glas in zit"},
+   {"flag": "machine_prose", "quote": "Ze zei niet *het komt goed*. Ze zei niet *hij heeft niets gevoeld*."}
+  ],
+  "strongest_passage": {"quote": "Ze draaide het tussen haar vingers, zoals ze in het labo een buisje draait om te zien of er iets neerslaat.", "reason": "Een vrouw die troost geeft in de taal van haar vak. Geen tranen, geen therapie. Daar verlies ik mijn misery-porn-these."},
+  "weakest_passage": {"quote": "Iets in een ketel in Gent, bij min honderdzesennegentig graden. Iets wat nergens was, en dus overal.", "reason": "Op het emotionele hoogtepunt somt de verteller de symbolen nog eens op en geeft ze een paradox mee. Verlosser-toon, en het smoort de beveiligers die al alles deden."},
+  "machine_tells": [
+   {"tell": "Beeld, dan uitleg (op het hoogtepunt)", "quote": "Ik huilde om hem. Dat is waar. Maar ik huilde ook om iets wat geen akte had"},
+   {"tell": "Contrast door ontkenning, herhaald in één scène", "quote": "Ze sneed de korstjes er niet af, maar ze sneed ze wel in vieren"},
+   {"tell": "Moraal / veralgemening", "quote": "Het gesprek komt altijd uit bij kinderen."},
+   {"tell": "Beeld, dan uitleg", "quote": "Het was een grap geweest die we vijf jaar lang in een schuif hadden bewaard."}
+  ],
+  "felt": {"emotion": "tegenzin die omsloeg in respect, en dan weer ergernis", "reason": "Het hoofdstuk is beter dan mijn vooroordeel, maar het vertrouwt zijn eigen dingen niet: telkens als een voorwerp gewerkt heeft, komt er een zin die zegt dat het gewerkt heeft."},
+  "confidence": "middel"
+ },
+ {
+  "reader": "Saïda, 37, leest autofictie en essays over moederschap",
+  "turn_page": "unsure",
+  "stopped_at": null,
+  "why_stopped": null,
+  "attention_dropped": {"quote": "Ze had het hele weekend bij mijn moeder geslapen, op de zetel", "reason": "Lies verschijnt hier als de zorgende vrouw op de achtergrond, en mijn aandacht zakte: weer is zij degene die opvangt."},
+  "remember_tomorrow": [
+   {"quote": "'Die gaan we toch nodig hebben.' Ze had het gezegd als een grap.", "reason": "Het enige moment waarop Lies haar eigen verlangen uitspreekt, en het is in het verleden, als grap."},
+   {"quote": "'Polypropyleen,' zei ze.", "reason": "Eindelijk een eigen stem, een eigen kennis. Ze weigert het sentiment en dat maakt haar echt."},
+   {"quote": "Ik denk dat haar lichaam het deed, zonder haar.", "reason": "Mooi, maar ook tekenend: zelfs haar zorg wordt voorgesteld als iets wat buiten haarzelf om gebeurt."}
+  ],
+  "confused_by": [
+   {"quote": "In januari hadden we afgesproken om een pauze te nemen met de behandelingen.", "reason": "Wiens beslissing was dat? 'had ze gezegd' suggereert de hare, maar wat zij erbij voelt blijft volledig buiten beeld."}
+  ],
+  "flags": [
+   {"flag": "emotion_missed", "quote": "Het waren laborantenhanden, met korte nagels en droge huid rond de knokkels"},
+   {"flag": "emotion_missed", "quote": "Iets in een ketel in Gent, bij min honderdzesennegentig graden."},
+   {"flag": "over_explained", "quote": "Iets wat nergens was, en dus overal."}
+  ],
+  "strongest_passage": {"quote": "Ze nam er een op. Ze draaide het tussen haar vingers, zoals ze in het labo een buisje draait om te zien of er iets neerslaat. Ze drukte met haar duim op het schijfje.", "reason": "Haar handen denken hier. Het is de enige plek waar Lies handelt in plaats van verzorgt, en waar het lichaam van de vrouw die de behandelingen onderging iets weet wat hij niet weet."},
+  "weakest_passage": {"quote": "Ze bleef een tijd weg.", "reason": "Lies staat alleen in de kleine kamer bij de doos 'VOOR LATER', het moment dat voor haar minstens zo zwaar is, en de tekst blijft beneden bij hem. Dat is precies waar ik wil kijken. De embryo's zijn ook van haar; hier wordt ze decor van zijn rouw."},
+  "machine_tells": [
+   {"tell": "Beschrijving via één lichaamsdeel in plaats van binnenwereld (vrouw als oppervlak)", "quote": "Het waren laborantenhanden"},
+   {"tell": "Contrast door ontkenning", "quote": "Ze zei niet *het komt goed*."}
+  ],
+  "felt": {"emotion": "ontroerd en tegelijk buitengesloten", "reason": "De scène aan de keukentafel raakt, maar alles wat Lies doet (slapen bij de schoonmoeder, hand vasthouden, boterhammen in driehoekjes, dekbed instoppen) is zorg voor anderen. Ik wil weten wat zij boven bij die doos dacht. Ik lees verder als het boek haar ooit een kamer geeft."},
+  "confidence": "middel"
+ },
+ {
+  "reader": "Toevallige lezer, luchthaven",
+  "turn_page": "no",
+  "stopped_at": {"quote": "Mijn vader had een garage zonder auto erin."},
+  "why_stopped": {"reason": "Eerst al de lijst met papierwerk overgeslagen, dan een begrafenis, een koffietafel, en nu weer een beschrijving van rekken en schroeven en een kalender van 2009. Er gebeurt niets, ik weet niet waar het heen gaat. Boarding."},
+  "remember_tomorrow": [
+   {"quote": "Mijn vader stierf op een vrijdag in mei, om ongeveer kwart over tien 's ochtends, tussen de bonenstaken.", "reason": "Sterke openingszin, die trok me erin."},
+   {"quote": "*VOOR OPA*, stond erop, in hoofdletters, de S achterstevoren.", "reason": "Dat kind met zijn clipdasje, dat beeld blijft."}
+  ],
+  "confused_by": [
+   {"quote": "toen we nog *zien* deden", "reason": "Wat is 'zien doen'? Moet ik eerdere hoofdstukken kennen."},
+   {"quote": "Iets in een ketel in Gent, bij min honderdzesennegentig graden.", "reason": "Gelezen bij het doorbladeren: welke ketel? Geen idee."},
+   {"quote": "De diepvries kon wachten. Dat is het voordeel van een diepvries.", "reason": "Welke diepvries? Te cryptisch zonder voorkennis."}
+  ],
+  "flags": [
+   {"flag": "slow_start", "quote": "Een sterfgeval brengt papier mee. Ik had dat niet geweten."},
+   {"flag": "exposition_dump", "quote": "De bank moest verwittigd worden, en het pensioenfonds van de spoorwegen"},
+   {"flag": "confusing", "quote": "toen we nog *zien* deden"},
+   {"flag": "no_stakes", "quote": "Er hing een kalender van de spoorwegen van 2009."}
+  ],
+  "strongest_passage": {"quote": "Hij zei: 'Steven.' Hij zei niets anders.", "reason": "Kort, je voelt meteen dat het slecht nieuws is."},
+  "weakest_passage": {"quote": "Er moest een begrafenisondernemer gekozen worden, en de begrafenisondernemer had een map met foto's van kisten", "reason": "Een hele alinea opsomming. Overgeslagen."},
+  "machine_tells": [],
+  "felt": {"emotion": "eerst gegrepen, daarna verveeld", "reason": "De dood in de eerste zin pakte me, maar daarna is het lang rouwadministratie en sfeer zonder vraag die me vooruit trekt."},
+  "confidence": "middel"
+ }
+]

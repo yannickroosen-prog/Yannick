@@ -1,0 +1,487 @@
+[
+  {
+    "reader": "De luchthavenlezer",
+    "chapter": "chapter-01",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "Ik vond ze op de website van Bosch, vierenveertig bladzijden in elf talen"
+    },
+    "why_stopped": {
+      "reason": "Een volle bladzijde handleiding, filters en kinderslot voor ik weet waarover het boek gaat; hier begon ik te scannen."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "Hij heeft een elektrische haagschaar die klinkt als een wesp met een mening.",
+        "reason": "Grappig, en Roger staat er meteen."
+      },
+      {
+        "quote": "'Ik heb vandaag gebeld,' zei ze nu, met haar vork in de pasta.",
+        "reason": "Eindelijk het echte onderwerp; hier wist ik waarom ik verder las."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "slow_start",
+        "quote": "De vaatwasser gaf het op op een dinsdag."
+      },
+      {
+        "flag": "over_explained",
+        "quote": "Er zijn drie slaapkamers boven."
+      }
+    ],
+    "strongest_passage": {
+      "quote": "'Twaalf mei,' zei ze, in het donker.",
+      "reason": "Kort, in het donker, en ik wist dat ze allebei wakker lagen. Daarom sla ik de bladzijde om."
+    },
+    "weakest_passage": {
+      "quote": "Er zijn drie slaapkamers boven.",
+      "reason": "Een rondleiding met verfkleuren en een strijkplank; ik heb het overgeslagen."
+    },
+    "machine_tells": [
+      {
+        "tell": "Image, then explanation",
+        "quote": "Ze kijkt naar mensen alsof ze een resultaat afwacht."
+      }
+    ],
+    "felt": {
+      "emotion": "nieuwsgierigheid",
+      "reason": "Pas laat, bij het telefoontje naar het UZ; daarvoor vooral geamuseerd geduld."
+    },
+    "confidence": "medium"
+  },
+  {
+    "reader": "De luchthavenlezer",
+    "chapter": "chapter-04",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "Het keuringsstation is een lange hal met drie rijstroken"
+    },
+    "why_stopped": {
+      "reason": "Midden in het wachten op de uitslag een uitleg over hoe een keuring werkt; ik wilde terug naar Lies."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "Een dikke prop, zorgvuldig gerold, zoals je een vogeltje inrolt dat je in de tuin gevonden hebt.",
+        "reason": "Die test in de vuilbak blijft hangen."
+      },
+      {
+        "quote": "Het speelde een minuut, en toen hield het op.",
+        "reason": "Het alarm Ontwaken na de slechte uitslag. Niemand staat op."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "over_explained",
+        "quote": "Het was een lampje dat het werk deed van zichtbaar maken wie je bent"
+      }
+    ],
+    "strongest_passage": {
+      "quote": "Ik rolde de test weer in het papier. Ik deed het zorgvuldig, zoals zij het gedaan had, zodat ze niet zou zien dat ik hem had gevonden.",
+      "reason": "Hij verstopt dat hij het weet. Ik las het twee keer zonder het te willen."
+    },
+    "weakest_passage": {
+      "quote": "Het was een lampje dat het werk deed van zichtbaar maken wie je bent",
+      "reason": "Ik had het lampje al begrepen; hier wordt de metafoor voorgekauwd."
+    },
+    "machine_tells": [
+      {
+        "tell": "Image, then explanation",
+        "quote": "Het voelde als een testament schrijven voor iemand die nog moest worden geboren, en ik bedacht dat dat eigenlijk precies was wat het was."
+      },
+      {
+        "tell": "Contrast by negation",
+        "quote": "Je zou denken dat dat een opluchting is. Dat was het ook. Dat was het ergste eraan."
+      }
+    ],
+    "felt": {
+      "emotion": "een krop in de keel",
+      "reason": "Bij de test in het wc-papier en het alarm dat blijft spelen."
+    },
+    "confidence": "high"
+  },
+  {
+    "reader": "De luchthavenlezer",
+    "chapter": "chapter-06",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "Rita is de moeder van Lies."
+    },
+    "why_stopped": {
+      "reason": "Een hele rij familieleden met namen en leeftijden tegelijk; ik heb er de helft van niet onthouden."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "'Of,' zei ik, 'als ge hem niet wilt, die derde. Dan kunt ge hem altijd nog laten weghalen, hé.",
+        "reason": "Hier schrok ik. Dat zegt hij echt."
+      },
+      {
+        "quote": "*16.09.2016 — konijn (Lena) — 37,00*",
+        "reason": "Het kasboekje met het konijn en de doopsuiker ertussen."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "slow_start",
+        "quote": "In het fertiliteitscentrum van Gent stond een tank met vloeibare stikstof op min honderdzesennegentig graden"
+      }
+    ],
+    "strongest_passage": {
+      "quote": "Ik draaide me om. Lies stond in de deuropening. Ze had haar jas aan.",
+      "reason": "Ik zag het aankomen en toch zat het. Daarna wilde ik weten wat zij gehoord had."
+    },
+    "weakest_passage": {
+      "quote": "Ik dacht dat ik iets kapot had gemaakt dat ik niet kon benoemen, zoals de olijfpit in de vaatwasser, maar dat ik deze keer niet wist welke filter ik moest losdraaien.",
+      "reason": "De olijfpit wordt erbij gesleept om iets uit te leggen dat ik al voelde."
+    },
+    "machine_tells": [
+      {
+        "tell": "Contrast by negation",
+        "quote": "Ik had moeten stoppen. Het was niet de cava. Het was Bert."
+      }
+    ],
+    "felt": {
+      "emotion": "schaamte voor hem",
+      "reason": "Op het koertje; ik wilde dat hij zijn mond hield."
+    },
+    "confidence": "high"
+  },
+  {
+    "reader": "De luchthavenlezer",
+    "chapter": "chapter-07",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "Er moest een begrafenisondernemer gekozen worden"
+    },
+    "why_stopped": {
+      "reason": "Een opsomming van papierwerk die net zo lang voelt als het papierwerk zelf; ik sprong naar het volgende stuk."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "*STEVEN — VOOR LATER*",
+        "reason": "De doos van zijn vader. Die gaat mee naar huis, in mijn hoofd ook."
+      },
+      {
+        "quote": "'Polypropyleen,' zei ze. 'Dat veroudert door uv-licht. In een schuif niet. Dat blijft goed.'",
+        "reason": "Perfect antwoord van haar; droog en lief tegelijk."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "over_explained",
+        "quote": "Een sterfgeval brengt papier mee. Ik had dat niet geweten."
+      }
+    ],
+    "strongest_passage": {
+      "quote": "Ik haalde de twee stopcontactbeveiligers uit mijn zak en legde ze op de tafel, tussen haar handen en de mijne.",
+      "reason": "Geen uitleg, gewoon twee plastic dingetjes op tafel. Daar huilde ik bijna mee."
+    },
+    "weakest_passage": {
+      "quote": "Dat is ook iets wat de dood meebrengt: alle zinnen die niemand nog zal afmaken.",
+      "reason": "Een tegeltjeswijsheid; het voorgaande zei dit al."
+    },
+    "machine_tells": [
+      {
+        "tell": "The moral at the door",
+        "quote": "Dat is ook iets wat de dood meebrengt: alle zinnen die niemand nog zal afmaken."
+      },
+      {
+        "tell": "Image, then explanation",
+        "quote": "Het was een grap geweest die we vijf jaar lang in een schuif hadden bewaard."
+      }
+    ],
+    "felt": {
+      "emotion": "ontroering",
+      "reason": "Het huilen aan de keukentafel en dat zij het dekbed instopt."
+    },
+    "confidence": "high"
+  },
+  {
+    "reader": "De luchthavenlezer",
+    "chapter": "chapter-08",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "Kristof zat thuis met zijn twee kinderen."
+    },
+    "why_stopped": {
+      "reason": "Een opsomming van lockdownfilmpjes die iedereen zelf heeft meegemaakt; ik skimde tot het schilderen."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "Bij *Pa* van Doe Maar zong ze mee.",
+        "reason": "Lies die vals zingt op de ladder; het beste moment van het boek tot nu."
+      },
+      {
+        "quote": "'Ik wil niet meer,' zei ze.",
+        "reason": "De bom aan de barbecue."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "slow_start",
+        "quote": "Het eerste wat ik me herinner van de lockdown is de stilte op de steenweg."
+      }
+    ],
+    "strongest_passage": {
+      "quote": "'Ik wil niet meer, Steven. Ik heb er drie maanden niet aan moeten denken en het was...' Ze zocht naar een woord.",
+      "reason": "Zij zegt het hardop en hij niet. Ik wilde hem door elkaar schudden."
+    },
+    "weakest_passage": {
+      "quote": "Ik schaamde me. Dat was het eerste.",
+      "reason": "Hij benoemt het gevoel en legt het daarna nog eens uit; ik had het al gelezen."
+    },
+    "machine_tells": [
+      {
+        "tell": "Emotion labels instead of the body",
+        "quote": "Ik schaamde me. Dat was het eerste."
+      },
+      {
+        "tell": "Image, then explanation",
+        "quote": "het was alsof er twee mensen in mij zaten die elk een andere mail hadden gelezen"
+      }
+    ],
+    "felt": {
+      "emotion": "frustratie",
+      "reason": "Om 'Nog één keer', omdat ik wist dat hij het anders dacht."
+    },
+    "confidence": "high"
+  },
+  {
+    "reader": "De luchthavenlezer",
+    "chapter": "chapter-09",
+    "turn_page": "yes",
+    "stopped_at": null,
+    "why_stopped": null,
+    "remember_tomorrow": [
+      {
+        "quote": "Na tweeënvijftig minuten kwam ze door de draaideur.",
+        "reason": "De klok op de parking; ik las sneller en sneller."
+      },
+      {
+        "quote": "Het is de enige datum in dat schrift zonder bedrag ernaast.",
+        "reason": "Het kasboekje weer. Dit blijft."
+      }
+    ],
+    "confused_by": [],
+    "flags": [],
+    "strongest_passage": {
+      "quote": "Ze liep naar de auto. Dat was het verschil.",
+      "reason": "Zonder één woord weet je het al. Gemeen goed."
+    },
+    "weakest_passage": {
+      "quote": "Een vrouw met goed nieuws loopt naar iemand.",
+      "reason": "Een algemene regel waar het beeld al genoeg was."
+    },
+    "machine_tells": [
+      {
+        "tell": "Image, then explanation",
+        "quote": "Een vrouw met goed nieuws loopt naar iemand."
+      }
+    ],
+    "felt": {
+      "emotion": "verdriet",
+      "reason": "Bij 'Er is geen hartslag' en het maaien in januari."
+    },
+    "confidence": "high"
+  },
+  {
+    "reader": "De luchthavenlezer",
+    "chapter": "chapter-11",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "Een vrouw van het Vlaams Centrum voor Adoptie vertelde met een PowerPoint."
+    },
+    "why_stopped": {
+      "reason": "Een infosessie met wachttijden en procedures; dit is een folder, geen verhaal."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "'Bij de Aldi zijn ze vier negenenveertig,' zei hij. 'Maar dat is anderhalve kilo. Dus dat is duurder per kilo.'",
+        "reason": "Dylan. Vanaf hier zat ik er weer helemaal in."
+      },
+      {
+        "quote": "'Steven,' fluisterde ze. 'Er slaapt iemand.'",
+        "reason": "Kort en het raakte."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "exposition_dump",
+        "quote": "Dat er een voorbereiding was, een verplichte, en een maatschappelijk onderzoek, en een geschiktheidsvonnis van de jeugdrechtbank."
+      }
+    ],
+    "strongest_passage": {
+      "quote": "'Die van u valt altijd stil,' zei Dylan. 'Ik heb het gezien. Deze is in promotie.'",
+      "reason": "Het afscheidscadeau van een kind dat prijzen telt. Perfect."
+    },
+    "weakest_passage": {
+      "quote": "een menen dat waar is, en dat toch ergens anders pijn doet",
+      "reason": "Hier wordt een gevoel uitgelegd dat de scène zelf draagt."
+    },
+    "machine_tells": [
+      {
+        "tell": "Emotion labels instead of the body",
+        "quote": "een menen dat waar is, en dat toch ergens anders pijn doet"
+      }
+    ],
+    "felt": {
+      "emotion": "warmte, dan gemis",
+      "reason": "Dylan die vertrekt en de deur die open blijft."
+    },
+    "confidence": "high"
+  },
+  {
+    "reader": "De luchthavenlezer",
+    "chapter": "chapter-12",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "Het was een tafel van teakhout, voor twaalf personen"
+    },
+    "why_stopped": {
+      "reason": "Weer een familiefeest dat begint met een beschrijving van meubels en wie er allemaal zit; ik wist al wat er ging komen."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "*Maar ze kon het dus wel.*",
+        "reason": "De lelijkste gedachte van het boek, en ik geloofde ze."
+      },
+      {
+        "quote": "Het was het overtrek met de raketten. Zonder dekbed erin.",
+        "reason": "Een lege hoes die niets warm houdt. Blijft."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "predictable",
+        "quote": "'Er komt er nog een bij!' zei Kristof. 'In januari! Nummer drie!'"
+      }
+    ],
+    "strongest_passage": {
+      "quote": "'Ik ben een van die mensen, Steven.'",
+      "reason": "Hier draait het hele boek om. Ik heb het boek even neergelegd van schrik, en toen meteen weer opgepakt."
+    },
+    "weakest_passage": {
+      "quote": "Ik denk dat ze van dezelfde man komen.",
+      "reason": "De hoofdpersoon trekt zelf de conclusie die ik al getrokken had."
+    },
+    "machine_tells": [
+      {
+        "tell": "Emotion labels instead of the body",
+        "quote": "Ik hield van hem en ik was jaloers op hem, op een manier waarvoor ik me schaamde"
+      },
+      {
+        "tell": "The moral at the door",
+        "quote": "Ik denk dat ze van dezelfde man komen."
+      }
+    ],
+    "felt": {
+      "emotion": "schok",
+      "reason": "De onthulling in de auto op de oprit."
+    },
+    "confidence": "high"
+  },
+  {
+    "reader": "De luchthavenlezer",
+    "chapter": "chapter-13",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "We spraken over de energieprijzen, die die zomer de pan uit swingden"
+    },
+    "why_stopped": {
+      "reason": "Een lange alinea over hoe het dagelijks leven gewoon doorging; dat had in twee zinnen gekund."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "'Wij hebben ook lang gewacht, hé,' zei hij. 'Jeanine en ik.'",
+        "reason": "Roger. Dit had ik niet zien aankomen, en het klopt."
+      },
+      {
+        "quote": "'Omdat ik dan degene was die stopte,' zei ik.",
+        "reason": "Eindelijk zegt hij iets waar."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "over_explained",
+        "quote": "Ik schrijf het zo, *negentien weken*, omdat ik het geteld heb"
+      }
+    ],
+    "strongest_passage": {
+      "quote": "'Het is te koud hier,' zei ze, zonder zich om te draaien. 'Kom.'",
+      "reason": "Verzoening via een radiatorsleuteltje. Geen woord te veel."
+    },
+    "weakest_passage": {
+      "quote": "Ik had nooit gedacht dat hij zelf ooit een kind had gekregen, en dat dat kind ver weg was",
+      "reason": "Legt Roger uit vlak voor Roger het zelf mooier vertelt."
+    },
+    "machine_tells": [
+      {
+        "tell": "Contrast by negation",
+        "quote": "Zo was het niet. Het was niet beslist."
+      }
+    ],
+    "felt": {
+      "emotion": "opluchting",
+      "reason": "Bij de radiator en de warme voeten."
+    },
+    "confidence": "high"
+  },
+  {
+    "reader": "De luchthavenlezer",
+    "chapter": "chapter-14",
+    "turn_page": "yes",
+    "stopped_at": {
+      "quote": "Een peter in Vlaanderen moet niet veel."
+    },
+    "why_stopped": {
+      "reason": "Uitleg over wat een peter doet; ik wilde naar het feest en de trein."
+    },
+    "remember_tomorrow": [
+      {
+        "quote": "Ik stak hem in mijn mond. Ik beet.",
+        "reason": "De oude suikerboon. Gek en grappig en droevig tegelijk."
+      },
+      {
+        "quote": "Ik draag hem morgen toch naar buiten met twee handen.",
+        "reason": "Goede laatste zin; terug bij de PMD-zak van het begin."
+      }
+    ],
+    "confused_by": [],
+    "flags": [
+      {
+        "flag": "over_explained",
+        "quote": "Ik dacht het niet als een groot moment. Ik dacht het zoals je denkt dat de melk op is."
+      }
+    ],
+    "strongest_passage": {
+      "quote": "Ze lachte haar echte lach, in de Skoda, op de straat van Kristof",
+      "reason": "Haar lach van hoofdstuk één komt terug. Hier was ik blij voor ze."
+    },
+    "weakest_passage": {
+      "quote": "Er was geen loket. Er was een man die zich stond te scheren.",
+      "reason": "Het boek vat zichzelf samen; ik had de samenvatting niet nodig."
+    },
+    "machine_tells": [
+      {
+        "tell": "The moral at the door",
+        "quote": "Er was geen loket."
+      },
+      {
+        "tell": "Reflex triads",
+        "quote": "Ik vond dat logisch. Ik vond het ook erg. Ik vond het allebei."
+      }
+    ],
+    "felt": {
+      "emotion": "tevredenheid",
+      "reason": "Het eindigt klein en dat past."
+    },
+    "confidence": "medium"
+  }
+]

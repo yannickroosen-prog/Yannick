@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "type": "blinde lezerspanel, gate read, pass 1",
+    "boek": "De kamers waar niemand slaapt",
+    "rek": "Verhulst / Elsschot",
+    "steekproef": ["chapter-01 (opening)", "chapter-07 (midden)", "chapter-12 (climax)", "chapter-13", "chapter-14 (slot)"],
+    "tells_referentie": "ai-tells-en.md, toegepast op Nederlandse equivalenten (contrast door ontkenning, beeld-dan-uitleg, moraal aan de deur, gevoel benoemd in dialoog, reflexdrietallen)",
+    "methode": "Vier persona's, elk onafhankelijk van nul beoordeeld. Voor hoofdstuk 14 betekent turn_page: leest uit tot de laatste zin.",
+    "kanttekening_steekproef": "Verwijzingen naar niet-gelezen hoofdstukken (Dylan, Kelly, het koertje bij Bert, de gele emmer, Gebroken Wit) zijn alleen als probleem gemarkeerd waar een persona er echt op vastloopt."
+  },
+  "personas": [
+    {
+      "naam": "Hilde",
+      "profiel": "52, leesclub Lokeren (Verhulst, Lize Spit, Griet Op de Beeck). Wil herkenbaar Vlaanderen en een zin die pijn doet; haakt af bij sentimentaliteit en therapeutentaal.",
+      "hoofdstukken": {
+        "chapter-01": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [],
+          "notitie": "Meteen thuis: PMD-zak, Roger met zijn haagschaar, Brico Zacht Salie, verkaveling tussen Aalst en Dendermonde. 'Je kunt aan iemands PMD-zak veel zien' is precies het soort observatie dat haar leesclub zou citeren. De pijn zit onder het grappige: de deuren die dicht blijven."
+        },
+        "chapter-07": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "over_explained", "quote": "Dat is ook iets wat de dood meebrengt: alle zinnen die niemand nog zal afmaken."},
+            {"flag": "over_explained", "quote": "met twee stopcontactbeveiligers van de Action tussen ons in, die een vrouw van het labo had verzekerd dat ze in het donker niet zouden verouderen"}
+          ],
+          "notitie": "Koffietafel in de parochiezaal, nonkel Gerard met rijsttaart: herkenbaar tot op het bot. De huilscène is sterk, maar de bijzin vat nog eens samen wat ze net gelezen heeft. Het spreukje over onafgemaakte zinnen schuurt tegen de tegeltjeswijsheid aan."
+        },
+        "chapter-12": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "continuity_doubt", "quote": "Ik bleef in de Picanto zitten. Ik weet niet hoe lang. ---"}
+          ],
+          "notitie": "Dit is het hoofdstuk waarvoor ze het boek aanraadt. Het familiefeest, de tafel, Kristof in de garage, en dan de oprit. '*Maar ze kon het dus wel.*' doet echt pijn, net omdat de verteller zichzelf niet spaart. Het scheidingsteken dat in de alinea is beland, haalt haar even uit de tekst."
+        },
+        "chapter-13": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "over_explained", "quote": "We hebben het niet opgelost. We hebben een radiator ontlucht."},
+            {"flag": "stiff_dialogue", "quote": "'Ik ga het zeggen. Ik vind dat ge het moet horen in plaats van het alleen te zien.'"}
+          ],
+          "notitie": "Roger en de haag raken haar: 'Er bestaan geen gewone vragen.' De radiatorscène werkt op zich; de zin erna zegt hardop wat de scène al deed. De zin over 'horen in plaats van zien' klinkt als relatietherapie in een Oost-Vlaamse keuken. Lies' uitval ('ge vond dat schoon') maakt dat ruim goed."
+        },
+        "chapter-14": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "over_explained", "quote": "Ik dacht: dit is het. Er komt geen antwoord."},
+            {"flag": "cliche", "quote": "Er was een meisje van acht maanden met een houten trein."}
+          ],
+          "notitie": "De suikerboon in de Picanto is het beste moment: lachen in plaats van huilen. Het scheermesje en de 'loket'-passage leunen naar wijsheid; de opsomming van alles wat er wél is, komt dicht bij de troostende slotakkoorden waar ze bij Op de Beeck soms van zucht. Het slot met de PMD-zak redt het."
+        }
+      },
+      "remember_tomorrow": [
+        {"quote": "Je kunt aan iemands PMD-zak veel zien.", "reden": "Typisch Vlaams detail dat een hele kinderloosheid draagt zonder het woord te noemen."},
+        {"quote": "*Maar ze kon het dus wel.*", "reden": "De lelijkste gedachte van het boek, en de eerlijkste. De zin die pijn doet."},
+        {"quote": "'Polypropyleen,' zei ze. 'Dat veroudert door uv-licht. In een schuif niet. Dat blijft goed.'", "reden": "Troost in de vorm van een labofeit; geen enkel sentimenteel woord."},
+        {"quote": "Ik draag hem morgen toch naar buiten met twee handen.", "reden": "Het lichte zakje van hoofdstuk 1 komt terug, en nu weegt het."}
+      ],
+      "felt": {"emotie": "ontroering met schaamte", "reden": "Ze herkent de man die zijn verdriet in klusjes stopt, en schrikt mee als blijkt wat er onder die klusjes zat."},
+      "ending_earned": {"oordeel": "yes", "reden": "Het slot belooft niets: geen kind, geen verzoening in woorden, alleen open deuren en een vuilniszak. De korte wijsheidsmomenten in het scheerspiegel-stuk vallen haar op, maar breken het niet."}
+    },
+    {
+      "naam": "Joris",
+      "profiel": "44, criticus. Leest om te bewijzen dat het misery-porn is; haakt af bij zelfmedelijden, uitgelegde symbolen en een verlossende toon.",
+      "hoofdstukken": {
+        "chapter-01": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "over_explained", "quote": "Het defect was ik. Dat is altijd een beetje een teleurstelling, als je iets wil herstellen."},
+            {"flag": "over_explained", "quote": "Het kinderslot."}
+          ],
+          "notitie": "Hij kwam voor ellende en kreeg Elsschot: droog, ironisch, geen klaagzang. Het kinderslot als eenregelige alinea is een knipoog met een zwaailicht, en 'Het defect was ik' zegt de metafoor voor. Toch: geen zelfmedelijden te vinden. Hij leest door, met tegenzin."
+        },
+        "chapter-07": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "over_explained", "quote": "Het was een grap geweest die we vijf jaar lang in een schuif hadden bewaard."},
+            {"flag": "over_explained", "quote": "die een vrouw van het labo had verzekerd dat ze in het donker niet zouden verouderen"},
+            {"flag": "machine_prose", "quote": "Ze zei niet *het komt goed*. Ze zei niet *hij heeft niets gevoeld*. Ze stond daar gewoon."},
+            {"flag": "emotion_missed", "quote": "en dat ik niets op die kist had om te leggen."}
+          ],
+          "notitie": "Bewijsstuk A voor zijn stelling: dode vader, doos VOOR LATER, babybeveiliging, huilen aan tafel. Drie tranentrekkers in één hoofdstuk. Maar 'Polypropyleen' ondergraaft zijn eigen pleidooi: het antwoord is zakelijk, niet zielig. De zin over de kist is zelfmedelijden; de uitleg na de grap en na het huilen vertrouwt de lezer niet."
+        },
+        "chapter-12": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "cliche", "quote": "Vijf minuten later begon het te regenen."},
+            {"flag": "cliche", "quote": "Buiten hield de regen op, zo plots als hij begonnen was"},
+            {"flag": "over_explained", "quote": "Ik denk dat ze van dezelfde man komen. Ik lag op een plooibed onder de luchtballonnen van de Brackes, met mijn voeten over de rand, en ik wist voor het eerst niet meer wie die man was."},
+            {"flag": "over_explained", "quote": "Gewoon het overtrek, een lege hoes van katoen, die niets warm hield."}
+          ],
+          "notitie": "Hier verliest hij zijn zaak. De verteller is geen slachtoffer maar medeplichtig: de tirade over Kelly en 'die laten het weghalen' is lelijk en hoort bij hem. Dat is het tegendeel van misery-porn. Wel: regen bij het nieuws en droogte bij de verzoening is weer op bestelling, en de laatste alinea's leggen de symbolen nog eens uit."
+        },
+        "chapter-13": {
+          "turn_page": "unsure",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "over_explained", "quote": "We hebben het niet opgelost. We hebben een radiator ontlucht."},
+            {"flag": "over_explained", "quote": "en dat hij op zondagmorgen om negen uur een haag snoeide die niet gesnoeid moest worden, al vijfentwintig jaar, in een straat waar zijn zoon nooit meer kwam."},
+            {"flag": "cliche", "quote": "'Nee,' zei hij. 'Dat is het, hé. Ge weet het nooit. Van niemand.'"},
+            {"flag": "machine_prose", "quote": "Ik had dat nooit gemerkt, dat we onze handen hetzelfde legden."}
+          ],
+          "notitie": "De wijze buurman die de les leest, de schoonmoeder die de vrouw komt verklaren: dit is het hoofdstuk waar de verlossing begint te ruiken. De 'Ik had dat nooit gemerkt/gezien'-wending is inmiddels een tic (koffie van Rita, handen op tafel, de hand van vader). Lies' uitval en 'Omdat ik dan degene was die stopte' houden hem net vast, al is die laatste zin psychologie in één regel."
+        },
+        "chapter-14": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "over_explained", "quote": "Ik dacht: dit is het. Er komt geen antwoord."},
+            {"flag": "predictable", "quote": "'Een raderdiertje,' zei ze. 'Ze kunnen jaren uitgedroogd liggen. Als ze water krijgen, worden ze wakker.'"},
+            {"flag": "machine_prose", "quote": "Ik dacht het niet als een groot moment. Ik dacht het zoals je denkt dat de melk op is."},
+            {"flag": "continuity_doubt", "quote": "Er heeft daar één jongen geslapen, en één man."}
+          ],
+          "notitie": "Elk motief wordt teruggehaald en netjes opgeborgen: trein, hand van vader, doopsuiker, Zacht Salie, Hema-lampje, PMD. Peterschap als troostprijs, een raderdiertje als hoopsymbool. Dat is de verlossende toon waar hij op loerde. De suikerboon en de dichte deur waar niet op geklopt wordt, zijn wel goed. Kleine twijfel: de Brackes hebben er drie kinderen grootgebracht, dus 'één jongen' leest vreemd zonder context."
+        }
+      },
+      "remember_tomorrow": [
+        {"quote": "'Sorry,' zei ik. 'Waarom zegt die sorry. [...] Die laten het weghalen, als het hen niet goed uitkomt. En wij...'", "reden": "De verteller laat zijn lelijkste kant zien zonder verzachting; dit maakt zijn misery-porn-these onhoudbaar."},
+        {"quote": "'Ik ben een van die mensen, Steven.'", "reden": "Droog, kort, vernietigend. Geen muziek eronder."},
+        {"quote": "'Polypropyleen,' zei ze.", "reden": "Het boek weigert hier sentiment, en dat is zeldzaam in het genre."},
+        {"quote": "We hebben het niet opgelost. We hebben een radiator ontlucht.", "reden": "Onthoudt hij als voorbeeld van een sterke scène die zichzelf in de laatste zin uitlegt; komt in zijn recensie."}
+      ],
+      "felt": {"emotie": "ontwapend, met achterdocht", "reden": "Hij moet toegeven dat de hoofdpersoon geen medelijden vraagt en zelf schuld draagt, maar in de laatste twee hoofdstukken voelt hij de auteur de lezer naar troost duwen."},
+      "ending_earned": {"oordeel": "deels", "reden": "Het slotbeeld (PMD-zak met twee handen) is verdiend en onopgesmukt. De weg ernaartoe is te opgeruimd: elk symbool krijgt een slotnoot, en de scheerspiegel plus het raderdiertje verwoorden de les die het boek zelf al gaf."}
+    },
+    {
+      "naam": "Saïda",
+      "profiel": "37, leest autofictie en essays over moederschap (Cusk, Heti). Haakt af als de vrouw decor blijft.",
+      "hoofdstukken": {
+        "chapter-01": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [],
+          "notitie": "Lies is geen decor: zij belt het UZ, zij maakt de Excel, zij zegt 'Dat is van mij.' Haar autonomie zit in wat ze afschermt. De mannelijke verteller ziet haar van buiten, maar weet dat hij van buiten kijkt ('Ze vroeg het niet aan mij. Ze vroeg het aan de pasta.'). Dat bewustzijn houdt haar vast."
+        },
+        "chapter-07": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "emotion_missed", "quote": "Lies liet me los toen ik stopte. Ze maakte boterhammen."},
+            {"flag": "over_explained", "quote": "Ik denk niet dat ze wakker was. Ik denk dat haar lichaam het deed, zonder haar."}
+          ],
+          "notitie": "Lies staat hier in dienst van zijn rouw: troosten, boterhammen snijden, instoppen. De pauze in de behandelingen, haar eigen verlies, krijgt één bijzin ('Tot de zomer, en dan zien we'). Toch geeft 'Polypropyleen' haar een eigen stem en kennis. Ze leest door, maar noteert: zij is hier vooral zorg."
+        },
+        "chapter-12": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "emotion_missed", "quote": "Ze vertelde het kort. In feiten. Een jongen die Tim heette en gitaar speelde op koten."},
+            {"flag": "cliche", "quote": "Ik weet dat ze het zag zoals ze een resultaat ziet onder een microscoop, en dat ze knikte, één keer, alsof een hypothese bevestigd werd die ze al jaren had."}
+          ],
+          "notitie": "Het kantelpunt van het boek is van haar: haar abortus, haar zwijgen, haar oordeel. 'Ik ben een van die mensen, Steven.' is het sterkste wat een vrouw in deze steekproef zegt. Maar haar verhaal wordt door hem samengevat in losse fragmenten, en het labo-beeld (resultaat, hypothese) wordt nu voor de derde keer gebruikt om haar blik te beschrijven."
+        },
+        "chapter-13": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "over_explained", "quote": "'Dat ze iemand nodig had. Ze heeft nooit iemand nodig willen hebben. Dat heeft ze van mij.'"},
+            {"flag": "cliche", "quote": "alsof ze een meting afleest die ze al kende."}
+          ],
+          "notitie": "Eerst verklaart de moeder de dochter aan de echtgenoot: de vrouw als dossier tussen twee anderen. Dan neemt Lies het woord, en hoe: 'Ik lag daar met mijn buik vol gaatjes en gij vond dat schoon.' Dat is het lichaam dat terugpraat. En 'Ik ben een moeder. Een moeder haalt friet.' is de beste zin over moederschap in de steekproef."
+        },
+        "chapter-14": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "flat_voice", "quote": "Er was een vrouw in de kamer van Zacht Salie die naar een raderdiertje keek."},
+            {"flag": "emotion_missed", "quote": "Ze zei dat ze ernaar had verlangd, al twintig jaar, om eens naar iets te kijken zonder dat het een staal was."}
+          ],
+          "notitie": "Een kamer voor zichzelf, een microscoop, een deur die soms dicht is en waarop niet geklopt wordt: dat is precies goed, en zonder uitleg. Maar in de slotopsomming wordt Lies één item tussen de Siemens en de choco, en haar verlangen komt alleen in indirecte rede. De laatste stem is zijn stem. Ze vindt dat niet fataal: het is zijn boek, en hij weet dat hij haar niet kan binnenkijken."
+        }
+      },
+      "remember_tomorrow": [
+        {"quote": "'Ge zat op uw knieën op die badmat en ge prikte volgens de klok en ge vond dat schoon. [...] Ik lag daar met mijn buik vol gaatjes en gij vond dat schoon.'", "reden": "Het vrouwenlichaam als object van zorg dat zich verzet tegen die zorg; dit is het hart van het boek voor haar."},
+        {"quote": "'Ik ben een moeder. Een moeder haalt friet.'", "reden": "Moederschap als daad, niet als gevoel. Cusk had het kunnen schrijven."},
+        {"quote": "De deur staat meestal open. Soms is ze dicht. Als ze dicht is, klop ik niet. Dat is niet afgesproken. Het is zo.", "reden": "De man die haar ruimte erkent zonder ze te benoemen."},
+        {"quote": "Ik heb dat bestand nooit gezien. Ik weet alleen dat het bestond, en dat het van haar was.", "reden": "Vanaf bladzijde één weet de verteller dat hij haar niet bezit."}
+      ],
+      "felt": {"emotie": "erkenning, met een rest frustratie", "reden": "Lies krijgt het beslissende geheim en de felste woorden, maar haar binnenkant blijft altijd net achter zijn blik en achter het labo-beeld."},
+      "ending_earned": {"oordeel": "yes", "reden": "Het slot geeft Lies een eigen kamer en geeft hem geen kind, en het weigert van haar onvruchtbaarheid een les te maken. Ze had graag één laatste regel van Lies gehad in plaats van haar als item in zijn opsomming."}
+    },
+    {
+      "naam": "Luchthavenlezer",
+      "profiel": "Toevallige lezer op de luchthaven: slaat beschrijving over, geen geduld.",
+      "hoofdstukken": {
+        "chapter-01": {
+          "turn_page": "unsure",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "slow_start", "quote": "Het waren drie filters, stond er, die in elkaar pasten zoals Russische poppetjes"},
+            {"flag": "no_stakes", "quote": "Ik las alles. Ik ben iemand die alles leest. Ik las over het kinderslot."}
+          ],
+          "notitie": "Vier bladzijden vaatwasser. De grapjes ('een wesp met een mening', 'een kast met ambities') houden hem net wakker. Pas bij 'Ik heb vandaag gebeld' snapt hij waar het over gaat. Leest misschien verder als de vlucht vertraagd is."
+        },
+        "chapter-07": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "exposition_dump", "quote": "De bank moest verwittigd worden, en het pensioenfonds van de spoorwegen, en de mutualiteit, en de notaris, en de gemeente"}
+          ],
+          "notitie": "De eerste zin pakt hem ('tussen de bonenstaken'). De papierlijst slaat hij over. De doos VOOR LATER en het huilen aan tafel raken hem wel; dat is een scène, geen beschrijving."
+        },
+        "chapter-12": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "confusing", "quote": "Die Kelly, op haar negentiende, met een of andere vent, en dan kan ze het niet aan, en dan moeten wij het weekend overnemen."},
+            {"flag": "confusing", "quote": "Ik bleef in de Picanto zitten. Ik weet niet hoe lang. ---"}
+          ],
+          "notitie": "Eindelijk gebeurt er iets: zwangerschapsnieuws, een loodzware tafel in de regen, een bekentenis op de oprit. Hij leest het in één ruk. Wie Kelly en Dylan zijn weet hij niet, en het losse streepje na 'hoe lang' leest als een drukfout."
+        },
+        "chapter-13": {
+          "turn_page": "unsure",
+          "stopped_at": "Van onder naar boven. En een beetje schuin.",
+          "flags": [
+            {"flag": "slow_start", "quote": "Ik sliep negentien weken in de kleine kamer."},
+            {"flag": "no_stakes", "quote": "'Niet zo,' zei hij. 'Van onder naar boven. En een beetje schuin. Zodat de onderkant breder blijft dan de bovenkant.'"}
+          ],
+          "notitie": "Na de climax drie trage blokken: schoonmoeder, buurman, haag snoeien. Bij de snoei-instructies legt hij het boek weg. Als hij terugbladert, pakt de keukentafelscène hem wel ('Zeg het nog eens'), maar daar moet hij eerst geraken."
+        },
+        "chapter-14": {
+          "turn_page": "yes",
+          "stopped_at": null,
+          "flags": [
+            {"flag": "no_stakes", "quote": "Ze kocht een zetel. Een lelijke, oude fauteuil, van de kringwinkel, met een oranje bekleding en een voetenbankje"}
+          ],
+          "notitie": "Laatste hoofdstuk, dus hij leest het uit. De suikerboon is grappig en het enige moment met spanning ('Ik wist niet of het de suikerboon was of mijn tand'). De kamerinrichting en het scheren slaat hij over."
+        }
+      },
+      "remember_tomorrow": [
+        {"quote": "Hij heeft een elektrische haagschaar die klinkt als een wesp met een mening.", "reden": "Grappig, makkelijk te onthouden."},
+        {"quote": "'Ik ben een van die mensen, Steven.'", "reden": "De twist; dat vertelt hij door aan wie naast hem zit."},
+        {"quote": "Ik stak hem in mijn mond. Ik beet. Er kraakte iets. Ik wist niet of het de suikerboon was of mijn tand.", "reden": "Korte zinnen, lichte spanning, en dan lachen."}
+      ],
+      "felt": {"emotie": "geraakt maar ongeduldig", "reden": "De grote momenten (de doos van vader, de oprit) werken, maar er zit veel huishoudelijke beschrijving tussen die hij overslaat."},
+      "ending_earned": {"oordeel": "deels", "reden": "Rustig en mooi, maar 'er gebeurt niet veel' in het slot; hij had nog één scène tussen Steven en Lies verwacht."}
+    }
+  ],
+  "samenvatting": {
+    "turn_page": {
+      "chapter-01": {"Hilde": "yes", "Joris": "yes", "Saida": "yes", "Luchthaven": "unsure"},
+      "chapter-07": {"Hilde": "yes", "Joris": "yes", "Saida": "yes", "Luchthaven": "yes"},
+      "chapter-12": {"Hilde": "yes", "Joris": "yes", "Saida": "yes", "Luchthaven": "yes"},
+      "chapter-13": {"Hilde": "yes", "Joris": "unsure", "Saida": "yes", "Luchthaven": "unsure"},
+      "chapter-14": {"Hilde": "yes", "Joris": "yes", "Saida": "yes", "Luchthaven": "yes"}
+    },
+    "gedeelde_flags_2plus": [
+      {"hoofdstuk": "chapter-07", "flag": "over_explained", "personas": ["Hilde", "Joris", "Saida"], "quotes": ["met twee stopcontactbeveiligers van de Action tussen ons in, die een vrouw van het labo had verzekerd dat ze in het donker niet zouden verouderen (Hilde, Joris)", "Ik denk dat haar lichaam het deed, zonder haar. (Saida)"]},
+      {"hoofdstuk": "chapter-07", "flag": "emotion_missed", "personas": ["Joris", "Saida"], "quotes": ["en dat ik niets op die kist had om te leggen. (Joris)", "Lies liet me los toen ik stopte. Ze maakte boterhammen. (Saida)"]},
+      {"hoofdstuk": "chapter-12", "flag": "continuity_doubt / confusing (opmaak)", "personas": ["Hilde", "Luchthaven"], "quotes": ["Ik weet niet hoe lang. ---"]},
+      {"hoofdstuk": "chapter-12", "flag": "cliche", "personas": ["Joris", "Saida"], "quotes": ["Vijf minuten later begon het te regenen. (Joris)", "zoals ze een resultaat ziet onder een microscoop [...] alsof een hypothese bevestigd werd (Saida)"]},
+      {"hoofdstuk": "chapter-13", "flag": "over_explained", "personas": ["Hilde", "Joris", "Saida"], "quotes": ["We hebben het niet opgelost. We hebben een radiator ontlucht. (Hilde, Joris)", "Ze heeft nooit iemand nodig willen hebben. Dat heeft ze van mij. (Saida)"]},
+      {"hoofdstuk": "chapter-13", "flag": "cliche", "personas": ["Joris", "Saida"], "quotes": ["Ge weet het nooit. Van niemand. (Joris)", "alsof ze een meting afleest die ze al kende. (Saida)"]},
+      {"hoofdstuk": "chapter-14", "flag": "over_explained", "personas": ["Hilde", "Joris"], "quotes": ["Ik dacht: dit is het. Er komt geen antwoord."]}
+    ],
+    "terugkerend_patroon": [
+      "Beeld-dan-uitleg: sterke scènes eindigen met een zin die de betekenis nog eens zegt (radiator, stopcontactbeveiligers, lege hoes, 'dezelfde man').",
+      "Labo-metafoor voor Lies' blik wordt in vier van de vijf hoofdstukken herhaald (resultaat afwachten, buisje, microscoop/hypothese, meting aflezen).",
+      "Epifanie-tic 'Ik had dat nooit gezien/gemerkt' (hoofdstukken 12, 13, 14).",
+      "Contrast door ontkenning stapelt zich op ('Ze zei niet ... Ze zei niet ... Ze stond daar gewoon'; 'Ik dacht het niet als ... Ik dacht het zoals ...').",
+      "Opmaakfout hoofdstuk 12, regel 199: scheidingsteken '---' staat aan het eind van een alinea in plaats van op een eigen regel."
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "coverage": {
+    "scope": "full_manuscript",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Originality",
+      "score": 7.8,
+      "evidence": [
+        {
+          "chapter": 1,
+          "quote": "Het defect was ik. Dat is altijd een beetje een teleurstelling, als je iets wil herstellen.",
+          "reason": "Onvervulde kinderwens volledig vanuit de man verteld, via huishoudelijke apparaten en reparaties: een frisse invalshoek in het Nederlandstalige veld."
+        },
+        {
+          "chapter": 6,
+          "quote": "*30.11.2018 — eigen bijdrage tot nu: 4.312,47*",
+          "reason": "Het kasboek met konijn, doopsuiker en nummerplaatverlichting tussen de medische kosten is een eigen, structureel inventieve vondst."
+        }
+      ],
+      "reason": "Premisse en lens zijn onderscheidend (mannelijk perspectief, objecten als hoofdstukanker, het verzwegen abortusverleden van Lies). De uitvoering blijft wel binnen de bekende Vlaamse huiselijk-realistische traditie (familiefeesten, aankondigingen, koffietafels); de vorm zelf neemt weinig risico."
+    },
+    {
+      "name": "Theme",
+      "score": 8.3,
+      "evidence": [
+        {
+          "chapter": 2,
+          "quote": "*Onverklaard* zegt niets. *Onverklaard* zegt: alles is in orde en het werkt niet.",
+          "reason": "De centrale vraag (verdriet zonder oorzaak, zonder schuldige) wordt scherp geformuleerd en draagt het hele boek."
+        },
+        {
+          "chapter": 9,
+          "quote": "Er was niets om in te vullen. Er was geen vakje.",
+          "reason": "Het thema van formulieren en vakjes keert terug als rouw zonder ritueel; resoneert ver voorbij het plot."
+        },
+        {
+          "chapter": 13,
+          "quote": "'Omdat ik dan degene was die stopte,' zei ik.",
+          "reason": "Het thema verdiept zich tot schuld en wie het verhaal mag dragen; wint aan morele complexiteit."
+        }
+      ],
+      "reason": "Diep en gelaagd: onverklaardheid, wachten, lege kamers, wie mag stoppen, verzwegen keuzes. Soms wordt het thema iets te expliciet uitgesproken (titel-echo bij Dylan, slotreflecties)."
+    },
+    {
+      "name": "Characters",
+      "score": 8.2,
+      "evidence": [
+        {
+          "chapter": 6,
+          "quote": "'Of,' zei ik, 'als ge hem niet wilt, die derde. Dan kunt ge hem altijd nog laten weghalen, hé. Dat is ook een optie. Dan geeft ge hem aan ons.'",
+          "reason": "Steven krijgt een echte lelijke kant; de zachte verteller is niet onschuldig, wat hem tegenstrijdig en geloofwaardig maakt."
+        },
+        {
+          "chapter": 5,
+          "quote": "Mijn lichaam heeft geen marge. Mijn lichaam zegt nee.",
+          "reason": "Lies heeft een eigen wond, beroep-gekleurde denkwereld en geheim; haar hoofdstukken geven haar volwaardige innerlijkheid."
+        },
+        {
+          "chapter": 11,
+          "quote": "'Ja,' zei Dylan. 'Maar niks van iemand.'",
+          "reason": "Dylan is met zijn folders en prijzen per kilo een memorabel bijpersonage."
+        }
+      ],
+      "reason": "Wond, verlangen en tegenstrijdigheid zijn voor beide hoofdpersonages helder uitgewerkt; bijfiguren (vader, Kristof, Roger, Rita, Dylan) zijn scherp. Roger's late onthulling (acht jaar wachten) komt iets te handig; Kristof blijft lang een type voor hij in de garage openbreekt."
+    },
+    {
+      "name": "Prose",
+      "score": 7.3,
+      "evidence": [
+        {
+          "chapter": 1,
+          "quote": "Hij heeft een elektrische haagschaar die klinkt als een wesp met een mening.",
+          "reason": "Precieze, droog-humoristische beeldspraak met textuur."
+        },
+        {
+          "chapter": 10,
+          "quote": "Dat is geen zelfmedelijden. Het is een analyse.",
+          "reason": "Voorbeeld van contrast-door-ontkenning; dit patroon overschrijdt het plafond (max. 1 per hoofdstuk) in hoofdstuk 2, 5, 8, 10 en 14, dus meer dan een kwart van de hoofdstukken."
+        },
+        {
+          "chapter": 7,
+          "quote": "Dat is ook iets wat de dood meebrengt: alle zinnen die niemand nog zal afmaken.",
+          "reason": "Beeld gevolgd door uitleg/aforisme: de scène wordt nagekeurd."
+        }
+      ],
+      "reason": "Helder, ritmisch gevarieerd, nauwelijks gedachtestreepjes of uitroeptekens in de vertelling (die in de sms'en zijn functioneel), weinig emotielabels. Maar contrast-door-ontkenning ('niet X, maar Y', 'Het is geen X. Het is Y.') overschrijdt het plafond in 5 van de 14 hoofdstukken, wat Prose volgens de regel op max. 7,5 zet. Daarnaast tics: 'Ik zei niets' (8x in hoofdstuk 11), 'Ik weet niet waarom', 'langer dan nodig', en af en toe een uitleggende slotzin na een sterk beeld."
+    },
+    {
+      "name": "Pacing",
+      "score": 7.4,
+      "evidence": [
+        {
+          "chapter": 9,
+          "quote": "Na tweeënvijftig minuten kwam ze door de draaideur.",
+          "reason": "Uitstekende spanningsopbouw door aftellen op de parking; tijd vertraagt op het juiste beat."
+        },
+        {
+          "chapter": 12,
+          "quote": "'Er komt er nog een bij!' zei Kristof. 'In januari! Nummer drie!'",
+          "reason": "Derde zwangerschapsaankondiging op een familiefeest (na Lena en Sofie): het patroon is bewust, maar de herhaling van hetzelfde scènetype maakt het middenstuk voorspelbaar."
+        }
+      ],
+      "reason": "Elk hoofdstuk heeft een object-anker en eindigt op een concreet beeld, wat trek geeft. Het tempo is huiselijk-episodisch: veel scènes volgen hetzelfde schema (feest/aankondiging, stille thuiskomst). Sterke pieken in 6, 9 en 12; hoofdstuk 10-11 vertragen. Geen echte voorwaartse dreiging tot de onthulling in 12."
+    },
+    {
+      "name": "Emotion",
+      "score": 8.4,
+      "evidence": [
+        {
+          "chapter": 7,
+          "quote": "Aan onze keukentafel, om half zeven, met twee stopcontactbeveiligers van de Action tussen ons in.",
+          "reason": "Het uitgestelde huilen om de vader landt via een klein object; verdiend en ingehouden."
+        },
+        {
+          "chapter": 12,
+          "quote": "Het was het overtrek met de raketten. Zonder dekbed erin. Gewoon het overtrek, een lege hoes van katoen, die niets warm hield.",
+          "reason": "Tegelijk zorg en verwijt in één gebaar; sterke emotionele climax zonder benoeming."
+        },
+        {
+          "chapter": 9,
+          "quote": "Een vrouw met goed nieuws loopt naar iemand. Zij liep naar een Skoda Octavia break uit 2011 op een parking in Gent.",
+          "reason": "Het slechte nieuws wordt gelezen aan een manier van lopen; het gevoel komt binnen voor het woord valt."
+        }
+      ],
+      "reason": "Het bedoelde gevoel (ingehouden mannenverdriet, schuld, tederheid) landt herhaaldelijk via gebaren en objecten. Af en toe wordt een emotie nagekeurd met een verklarende zin, wat de impact iets dempt."
+    },
+    {
+      "name": "Coherence",
+      "score": 8.3,
+      "evidence": [
+        {
+          "chapter": 6,
+          "quote": "*17.09.2016 — doopsuiker — 0,00*",
+          "reason": "Data en weekdagen kloppen opvallend nauwkeurig met eerdere hoofdstukken (feest op zaterdag 17 september, IUI 7 september)."
+        },
+        {
+          "chapter": 14,
+          "quote": "'Het staat tegen de muur, Steven. Het staat daar al tien maanden tegen de muur.'",
+          "reason": "Continuïteitsfout: Steven sliep negentien weken (juli-december) op het opengeplooide plooibed, en in dezelfde scène haalt Lies het overtrek 'van het plooibed', wat een opengeplooid bed veronderstelt."
+        }
+      ],
+      "reason": "Tijdlijn, leeftijden, embryo-aantallen en terugkerende details (Fanny, choco, doopsuiker in het handschoenkastje) zijn consequent. Kleine slordigheden: de plooibed-continuïteit in hoofdstuk 14, 'vijftien jaar' waar het ongeveer veertien is, en de derde baby van Sofie die als draad verdwijnt."
+    },
+    {
+      "name": "Market",
+      "score": 7.2,
+      "evidence": [
+        {
+          "chapter": 2,
+          "quote": "Ik denk dat ik toen voor het eerst begreep dat er een hele categorie mensen was waartoe ik nu behoorde, en dat we elkaar zouden herkennen, en dat we nooit iets tegen elkaar zouden zeggen.",
+          "reason": "Spreekt een herkenbaar maar weinig bediend publiek aan: mannen en koppels in fertiliteitstrajecten."
+        },
+        {
+          "chapter": 1,
+          "quote": "Er zijn drie slaapkamers boven.",
+          "reason": "De titel en het kamermotief zijn verpakbaar en sluiten aan bij de geteste titel."
+        }
+      ],
+      "reason": "Duidelijke positie: korte Vlaamse literaire roman, mannelijk perspectief op onvrijwillige kinderloosheid, een gat t.o.v. Hulst en Hendrix; tonaal tussen Elsschot en een mildere Verhulst. Het onderwerp is actueel (cf. 'De Club'). Risico: stil, huiselijk register zonder sterke hook buiten het thema; doelgroep is herkenbaar maar niet breed. Marktduidelijkheid compenseert geen literaire zwakte."
+    },
+    {
+      "name": "Voice",
+      "score": 8.2,
+      "evidence": [
+        {
+          "chapter": 1,
+          "quote": "Een vaatwasser voor twee mensen is eigenlijk een kast met ambities.",
+          "reason": "Herkenbare stem: ordenend, droog, zelfrelativerend, met Vlaamse spreektaal in de dialogen."
+        },
+        {
+          "chapter": 4,
+          "quote": "Ik heb dat tegen niemand gezegd, maar ik vond het mooi, op een manier die ik niet kan verdedigen, dat ik dat voor haar kon doen.",
+          "reason": "De stem durft tegen zichzelf te getuigen; houdt over 42.000 woorden stand."
+        },
+        {
+          "chapter": 5,
+          "quote": "Ik weet hoeveel kiemen er in vijfentwintig gram kip zitten, plus of min dertig.",
+          "reason": "Lies' hoofdstukken (tegenwoordige tijd, laboratoriumtaal) onderscheiden zich, al delen ze Steven's korte zinsritme."
+        }
+      ],
+      "reason": "Steven's stem is consistent, geloofwaardig en duurzaam; de dialogen ('Ge weet wat ik bedoel', 'Amai', 'manneke') zijn levensecht. Zwakte: verbale tics stapelen zich op, en Lies' stem ligt ritmisch dicht bij die van Steven."
+    },
+    {
+      "name": "Opening",
+      "score": 8.2,
+      "evidence": [
+        {
+          "chapter": 1,
+          "quote": "De vaatwasser gaf het op op een dinsdag.",
+          "reason": "Rustige maar precieze eerste zin die het hele boek (dinsdagen, de Bosch) inzet."
+        },
+        {
+          "chapter": 14,
+          "quote": "Ik draag hem morgen toch naar buiten met twee handen.",
+          "reason": "De PMD-zak uit hoofdstuk 1 wordt aan het eind ingelost; ook de vervangen vaatwasser in 13 sluit de cirkel."
+        }
+      ],
+      "reason": "Het eerste hoofdstuk belooft precies wat het boek levert: kinderslot, lege kamers, Roger's vraag, de app. De payoff is zorgvuldig. Grip op de eerste pagina is eerder stil dan dwingend; 'Niet met een knal, eerder met een zucht' is bovendien al een contrastformule in de tweede alinea."
+    }
+  ],
+  "strongest_passage": {
+    "chapter": 9,
+    "quote": "Een vrouw met goed nieuws loopt naar iemand. Zij liep naar een Skoda Octavia break uit 2011 op een parking in Gent.",
+    "reason": "Het nieuws wordt afgelezen aan een looprichting; precies, onsentimenteel en verwoestend."
+  },
+  "weakest_passage": {
+    "chapter": 14,
+    "quote": "Het is gewoon niet gebeurd, tien jaar lang, en ik denk dat iets wat tien jaar niet gebeurd is, mag blijven zoals het is.",
+    "reason": "Moraal-achtige veralgemening vlak voor het slot, ingeleid door contrast-door-ontkenning ('Dat heb ik niet besloten'); de scène wordt nagekeurd in plaats van getoond."
+  },
+  "confidence": {
+    "level": "medium",
+    "reason": "Volledig manuscript gelezen in volgorde; tellingen van AI-tells zijn Nederlandse equivalenten van Engelse patronen, half-automatisch geteld en handmatig gefilterd, dus de plafondgrens voor Prose is een oordeel."
+  },
+  "limitations": "De beoordeling meet ambachtelijke risico's en voorspelt geen verkoop of publicatiegereedheid. De Engelse tell-plafonds zijn naar het Nederlands vertaald zonder Nederlandse ijking; er was geen artifacts/05-voice.md beschikbaar voor eventuele stem-uitzonderingen. Marktinschatting steunt alleen op de aangeleverde comps."
+}

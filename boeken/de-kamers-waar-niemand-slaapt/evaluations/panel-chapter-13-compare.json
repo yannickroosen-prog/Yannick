@@ -1,0 +1,84 @@
+[
+  {
+    "lezer": "Hilde, 52, leesclub Lokeren",
+    "compare": "A",
+    "turn_page": "yes",
+    "stopped_at": null,
+    "motivatie": "A en B zijn bijna identiek; A laat de paar zinnen weg waarin iemand de les uitlegt. In B ruikt 'We hebben het niet opgelost. We hebben een radiator ontlucht.' naar een boekenclubquote die de lezer voorkauwt, en 'Dat heeft ze van mij' is een moeder die haar dochter analyseert als een therapeut. A vertrouwt op de voeten onder het dekbed en de twee klontjes suiker. Geen sentimentaliteit die me doet afhaken; Rita's 'Een moeder haalt friet' blijft hangen.",
+    "flags": {
+      "over_explained": [
+        "B: 'Ik weet dat dat niet is hoe het in boeken gaat, of in de folders van het ziekenhuis'",
+        "B: 'Ze heeft nooit iemand nodig willen hebben. Dat heeft ze van mij.'"
+      ],
+      "continuity_doubt": [
+        "'Ik had het al tien jaar elke zondag gehoord' tegenover 'Wij hebben hem negen jaar. Hij was er al toen we het huis kochten.'"
+      ],
+      "confusing": [
+        "'Aan de pint onder de lege lucht, drie weken eerder.'"
+      ]
+    }
+  },
+  {
+    "lezer": "Joris, 44, criticus",
+    "compare": "A",
+    "turn_page": "unsure",
+    "stopped_at": null,
+    "motivatie": "Ik zocht de ellendeporno en vond vooral droge registratie; dat pleit voor het boek. A is strenger: B legt drie keer uit wat de scène al deed ('Ge weet het nooit. Van niemand.' is Roger als wijze oude buur, de radiatorpassage legt het symbool letterlijk uit, 'alsof ze een meting afleest die ze al kende' maakt van Lies weer een IVF-uitslag). Maar ook A bevat symbolen die met een knipoog worden aangereikt: de smallere vaatwasser, het gat van vijftien centimeter, de stofzuiger die 'precies paste', 'Een klein huishouden' – 'Een gezin. Van twee.' Dat is netjes, te netjes. De verzoeningslijn (radiator, voeten, 'Kom.') neigt naar verlossing, al breekt 'Ze vergaf me niet' dat gelukkig. Ik lees verder om te zien of het boek die toon durft te verbreken.",
+    "flags": {
+      "over_explained": [
+        "B: 'We hebben het niet opgelost. We hebben een radiator ontlucht.'",
+        "B: 'Dat is het, hé. Ge weet het nooit. Van niemand.'",
+        "B: 'alsof ze een meting afleest die ze al kende'"
+      ],
+      "predictable": [
+        "'Dat zijn wij,' zei Lies. 'Een klein huishouden.'",
+        "'Lies zette er een stofzuiger in. Een kleine stofzuiger, op batterijen, die ze al jaren wilde. Hij paste precies.'",
+        "'Wij hebben ook lang gewacht, hé,' zei hij. 'Jeanine en ik.'"
+      ],
+      "cliche": [
+        "'Hij stond in de deuropening met zijn pet in zijn handen, zoals een man in een oude film.'"
+      ],
+      "continuity_doubt": [
+        "'Ik had het al tien jaar elke zondag gehoord' tegenover 'Wij hebben hem negen jaar. Hij was er al toen we het huis kochten.'",
+        "'met een lange snoer' (het snoer: 'een lang snoer')"
+      ]
+    }
+  },
+  {
+    "lezer": "Saïda, 37, autofictie/moederschapsessays",
+    "compare": "A",
+    "turn_page": "yes",
+    "stopped_at": null,
+    "motivatie": "Lies is hier geen decor: zij ontlucht de radiator, zij vraagt 'Zeg het nog eens', zij kiest de vijfenveertig centimeter, zij gaat lopen. Haar monoloog over de badmat ('Ik lag daar met mijn buik vol gaatjes en gij vond dat schoon') is het sterkste van het hoofdstuk. B verzwakt haar subtiel: 'alsof ze een meting afleest die ze al kende' kijkt weer door Stevens meetbril naar haar lichaam, en 'Dat heeft ze van mij' laat de moeder Lies' innerlijk invullen. In A blijft haar binnenkant van haarzelf ('Mama, dat is van mij'). Wel: haar perspectief komt nog altijd gefilterd via Steven en via Rita; ik wil haar ooit zonder tussenpersoon.",
+    "flags": {
+      "over_explained": [
+        "B: 'Ze heeft nooit iemand nodig willen hebben. Dat heeft ze van mij.'",
+        "B: 'alsof ze een meting afleest die ze al kende'"
+      ],
+      "emotion_missed": [
+        "'Ze keek naar de foto, lang, langer dan nodig. Ze gaf de telefoon terug.' – sterk, maar Lies' reactie op Mila blijft volledig van buitenaf"
+      ],
+      "confusing": [
+        "'Ik zei dat ik hetzelfde had gedacht, over mezelf, in het kamertje met het luikje.'"
+      ]
+    }
+  },
+  {
+    "lezer": "Luchthavenlezer",
+    "compare": "same",
+    "turn_page": "yes",
+    "stopped_at": null,
+    "motivatie": "Ik merk het verschil nauwelijks; de extra zinnen in B lezen even snel weg. De opening met negentien weken in de kleine kamer en het verhaal over energiefacturen is traag, en de uitleg over hoe je een haag snoeit en een radiator ontlucht sla ik over. Maar de ruzie aan de keukentafel trekt me erin en de sms met zestien uitroeptekens op het einde is een goede haak.",
+    "flags": {
+      "slow_start": [
+        "'We spraken over de energieprijzen, die die zomer de pan uit swingden, en over de nieuwe voorschotfactuur van de elektriciteit'"
+      ],
+      "exposition_dump": [
+        "'Je hebt daar een sleuteltje voor, een klein vierkant sleuteltje van messing, dat je in het ventiel aan de bovenkant steekt'"
+      ],
+      "confusing": [
+        "'Het klonk als iets wat Dirk zou zeggen, over een verzekering.'"
+      ]
+    }
+  }
+]

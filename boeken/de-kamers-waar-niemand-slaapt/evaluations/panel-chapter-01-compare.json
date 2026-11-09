@@ -1,0 +1,78 @@
+[
+  {
+    "reader": "Hilde (52, leesclub Lokeren)",
+    "compare": "A",
+    "turn_page": true,
+    "stopped_at": {"quote": "Ze werkt in Gent, in een labo voor voedselveiligheid, waar ze stalen van kip en salami en kant-en-klare slaatjes controleert"},
+    "why_stopped": "Kleine dip: weer een inventaris (labo, loopronde, kamers) net wanneer ik wil weten wat er tussen hen speelt. Geen afhaken, wel even sneller lezen tot het gesprek aan tafel.",
+    "flags": [
+      {"flag": "slow_start", "quote": "Het waren drie filters, stond er, die in elkaar pasten zoals Russische poppetjes"},
+      {"flag": "over_explained", "quote": "Ik moet hier iets zeggen over de manier waarop wij toen leefden, omdat het anders niet duidelijk is (B)"},
+      {"flag": "over_explained", "quote": "Ik dacht aan het kinderslot. Ik dacht heel veel tegelijk (B)"}
+    ],
+    "remember_tomorrow": [
+      {"quote": "Geen drinkbrikjes. Geen knijpzakjes appelmoes.", "reason": "Herkenbaar Vlaams, en het doet pijn zonder dat iemand het zegt."},
+      {"quote": "Ze vroeg het niet aan mij. Ze vroeg het aan de pasta.", "reason": "Die zin snijdt; in B is hij vervangen door een lijstje gedachten dat de pijn uitlegt."},
+      {"quote": "Om zes uur piepte de thermometer.", "reason": "Droog slot, precies goed."}
+    ],
+    "felt": "Ik herken die verkaveling, die PMD-zak, die Roger. A laat de stilte staan; B begint aan het eind de boel te benoemen, en dat haalt de angel eruit. Het Excel-bestand en 'Dat is van mij' in A zou ik in de leesclub voorlezen.",
+    "confidence": 0.75
+  },
+  {
+    "reader": "Joris (44, criticus)",
+    "compare": "A",
+    "turn_page": true,
+    "stopped_at": {"quote": "Ik had haar leren kennen op een feestje van een collega van mijn broer, in 2008"},
+    "why_stopped": "De ontmoetingsanekdote is net iets te lief, de 'dat is het hele verhaal'-toon dreigt naar weemoed te kantelen. Maar A herstelt meteen met de leidingen en de dichte deuren. Geen zelfmedelijden te bespeuren, tot mijn ergernis.",
+    "flags": [
+      {"flag": "cliche", "quote": "ik was op die lach afgegaan zoals je op een geluid afgaat in een donker huis"},
+      {"flag": "over_explained", "quote": "Ik dacht dat ik het kinderslot nu twee keer had gebruikt in mijn leven (B)"},
+      {"flag": "over_explained", "quote": "Een kwartslag, met de wijzers mee, dacht ik, wat nergens op slaat (B)"},
+      {"flag": "flat_voice", "quote": "Dat is wat mannen doen. (B)"},
+      {"flag": "predictable", "quote": "Ik dacht dat ik dat behang er nu eindelijk eens af moest halen."}
+    ],
+    "remember_tomorrow": [
+      {"quote": "Het defect was ik. Dat is altijd een beetje een teleurstelling, als je iets wil herstellen.", "reason": "Ironie die het symbool draagt zonder het te ontleden."},
+      {"quote": "Ze vroeg het omdat het beleefd was om het te vragen, zoals je iemand vraagt of hij nog koffie wil terwijl je al aan het inschenken bent.", "reason": "Scherp, onsentimenteel, Elsschot-waardig."}
+    ],
+    "felt": "Ik kwam voor misery-porn en kreeg een vaatwasser. A vertrouwt het kinderslot; B legt het kinderslot drie keer uit (de Bosch-ingenieurs, de gedachtenlijst, de kwartslag-deur) en daar heb ik mijn munitie. A is moeilijker af te kraken.",
+    "confidence": 0.8
+  },
+  {
+    "reader": "Saïda (37, autofictie/moederschap)",
+    "compare": "A",
+    "turn_page": true,
+    "stopped_at": {"quote": "Er zijn drie slaapkamers boven."},
+    "why_stopped": "Weer zijn huis, zijn kamers, zijn behang. Lies verdwijnt naar de douche en de verteller gaat inventariseren. Ik lees door omdat het tafelgesprek komt, maar ik wil haar binnenkant.",
+    "flags": [
+      {"flag": "emotion_missed", "quote": "'Mijn gynaecoloog zei dat we na een jaar al mochten, eigenlijk. We zijn twee jaar bezig.' (B)"},
+      {"flag": "exposition_dump", "quote": "Ik moet hier iets zeggen over de manier waarop wij toen leefden (B)"},
+      {"flag": "no_stakes", "quote": "De deuren staan meestal dicht. Dat is praktisch."}
+    ],
+    "remember_tomorrow": [
+      {"quote": "toen ik over haar schouder keek, had ze de laptop dichtgeklapt en gezegd: 'Dat is van mij.'", "reason": "Het enige moment waarop Lies iets voor zichzelf opeist; ontbreekt in B, en daarmee wordt ze daar decor."},
+      {"quote": "'Ik ga niet nog een jaar vuurwerkjes zitten tellen, Steven.'", "reason": "Haar eigen stem, haar eigen woede, haar eigen taal (alleen in A)."},
+      {"quote": "Ze kijkt naar mensen alsof ze een resultaat afwacht.", "reason": "Ze krijgt een blik, niet alleen een lichaam."}
+    ],
+    "felt": "In beide versies is zij het object van zijn kijken, maar A geeft haar twee scheuren waardoor ze zelf zichtbaar wordt: het Excel-bestand en de vuurwerkjes-zin. B schrapt die en geeft de ruimte terug aan zijn overpeinzingen. Met A blijf ik, voorwaardelijk.",
+    "confidence": 0.8
+  },
+  {
+    "reader": "Casual luchthavenlezer",
+    "compare": "A",
+    "turn_page": true,
+    "stopped_at": {"quote": "Roger woont naast ons, op nummer vijfentwintig, en hij snoeit elke zondagmorgen om negen uur zijn haag"},
+    "why_stopped": "Twee bladzijden vaatwasser en dan een buurman; ik scan tot er iets gebeurt. De olijfpit en het kinderslot trekken me terug.",
+    "flags": [
+      {"flag": "slow_start", "quote": "Een vaatwasser voor twee mensen is eigenlijk een kast met ambities."},
+      {"flag": "slow_start", "quote": "Wij hebben een schuif voor handleidingen. Iedereen heeft er een. (B)"},
+      {"flag": "exposition_dump", "quote": "Ik las over het juiste gebruik van glansspoelmiddel en over regenereerzout en over de waterhardheid (B)"}
+    ],
+    "remember_tomorrow": [
+      {"quote": "Het kinderslot.", "reason": "Eén regel, en dan snap ik waar het boek over gaat."},
+      {"quote": "'Wie maakt er nu afspraken om tien voor half tien.' 'Een ziekenhuis,' zei ze.", "reason": "Grappig en ineens ernstig; daarvoor blijf ik."}
+    ],
+    "felt": "A komt sneller bij de olijfpit en het telefoontje naar het UZ; B laat me door een schuif met folders en waterhardheid waden. Het einde met de thermometer is goed genoeg om door te bladeren.",
+    "confidence": 0.65
+  }
+]

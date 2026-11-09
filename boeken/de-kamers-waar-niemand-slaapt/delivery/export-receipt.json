@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "delivery_scope": "draft",
+  "title": "De kamers waar niemand slaapt",
+  "author": "Yannick Roosen",
+  "language": "nl",
+  "slug": "de-kamers-waar-niemand-slaapt",
+  "chapter_count": 14,
+  "word_count": {
+    "method": "whitespace_split_prose_v2",
+    "excludes": [
+      "level-one headings",
+      "frontmatter",
+      "blank lines",
+      "standalone scene/formatting separators",
+      "standalone HTML comments"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "words": 2911
+      },
+      {
+        "number": 2,
+        "words": 3128
+      },
+      {
+        "number": 3,
+        "words": 3154
+      },
+      {
+        "number": 4,
+        "words": 3222
+      },
+      {
+        "number": 5,
+        "words": 2289
+      },
+      {
+        "number": 6,
+        "words": 2992
+      },
+      {
+        "number": 7,
+        "words": 3090
+      },
+      {
+        "number": 8,
+        "words": 2757
+      },
+      {
+        "number": 9,
+        "words": 3105
+      },
+      {
+        "number": 10,
+        "words": 2504
+      },
+      {
+        "number": 11,
+        "words": 3710
+      },
+      {
+        "number": 12,
+        "words": 3436
+      },
+      {
+        "number": 13,
+        "words": 4240
+      },
+      {
+        "number": 14,
+        "words": 2489
+      }
+    ],
+    "total": 43027
+  },
+  "source_chapters": [
+    {
+      "number": 1,
+      "path": "chapter-01.md",
+      "title": "1. De vaatwasser",
+      "sha256": "2f2d24505aeadb5446d0ea01bbf6c70d26ebde07fe35eb13f4c59c4a4fcd6d74"
+    },
+    {
+      "number": 2,
+      "path": "chapter-02.md",
+      "title": "2. Onverklaard",
+      "sha256": "af9e87f774cc4a7a532e29e706e9a7feb44709150e79165de6cf210f4f271cb3"
+    },
+    {
+      "number": 3,
+      "path": "chapter-03.md",
+      "title": "3. Doopsuiker",
+      "sha256": "59326cea9eda838afa336d3a60950f8097941df2048b6312eb8167a2db6119e4"
+    },
+    {
+      "number": 4,
+      "path": "chapter-04.md",
+      "title": "4. De frigo",
+      "sha256": "89ddd488d0a0c1dfef02a89e5c2464e63afff5d85cb6467757384f8ba180e9b6"
+    },
+    {
+      "number": 5,
+      "path": "chapter-05.md",
+      "title": "5. Meetonzekerheid",
+      "sha256": "0878f2ae3d1a7356776caa749ed1284794daff4654e55eeab2d183fde3beee16"
+    },
+    {
+      "number": 6,
+      "path": "chapter-06.md",
+      "title": "6. Het kerstdiner",
+      "sha256": "69421efa4f1b0ac7106ded6a64ab9d9fb4631d72ca606327522f563f65aaf2b4"
+    },
+    {
+      "number": 7,
+      "path": "chapter-07.md",
+      "title": "7. Voor later",
+      "sha256": "1c5933f8e4107751b8095da3ebbe64631aea7ac769bbe3305efcea5cdc2ebd69"
+    },
+    {
+      "number": 8,
+      "path": "chapter-08.md",
+      "title": "8. Stilstand",
+      "sha256": "ac296d0b7751d73a496f7296a5dea44dbbefcfe9ba6784bd3f132c0b9b3f038a"
+    },
+    {
+      "number": 9,
+      "path": "chapter-09.md",
+      "title": "9. Geen hartslag",
+      "sha256": "c2e0475752116cf4cded33edb845feb60f9fa11819f7746038ba3a3e5f64ec36"
+    },
+    {
+      "number": 10,
+      "path": "chapter-10.md",
+      "title": "10. De rest van mijn leven",
+      "sha256": "032d1bf3c36bf379d8519bff5af4bf0ce1818cfa8818e1dd75d27fc9a4a4eb52"
+    },
+    {
+      "number": 11,
+      "path": "chapter-11.md",
+      "title": "11. Dylan",
+      "sha256": "aff7cba6f4da7b4c3e08d6447b24280f8c30b950e82672fab2d5ce306acdb4f7"
+    },
+    {
+      "number": 12,
+      "path": "chapter-12.md",
+      "title": "12. De tuintafel",
+      "sha256": "4f5553016d9009ef576c5ad1b51b9b7654909c01a0ba371df79a5c5f4437db05"
+    },
+    {
+      "number": 13,
+      "path": "chapter-13.md",
+      "title": "13. De haag",
+      "sha256": "1b304579eff62c027d73254fb02ba927d8b743837c5e05b044558d0f85ff324e"
+    },
+    {
+      "number": 14,
+      "path": "chapter-14.md",
+      "title": "14. De kamers",
+      "sha256": "ce2c708236369a33375c8d5ddddf5a5435e54d299bc759bc0d37c7748d3b83b1"
+    }
+  ],
+  "outputs": {
+    "manuscript.md": {
+      "sha256": "ef541b8d81261fff08dba25b389c344e7f69d9c096fa003980b982d7612d3b2d"
+    },
+    "de-kamers-waar-niemand-slaapt.epub": {
+      "sha256": "08c00808be978d9353a9c693dfcfdc8b44185352572aa81c7264fab2dabd7c16"
+    },
+    "de-kamers-waar-niemand-slaapt.docx": {
+      "sha256": "0763e71fd82e38bd89a946d6e12d5e8347f7a01106e215114d84cd4b37983cd1",
+      "format": "docx"
+    },
+    "de-kamers-waar-niemand-slaapt.pdf": {
+      "sha256": "e36905e41e270263a35cc39e8c7b5ff027e9becaf9294c805aee917f828eae59",
+      "format": "pdf"
+    }
+  },
+  "validation": {
+    "status": "passed",
+    "epub": {
+      "chapters": 14,
+      "toc_entries": 14,
+      "zip_entries": 20,
+      "status": "passed"
+    },
+    "docx": {
+      "chapters": 14,
+      "status": "passed"
+    },
+    "pdf": {
+      "chapters": 14,
+      "pages": 183,
+      "text_bytes": 233768,
+      "status": "passed"
+    }
+  },
+  "quality": {
+    "status": "not_assessed",
+    "quality_gate_passed": false
+  }
+}
