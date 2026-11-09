@@ -1,0 +1,245 @@
+[
+  {
+    "reader": "Saïda",
+    "chapter": "chapter-01",
+    "turn_page": "yes",
+    "stopped_at": {"quote": "Buiten liep Roger voorbij met zijn hond, een oude teckel die Fanny heette en die meer op een worst leek dan op een hond"},
+    "why_stopped": {"reason": "Na twee bladzijden vaatwasser en vader nog een buurman-anekdote, terwijl ik zat te wachten op het onderwerp en op de vrouw; mijn aandacht zakte even, ik legde het niet weg."},
+    "remember_tomorrow": [
+      {"quote": "toen ik over haar schouder keek, had ze de laptop dichtgeklapt en gezegd: 'Dat is van mij.'", "reason": "Het eerste moment waarop Lies iets bezit dat hij niet kan inkijken. Daar begon ik te geloven dat ze geen decor zou blijven."},
+      {"quote": "Ze vroeg het niet aan mij. Ze vroeg het aan de pasta.", "reason": "Droog en precies over wie hier eigenlijk beslist."}
+    ],
+    "confused_by": [],
+    "flags": [
+      {"flag": "slow_start", "quote": "Een vaatwasser voor twee mensen is eigenlijk een kast met ambities."}
+    ],
+    "strongest_passage": {"quote": "Ze kijkt naar mensen alsof ze een resultaat afwacht.", "reason": "Eén zin en ze heeft een eigen blik, een eigen vak, een eigen kilte. Niet de lach, maar de blik."},
+    "weakest_passage": {"quote": "en ik dacht: ik wil dat zij om iets lacht wat ik zeg. Dat is het hele verhaal, eigenlijk. Al de rest kwam daarna.", "reason": "Hier wordt ze even het object van zijn verlangen, een lach om te veroveren. Klassieke mannenblik; ik zette me schrap."},
+    "machine_tells": [
+      {"tell": "contrast door ontkenning", "quote": "Niet met een knal, eerder met een zucht"}
+    ],
+    "felt": {"emotion": "nieuwsgierigheid met argwaan", "reason": "De toon is grappig en precies, maar het lichaam waar het over gaat is het hare en we zitten in zijn hoofd. Het Excelbestand gaf me hoop."},
+    "confidence": "medium"
+  },
+  {
+    "reader": "Saïda",
+    "chapter": "chapter-04",
+    "turn_page": "yes",
+    "stopped_at": {"quote": "Het was een lampje dat het werk deed van zichtbaar maken wie je bent"},
+    "why_stopped": {"reason": "De keuring is een goede afleiding, maar hier legt de verteller zijn symbool uit en voelde ik de schrijver duwen."},
+    "remember_tomorrow": [
+      {"quote": "Haar hand trilde niet. Dat was het vreemde. Haar hand was volkomen rustig, maar de pen ging niet omlaag.", "reason": "Het lichaam dat weigert zonder te beven. Dat is waar, dat herken ik."},
+      {"quote": "Een prop wc-papier. Een dikke prop, zorgvuldig gerold, zoals je een vogeltje inrolt dat je in de tuin gevonden hebt.", "reason": "Zij verstopt, hij vindt. Het hele huwelijk in een vuilbakje."}
+    ],
+    "confused_by": [
+      {"quote": "Ik dacht aan de Wereldgezondheidsorganisatie. Ik dacht aan het luikje.", "reason": "Verwijst naar iets wat ik niet gelezen heb; ik raadde het spermaonderzoek."}
+    ],
+    "flags": [
+      {"flag": "over_explained", "quote": "Het was een lampje dat het werk deed van zichtbaar maken wie je bent"}
+    ],
+    "strongest_passage": {"quote": "Ik wist het niet. Ik had het gezien, en dat is iets anders.", "reason": "Hij erkent dat hij buiten haar ervaring staat. Dat is precies wat ik van een man over dit onderwerp wil lezen."},
+    "weakest_passage": {"quote": "Het voelde als een testament schrijven voor iemand die nog moest worden geboren, en ik bedacht dat dat eigenlijk precies was wat het was.", "reason": "Het beeld werkte al; de tweede helft van de zin neemt het terug."},
+    "machine_tells": [
+      {"tell": "beeld, dan uitleg", "quote": "en ik bedacht dat dat eigenlijk precies was wat het was"},
+      {"tell": "beeld, dan uitleg", "quote": "Het was een lampje dat het werk deed van zichtbaar maken wie je bent"}
+    ],
+    "felt": {"emotion": "beklemming", "reason": "De test in de vuilbak en de twee uur op haar zij. Ik voelde haar eenzaamheid, ook al vertelt hij."},
+    "confidence": "high"
+  },
+  {
+    "reader": "Saïda",
+    "chapter": "chapter-06",
+    "turn_page": "yes",
+    "stopped_at": null,
+    "why_stopped": null,
+    "remember_tomorrow": [
+      {"quote": "'Ik heb er een map voor.'", "reason": "Zes woorden en Lies heeft een heel leven van ongevraagd advies achter zich."},
+      {"quote": "'Of,' zei ik, 'als ge hem niet wilt, die derde. Dan kunt ge hem altijd nog laten weghalen, hé. Dat is ook een optie. Dan geeft ge hem aan ons.'", "reason": "Een man die zichzelf lelijk laat zien. Dat durven weinig mannelijke vertellers."}
+    ],
+    "confused_by": [
+      {"quote": "twee witte kartonnen doosjes met een roze lint en een kaartje erop. *Lena. 14.06.2016.*", "reason": "Ik begreep pas uit het schrift dat Lena een nichtje is; de lading van de doosjes mis ik."}
+    ],
+    "flags": [
+      {"flag": "over_explained", "quote": "zoals de olijfpit in de vaatwasser, maar dat ik deze keer niet wist welke filter ik moest losdraaien"}
+    ],
+    "strongest_passage": {"quote": "Ernaast lag een papiertje. Er stond niets op. Het was een leeg papiertje, van het blok dat naast de telefoon lag, met de pen erop. Ze had iets willen schrijven, en ze had het niet gedaan.", "reason": "Haar stilte krijgt een voorwerp. Ze is aanwezig door wat ze weigert."},
+    "weakest_passage": {"quote": "Ik dacht dat ik iets kapot had gemaakt dat ik niet kon benoemen, zoals de olijfpit in de vaatwasser, maar dat ik deze keer niet wist welke filter ik moest losdraaien.", "reason": "Het motief wordt teruggeroepen als uitleg; de wandeling in de mist zei het al."},
+    "machine_tells": [
+      {"tell": "contrast door ontkenning", "quote": "Het was niet de cava. Het was Bert."}
+    ],
+    "felt": {"emotion": "schaamte namens hem, en woede namens haar", "reason": "De zin op het koertje deed pijn, en Lies in de deuropening met de autosleutels was het eerste moment waarop ze écht handelde."},
+    "confidence": "high"
+  },
+  {
+    "reader": "Saïda",
+    "chapter": "chapter-07",
+    "turn_page": "yes",
+    "stopped_at": {"quote": "Een sterfgeval brengt papier mee. Ik had dat niet geweten."},
+    "why_stopped": {"reason": "Een lange lijst van administratie, en het boek draait weg van haar naar zijn vader; ik dwaalde even af, al kwam ik terug bij de bananendoos."},
+    "remember_tomorrow": [
+      {"quote": "'Polypropyleen,' zei ze. 'Dat veroudert door uv-licht. In een schuif niet. Dat blijft goed.'", "reason": "Ze troost met kennis in plaats van met woorden. Haar eigen taal, niet de zijne."},
+      {"quote": "Het was een grap geweest die we vijf jaar lang in een schuif hadden bewaard.", "reason": "De stopcontactbeveiligers blijven hangen."}
+    ],
+    "confused_by": [
+      {"quote": "toen hij vroeg *gaat het*", "reason": "Een scène bij de tomaten die ik niet ken."}
+    ],
+    "flags": [
+      {"flag": "slow_start", "quote": "Er moest een begrafenisondernemer gekozen worden"}
+    ],
+    "strongest_passage": {"quote": "Ze sneed de korstjes er niet af, maar ze sneed ze wel in vieren, in driehoekjes, zoals je voor een kind doet, en ik heb haar niet gevraagd waarom.", "reason": "Het moederen dat nergens heen kan, gaat naar hem. Dubbelzinnig en goed."},
+    "weakest_passage": {"quote": "Dat is ook iets wat de dood meebrengt: alle zinnen die niemand nog zal afmaken.", "reason": "Een spreuk voor een rouwkaart; de onaf gemaakte zin van zijn moeder deed dat al."},
+    "machine_tells": [
+      {"tell": "moraal / veralgemening", "quote": "Dat is ook iets wat de dood meebrengt: alle zinnen die niemand nog zal afmaken."},
+      {"tell": "contrast door ontkenning", "quote": "Dat was waar. Het was niet de reden."}
+    ],
+    "felt": {"emotion": "ontroering", "reason": "Het huilen aan de keukentafel en het instoppen 's nachts. Wel vroeg ik me af of Lies hier vooral verzorgster van zijn verdriet is."},
+    "confidence": "medium"
+  },
+  {
+    "reader": "Saïda",
+    "chapter": "chapter-08",
+    "turn_page": "yes",
+    "stopped_at": null,
+    "why_stopped": null,
+    "remember_tomorrow": [
+      {"quote": "Ik wil niet meer naar dat potje van u kijken als ge thuiskomt. Ik wil mijn lijf terug.", "reason": "Eindelijk zegt zij het, in haar eigen woorden. Hier kwam het boek voor mij binnen."},
+      {"quote": "Daar was geen vakje voor.", "reason": "Het formulier kent geen vrouw die niet meer wil."}
+    ],
+    "confused_by": [],
+    "flags": [
+      {"flag": "emotion_missed", "quote": "waarvan ik pas veel later begreep dat het opluchting was"}
+    ],
+    "strongest_passage": {"quote": "Ze stond op de ladder met een rol in haar hand en zong, met haar ogen dicht, *Pa, ik wil niet langer*, en een druppel Gebroken Wit viel op haar wang.", "reason": "Lies als iemand met een lijf dat even van niemand is. Vreugde zonder uitleg."},
+    "weakest_passage": {"quote": "Dat dat niet het leven was dat ik gewild had, maar dat het misschien een leven was.", "reason": "Een mooie gedachte die te af klinkt; de lege lucht had het al gezegd."},
+    "machine_tells": [
+      {"tell": "contrast door ontkenning", "quote": "Dat dat niet het leven was dat ik gewild had, maar dat het misschien een leven was."},
+      {"tell": "emotielabel", "quote": "Ik schaamde me. Dat was het eerste."}
+    ],
+    "felt": {"emotion": "woede, en daarna verdriet", "reason": "Ze zegt dat ze haar lichaam terug wil en hij zegt 'nog één keer'. Ik was kwaad op hem, en dat is precies goed."},
+    "confidence": "high"
+  },
+  {
+    "reader": "Saïda",
+    "chapter": "chapter-09",
+    "turn_page": "yes",
+    "stopped_at": null,
+    "why_stopped": null,
+    "remember_tomorrow": [
+      {"quote": "Een vrouw met goed nieuws loopt naar iemand. Zij liep naar een Skoda Octavia break uit 2011 op een parking in Gent.", "reason": "Hij leest haar aan haar lopen; de hele echo zit in die wandeling."},
+      {"quote": "Het is de enige datum in dat schrift zonder bedrag ernaast.", "reason": "Rouw zonder vakje, in zijn eigen boekhouding."}
+    ],
+    "confused_by": [],
+    "flags": [],
+    "strongest_passage": {"quote": "Ze trok haar mondmasker af. Ze vouwde het in tweeën en daarna in vieren, heel precies, en stak het in het zijvak van haar handtas.", "reason": "Haar verdriet in een handeling, geen woord teveel. Zij is hier volledig iemand."},
+    "weakest_passage": {"quote": "en het was het mooiste moment uit die hele zes jaar, en ik wist dat het fout was terwijl ik het deed.", "reason": "Hij benoemt het hoogtepunt en het oordeel tegelijk; ik had het liever zelf gewogen."},
+    "machine_tells": [
+      {"tell": "significantie-opblazing", "quote": "het was het mooiste moment uit die hele zes jaar"}
+    ],
+    "felt": {"emotion": "verdriet", "reason": "De test naast zijn bord, de gekruiste armen, de parking. Ik heb hier gehuild. Dat zij achter het matglas verdwijnt en hij in de auto wacht, is eerlijk over wat een man niet kan zien."},
+    "confidence": "high"
+  },
+  {
+    "reader": "Saïda",
+    "chapter": "chapter-11",
+    "turn_page": "yes",
+    "stopped_at": {"quote": "Een vrouw van het Vlaams Centrum voor Adoptie vertelde met een PowerPoint."},
+    "why_stopped": {"reason": "Infosessie-uitleg over wachttijden en procedures; informatief, maar de spanning zakte tot Dylan binnenkwam."},
+    "remember_tomorrow": [
+      {"quote": "'Steven,' fluisterde ze. 'Er slaapt iemand.'", "reason": "De titel van het boek in drie woorden, uit haar mond."},
+      {"quote": "Lies keek naar het pakje gist. Ze draaide het om en las de houdbaarheidsdatum. Ik zag haar gezicht. Ik zag dat ze iets dacht. Ik zag dat ze het niet zei.", "reason": "De diepvries keert terug in haar gezicht, niet in zijn uitleg."},
+      {"quote": "'Merci dat ge hem wilt.'", "reason": "Kelly, een andere moeder, kwaad en dankbaar tegelijk. Een vrouw die meer is dan een functie."}
+    ],
+    "confused_by": [
+      {"quote": "*Iets wat niet over ons gaat.*", "reason": "Een eerdere scène bij de radijzen die ik niet heb gelezen."}
+    ],
+    "flags": [
+      {"flag": "predictable", "quote": "'Ja,' zei Dylan. 'Maar niks van iemand.'"},
+      {"flag": "exposition_dump", "quote": "Ze zei dat er weinig kinderen waren."}
+    ],
+    "strongest_passage": {"quote": "Ze legde het uit zoals ik haar nooit iets had horen uitleggen, met haar handen, met haar stem omhoog aan het einde van elke zin, met geduld.", "reason": "Een moederschap dat zich even laat zien zonder kind van haar eigen. Ontroerend zonder te zeuren."},
+    "weakest_passage": {"quote": "een menen dat waar is, en dat toch ergens anders pijn doet.", "reason": "Te keurig benoemd; het gesprek met Ilse droeg het al."},
+    "machine_tells": [
+      {"tell": "contrast door ontkenning", "quote": "Het was niet gelogen. Het was ook niet waar."},
+      {"tell": "beeld, dan uitleg", "quote": "een menen dat waar is, en dat toch ergens anders pijn doet"}
+    ],
+    "felt": {"emotion": "tederheid", "reason": "Dylan is een cadeau van een personage, al zegt hij soms net te vaak de themazin van het boek."},
+    "confidence": "medium"
+  },
+  {
+    "reader": "Saïda",
+    "chapter": "chapter-12",
+    "turn_page": "yes",
+    "stopped_at": {"quote": "Een teakhouten tuintafel voor twaalf personen weegt, heb ik later opgezocht, ongeveer vijfenzeventig kilo."},
+    "why_stopped": {"reason": "Het dragen van de tafel duurt lang en ik zag de metafoor van ver aankomen; ik las sneller tot de garage."},
+    "remember_tomorrow": [
+      {"quote": "'Ik ben een van die mensen, Steven.'", "reason": "Hier krijgt Lies haar eigen verleden, haar eigen beslissing, en weigert ze zich te verontschuldigen. Hier wist ik dat ik het boek zou uitlezen."},
+      {"quote": "Het was het overtrek met de raketten. Zonder dekbed erin. Gewoon het overtrek, een lege hoes van katoen, die niets warm hield.", "reason": "Zorg en straf in hetzelfde gebaar."}
+    ],
+    "confused_by": [
+      {"quote": "Tot die dokter met die rode bril vroeg of ik ooit zwanger was geweest.", "reason": "Die scène heb ik niet gelezen; ik begreep wel waarom ze telt."}
+    ],
+    "flags": [
+      {"flag": "over_explained", "quote": "Ik denk dat ze van dezelfde man komen."}
+    ],
+    "strongest_passage": {"quote": "'Ik heb het u nooit gezegd omdat het van mij was. Het gebeurde voor u. Het ging u niet aan.' Ze haalde adem. 'En daarna heb ik het u niet gezegd omdat het u wel aanging. Omdat ik wist wat ge zoudt denken.'", "reason": "Het 'dat is van mij' uit het begin keert terug als een eigen moraal. Zij heeft gelijk en hij ook, en het boek kiest niet goedkoop."},
+    "weakest_passage": {"quote": "iets wat al jaren onder alles lag, onder de vaatwasser en de handleiding en de choco en de spuiten, en ik hoorde dat het lelijk was, en ik hoorde dat het van mij was.", "reason": "Een opsomming van de motieven van het boek; het voelt als een inventaris in plaats van een man die zichzelf hoort."},
+    "machine_tells": [
+      {"tell": "emotielabel", "quote": "Ik hield van hem en ik was jaloers op hem, op een manier waarvoor ik me schaamde"},
+      {"tell": "beeld, dan uitleg", "quote": "Ik denk dat ze van dezelfde man komen."}
+    ],
+    "felt": {"emotion": "schok, dan respect", "reason": "Ik vreesde dat haar abortus een plotwending voor zijn groei zou worden. Het wordt haar verhaal, kort, in feiten, op haar voorwaarden."},
+    "confidence": "high"
+  },
+  {
+    "reader": "Saïda",
+    "chapter": "chapter-13",
+    "turn_page": "yes",
+    "stopped_at": {"quote": "Ik had nooit geweten dat Roger een zoon had."},
+    "why_stopped": {"reason": "De buurman die ook een verborgen kinderwens-verhaal blijkt te hebben voelde te netjes symmetrisch; ik verloor even het vertrouwen in de toevalligheden."},
+    "remember_tomorrow": [
+      {"quote": "'Ja,' zei ze. 'Ik wist niet wat ik anders moest doen. Ik ben een moeder. Een moeder haalt friet.'", "reason": "Rita wordt in één zin een echte vrouw in plaats van de schoonmoeder met artikels."},
+      {"quote": "Ik lag daar met mijn buik vol gaatjes en gij vond dat schoon.'", "reason": "Dit is het moment waarop het boek mij overtuigt: het weet dat zijn tederheid op de badmat ook bezit was."},
+      {"quote": "'Hebt ge die ook in vijfenveertig?' zei ze.", "reason": "Zij kiest de maat van hun leven."}
+    ],
+    "confused_by": [
+      {"quote": "Zij heeft me verteld over de appartementen met één slaapkamer, en waarom.", "reason": "Verwijst naar iets wat ik niet heb meegekregen."},
+      {"quote": "Fanny Twee lag aan zijn voeten.", "reason": "Een nieuwe hond zonder introductie in wat ik las."}
+    ],
+    "flags": [
+      {"flag": "predictable", "quote": "'Op Patrick,' zei Roger. 'Acht jaar."}
+    ],
+    "strongest_passage": {"quote": "'Nee.' Ze zei het hard. 'Zeg dat niet. Ge zegt dat zoals ge *goed* zegt. Zoals ge *ik weet het* zegt. Ge hebt zeven jaar lang *ik weet het* gezegd, Steven, en ge wist niks.", "reason": "De herhaalde 'ik weet het' van het hele boek wordt tegen de verteller gekeerd. Zij leest hem, eindelijk hardop."},
+    "weakest_passage": {"quote": "en dat hij op zondagmorgen om negen uur een haag snoeide die niet gesnoeid moest worden, al vijfentwintig jaar, in een straat waar zijn zoon nooit meer kwam.", "reason": "Sentimenteel afgerond; de haag zelf vertelde het al."},
+    "machine_tells": [
+      {"tell": "contrast door ontkenning", "quote": "Ze vergaf me niet. Ze zei niet dat het goed was."},
+      {"tell": "personage legt gevoel uit", "quote": "'Omdat ik dan degene was die stopte,' zei ik."}
+    ],
+    "felt": {"emotion": "opluchting en pijn", "reason": "De vrouw spreekt, de man luistert. Het radiatorsleuteltje is perfect: zij repareert, hij wacht."},
+    "confidence": "high"
+  },
+  {
+    "reader": "Saïda",
+    "chapter": "chapter-14",
+    "turn_page": "yes",
+    "stopped_at": {"quote": "Er was geen loket. Er was een man die zich stond te scheren."},
+    "why_stopped": {"reason": "Het boek gaat terugblikken en zijn motieven aflopen; ik voelde de slotakkoorden te nadrukkelijk."},
+    "remember_tomorrow": [
+      {"quote": "In de zomer maakte Lies van de strijkkamer haar kamer.", "reason": "Een kamer voor zichzelf, met een microscoop. Precies wat ik van dit boek wilde: zij krijgt een leven dat niet om een kind draait."},
+      {"quote": "'Een raderdiertje,' zei ze. 'Ze zitten overal. In elke plas. Niemand kijkt ernaar.'", "reason": "Haar blik, eindelijk niet op een staal of een uitslag gericht."},
+      {"quote": "Als ze dicht is, klop ik niet. Dat is niet afgesproken. Het is zo.", "reason": "Respect als gewoonte, niet als les."}
+    ],
+    "confused_by": [],
+    "flags": [
+      {"flag": "over_explained", "quote": "Het is anderhalf jaar na Dylan, drie jaar na de datum zonder bedrag, vier jaar na mijn vader, zeven jaar na de olijfpit."}
+    ],
+    "strongest_passage": {"quote": "Ze lachte zo hard dat ze haar hoofd tegen de hoofdsteun legde en haar ogen sloot. Ze lachte haar echte lach, in de Skoda, op de straat van Kristof", "reason": "De lach uit hoofdstuk een komt terug, maar nu lacht ze niet om hem; ze lacht met hem. Verdiend."},
+    "weakest_passage": {"quote": "Er was de Siemens beneden, die om zes uur gepiept had. Er was de choco in de frigo, op de bovenste plank, rechts. Er was een vrouw in de kamer van Zacht Salie die naar een raderdiertje keek.", "reason": "Een inventaris van het boek; de vrouw wordt hier weer een item in zijn lijst."},
+    "machine_tells": [
+      {"tell": "contrast door ontkenning", "quote": "Ik dacht het niet als een groot moment. Ik dacht het zoals je denkt dat de melk op is."},
+      {"tell": "veralgemening", "quote": "zoals mijn vader deed, zoals iedere man doet"},
+      {"tell": "moraal / samenvatting aan het einde", "quote": "Het is anderhalf jaar na Dylan, drie jaar na de datum zonder bedrag"}
+    ],
+    "felt": {"emotion": "rust, met een licht ongeduld", "reason": "Het slot is mooi en ingehouden, maar herhaalt te veel. Toch: een man had iets te zeggen over dit onderwerp, en hij liet haar uiteindelijk haar eigen kamer."},
+    "confidence": "medium"
+  }
+]
