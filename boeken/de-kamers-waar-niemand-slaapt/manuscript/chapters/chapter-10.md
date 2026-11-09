@@ -20,8 +20,6 @@ Ik ben achtendertig. Mijn eierstokken zijn achtendertig. Het fertiliteitscentrum
 
 De redenering gaat dus zo: als ik ga, kan hij nog. Als ik blijf, kan hij niet meer. Ik ben de factor. Ik ben de onverklaarde factor.
 
-Dat is geen zelfmedelijden. Het is een analyse.
-
 ---
 
 Ward werkt sinds september op het labo. Hij komt van een labo in Kortrijk. Hij is vierenveertig, gescheiden, twee dochters die om de week bij hem zijn. Hij doet de chemische analyses, pesticiden en zware metalen, aan de andere kant van de gang. Hij draagt een labojas die te kort is aan de mouwen omdat hij te lange armen heeft, en hij heeft het zo gelaten, omdat hij zegt dat een langere labojas een kwestie van ijdelheid is.
@@ -51,6 +49,10 @@ We lopen verder. Ik loop een beetje sneller dan nodig. Hij past zich aan. Bij he
 Ik wil niet met Ward slapen. Dat is de waarheid. Ik heb er een paar keer over nagedacht, op de manier waarop je nadenkt over een appartement in de Brugse Poort, maar ik wil het niet. Wat ik wil, is iets anders, en het is erger. Ik wil iemand zijn die niet *de vrouw die geen kinderen kan krijgen* is. Ward kent mij niet zo. Voor Ward ben ik iemand die zes kilometer loopt in vijfendertig minuten. Dat is alles. Het is meer dan ik thuis ben.
 
 ---
+
+In april zegt Ward dat hij teruggaat naar Kortrijk. Zijn oudste dochter wil bij hem wonen, en ze wil niet van school veranderen. Hij zegt het bij de koffieautomaat, terwijl hij een bekertje uit de houder trekt dat vastzit. Hij heeft al een appartement gevonden, met een kamer voor elk van de meisjes. Hij toont foto's op zijn telefoon. Twee kleine kamers, leeg, met witte muren. 'Ze mogen zelf de kleur kiezen,' zegt hij. 'Dat gaat ruzie geven.'
+
+Ik zeg dat het goed is voor zijn dochter. Het is goed voor zijn dochter. Hij vraagt niets aan mij. Hij loopt zijn laatste lus langs de Leie op een vrijdag in mei, zonder mij, omdat ik een staal in de broedstoof heb.
 
 Thuis is het stil. Het is een ander soort stil dan vroeger.
 

@@ -1,6 +1,6 @@
 # 3. Doopsuiker
 
-Mijn broer heeft een tuin met een vijver erin, en in de vijver zit een reiger van plastic, om de echte reigers weg te houden. Er zitten geen vissen in de vijver. De vissen zijn in 2014 opgegeten door een echte reiger, die zich niets had aangetrokken van de plastic reiger, en Kristof heeft nooit nieuwe vissen gekocht. De plastic reiger staat er nog. Hij bewaakt nu niets. Ik heb daar altijd iets in gezien, maar ik weet niet wat, en ik heb het nooit tegen Kristof gezegd, omdat hij gezegd zou hebben: 'Manneke, het is een plastieken reiger.'
+Mijn broer heeft een tuin met een vijver erin, en in de vijver zit een reiger van plastic, om de echte reigers weg te houden. Er zitten geen vissen in de vijver. De vissen zijn in 2014 opgegeten door een echte reiger, die zich niets had aangetrokken van de plastic reiger, en Kristof heeft nooit nieuwe vissen gekocht. De plastic reiger staat er nog.
 
 Op de zaterdag van het feest voor Lena stond er naast de vijver een springkasteel in de vorm van een piratenschip.
 
@@ -52,7 +52,7 @@ Nathalie legde Lena in haar armen. Lies hield haar vast zoals je een baby vastho
 
 'Ze voelt zich direct op haar gemak bij u,' zei Nathalie. 'Dat is een goed teken, hé.'
 
-Ik weet nog altijd niet wat ze daarmee bedoelde. Een goed teken waarvoor. Ik denk dat zij het ook niet wist. Mensen zeggen zulke dingen.
+Een goed teken waarvoor.
 
 Lies keek naar Lena. Haar gezicht deed iets wat ik niet kon lezen. Ze stond daar met de baby van mijn broer in haar armen, in het gouden septemberlicht, tussen de statafels, met het springkasteel achter haar en het gekrijs van de kinderen, en ze keek naar het gezichtje met een uitdrukking die ik later nog vaak heb gezien en die ik nooit heb kunnen benoemen. Het leek nog het meest op iemand die een berekening maakt.
 

@@ -100,7 +100,7 @@ Daarna ging ik naar de strijkkamer, de kamer van Zacht Salie, om een schroevendr
 
 Er lag een pak stopcontactbeveiligers in. Van de Action. Twaalf stuks, in een plastic verpakking op een kartonnetje, met een foto van een lachende baby die naar een stopcontact kruipt en een groot rood kruis. Ongeopend. Prijs: één euro negenenveertig, met een oranje stickertje.
 
-Ik wist niet meer dat we die hadden. Ik wist het eigenlijk wel. Lies had ze gekocht, in 2014, in de lente, toen ze net gestopt was met de pil, toen we nog *zien* deden. We waren samen in de Action geweest voor kaarsen, en ze had ze uit een bak bij de kassa genomen en in het mandje gelegd en gezegd: 'Die gaan we toch nodig hebben.' Ze had het gezegd als een grap. Ik had gelachen. Het was een grap geweest. Het was een grap geweest die we vijf jaar lang in een schuif hadden bewaard.
+Ik wist niet meer dat we die hadden. Ik wist het eigenlijk wel. Lies had ze gekocht, in 2014, in de lente, toen ze net gestopt was met de pil, toen we nog *zien* deden. We waren samen in de Action geweest voor kaarsen, en ze had ze uit een bak bij de kassa genomen en in het mandje gelegd en gezegd: 'Die gaan we toch nodig hebben.' Ze had het gezegd als een grap. Ik had gelachen. Het was een grap geweest.
 
 Ik scheurde de verpakking open. Ik haalde er twee uit. Het waren kleine dingen van wit plastic, met twee pinnetjes die in de gaatjes van een stopcontact pasten, en een plat schijfje ervoor, zodat een kind er niet met zijn vingers of met een vork in kon. Ik hield ze in mijn hand. Ze waren licht. Ze roken naar plastic, zoals nieuwe dingen ruiken.
 

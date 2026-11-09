@@ -68,7 +68,7 @@ Ik gaf het aan Nathalie, die Mila vasthield. Ze deed het papier open met één h
 
 Kristof stond achter haar. Hij keek naar de trein. Ik zag zijn gezicht. Ik zag dat hij hem herkende. Hij had ermee gespeeld, natuurlijk. Hij was drie jaar ouder. Hij had hem waarschijnlijk vaker gehad dan ik. Hij zei niets. Hij legde zijn hand op mijn schouder, de hand van mijn vader, en liet ze daar liggen, zwaar, tot Nathalie zei dat de taart moest worden aangesneden.
 
-Mila was vier maanden. Ze zat in een wipstoeltje op de teakhouten tafel, met de trein voor zich, en ze keek ernaar met de ogen die nog niet goed wisten waar ze moesten blijven, en ze stak haar hand uit, en ze raakte een rood wiel, en het wiel draaide, en ze schrok, en ze begon te lachen. Het was een echte lach. Daar was iedereen het over eens. Mijn moeder zei: 'Ze lacht naar haar peter!' Ik denk dat ze lachte naar het wiel.
+Mila was vier maanden. Ze zat in een wipstoeltje op de teakhouten tafel, met de trein voor zich, en ze keek ernaar met de ogen die nog niet goed wisten waar ze moesten blijven. Toen keek ze naar de lamp.
 
 Lies stond naast me met een glas witte wijn. Ze dronk ervan. Niemand keek naar haar buik.
 
@@ -104,9 +104,7 @@ Ze keek naar me. Ze keek naar de twee helften in mijn hand. Toen begon ze te lac
 
 'Ja.'
 
-Toen we uitgelachen waren, deed ik de twee doosjes van Lena in een plastic zak, en de gebroken suikerboon erbij. Thuis gooide ik de zak in de vuilbak. In het restafval. Ik weet niet waar doopsuiker hoort. Ik heb het niet opgezocht.
-
-Het doosje van Mila zette ik in het handschoenkastje. Bovenaan.
+Toen we uitgelachen waren, legde ik de twee helften terug in het doosje, en het doosje terug in het handschoenkastje, bij het andere. Het doosje van Mila legde ik erbij. Ik heb ze er geen van drieën uitgehaald sindsdien.
 
 ---
 
@@ -158,7 +156,7 @@ Lies keek naar het plooibed, en naar mij, en weer naar het plooibed. Ik zag haar
 
 'Goed,' zei ze. Het was mijn woord. Ze gebruikte het zelden.
 
-Ze bracht het overtrek die maandag naar Ilse, in een papieren zak van de Delhaize. Ilse stuurde een berichtje terug met een duimpje. Het plooibed heb ik die avond dichtgeplooid. Het hendeltje klemde. Het staat er nog.
+Ze bracht het overtrek die maandag naar Ilse, in een papieren zak van de Delhaize. Ilse stuurde een berichtje terug met een duimpje. Het plooibed staat er nog, open.
 
 ---
 
@@ -186,7 +184,7 @@ Ze zit er 's avonds. Niet elke avond. Ze leest of ze kijkt in haar microscoop of
 
 ---
 
-De kleine kamer is gebleven zoals ze was. Het plooibed staat rechtop tegen de muur. De bananendoos staat in de hoek, met de Lego en de autootjes en Barry erin, zonder de trein. De tekening van Dylan hangt tussen twee ballonnen, met plakband die geel begint te worden. Het overtrek met de raketten is weg.
+De kleine kamer is gebleven zoals ze was. Het plooibed staat open, zonder overtrek. De bananendoos staat in de hoek, met de Lego en de autootjes en Barry erin, zonder de trein. De tekening van Dylan hangt tussen twee ballonnen, met plakband die geel begint te worden. Het overtrek met de raketten is weg.
 
 Ik ga er soms binnen. Ik doe er niets. Ik sta er.
 

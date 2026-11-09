@@ -30,37 +30,41 @@ Ze zette koffie. Ze zette de pralines op tafel, een doos die nog van Kerstmis wa
 
 'Ja.'
 
-Ze knikte. Ze roerde in haar koffie, hoewel ze er geen suiker in deed.
+Ze knikte. Ze roerde in haar koffie, hoewel ze er geen suiker in deed. Aan de kapstok in de gang hing een mannenjas, een donkerblauwe, met een sjaal erover. Rita zag me kijken.
 
-'Ik heb tegen haar gezegd: zeg het hem,' zei ze. 'Al jaren. Vanaf die eerste afspraak in Gent. Ik heb gezegd: Lies, die jongen moet dat weten. Ze zei: *Mama, dat is van mij.*' Rita keek naar het raam. 'Dat zei ze altijd al, als kind. *Dat is van mij.* Over haar speelgoed, over haar kamer, over haar dagboek. Ze heeft nooit iets gedeeld wat ze niet moest.'
+'Dat is van Freddy,' zei ze. 'Van de dansles. Op woensdag.' Ze keek me aan. 'Ge moet dat niet tegen Lies zeggen. Dat is van mij.'
 
-'Ik weet het.'
+Ik zei dat ik het niet zou zeggen.
 
-'Ik ben toen met haar meegegaan,' zei Rita. 'Naar dat centrum. In Gent. Ze was negentien. Ik heb gebeld voor de afspraak, maar zij had alles al uitgezocht, het adres, de papieren, wat ze moest meebrengen. Ze had me nodig om te bellen en om te rijden. Ze heeft het me gezegd op een zondagavond in de keuken en op woensdag zaten we daar.' Ze schudde haar hoofd. 'Ik heb in die wachtzaal gezeten met mijn handtas en ik heb gebeden. Ik geloof niet eens. Ik heb toch gebeden. Niet dat het niet zou gebeuren. Dat het snel voorbij zou zijn. Voor haar.'
+'Ik heb tegen haar gezegd: zeg het hem,' zei ze. 'Al jaren. Vanaf die eerste afspraak in Gent. Ze zei: *Mama, dat is van mij.*' Ze keek naar het raam. 'Dat zei ze altijd al, als kind. Over haar speelgoed, over haar kamer, over haar dagboek.'
 
-'Ze zei dat ge friet hebt gehaald.'
+'Weet ge waarom ze het nu verteld heeft?'
 
-Rita lachte. Het was een korte lach, door haar neus, die ik van Lies kende.
+'Omdat ge iets gezegd hebt.'
 
-'Ja,' zei ze. 'Ik wist niet wat ik anders moest doen. Ik ben een moeder. Een moeder haalt friet.'
+'Weet ge wat?'
 
-Op het plein viel een stang op de grond met een klap. Iemand vloekte.
+Ze schudde haar hoofd.
 
-'Ik zeg maar wat, Steven,' zei Rita. 'Maar ze heeft het toen alleen gedaan. En ze heeft daarna alles alleen gedaan.'
+Ik vertelde het haar. Het koertje bij Bert, in 2018, de mist, het woord *weghalen*, en dat Lies in de deur had gestaan. Ik vertelde het zonder iets weg te laten. Daarna vertelde ik over de auto, deze zomer, na het feest van mijn moeder. Over de moeder van Dylan. Dat ik had gezegd dat zij het niet aankon, op haar negentiende, met een of andere vent, en dat wij het weekend moesten overnemen.
 
-Ik zei niets. Ik dronk mijn koffie. Hij was sterk en bitter. Rita zette altijd te sterke koffie. Lies zei dat altijd. Ik had het nooit gemerkt.
+Rita zette haar tas neer.
 
-'Ze heeft het u niet verteld om u pijn te doen,' zei Rita.
+'Lies was negentien,' zei ze.
 
-'Dat weet ik.'
+'Ik weet het. Ik wist het toen niet.'
 
-'Ze heeft het u verteld omdat ge iets gezegd hebt.'
+'Nee,' zei Rita. 'Ge wist het van die andere ook niet.' Ze keek me aan, lang, met de ogen van Lies, die ik nooit eerder bij haar had gezien. 'Hoe lang hebt ge dat meisje gekend?'
 
-'Dat weet ik ook.'
+'Zeven zondagen.'
 
-Rita knikte. Ze schoof de doos pralines naar mij toe. Ik nam er een. Het was een met likeur. Ik heb een hekel aan pralines met likeur. Ik at hem op.
+'Zeven zondagen,' zei Rita.
 
-Bij het weggaan, in de deuropening, legde ze haar hand op mijn arm.
+Op het plein viel een stang op de grond met een klap. Iemand vloekte. Ik dronk mijn koffie. Hij was sterk en bitter. Rita zette altijd te sterke koffie. Lies zei dat altijd. Ik had het nooit gemerkt.
+
+Ze schoof de doos pralines naar mij toe. Ik nam er een. Het was een met likeur. Ik heb een hekel aan pralines met likeur. Ik at hem op.
+
+Bij het weggaan, in de deuropening, onder de jas van Freddy, legde ze haar hand op mijn arm.
 
 'Ze heeft nooit gedacht dat het haar straf was,' zei ze. 'Ze gelooft daar niet in. Ze heeft gedacht dat het haar kans was. Haar ene kans. Dat heeft ze me een keer gezegd, op een avond, na de tweede keer in Gent. Ze zei: *Mama, misschien heb ik die gebruikt.* Ik heb gezegd dat dat onzin was.' Rita keek naar de vloer van de gang. 'Ik weet niet of dat onzin is. Ik ben geen dokter.'
 
@@ -135,6 +139,40 @@ Hij dronk zijn koude koffie. Fanny Twee stond op en rekte zich uit.
 Ik veegde de laatste takjes op en deed ze in de groene container. Ik rolde het snoer op de haspel. Ik legde de schaar terug op de werkbank in zijn garage, op de plaats waar een contour van stof was achtergebleven.
 
 Ik heb sindsdien elke zondag om negen uur zijn haag gesnoeid. Elke zondag dat het moest. Roger zegt wanneer het moet. Hij zit erbij in zijn tuinstoel. Hij zegt: 'Van onder naar boven.' Ik weet het al. Hij zegt het toch.
+
+---
+
+Begin november zag ik Kelly in de Colruyt in Wetteren.
+
+Ik had er niets te zoeken. Wij gaan naar de Colruyt in Lede. Ik was in Wetteren omdat Kurt een onderdeel nodig had dat alleen de groothandel daar had, en ik had gezegd dat ik het zou halen, op een zaterdag, omdat ik op zaterdag niet graag thuis was. Op de terugweg stopte ik aan de Colruyt voor koffie. Dat zei ik tegen mezelf.
+
+Ze stonden bij het vlees. Kelly met een kar, Dylan ernaast met een folder. Ik zag ze tussen de rekken door, van bij de koekjes. Dylan las prijzen voor. Kelly luisterde. Ze had een andere jas aan, een rode, en haar haar was korter.
+
+'Kipfilet,' zei Dylan. 'Zeven negenennegentig.'
+
+'Per kilo?' zei Kelly.
+
+'Voor vijfhonderd gram.'
+
+'Dan is het per kilo vijftien achtennegentig, Dylan. Altijd per kilo. Hoeveel keer moet ik dat zeggen.' Ze nam de folder van hem af en keek erin. 'Bij de Lidl is het goedkoper. Leg terug.'
+
+Hij legde het terug. Hij zei niets. Hij keek naar haar zoals hij in onze keuken naar de ballon op het flesje had gekeken.
+
+Ik stond bij de koekjes met een pak Prince in mijn hand. Ik had niet geweten waar hij het geleerd had. Ik had gedacht dat het van hem was, dat rekenen, dat het iets was wat hij had gevonden in zijn eentje, zoals je een steen vindt. Ik had gedacht dat hij het misschien een beetje van mij had, de laatste weekends, met de kar achter hem. Het was van haar. Ze had het hem geleerd in een Colruyt, met een folder, omdat ze het moest weten, per kilo, elke week.
+
+Dylan draaide zich om. Hij zag me. Hij stak zijn hand op, half, tot aan zijn schouder, en liet ze weer zakken. Kelly keek in de richting waarin hij keek. Ze zag me staan met de Prince-koeken. Ze knikte. Eén keer.
+
+Ik knikte terug.
+
+Ik ging niet naar hen toe. Ik heb er lang over nagedacht, in de auto, op de parking, met de motor uit, waarom ik niet naar hen toe ben gegaan, en ik weet het niet. Ik weet alleen dat ik daar stond, een man van veertig met een pak koekjes, die in een auto op een oprit tegen zijn vrouw had gezegd dat die moeder het niet aankon. Ik had haar zeven zondagen gezien, telkens drie minuten, op een trottoir. De rest had ik erbij verzonnen.
+
+Ik zette de Prince-koeken terug. Ik nam de kar en ging naar de kassa, langs de andere kant, langs de diepvriezers.
+
+Thuis vroeg Lies waar ik zo lang was geweest.
+
+'In Wetteren,' zei ik. 'Voor een onderdeel.'
+
+Dat was waar.
 
 ---
 

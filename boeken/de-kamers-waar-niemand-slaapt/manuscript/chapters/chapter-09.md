@@ -172,7 +172,7 @@ Toen ik de grasmachine terug in het tuinhuis zette, stond Lies aan de achterdeur
 
 'Wat gaat ge zeggen?'
 
-'Dat ze ze mogen ontdooien. Allebei. Om te zien of ze het halen. Als ze het halen, beslissen we dan.'
+'Dat we een terugplaatsing plannen. Met de laatste twee. Ze ontdooien ze op de dag zelf. Als er een goed is, plaatsen ze het terug. En als ze het geen van beide halen...' Ik maakte de zin niet af.
 
 Ze keek me lang aan.
 
@@ -184,8 +184,12 @@ Ze zei niets. Ze nam de lege tas uit mijn hand.
 
 'Bel ze,' zei ze.
 
-Ik belde ze op maandag. Ze ontdooiden ze op donderdag. De man belde om half elf. Geen van beide had de ontdooiing overleefd.
+Ik belde ze op maandag. Lies moest drie weken pillen nemen voor haar baarmoederslijmvlies en twee keer op echo komen. Ze nam de pillen elke ochtend, bij het ontbijt, naast de confituur. Ze zei er niets over. Op het secretariaat moesten we allebei een formulier tekenen, *aanvraag tot ontdooiing van embryo's*, met ons rijksregisternummer. Ze tekende eerst. Ze schreef haar naam heel recht.
+
+Op de ochtend van de terugplaatsing, een dinsdag in februari, reden we samen naar Gent. Bij Wetteren stond file. Om tien over negen ging mijn telefoon. Het was het labo. Ik zette hem op de luidspreker, in het houdertje op het dashboard. Het was een man. Hij zei dat ze die ochtend de laatste twee embryo's hadden ontdooid. Geen van beide had de ontdooiing overleefd. De terugplaatsing kon niet doorgaan.
 
 'Het spijt me heel erg,' zei hij.
 
 'Dank u,' zei ik.
+
+Lies zette haar pinker op en nam de volgende afrit.

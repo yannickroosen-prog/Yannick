@@ -114,9 +114,7 @@ Het konijn en het lampje hoorden er niet in. De doopsuiker ook niet. Ik heb ze e
 
 Ik had die zomer niet naar Kroatië gewild, waar Lies naartoe wilde, opnieuw, omdat we er op huwelijksreis waren geweest. Ik had gezegd dat we dat geld beter konden bewaren. Voor *later*. Ze had me aangekeken en gezegd: 'Voor later. Ge klinkt als uw vader.' We waren niet naar Kroatië gegaan. We waren een week naar de Ardennen gegaan, naar een vakantiehuisje in de buurt van Durbuy, waar het vijf dagen regende en waar Lies elke dag ging lopen in de regen en ik in een zetel zat met een boek dat ik niet las.
 
-'Een goeie tweedehandse auto,' zei Dirk nog eens. Hij schudde zijn hoofd. 'Maar ja. Als het lukt, is het dat natuurlijk waard.'
-
-*Als het lukt.* Ik keek naar Lies. Ze keek naar haar dessert, een bûche de Noël van de bakker met een plastic kabouter erop. Ze pakte de kabouter eraf en legde hem naast haar bord, op het tafelkleed, tussen de rendieren. Ze keek ernaar.
+Ik keek naar Lies. Ze keek naar haar dessert, een bûche de Noël van de bakker met een plastic kabouter erop. Ze pakte de kabouter eraf en legde hem naast haar bord, op het tafelkleed, tussen de rendieren. Ze keek ernaar.
 
 'Wie wil er nog koffie?' zei Rita.
 

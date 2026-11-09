@@ -142,7 +142,7 @@ Lies zei niets. Ze reed. Ze reed heel rustig. Ze zette haar pinker op voor de af
 
 We kwamen thuis. Ze parkeerde de witte Picanto op de oprit naast de Skoda. Ze zette de motor af. Ze bleef zitten. Ik bleef ook zitten.
 
-'Ik ga u iets vertellen,' zei ze.
+Ze haalde haar handen niet van het stuur.
 
 ---
 
