@@ -36,7 +36,7 @@ Ze knikte. Ze roerde in haar koffie, hoewel ze er geen suiker in deed.
 
 'Ik weet het.'
 
-'Ik ben toen met haar meegegaan,' zei Rita. 'Naar dat centrum. In Gent. Ze was negentien. Ze had alles zelf geregeld, de afspraak, de papieren. Ze had me alleen nodig om te rijden. Ze heeft het me gezegd op een zondagavond in de keuken en op woensdag had ze alles al geregeld.' Ze schudde haar hoofd. 'Ik heb in die wachtzaal gezeten met mijn handtas en ik heb gebeden. Ik geloof niet eens. Ik heb toch gebeden. Niet dat het niet zou gebeuren. Dat het snel voorbij zou zijn. Voor haar.'
+'Ik ben toen met haar meegegaan,' zei Rita. 'Naar dat centrum. In Gent. Ze was negentien. Ze had alles zelf geregeld, de afspraak, de papieren. Ze had me alleen nodig om te rijden.' Lies had het anders verteld. Ik zei niets. 'Ze heeft het me gezegd op een zondagavond in de keuken en op woensdag had ze alles al geregeld.' Ze schudde haar hoofd. 'Ik heb in die wachtzaal gezeten met mijn handtas en ik heb gebeden. Ik geloof niet eens. Ik heb toch gebeden. Niet dat het niet zou gebeuren. Dat het snel voorbij zou zijn. Voor haar.'
 
 'Ze zei dat ge friet hebt gehaald.'
 
@@ -126,7 +126,7 @@ Ik nam de harde borstel en veegde de takjes op. Krrt, krrt, krrt. Op de stoepteg
 
 Ik hield op met vegen.
 
-'Op Patrick,' zei Roger. 'Acht jaar. Dat was in de jaren zestig. Toen had ge dat allemaal niet, die ziekenhuizen. Ge ging naar de dokter en die zei: ge moet geduld hebben, madam. En Jeanine heeft geduld gehad. Acht jaar. Ze is in die tijd drie keer naar Scherpenheuvel geweest. Te voet. Van hier.' Hij keek naar de haag. 'En dan kwam hij. Toen we het al opgegeven hadden.'
+'Op Patrick,' zei Roger. 'Acht jaar. Dat was eind jaren zestig. Toen had ge dat allemaal niet, die ziekenhuizen. Ge ging naar de dokter en die zei: ge moet geduld hebben, madam. En Jeanine heeft geduld gehad. Acht jaar. Ze is in die tijd drie keer naar Scherpenheuvel geweest. Te voet. Van hier.' Hij keek naar de haag. 'En dan kwam hij. Toen we het al opgegeven hadden.'
 
 'Dat wist ik niet.'
 
@@ -184,11 +184,65 @@ Ik bleef liggen. Ik luisterde naar de radiator, die tikte, zoals radiatoren tikk
 
 We hebben er niet meer over gepraat. Niet die nacht. Ik weet dat dat niet is hoe het in boeken gaat, of in de folders van het ziekenhuis, of in de vragenlijst van achtentwintig bladzijden. *Beschrijf een conflict tussen u en uw partner en hoe u dat hebt opgelost.* We hebben het niet opgelost. We hebben een radiator ontlucht.
 
-Later hebben we er wel over gepraat. Niet in één keer. In stukken. In de auto, aan de keukentafel, op een wandeling langs de Molenbeek, terwijl zij liep en ik naast haar fietste, omdat ik niet kan lopen. Zij heeft me verteld over de appartementen met één slaapkamer, en waarom. *Gij zoudt beter af zijn met een ander. Een jongere.* Ze zei het als een feit. Ik heb gezegd dat ik dat ook gedacht had, over mezelf, in het kamertje met het luikje, dat zij beter af zou zijn met een man wiens zaad niet aan de lage kant van normaal was. Ze heeft gelachen. Ik heb haar gezegd wat ik in de auto gedacht had, op de oprit, die zin. Ik heb hem hardop gezegd, in de keuken, op een avond, omdat ik vond dat ze hem moest horen in plaats van hem alleen te zien. *Maar ge kon het dus wel.* Het klonk nog lelijker hardop dan in mijn hoofd. Ze knikte. Ze zei: 'Ja. Ik kon het. Op mijn negentiende. Met een jongen die gitaar speelde. Een keer.' Ze zei: 'Dat is het enige wat we weten. Al de rest is onverklaard.'
+Later hebben we er wel over gepraat. In stukken. In de auto, op een wandeling langs de Molenbeek, terwijl zij liep en ik naast haar fietste, omdat ik niet kan lopen. Zij heeft me verteld over de appartementen met één slaapkamer, en waarom. *Gij zoudt beter af zijn met een ander. Een jongere.* Ze zei het als een feit. Ik zei dat ik hetzelfde had gedacht, over mezelf, in het kamertje met het luikje. Ze lachte niet.
 
-Ik heb haar niet vergeven. Er was niets om te vergeven. Ik heb het lang gedacht, dat er iets te vergeven was, en dat ik het moest doen, als een goede man, als in de folders. Maar ze had niets gedaan. Ze had op haar negentiende een beslissing genomen die juist was, en ze had er daarna niet over gesproken, en ik had op mijn zesendertigste op een koertje bij Bert iets gezegd wat ik niet meende en toch zei. Als er iemand iets te vergeven was, dan was het niet zij.
+Het stuk dat ik wil vertellen, was aan de keukentafel, half december, op een dinsdag. De Bosch draaide nog, half vol. Lies had een tas thee en ik niets.
 
-Zij heeft dat nooit gezegd. Ze heeft me een kop koffie gegeven, de avond nadat ik die zin hardop gezegd had, met twee klontjes suiker, terwijl ik geen suiker neem. Ik heb hem opgedronken.
+'Ik heb het gedacht,' zei ik. 'In de auto. Op de oprit.'
+
+'Ik weet het.'
+
+'Ik ga het zeggen. Ik vind dat ge het moet horen in plaats van het alleen te zien.'
+
+Ze zette haar tas neer. Ze legde haar handen aan weerskanten ervan.
+
+'*Maar ge kon het dus wel*,' zei ik.
+
+Het klonk lelijker hardop dan in mijn hoofd. Het klonk als iets wat Dirk zou zeggen, over een verzekering. Het bleef boven de tafel hangen, naast de lamp.
+
+'Zeg het nog eens,' zei Lies.
+
+'Lies.'
+
+'Nog eens. Ik wil het nog eens horen.'
+
+'Maar ge kon het dus wel.'
+
+Ze knikte. Ze knikte lang, met haar mond dicht, alsof ze een meting afleest die ze al kende.
+
+'Weet ge wat ik dacht,' zei ze, 'op dat koertje bij Bert? Toen ik in die deur stond?' Ze wachtte niet op een antwoord. 'Ik dacht: daar staat hij. Met vijf glazen cava en een schrift in zijn schuif waarin hij elke euro bijhoudt. Hij weet het niet eens, van mij. En hij heeft het toch over mij. Hij staat over mij te praten tegen Bert, en hij weet het niet.'
+
+'Het spijt me,' zei ik.
+
+'Nee.' Ze zei het hard. 'Zeg dat niet. Ge zegt dat zoals ge *goed* zegt. Zoals ge *ik weet het* zegt. Ge hebt zeven jaar lang *ik weet het* gezegd, Steven, en ge wist niks. Ge kwaamt thuis van dat potje en ge keek naar mij alsof ik de uitslag was. Ge zat op uw knieën op die badmat en ge prikte volgens de klok en ge vond dat schoon. Ik heb het gezien. Ge vond dat schoon. Ik lag daar met mijn buik vol gaatjes en gij vond dat schoon.'
+
+Ik zei niets. Het was waar.
+
+'Ik heb drie jaar gewacht tot ge ergens mee zoudt smijten,' zei ze. 'Met een bord. Met die gele emmer. Met iets. Ge hebt nooit met iets gesmeten. Ge hebt het gras gemaaid in januari.'
+
+De Bosch schakelde over naar het spoelen. Ik hoorde het water.
+
+Ik dacht aan de tuin in juni, aan de verbrande worsten en het vliegtuig met de witte streep. Aan de pint onder de lege lucht, drie weken eerder. Ik had het toen bijna gezegd. Ik had het al die tijd bijna gezegd.
+
+'Ik wilde ook niet meer,' zei ik.
+
+Ze keek op.
+
+'In de lockdown. Ik zat in de tuin. Ik had er twee weken niet aan gedacht. Ik dacht: het kan ook zo. En toen kwam die mail, en gij zei het, aan de barbecue, en ik had het kunnen zeggen. *Ik ook.* Twee woorden. Ik heb gezegd: *nog één keer*.'
+
+'Waarom?'
+
+Ik keek naar mijn handen op de tafel. Ze lagen er zoals de hare. Ik had dat nooit gemerkt, dat we onze handen hetzelfde legden.
+
+'Omdat ik dan degene was die stopte,' zei ik.
+
+Lies zei lang niets. Ze nam haar tas thee op en dronk ervan, hoewel hij koud moest zijn.
+
+'Ja,' zei ze. 'Dat dacht ik al.'
+
+Ze vergaf me niet. Ze zei niet dat het goed was. Ze stond op en spoelde haar tas om in de gootsteen en zette hem omgekeerd op het afdruiprek, en ze zei: 'Ik ga lopen.' Het was negen uur 's avonds in december en het vroor. Ze trok haar loopschoenen aan in de gang en haar jas met de reflecterende strepen, en ze ging. Ik hoorde de voordeur. Ik bleef aan de tafel zitten tot de Bosch drie keer piepte. Ze was na drie kwartier terug. Acht komma vier. Ze ging douchen. Ik hoorde de leidingen.
+
+De avond daarna gaf ze me een kop koffie, met twee klontjes suiker, terwijl ik geen suiker neem. Ik heb hem opgedronken.
 
 ---
 

@@ -16,8 +16,6 @@ Het was bewolkt. Het was de hele dag bewolkt geweest, met af en toe een zonnestr
 
 Om vier uur tikte hij met een mes tegen zijn glas.
 
-'Ik ga het kort houden,' zei hij.
-
 Hij ging niet op een stoel staan, deze keer. Hij bleef zitten, naast Nathalie. Hij had zijn arm om haar schouders. Ik zag hoe hij naast haar zat. Ik zag het aan zijn schouders.
 
 Ik wist het voor hij het zei. Ik denk dat ik het al wist toen we die middag binnenkwamen en Nathalie ons een glas cava gaf en zelf water dronk. Ik had het gezien en ik had er niet aan gedacht, zoals je een put in het trottoir ziet en er niet aan denkt, en nu dacht ik eraan.
@@ -32,7 +30,7 @@ Ik weet niet wat er daarna precies gebeurde, omdat er veel tegelijk gebeurde. Mi
 
 Ik klapte. Ik weet dat ik klapte. Ik heb het later op een filmpje gezien, dat een nicht van Nathalie had gemaakt en in de familiegroep had gezet. Je ziet mij aan de rand van het beeld, links, naast Lies. Ik klap. Ik heb een glimlach op mijn gezicht. Het is een goede glimlach. Als ik het filmpje bekijk, kan ik niet zien dat er iets mis is met die glimlach. Ik heb het filmpje vaak bekeken.
 
-Lies klapte ook. Ze stond op. Ze ging naar Nathalie en omhelsde haar en zei iets in haar oor. Daarna ging ze naar Kristof en gaf hem een kus op zijn wang. Kristof zei: 'Merci, Lies,' en hield haar een seconde langer vast dan nodig, en ik zag zijn gezicht over haar schouder, en het was het gezicht van iemand die iets weet wat hij niet weet hoe hij moet zeggen.
+Lies klapte ook. Ze stond op. Ze ging naar Nathalie en omhelsde haar en zei iets in haar oor. Daarna ging ze naar Kristof en gaf hem een kus op zijn wang. Kristof zei: 'Merci, Lies,' en hield haar een seconde langer vast dan nodig, en ik zag zijn gezicht over haar schouder.
 
 Ik bleef zitten. Ik had cava in mijn glas. Ik dronk het op. Iemand schonk het opnieuw vol.
 
@@ -68,7 +66,7 @@ We bleven staan. Hij zette zijn kant even neer op het gras. Hij herpakte zich. I
 
 We liepen langs de vijver. De plastic reiger stond in de regen. Ik zag hem vanuit mijn ooghoek. Hij keek naar ons. Hij keek naar niets.
 
-Ik dacht aan niets. Dat is wat ik wil zeggen. Ik dacht niet aan rechtvaardigheid, aan het leven, aan wat het ons verschuldigd was. Ik dacht niet aan Lies, niet aan de ketel in Gent, niet aan de datum zonder bedrag in het schrift met de harde kaft. Ik dacht: mijn vingers glijden. Ik dacht: let op de rand van het terras. Ik dacht: die zijdeur is smal, we gaan hem moeten kantelen. Ik dacht aan de tafel. De tafel was zwaar en nat en moest naar de garage, en er was niemand anders, en dus droeg ik hem.
+Ik dacht: mijn vingers glijden. Ik dacht: let op de rand van het terras. Ik dacht: die zijdeur is smal, we gaan hem moeten kantelen. Ik dacht aan de tafel. De tafel was zwaar en nat en moest naar de garage, en er was niemand anders, en dus droeg ik hem.
 
 Bij de zijdeur moesten we hem kantelen. Kristof had het niet voorzien. Hij had niet gemeten. Hij meet nooit. We probeerden het recht, en het blad kwam klem tegen de deurstijl, en Kristof vloekte, en we zetten de tafel neer op het terras, in de regen, en keken ernaar.
 
@@ -110,7 +108,7 @@ Ik keek naar mijn broer. Hij stond daar, in zijn natte hemd, met zijn grote hand
 
 'Ge hebt een tafel van vijfenzeventig kilo gekocht zonder de deur te meten.'
 
-Hij keek me aan. Dan begon hij te lachen. Echt te lachen, zijn grote dakwerkerslach, die boven op een dak naar beneden roept. Ik lachte ook. We stonden in de garage en lachten, en het was niet grappig, en we lachten tot Kristof hoestte, en daarna stonden we stil, en de regen hield op, zo plots als hij was begonnen, en we hoorden de laatste druppels van het golfplaten dak vallen.
+Hij keek me aan. Hij wachtte op meer. Ik had niets meer. Ik had een grap kunnen maken, over een tafel van vijfenzeventig kilo en een deur die niemand gemeten had. Ik maakte ze niet. Buiten hield de regen op, zo plots als hij begonnen was, en we hoorden de laatste druppels van het golfplaten dak vallen.
 
 'Proficiat, Kristof,' zei ik.
 
@@ -122,9 +120,7 @@ We gingen naar binnen. De taart werd aangesneden. Ik at een stuk van de nul.
 
 ---
 
-In de auto zei Lies niets tot we de straat uit waren.
-
-Het was half tien. Het was nog licht, dat zomerse grijs na de regen, met plassen op de weg waarin de lucht weerspiegelde. Lies reed. Ik had te veel gedronken. Dat was nu eenmaal zo, op familiefeesten. Het was een rolverdeling geworden, zoals de gele emmer: zij reed, ik dronk.
+Het was half tien toen we vertrokken. Het was nog licht, dat zomerse grijs na de regen, met plassen op de weg waarin de lucht weerspiegelde. Lies reed. Ik had te veel gedronken. Dat was nu eenmaal zo, op familiefeesten. Het was een rolverdeling geworden, zoals de gele emmer: zij reed, ik dronk.
 
 'Hij heeft het u in de garage gezegd,' zei Lies. 'Hè.'
 
@@ -200,9 +196,7 @@ Ik zei niets.
 
 Ze deed haar gordel los. Ze stapte uit. Ze deed het portier niet hard dicht. Ze deed het zachtjes dicht, met twee handen, zoals je een portier dichtdoet als er iemand in de auto slaapt. Ze liep naar de voordeur. Ze opende hem met haar sleutel. Ze ging naar binnen. Het licht in de gang ging aan. Het licht op de overloop ging aan. Het licht in onze slaapkamer ging aan.
 
-Ik bleef in de Picanto zitten. Ik weet niet hoe lang. Roger kwam buiten met Fanny Twee, voor de laatste wandeling. Hij zag mij zitten. Hij stak zijn hand op. Ik stak de mijne niet op. Hij liep door.
-
----
+Ik bleef in de Picanto zitten. Ik weet niet hoe lang. ---
 
 Ik heb die nacht in de kleine kamer geslapen.
 
@@ -220,7 +214,7 @@ Ik dacht aan de tafel. Ik dacht aan het gewicht ervan, aan de nerf van het teak 
 
 Ik had ook gedacht wat ik in de auto had gedacht. Ook dat had ik gewoon gedaan.
 
-Ik weet niet of die twee dingen iets met elkaar te maken hebben. Ik denk het wel. Ik denk dat ze van dezelfde man komen. Ik lag op een plooibed onder de luchtballonnen van de Brackes, met mijn voeten over de rand, en ik wist voor het eerst niet meer wie die man was.
+Ik denk dat ze van dezelfde man komen. Ik lag op een plooibed onder de luchtballonnen van de Brackes, met mijn voeten over de rand, en ik wist voor het eerst niet meer wie die man was.
 
 Om drie uur hoorde ik de deur van onze slaapkamer opengaan. Ik hoorde haar op de overloop. Ze bleef staan bij de deur van de kleine kamer. Ik hield mijn ogen dicht. Ik ademde zoals iemand die slaapt. Ze stond daar een hele tijd. Ik voelde haar kijken.
 
@@ -229,5 +223,3 @@ Dan hoorde ik haar naar de strijkkamer gaan. Ik hoorde de schuif van de commode.
 Het was het overtrek met de raketten. Zonder dekbed erin. Gewoon het overtrek, een lege hoes van katoen, die niets warm hield.
 
 Ze ging weg. Ze liet de deur open. Ik hoorde haar terug naar onze kamer gaan. Ik hoorde dat ze haar eigen deur ook openliet.
-
-Ik lag tot het licht werd onder een lege hoes met raketten op een bed dat te kort was, in de kamer waar niemand sliep, en ik sliep niet.

@@ -124,7 +124,7 @@ Kristof hield een speech. Hij ging op een stoel staan in de tuin, met een glas D
 
 Iedereen lachte en klapte. Mijn moeder huilde. Nathalie gaf Kristof een kus. Ik klapte ook. Ik stond naast Lies en ik klapte, en ik keek opzij, en Lies klapte ook, en ze glimlachte, en ik zag dat het niet een van de echte was.
 
-*Allee, er mag nog iets bij.* Ik weet niet waarom die zin me zo trof. Hij had het niet slecht bedoeld. Het was precies wat hij voelde. Hij had een zoon en een vrouw en een dak en hij dacht: er mag nog iets bij, en toen kwam er iets bij. Dat is de volgorde van de dingen, voor sommige mensen. Je denkt het, en het komt.
+*Allee, er mag nog iets bij.* Hij had het niet slecht bedoeld. Het was precies wat hij voelde. Hij had een zoon en een vrouw en een dak en hij dacht: er mag nog iets bij, en toen kwam er iets bij. Dat is de volgorde van de dingen, voor sommige mensen. Je denkt het, en het komt.
 
 ---
 
@@ -180,8 +180,8 @@ Ik ging in de keuken zitten en haalde de drie doosjes doopsuiker uit mijn jaszak
 
 Ik weet niet wat ik dacht. Ik denk dat ik niets dacht. Ik denk dat ik daar alleen zat in de keuken van een huis met drie slaapkamers, met de vaatwasser die niet vol was en de koelkast die zoemde, en dat ik suikerbonen at die bedoeld waren om te vieren dat er een kind was geboren, het kind van een ander, en dat dat het enige was wat ik op dat moment kon doen.
 
-Ik deed het doosje weer dicht met vijf suikerbonen erin. De andere twee doosjes deed ik niet open.
+Ik deed het doosje weer dicht met vijf suikerbonen erin. De andere twee doosjes deed ik niet open. Het open doosje liet ik op de tafel staan; Lies gooide het de volgende ochtend weg zonder iets te vragen.
 
-Ik nam ze mee naar de auto en legde ze in het handschoenkastje van de Skoda, onder het boekje van het onderhoud en de papieren van de verzekering en het reservepaar zonnebrillen. Ik weet niet waarom ik dat deed. Ik heb het niet aan Lies verteld. Ze hebben er jaren gelegen.
+Ik nam ze mee naar de auto en legde ze in het handschoenkastje van de Skoda, onder het boekje van het onderhoud en de papieren van de verzekering en het reservepaar zonnebrillen. Ik heb het niet aan Lies verteld. Ze hebben er jaren gelegen.
 
 Vier dagen later werd Lies ongesteld. Het was een woensdag. Ze stuurde me een sms op het werk. Er stond alleen *Nee* in. Ik was aan het bellen met mevrouw Van Hecke uit Haaltert, wiens ketel weer een rood lampje gaf, en ik zei tegen mevrouw Van Hecke dat Kurt in de namiddag zou langskomen, tussen twee en vier, en ze zei dat ze tussen twee en vier naar de kapper moest, en ik zei dat ik zou kijken wat ik kon doen.

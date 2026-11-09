@@ -60,7 +60,7 @@ Er viel een stilte. Buiten draaide het reuzenrad. In een bakje zat een koppel me
 
 'En hier? Betaalt die hier alles terug?'
 
-Ik weet niet waarom ik antwoordde. Ik had kunnen zeggen dat het hem niet aanging. Ik had kunnen zeggen dat het kerstavond was. Maar Dirk verkoopt verzekeringen, en ik denk dat hij het echt wilde weten, beroepsmatig, en ik ben iemand die vragen over terugbetalingen beantwoordt.
+Ik had kunnen zeggen dat het hem niet aanging. Ik had kunnen zeggen dat het kerstavond was. Maar Dirk verkoopt verzekeringen, en ik denk dat hij het echt wilde weten, beroepsmatig, en ik ben iemand die vragen over terugbetalingen beantwoordt.
 
 'Het labo wordt terugbetaald voor zes pogingen,' zei ik. 'Zolang ze jonger is dan drieënveertig. De consultaties grotendeels ook. De medicatie deels. De rest betalen we zelf.'
 
@@ -130,7 +130,7 @@ Hij keek me aan. Hij begreep het niet. Ik begreep het zelf ook niet goed. Ik had
 
 Bert lachte. Hij lachte zoals je lacht als je niet weet of iets een grap is. Hij trok aan zijn sigaret.
 
-Ik had moeten stoppen. Ik weet dat. Ik weet nu ook waarom ik niet stopte. Het was niet de cava. Het was Bert. Het was dat hij daar stond, een gewone man met een gewone sigaret op een gewoon koertje, en dat hij geen idee had. Dat hij het niet erg vond om een grotere auto te moeten kopen. Dat hij erover klaagde, zoals Danny klaagde, met het volste recht. Dat hij niet slecht was. Dat er niemand was die slecht was, nergens, en dat er dus ook niemand was tegen wie ik kon zeggen wat ik wilde zeggen. Behalve hij. Hij stond daar.
+Ik had moeten stoppen. Het was niet de cava. Het was Bert. Het was dat hij daar stond, een gewone man met een gewone sigaret op een gewoon koertje, en dat hij geen idee had. Hij stond daar.
 
 'Of,' zei ik, 'als ge hem niet wilt, die derde. Dan kunt ge hem altijd nog laten weghalen, hé. Dat is ook een optie. Dan geeft ge hem aan ons.'
 
@@ -140,7 +140,7 @@ Achter mij ging de keukendeur open.
 
 Ik draaide me om. Lies stond in de deuropening. Ze had haar jas aan. Ze had haar sjaal om. Ze had de autosleutels in haar hand. Ik weet niet hoe lang ze daar al stond. Ik weet niet wat ze gehoord had. Ik heb het haar nooit gevraagd.
 
-Ze keek naar mij. Het was niet de labo-blik. Het was een blik die ik niet kende. Ik denk nu dat het de blik was van iemand die iets heeft gehoord wat ze al jaren vreesde te zullen horen, en die opgelucht is en kapot tegelijk, omdat het eindelijk gezegd is en het precies zo klinkt als ze dacht.
+Ze keek naar mij. Het was niet de labo-blik. Het was een blik die ik niet kende.
 
 'Ik ga naar huis,' zei ze.
 
@@ -172,7 +172,7 @@ Ik weet niet waarom ze het had opengedaan. Misschien zocht ze een zakdoek. Missc
 
 Ze stonden niet waar ik ze had gelegd. Ik had ze onderaan gelegd. Ze stonden nu bovenaan, recht, naast elkaar, zoals ik ze die avond op de keukentafel had gezet, twee jaar eerder.
 
-Ik bleef staan in de koude, met het portier open, met het zwakke lichtje. Dan legde ik het boekje van het onderhoud terug, en de papieren, en de zonnebril, en ik deed het handschoenkastje dicht. Ik liet de doosjes bovenaan staan. Ik weet niet waarom. Het leek me oneerlijk om ze te verstoppen nu ze gevonden waren.
+Ik bleef staan in de koude, met het portier open, met het zwakke lichtje. Dan legde ik het boekje van het onderhoud terug, en de papieren, en de zonnebril, en ik deed het handschoenkastje dicht. Ik liet de doosjes bovenaan staan. Het leek me oneerlijk om ze te verstoppen nu ze gevonden waren.
 
 Ik ging naar binnen. Op de keukentafel stond een glas water en ernaast een strip Dafalgan, met twee tabletten eruit gedrukt. Ernaast lag een papiertje. Er stond niets op. Het was een leeg papiertje, van het blok dat naast de telefoon lag, met de pen erop. Ze had iets willen schrijven, en ze had het niet gedaan.
 

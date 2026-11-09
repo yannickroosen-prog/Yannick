@@ -102,7 +102,7 @@ Er lag een pak stopcontactbeveiligers in. Van de Action. Twaalf stuks, in een pl
 
 Ik wist niet meer dat we die hadden. Ik wist het eigenlijk wel. Lies had ze gekocht, in 2014, in de lente, toen ze net gestopt was met de pil, toen we nog *zien* deden. We waren samen in de Action geweest voor kaarsen, en ze had ze uit een bak bij de kassa genomen en in het mandje gelegd en gezegd: 'Die gaan we toch nodig hebben.' Ze had het gezegd als een grap. Ik had gelachen. Het was een grap geweest. Het was een grap geweest die we vijf jaar lang in een schuif hadden bewaard.
 
-Ik scheurde de verpakking open. Ik weet niet waarom. Ik haalde er twee uit. Het waren kleine dingen van wit plastic, met twee pinnetjes die in de gaatjes van een stopcontact pasten, en een plat schijfje ervoor, zodat een kind er niet met zijn vingers of met een vork in kon. Ik hield ze in mijn hand. Ze waren licht. Ze roken naar plastic, zoals nieuwe dingen ruiken.
+Ik scheurde de verpakking open. Ik haalde er twee uit. Het waren kleine dingen van wit plastic, met twee pinnetjes die in de gaatjes van een stopcontact pasten, en een plat schijfje ervoor, zodat een kind er niet met zijn vingers of met een vork in kon. Ik hield ze in mijn hand. Ze waren licht. Ze roken naar plastic, zoals nieuwe dingen ruiken.
 
 Ik vroeg me af of plastic kan verouderen zonder ooit gebruikt te worden. Of het broos wordt, in een schuif, in het donker, na vijf jaar. Of het verkleurt. Of het nog zou werken, als je het ooit nodig had, of dat het dan zou breken in je hand. Ik wist het antwoord niet. Ik had het kunnen opzoeken. Ik heb het niet opgezocht.
 
@@ -132,7 +132,7 @@ Ze keek ernaar. Ze herkende ze. Ik zag het. Ik zag haar terugdenken aan de Actio
 
 'Ik vroeg me af,' zei ik, 'of die dingen kunnen verouderen. Als ze nooit gebruikt worden.'
 
-Ik weet niet waarom ik het zei. Het was het eerste echte wat ik in maanden tegen haar zei.
+Het was het eerste echte wat ik in maanden tegen haar zei.
 
 Ze nam er een op. Ze draaide het tussen haar vingers, zoals ze in het labo een buisje draait om te zien of er iets neerslaat. Ze drukte met haar duim op het schijfje.
 
@@ -149,8 +149,6 @@ Ze legde het terug op de tafel, naast het andere. Ze legde haar hand op de mijne
 'Ja.'
 
 Ik begon te huilen. Het was de eerste keer sinds hij gestorven was. Niet in de kerk, niet aan de kist, niet in de parochiezaal bij nonkel Gerard, niet in de garage bij de trein. Aan onze keukentafel, om half zeven, met twee stopcontactbeveiligers van de Action tussen ons in, die een vrouw van het labo had verzekerd dat ze in het donker niet zouden verouderen. Ik huilde zoals ik als kind huilde, met mijn gezicht in mijn handen en mijn schouders schokkend, en Lies stond op en kwam achter mij staan en legde haar armen om me heen, haar wang tegen mijn kruin, waar het haar dun begon te worden, en ze zei niets. Ze zei niet *het komt goed*. Ze zei niet *hij heeft niets gevoeld*. Ze stond daar gewoon.
-
-Ik weet niet om wie ik huilde. Ik dacht dat ik het wist. Mijn vader had een sterfdatum en een overlijdensakte met een stempel, en een kerk vol mannen in geruite hemden, en een tekening van zijn kleinzoon op zijn kist. Hij had een grafsteen, of zou er een krijgen, zodra de grond gezet was. Ik huilde om hem. Dat is waar. Maar ik huilde ook om iets wat geen akte had en geen kerk en geen stempel. Iets in een bananendoos. Iets in een ketel in Gent, bij min honderdzesennegentig graden. Iets wat nergens was, en dus overal.
 
 Lies liet me los toen ik stopte. Ze maakte boterhammen. Ze sneed de korstjes er niet af, maar ze sneed ze wel in vieren, in driehoekjes, zoals je voor een kind doet, en ik heb haar niet gevraagd waarom.
 

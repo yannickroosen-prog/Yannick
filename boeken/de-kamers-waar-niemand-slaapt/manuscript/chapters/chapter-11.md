@@ -4,7 +4,7 @@ De infoavond over adoptie was in juni, in een zaal van een cultureel centrum in 
 
 We gingen eerst naar adoptie. Ik weet niet meer waarom. Ik denk omdat het het woord was dat iedereen kende. Als je zegt *we gaan adopteren*, knikken mensen. Als je zegt *we worden respijtpleeggezin*, vragen ze wat dat is, en dan moet je het uitleggen, en dan kijken ze je aan alsof je iets halfs doet.
 
-Er zaten een stuk of dertig koppels. Ik herkende er niemand. Ik had half verwacht de man met het te strakke hemd te zien, maar hij was er niet, en ik besefte dat ik hoopte dat hij er niet was omdat hij geen adoptie nodig had, dat het bij hem gelukt was, en ik besefte ook dat ik dat nooit zou weten. Dat is het met de mensen in wachtzalen. Je ziet ze komen. Je ziet ze nooit vertrekken.
+Er zaten een stuk of dertig koppels. Ik herkende er niemand. Ik had half verwacht de man met het te strakke hemd te zien, maar hij was er niet, en ik besefte dat ik hoopte dat hij er niet was omdat hij geen adoptie nodig had, dat het bij hem gelukt was, en ik besefte ook dat ik dat nooit zou weten.
 
 Een vrouw van het Vlaams Centrum voor Adoptie vertelde met een PowerPoint. Ze was eerlijk. Dat moet ik haar nageven. Ze zei dat er weinig kinderen waren. Dat de landen van herkomst steeds minder kinderen naar het buitenland lieten gaan, wat goed was, voor die kinderen. Dat de wachttijden lang waren. Vijf jaar. Zeven. Soms langer. Dat de kinderen die wel kwamen vaak ouder waren, of een broertje of zusje hadden, of een medische zorgvraag. Dat er een voorbereiding was, een verplichte, en een maatschappelijk onderzoek, en een geschiktheidsvonnis van de jeugdrechtbank. Ze toonde een dia met de kosten. Er stonden bedragen op die ik niet zal herhalen. Ik heb ze in het schrift met de harde kaft geschreven, en dan heb ik ze doorgestreept.
 
@@ -26,7 +26,7 @@ In de auto zei Lies: 'Dat is het niet.'
 
 'Ik wil iets wat nu kan.'
 
-Ik knikte. Ik wist wat ze bedoelde. Ze bedoelde wat ze in mei had gezegd, in de tuin, bij de radijzen. *Iets wat niet over ons gaat.* Ik had het toen niet begrepen. Ik begreep het nu een klein beetje beter. Een adoptie ging over ons. Over ons verlangen, ons wachten, ons dossier, ons geschiktheidsvonnis. Een kind van zeven jaar wachten zou een kind zijn op wie we zeven jaar hadden gewacht, en dat zou het kind moeten dragen.
+Ik knikte. Ik wist wat ze bedoelde. Ze bedoelde wat ze in mei had gezegd, in de tuin, bij de radijzen. *Iets wat niet over ons gaat.* Ik had het toen niet begrepen. Ik begreep het nu een klein beetje beter.
 
 ---
 
@@ -126,13 +126,13 @@ Ik zei niets. Ik kon niets zeggen. Ik legde mijn hand op haar heup en ze legde d
 
 ---
 
-Hij kwam acht keer, tussen oktober en juni. Eén weekend per maand, en twee keer extra, in de krokusvakantie en met Pasen, omdat Kelly naar het ziekenhuis moest voor iets wat Ilse niet uitlegde.
+Hij kwam negen keer, tussen oktober en juni. Eén weekend per maand, en twee keer extra, in de krokusvakantie en met Pasen, omdat Kelly naar het ziekenhuis moest voor iets wat Ilse niet uitlegde.
 
 Ik leerde Kelly kennen op de zondagen, om vijf uur, als ze hem kwam halen. Ze was zevenentwintig. Ze reed een oude Opel Corsa met een bumper die met tape was vastgemaakt. Ze rookte in de auto, met het raam open. Ze was mager en moe, met donkere kringen onder haar ogen en lang haar dat ze in een knot droeg, en ze kwam nooit binnen. Ze bleef op het trottoir staan, naast de Corsa, en Dylan liep naar haar toe met zijn rugzak van de Kruidvat en zijn folders, en ze sloeg haar armen om hem heen en hield hem vast met haar ogen dicht, op het trottoir, voor Roger en voor de hele straat. De eerste keer keek ze daarna naar mij en zei: 'Merci, hé.' Ze zei het snel en kwaad, alsof ze het niet wilde zeggen. 'Merci dat ge hem wilt.'
 
 'Graag gedaan,' zei ik.
 
-Ik dacht aan de man in de gang van het labo, met zijn potje met het rode deksel, voor wie ik de deur had opengehouden. *Merci.* *Graag gedaan.* Het is wat mensen zeggen als er niets anders te zeggen valt.
+Ik dacht aan de man in de gang van het labo, met zijn potje met het rode deksel, voor wie ik de deur had opengehouden. *Merci.* *Graag gedaan.*
 
 Ik leerde Dylan kennen op de zaterdagen.
 
@@ -160,7 +160,7 @@ Hij knikte. Hij dacht na. Hij had een manier van nadenken die ik herkende, met z
 
 'Ja,' zei Dylan. 'Maar niks van iemand.'
 
-Hij liep verder. Naar de koekjes. Hij las de prijs van de Prince-koeken en zei dat ze bij de Lidl een namaak hadden die bijna hetzelfde was voor de helft van de prijs. Ik duwde de kar achter hem aan. Ik dacht aan *niks van iemand*. Ik heb er sindsdien vaak aan gedacht. Het is de beste beschrijving van die kamers die iemand ooit gegeven heeft, en ze kwam van een jongen van acht in de Colruyt die de prijs van pampers wist.
+Hij liep verder. Naar de koekjes. Hij las de prijs van de Prince-koeken en zei dat ze bij de Lidl een namaak hadden die bijna hetzelfde was voor de helft van de prijs. Ik duwde de kar achter hem aan. Ik dacht aan *niks van iemand*.
 
 ---
 
@@ -192,7 +192,7 @@ Ze zei dat het goed ging met Kelly. Beter dan het in lang was gegaan. Ze had wer
 
 'Ja,' zei ik. 'Dat is goed nieuws.'
 
-Het was goed nieuws. Ik meende het. Ik meende het zoals ik het meende toen mijn broer zijn derde aankondigde, wat pas later kwam, maar ik zeg het hier al, omdat het hetzelfde soort menen was: een menen dat waar is, en dat toch ergens anders pijn doet, in een kamer van je lijf waar je geen deur naartoe hebt.
+Het was goed nieuws. Ik meende het. Ik meende het zoals ik het meende toen mijn broer zijn derde aankondigde, wat pas later kwam, maar ik zeg het hier al, omdat het hetzelfde soort menen was: een menen dat waar is, en dat toch ergens anders pijn doet.
 
 'Hij mag nog één keer komen,' zei Ilse. 'In juni. Om afscheid te nemen. Dat is belangrijk voor hem. Hij vraagt naar jullie.'
 
@@ -230,11 +230,9 @@ Ik nam hem aan. Op de voorpagina stond een grasmachine, een elektrische, van een
 
 'Die van u valt altijd stil,' zei Dylan. 'Ik heb het gezien. Deze is in promotie.'
 
-Hij liep naar buiten. Kelly sloeg haar armen om hem heen, op het trottoir, met haar ogen dicht. Ze keek naar ons over zijn hoofd. Ze zei niets deze keer. Ze knikte. Dan stapten ze in de Corsa en reden weg, en Dylan zwaaide door de achterruit, en ik zwaaide terug, en Lies zwaaide, tot ze de hoek om waren. Roger stond aan zijn haag. Hij zwaaide ook. Ik weet niet naar wie.
+Hij liep naar buiten. Kelly sloeg haar armen om hem heen, op het trottoir, met haar ogen dicht. Ze keek naar ons over zijn hoofd. Ze zei niets deze keer. Ze knikte. Dan stapten ze in de Corsa en reden weg, en Dylan zwaaide door de achterruit, en ik zwaaide terug, en Lies zwaaide, tot ze de hoek om waren.
 
 We gingen naar binnen. We gingen naar boven. Lies haalde het dekbedovertrek met de raketten van het plooibed en vouwde het op, heel precies, in vieren, en legde het in de commode in de strijkkamer. Ik plooide het plooibed op. Het ging moeilijker dan ik dacht. Er was een hendeltje dat klemde. Ik moest het drie keer proberen. Toen het dicht was, zette ik het rechtop tegen de muur, onder de luchtballonnen, naast de bananendoos van mijn vader.
-
-De kamer was leeg. Niet zoals vroeger. Toen was ze vol geweest, met dozen en koffers en kerstversiering, en leeg. Nu was er bijna niets meer in, en ze was vol. Ik weet niet hoe ik het anders moet zeggen.
 
 Lies stond naast me in de deuropening. Ze keek naar de muur. Er hing een tekening, met plakband op het behang geplakt, tussen twee ballonnen. Een tekening van een huis met drie ramen boven, en in elk raam een gezichtje. Dylan had hem in maart gemaakt en zelf opgehangen. We hadden hem laten hangen.
 

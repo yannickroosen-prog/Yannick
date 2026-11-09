@@ -94,7 +94,7 @@ Aan het einde krijg je je papier. Het is groen of rood. Mijn papier was rood.
 
 Ik keek naar hem. Hij was een jaar of vijfentwintig. Hij had een piercing in zijn wenkbrauw en een tattoo op zijn onderarm van een kinderhandje, met een naam erbij, die ik niet kon lezen. Hij gaf me het rode papier.
 
-Ik weet niet waarom het me zo raakte. Het was een lampje. Het kostte twee euro vijftig bij de Carglass, of bij de Halfords, of bij de garage om de hoek. Het was een lampje dat het werk deed van zichtbaar maken wie je bent, dat 's nachts je nummerplaat verlicht, zodat de politie kan zien welke auto je bent. Een van de twee was kapot, en de andere werkte, en daardoor was de hele auto afgekeurd. Alles was in orde. De remmen, de pinkers, de uitlaat, de schokdempers. Alles was in orde behalve een lampje van twee euro vijftig, en daarom was het rood.
+Het was een lampje. Het kostte twee euro vijftig bij de Carglass, of bij de Halfords, of bij de garage om de hoek. Het was een lampje dat het werk deed van zichtbaar maken wie je bent, dat 's nachts je nummerplaat verlicht, zodat de politie kan zien welke auto je bent. Een van de twee was kapot, en de andere werkte, en daardoor was de hele auto afgekeurd. 
 
 Ik reed naar de garage om de hoek en kocht het lampje en zette het er zelf in, op de parking, met een schroevendraaier uit het handschoenkastje, waar ik de doosjes doopsuiker opzij moest schuiven om erbij te kunnen. Het duurde vier minuten. Ik ging terug naar de keuring en stond er anderhalf uur in de rij voor herkeuring, en de man met de piercing zag me terugkomen en lachte en zei: 'Dat was rap,' en deed het lampje aan en uit, en gaf me een groen papier.
 
@@ -104,7 +104,7 @@ Ik heb die middag aan Danny het hele verhaal verteld. Ik vertelde het als een gr
 
 'Nee,' zei ik. 'Ze is niet ziek.'
 
-Ik weet niet waarom ik het hem toen vertelde. Misschien omdat ik net gelachen had. Misschien omdat ik dat lampje zelf had vervangen en me daardoor iets beter voelde dan ik me in maanden had gevoeld. Ik zei: 'We zijn bezig met IVF.'
+Ik vertelde het hem. Misschien omdat ik net gelachen had. Misschien omdat ik dat lampje zelf had vervangen en me daardoor iets beter voelde dan ik me in maanden had gevoeld. Ik zei: 'We zijn bezig met IVF.'
 
 Danny keek me aan. Hij had een bruin gezicht, van twintig jaar op daken en in kelders, met diepe lijnen rond zijn ogen. Hij zei eerst niets. Dan leunde hij achterover in zijn stoel, die kraakte.
 
@@ -142,7 +142,7 @@ Ik ging op de rand van het bed zitten. Ik legde mijn hand op haar heup.
 
 'Ik weet het,' zei ik.
 
-Ik wist het niet. Ik had het gezien, en dat is iets anders. Weten is iets wat je met iemand samen doet. Ik had het alleen gezien, in de badkamer, met een prop wc-papier in mijn hand, en zij had het alleen gezien, om zes uur 's ochtends waarschijnlijk, toen ik nog sliep, en ze had het ingerold en weggestopt en was teruggegaan naar bed om op haar zij te liggen met haar rug naar de deur, twee uur lang, wachtend tot ik het zou vinden, of niet.
+Ik wist het niet. Ik had het gezien, en dat is iets anders. Ik had het alleen gezien, in de badkamer, met een prop wc-papier in mijn hand, en zij had het alleen gezien, om zes uur 's ochtends waarschijnlijk, toen ik nog sliep, en ze had het ingerold en weggestopt en was teruggegaan naar bed om op haar zij te liggen met haar rug naar de deur, twee uur lang, wachtend tot ik het zou vinden, of niet.
 
 Ze draaide zich niet om. Ik bleef zitten. Buiten was de haagschaar stilgevallen, en Roger veegde de takjes op met een harde borstel, krrt, krrt, krrt, op de stoeptegels. Ik hoorde het tot hij klaar was.
 

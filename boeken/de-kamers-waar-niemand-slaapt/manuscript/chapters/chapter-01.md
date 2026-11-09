@@ -124,7 +124,7 @@ Ik lag op mijn rug en luisterde naar het huis. De vaatwasser was klaar en had ge
 
 Ik stond op om water te drinken. Op de overloop bleef ik even staan. Er brandde een klein lichtje in het stopcontact, een nachtlampje dat we bij de Hema hadden gekocht om 's nachts de trap te vinden. Het gaf een oranje gloed op de drie deuren. De onze stond op een kier. De andere twee waren dicht.
 
-Ik deed de deur van de kleine kamer open. Ik weet niet waarom. Er was niets te zien. De dozen, de kerstversiering, de koffer. Het licht van de straatlantaarn viel door het raam op het behang en ik zag de luchtballonnen, grijs nu, in het donker, met hun mandjes en hun zwaaiende poppetjes, die al jaren zwaaiden naar niemand, of naar de Brackes, die nu aan zee woonden, in een appartement met zicht op de dijk, en wier kinderen nu volwassen waren en zelf kinderen hadden, waarschijnlijk, ergens.
+Ik deed de deur van de kleine kamer open. Er was niets te zien. De dozen, de kerstversiering, de koffer. Het licht van de straatlantaarn viel door het raam op het behang en ik zag de luchtballonnen, grijs nu, in het donker, met hun mandjes en hun zwaaiende poppetjes, die al jaren zwaaiden naar niemand, of naar de Brackes, die nu aan zee woonden, in een appartement met zicht op de dijk, en wier kinderen nu volwassen waren en zelf kinderen hadden, waarschijnlijk, ergens.
 
 Ik dacht dat ik dat behang er nu eindelijk eens af moest halen.
 

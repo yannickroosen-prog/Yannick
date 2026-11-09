@@ -148,8 +148,6 @@ Als er een oorzaak is, is er een verhaal. Een verhaal met een begin. *Hij had al
 
 *Onverklaard* zegt niets. *Onverklaard* zegt: alles is in orde en het werkt niet. Het zegt: er is geen fout gemaakt. Er is niemand schuldig. Je hebt de vragen van het mondeling examen allemaal juist beantwoord, en je bent niet geslaagd, en er is niemand bij wie je in beroep kunt gaan.
 
-Ik had toen nog niet door dat het leven zo in elkaar zit, dat het grootste deel ervan onverklaard is, en dat de mensen die een verklaring krijgen gewoon geluk hebben gehad met hun ongeluk. Ik dacht nog dat het een uitzondering was. Een fout in het systeem. Iets wat met behandeling zou overgaan.
-
 ---
 
 Die avond belde mijn moeder. Ze belt elke donderdag, maar het was een woensdag.
@@ -172,7 +170,7 @@ Ik had haar niets gezegd over de afspraak. Lies wel, aan haar eigen moeder, en h
 
 'Misschien moeten we naar Spanje,' zei ik.
 
-'Ja, doe dat!' zei mijn moeder, die ironie nooit heeft herkend, wat haar tot een gelukkig mens heeft gemaakt. 'Doe dat. Ga eens goed op vakantie. Nathalie is trouwens weer bijna zover, hé, ge weet het. Begin juni moet ze bevallen. Kristof is er zo zenuwachtig voor. Het is een meisje.'
+'Ja, doe dat!' zei mijn moeder, die ironie nooit heeft herkend, wat haar tot een gelukkig mens heeft gemaakt. 'Doe dat. Ga eens goed op vakantie. Nathalie is trouwens weer bijna zover, hé, ge weet het. Half juni moet ze bevallen. Kristof is er zo zenuwachtig voor. Het is een meisje.'
 
 'Ik weet het, ma.'
 

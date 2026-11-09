@@ -100,7 +100,7 @@ Ik sta in de keuken. Steven zit in de living naar het voetbal te kijken. Ik zie 
 
 Sofie zegt niets. Op de achtergrond roept Marie: *Mama, Lucas heeft mijn pony!* Steven roept in de living naar de televisie: 'Ah nee, scheidsrechter! Allee!' Ik sta in de keuken tussen die twee geluiden en ik denk: dit is mijn leven. Iemand anders heeft een pony die wordt afgepakt. Mijn man roept naar een scheidsrechter. Ik heb een geheim van zestien jaar oud dat niemand pijn heeft gedaan en dat nu, ineens, een wapen is, en ik weet niet tegen wie.
 
-Als ik het hem zeg, zal hij het begrijpen. Dat is het probleem. Hij zal het begrijpen, of doen alsof. Hij zal zeggen: *Dat was toen, Lies.* Hij zal zeggen: *Ge waart negentien.* Hij zal *goed* zeggen en *ik weet het*. Hij zal op de rand van het bad komen zitten en zijn hand op mijn knie leggen. En daarna zal hij in de auto, op weg naar zijn werk, op de E40, ter hoogte van Wetteren, voor de eerste keer denken: *maar ze kon het dus wel.* Dat zal hij denken. Niet uit kwaadheid. Gewoon omdat hij het zal denken, omdat het een feit is, en hij houdt van feiten. Hij zal het denken en hij zal het nooit zeggen, en het zal tussen ons liggen zoals de gele emmer op de wasmachine, die iedereen ziet en die niemand noemt.
+Als ik het hem zeg, zal hij het begrijpen. Dat is het probleem. Hij zal het begrijpen, of doen alsof. Hij zal zeggen: *Dat was toen, Lies.* Hij zal zeggen: *Ge waart negentien.* Hij zal *goed* zeggen en *ik weet het*. Hij zal op de rand van het bad komen zitten en zijn hand op mijn knie leggen. En daarna zal hij in de auto, op weg naar zijn werk, op de E40, ter hoogte van Wetteren, voor de eerste keer denken: *maar ze kon het dus wel.* Dat zal hij denken. Niet uit kwaadheid. Gewoon omdat hij het zal denken, omdat het een feit is, en hij houdt van feiten. Hij zal het denken en hij zal het nooit zeggen, en het zal tussen ons liggen zoals de gele emmer op de wasmachine.
 
 'Ik zeg het hem niet,' zeg ik.
 
@@ -128,4 +128,4 @@ Hij is even stil. Dan lacht hij. Een kleine lach, door zijn neus.
 
 'Goed,' zeg ik.
 
-Ik draai me terug op mijn zij. Zijn hand ligt nog op mijn heup. Ik leg de mijne erop. Ik weet niet of ik het doe om hem te troosten of om hem vast te houden waar hij is, zodat hij niet verder komt. Buiten rijdt een auto voorbij. De lichten schuiven over het plafond, van links naar rechts. Ik tel tot tien. Daarna slaap ik.
+Ik draai me terug op mijn zij. Zijn hand ligt nog op mijn heup. Ik leg de mijne erop. Ik weet niet of ik het doe om hem te troosten of om hem vast te houden waar hij is, zodat hij niet verder komt. Ik tel tot tien. Daarna slaap ik.

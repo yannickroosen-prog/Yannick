@@ -126,7 +126,7 @@ Ze legde haar vork neer. Ze legde haar handen aan beide kanten van haar bord. Ik
 
 Ik keek naar haar.
 
-'Ik wil niet meer, Steven. Ik heb er drie maanden niet aan moeten denken en het was...' Ze zocht naar een woord. Ze is geen vrouw die naar woorden zoekt. Ze vond het niet. 'Ik heb gezongen,' zei ze toen. 'Hebt ge dat gezien? Ik heb gezongen. Ik heb in vijf jaar niet gezongen.'
+'Ik wil niet meer, Steven. Ik heb er drie maanden niet aan moeten denken en het was...' Ze zocht naar een woord. Ze is geen vrouw die naar woorden zoekt. Ze vond het niet. 'Ik heb gezongen,' zei ze toen. 'Hebt ge dat gezien? Ik heb gezongen. Ik heb nog nooit gezongen.'
 
 'Ik heb het gezien.'
 
@@ -156,7 +156,7 @@ Ze keek me aan.
 
 'Alleen de diepvries,' zei ik. 'We laten ze niet daar liggen. Dat kan ik niet. Ik kan niet... Nog één keer. Met wat er al is. En dan stoppen we. Ik beloof het.'
 
-Ze zei niets. Ze keek lang naar me. Het was niet de labo-blik. Het was ook niet de blik van kerstmis, op het koertje. Het was een blik die ik pas veel later heb leren lezen. Het was de blik van iemand die ziet dat ze iets gaat doen voor een ander, en die weet dat ze het hem nooit helemaal zal vergeven, en die het toch gaat doen.
+Ze zei niets. Ze keek lang naar me.
 
 'Na de zomer,' zei ze.
 

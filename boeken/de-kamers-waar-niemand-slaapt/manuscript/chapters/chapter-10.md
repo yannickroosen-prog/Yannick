@@ -8,7 +8,7 @@ Ik heb het opgeslagen bij mijn favorieten op Immoweb. Er staan er elf in. Ik heb
 
 Ik kijk 's nachts. Steven slaapt. Hij slaapt goed sinds januari, beter dan in jaren. Ik weet niet wat dat betekent. Ik lig naast hem met mijn telefoon onder het dekbed, met de helderheid op het laagst, en ik scrol door foto's van keukens en badkamers en slaapkamers met één bed. Ik kijk niet naar de grote appartementen. Ik kijk alleen naar de appartementen met één slaapkamer. Dat is een filter dat je kunt instellen. *Aantal slaapkamers: 1.*
 
-Ik ben niet van plan om te vertrekken. Dat moet ik er direct bij zeggen. Ik kijk alleen.
+Ik ben niet van plan om te vertrekken. Ik kijk alleen.
 
 ---
 
@@ -56,7 +56,7 @@ Thuis is het stil. Het is een ander soort stil dan vroeger.
 
 Steven heeft in februari de pennen uit de frigo gehaald. Er waren er nog twee over, van de derde poging. Hij heeft ze naar de apotheek gebracht, in een papieren zak, omdat je ze niet bij het gewone afval mag doen. Hij heeft de gele emmer meegenomen. Hij zei er niets over. Ik zag op een avond dat de wasmachine leeg was, bovenop. Gewoon een wasmachine. Wit. Met een ronde vlek op de plaats waar de emmer had gestaan, een cirkel waar het stof niet was gekomen, en hij heeft die vlek niet weggeveegd, en ik ook niet.
 
-We praten. We praten over het werk, over zijn moeder, over Kristof, over de Picanto, die eindelijk is weggegaan en vervangen door een andere Picanto, een witte, tweedehands. We praten over wat we gaan eten. We praten niet over januari. We praten niet over november. We praten niet over de kleine kamer, waar de doos van zijn vader staat, onder het behang met de ballonnen, en waar hij soms naar binnen gaat als hij denkt dat ik slaap. Ik hoor het. Het huis vertelt alles. De deur van de kleine kamer heeft een scharnier dat kraakt bij de helft.
+We praten. We praten over het werk, over zijn moeder, over Kristof, over de Picanto, die eindelijk is weggegaan en vervangen door een andere Picanto, een witte, tweedehands. We praten over wat we gaan eten. We praten niet over januari. We praten niet over november. We praten niet over de kleine kamer, waar de doos van zijn vader staat, onder het behang met de ballonnen, en waar hij soms naar binnen gaat als hij denkt dat ik slaap. Ik hoor het. De deur van de kleine kamer heeft een scharnier dat kraakt bij de helft.
 
 We vrijen niet. Of bijna niet. Twee keer sinds november. Beide keren was het vriendelijk. Ik weet geen beter woord. Het was zoals twee mensen die elkaar een hand geven na een begrafenis.
 
@@ -138,11 +138,11 @@ Ik sta in de tuin met mijn armen gekruist. De zon gaat onder achter het huis van
 
 'Ik weet het,' zegt hij.
 
-Hij zet de gieter neer. Hij veegt zijn handen af aan zijn broek. Hij kijkt naar mij, eindelijk, en zijn gezicht doet iets wat ik niet ken, iets wat ik in dertien jaar niet heb gezien, en ik denk dat het angst is.
+Hij zet de gieter neer. Hij veegt zijn handen af aan zijn broek. Hij kijkt naar mij, eindelijk, en zijn gezicht doet iets wat ik in dertien jaar niet heb gezien.
 
 'Kijk dan ook eens naar die met twee slaapkamers,' zegt hij. 'Voor als ge er een vindt.'
 
-Ik begrijp niet wat hij bedoelt. Dan begrijp ik het. Hij bedoelt: voor ons twee. Hij bedoelt: als ge weggaat, ga ik mee. Hij bedoelt het niet als grap. Hij bedoelt het ook niet helemaal ernstig. Het is iets ertussenin, iets waar geen woord voor bestaat, en het is het liefste wat iemand ooit tegen mij gezegd heeft.
+Ik begrijp niet wat hij bedoelt. Dan begrijp ik het.
 
 Ik lach. Ik lach hard, met mijn hoofd achterover. Het is de eerste keer sinds november. Steven kijkt ernaar zoals hij in 2008 keek, in die keuken, op dat feestje van een collega van zijn broer.
 
@@ -152,4 +152,4 @@ Ik lach. Ik lach hard, met mijn hoofd achterover. Het is de eerste keer sinds no
 
 Die nacht wis ik de favorieten. Alle elf. Dat is niet zo moeilijk als je zou denken. Er is een knopje met een vuilbakje. Ik druk er elf keer op. Daarna leg ik mijn telefoon op het nachtkastje, met het scherm naar beneden. Steven ligt met zijn rug naar mij. Hij slaapt niet. Ik zie het aan zijn schouder. Ik leg mijn hand erop. Ik laat ze daar liggen. Hij beweegt niet.
 
-Ik ga niet weg. Dat heb ik toen besloten. Niet voor altijd. Voorlopig. Voorlopig is het eerlijkste woord dat ik ken, na meetonzekerheid.
+Ik ga niet weg. Dat heb ik toen besloten. Niet voor altijd. Voorlopig.

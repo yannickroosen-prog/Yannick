@@ -52,7 +52,7 @@ Ik legde de test neer. Ik weet niet wat ik deed. Ik denk dat ik opstond. Ik denk
 
 'Ik weet het,' zei ik.
 
-Ik wist niets. Ik had twee streepjes gezien. Het was de eerste keer in zes jaar.
+Ik had twee streepjes gezien. Het was de eerste keer in zes jaar.
 
 Op maandag belde de vriendelijke stem. Lies had haar handschoenen uit. Ze nam op in de gang van het labo. Ze belde me daarna. Ze zei een getal, een hormoonwaarde, een getal met drie cijfers, en ze zei: 'Dat is goed. Dat is echt goed.' Haar stem brak op *echt*. Ik had haar stem nooit horen breken.
 
@@ -193,5 +193,3 @@ Ik belde ze op maandag. Ze ontdooiden ze op donderdag. De man belde om half elf.
 Ik hing op. Ik zat aan mijn bureau, op het werk, want we werkten weer half op kantoor, met plexiglas tussen de bureaus. Danny zat aan de andere kant van het plexiglas te bellen met een klant in Lebbeke. Ik keek naar zijn lijstje met *Bobbejaanland*. Ik keek naar mijn scherm, waarop de planning van die dag stond, met de namen van acht techniekers en hun routes, gekleurde balkjes van Ninove tot Lokeren.
 
 Er was niets meer in de diepvries. Er was niets meer om te beslissen. De ketel in Gent was leeg, voor ons in elk geval. Ergens zat iemand anders' naam erin, en wachtte.
-
-Mevrouw Van Hecke uit Haaltert belde om vijf voor elf. Haar ketel gaf een rood lampje. Ik zei dat Kurt in de namiddag zou langskomen. Ze zei dat ze dan naar de tandarts moest. Ik zei dat ik zou kijken wat ik kon doen.

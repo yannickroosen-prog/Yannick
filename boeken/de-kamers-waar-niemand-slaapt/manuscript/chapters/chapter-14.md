@@ -96,7 +96,7 @@ Ik spuwde hem uit in mijn hand. Hij was in twee gebroken. Mijn tand niet. Ik voe
 
 'Of het verouderde. Suiker. Als ge het niet gebruikt.'
 
-Ze keek naar me. Ze keek naar de twee helften in mijn hand. Toen begon ze te lachen. Ze lachte zo hard dat ze haar hoofd tegen de hoofdsteun legde en haar ogen sloot. Ze lachte haar echte lach, in de witte Picanto, op de straat van Kristof, tussen de bordjes, *Hier woont Kobe*, *Hier wonen Lou en Mats*, en ik begon ook te lachen, met de twee helften van een suikerboon van zeven jaar oud in mijn hand.
+Ze keek naar me. Ze keek naar de twee helften in mijn hand. Toen begon ze te lachen. Ze lachte zo hard dat ze haar hoofd tegen de hoofdsteun legde en haar ogen sloot. Ze lachte haar echte lach, in de witte Picanto, op de straat van Kristof, en ik begon ook te lachen, met de twee helften van een suikerboon van zeven jaar oud in mijn hand.
 
 'Negenhonderd euro,' zei ik. 'Voor een kroon. Dat zegt Danny.'
 
@@ -138,21 +138,19 @@ De kleine kamer is gebleven zoals ze was. Het plooibed staat rechtop tegen de mu
 
 Ik ga er soms binnen. Ik doe er niets. Ik sta er.
 
-Ik heb het behang niet afgestoomd. Ik ga het niet afstomen. Dat heb ik niet besloten. Het is gewoon niet gebeurd, tien jaar lang, en ik denk dat iets wat tien jaar niet gebeurd is, mag blijven zoals het is. De poppetjes in de mandjes zwaaien nog. Ik weet nu naar wie ze zwaaien. Naar Dylan, die ze zag. Naar mij, op het plooibed, in juli. Naar de Brackes. Naar niemand. Het maakt voor de poppetjes niet uit.
+Ik heb het behang niet afgestoomd. Ik ga het niet afstomen. Dat heb ik niet besloten. Het is gewoon niet gebeurd, tien jaar lang, en ik denk dat iets wat tien jaar niet gebeurd is, mag blijven zoals het is. De poppetjes in de mandjes zwaaien nog.
 
 ---
 
-Ik scheer me elke ochtend met een mesje. Ik heb dat altijd gedaan. Lies heeft me ooit een elektrisch scheerapparaat gegeven, voor mijn veertigste, en het ligt nog in de doos in de badkamerkast, naast de wattenstaafjes, op de plaats waar vroeger de ovulatietesten lagen. Ik weet niet waarom ik het niet gebruik. Ik denk dat ik het gevoel nodig heb van het mesje dat over mijn huid gaat, dat ik moet opletten, dat ik me kan snijden als ik niet oplet.
+Ik scheer me elke ochtend met een mesje. Ik heb dat altijd gedaan. Lies heeft me ooit een elektrisch scheerapparaat gegeven, voor mijn veertigste, en het ligt nog in de doos in de badkamerkast, naast de wattenstaafjes, op de plaats waar vroeger de ovulatietesten lagen. Ik denk dat ik het gevoel nodig heb van het mesje dat over mijn huid gaat, dat ik moet opletten, dat ik me kan snijden als ik niet oplet.
 
 Op een ochtend in september stond ik me te scheren en keek ik in de spiegel naar een man van eenenveertig met schuim op zijn gezicht en een kruin die dun werd. Ik had het nooit zo goed gezien. Ik zag het nu, in de spiegel van de badkamerkast, omdat Lies er een lamp boven had gehangen, een nieuwe, met led, die alles toonde.
 
 Ik dacht: dit is het. Er komt geen antwoord.
 
-Ik dacht het niet als een groot moment. Ik dacht het zoals je denkt dat de melk op is. Ik had al die jaren gewacht. Op de uitslag, op het streepje, op de hartslag, op de telefoon van de vriendelijke stem, op Kristof op een dak, op mijn vader bij de tomaten, op een verklaring. Ik had gewacht zoals ik als kind wachtte op het einde van een film, omdat films een einde hebben, en het einde zegt wat het allemaal betekende. Ik dacht dat het leven een uitslag zou geven. Dat het, als je alles juist deed, als je je handen waste met water zonder zeep en je formulieren invulde en je afspraken maakte om tien voor half tien en je ketels inplande en je vrouw prikte op het juiste uur, dat het dan op een dag zou zeggen: zie je wel. Of: het spijt me. Of iets. Dat er een loket was.
+Ik dacht het niet als een groot moment. Ik dacht het zoals je denkt dat de melk op is. Ik had al die jaren gewacht. Op de uitslag, op het streepje, op de hartslag, op een verklaring. Ik dacht dat er ergens een loket was.
 
 Er was geen loket. Er was een man die zich stond te scheren. Er was de Siemens beneden, die om zes uur gepiept had. Er was de choco in de frigo, op de bovenste plank, rechts. Er was een vrouw in de kamer van Zacht Salie die naar een raderdiertje keek. Er was een buurman die zondag zijn haag gesnoeid wilde hebben. Er was een meisje van acht maanden met een houten trein.
-
-Het leven was niets verschuldigd. Het had nooit iets beloofd. Wij hadden het zelf beloofd, aan elkaar, aan de Brackes, aan de Brico met zijn Zacht Salie, aan de Action met haar stopcontactbeveiligers. Wij hadden een huis gekocht met drie slaapkamers. Het huis had nergens om gevraagd.
 
 Ik sneed me. Een klein sneetje, onder mijn kaak, links. Er kwam een druppeltje bloed, rond en rood, zo groot als een speldenkop. Ik keek ernaar in de spiegel. Ik dacht aan Lies op de rand van het bad, aan de pen, aan het druppeltje naast haar navel. Ik plakte er een stukje wc-papier op, zoals mijn vader deed, zoals iedere man doet, en ik spoelde het mesje af, en ik ging naar beneden, en ik smeerde mijn boterhammen.
 
@@ -162,14 +160,10 @@ Het is dinsdag. Ik schrijf dit op een dinsdagavond in oktober. Het is anderhalf 
 
 Straks ga ik naar boven. Ik doe het licht uit in de keuken. Ik kijk of de achterdeur op slot is. Ik zet het nachtlampje van de Hema aan op de overloop. Ik blijf staan bij de drie deuren. Onze deur. De deur van de kamer van Lies. De deur van de kleine kamer, die op een kier staat, met het oranje licht dat erin valt, op de luchtballonnen.
 
-Er slaapt daar niemand. Er heeft daar één jongen geslapen, acht keer, en één man, negentien weken. Er slaapt daar niemand meer. Dat is zo. Dat is zoals het weer zo is, en de belastingen, en de haag van Roger.
+Er slaapt daar niemand. Er heeft daar één jongen geslapen, en één man.
 
 Ik doe die deur niet dicht. Ik ga slapen.
 
-Morgen is het woensdag. Morgen moet de PMD buiten, en het restafval. Ik zet ze vanavond al klaar in de gang, zodat ik ze 's ochtends niet vergeet. De PMD-zak is licht. Er zitten twee melkflessen in, wat blikjes, een schaaltje van gehakt, een lege fles van de afwasmachinetabletten. Het is bijna niets.
+Morgen is het woensdag. Morgen moet de PMD buiten, en het restafval. Ik zet ze vanavond al klaar in de gang, zodat ik ze 's ochtends niet vergeet. De PMD-zak is licht. Er zitten twee melkflessen in, wat blikjes, een schaaltje van gehakt, een leeg zakje van de vaatwastabletten. Het is bijna niets.
 
-Ik draag hem morgen toch naar buiten met twee handen, zoals je iets draagt wat zwaar is.
-
-Dat is niet omdat het zwaar is.
-
-Het is omdat ik het draag.
+Ik draag hem morgen toch naar buiten met twee handen.
