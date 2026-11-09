@@ -6,7 +6,7 @@ Niet met een knal, eerder met een zucht, zoals mijn vader vroeger in zijn zetel 
 
 Een vaatwasser voor twee mensen is eigenlijk een kast met ambities. Wij hadden er een van zestig centimeter, een Bosch, die bij de keuken hoorde toen we het huis kochten, en die keuken was getekend door mensen met drie kinderen. In ons huis duurde het drie dagen voor hij vol was. Soms zette ik hem half vol aan, uit medelijden, en dan voelde ik me een verkwister en een sentimentele man tegelijk, wat een combinatie is die niemand je aanraadt.
 
-Ik ging op mijn hurken zitten en keek naar het water. Ik keek eerst een tijdje, alsof het defect zich uit beleefdheid zal laten zien. Mijn vader deed dat met de auto. Hij opende de motorkap, zette zijn handen in zijn zij en keek. Soms kwam er dan een buurman bij staan die ook keek. Dan keken ze met twee. Ik heb nooit geweten of dat iets oploste, maar ik weet wel dat het hem rustig maakte, en dat ik het nu zelf deed, op mijn hurken voor een Bosch, in een keuken in een verkaveling tussen Aalst en Dendermonde, met een theedoek over mijn schouder die ik er niet bewust had gelegd.
+Ik ging op mijn hurken zitten en keek naar het water. Ik keek eerst een tijdje, alsof het defect zich uit beleefdheid zou laten zien. Mijn vader deed dat met de auto. Hij opende de motorkap, zette zijn handen in zijn zij en keek. Soms kwam er dan een buurman bij staan die ook keek. Dan keken ze met twee. Ik heb nooit geweten of dat iets oploste, maar ik weet wel dat het hem rustig maakte, en dat ik het nu zelf deed, op mijn hurken voor een Bosch, in een keuken in een verkaveling tussen Aalst en Dendermonde, met een theedoek over mijn schouder die ik er niet bewust had gelegd.
 
 In de schuif met handleidingen zat de bon van onze trouwringen, maar niet de handleiding van de vaatwasser. Ik vond ze op de website van Bosch, vierenveertig bladzijden in elf talen, en las de Nederlandse versie op mijn telefoon, aan de keukentafel. Ik las alles. Ik ben iemand die alles leest. Ik las over het kinderslot. Er was een hele paragraaf over het kinderslot, met een tekening van een kleine hand en een rood kruis erdoor. *Het apparaat is uitgerust met een kinderslot, zodat kinderen de deur niet kunnen openen.* Ik scrolde verder. Ik las over de filters.
 
@@ -128,7 +128,7 @@ Ik deed de deur van de kleine kamer open. Er was niets te zien. De dozen, de ker
 
 Ik dacht dat ik dat behang er nu eindelijk eens af moest halen.
 
-Ik deed de deur weer dicht. Ik ging terug naar bed. Ik hoorde Lies ademen. Ik legde mijn hand op haar heup, en ze bewoog niet, maar haar ademhaling veranderde even, en daaruit wist ik dat ze ook wakker was.
+Ik deed de deur weer dicht. Ik ging terug naar bed. Ik hoorde Lies ademen. Ik legde mijn hand op haar heup, en ze bewoog niet, maar haar ademhaling veranderde even, en daaraan wist ik dat ze ook wakker was.
 
 'Twaalf mei,' zei ze, in het donker.
 

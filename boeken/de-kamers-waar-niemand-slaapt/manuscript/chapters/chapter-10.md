@@ -86,7 +86,7 @@ Mijn moeder belt op zondag. Ze vraagt hoe het gaat. Ze vraagt niet naar iets and
 
 Ik denk erover na. Dat is het rare. Ik doe het echt. Ik zoek het op, die avond. Pleegzorg Vlaanderen. Er staat een site met foto's van lachende kinderen op een schommel, die er waarschijnlijk niet echt in pleegzorg zijn maar die een fotograaf heeft betaald, en een filmpje met een koppel dat vertelt over hun pleegzoon. Ik lees over de verschillende vormen. Langdurig. Kortdurend. Crisis. Perspectiefzoekend. Respijt.
 
-Respijt. Een weekend per maand, of een paar dagen in de vakantie, voor een kind dat thuis woont, bij ouders die het moeilijk hebben, zodat die ouders even op adem kunnen komen. Het kind gaat altijd terug. Dat is de bedoeling. Het is geen vervanging. Het is een pauze. Voor iemand anders.
+Respijt. Een weekend per maand, of een paar dagen in de vakantie, voor een kind dat thuis woont, bij ouders die het moeilijk hebben, zodat die ouders even op adem kunnen komen. Het kind gaat altijd terug. Dat is de bedoeling. Het is een pauze. Voor iemand anders.
 
 Ik lees het drie keer. Ik denk aan de kleine kamer. Ik denk niet: dit lost het op. Ik ben niet dom. Ik weet dat een kind dat een weekend per maand komt en altijd teruggaat, niet het kind is dat we niet hebben gekregen. Ik weet dat het misschien erger is. Dat je elke maand opnieuw een kind uitzwaait. Ik ben laborante. Ik kan een risico inschatten.
 

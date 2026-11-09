@@ -24,7 +24,7 @@ Ze stond in de deuropening van haar appartement in een kamerjas, om twee uur 's 
 
 Ze keek me aan. Dan deed ze de deur verder open.
 
-Ze zette koffie. Ze zette de pralines op tafel, een doos die nog van kerstmis was, met een paar lege vakjes. We zaten aan de tafel waar het kerstdiner had plaatsgevonden, zonder het tafelkleed met de rendieren, en buiten op het plein werd een podium opgebouwd, met mannen die stangen tegen elkaar sloegen.
+Ze zette koffie. Ze zette de pralines op tafel, een doos die nog van Kerstmis was, met een paar lege vakjes. We zaten aan de tafel waar het kerstdiner had plaatsgevonden, zonder het tafelkleed met de rendieren, en buiten op het plein werd een podium opgebouwd, met mannen die stangen tegen elkaar sloegen.
 
 'Ze heeft het u verteld,' zei Rita.
 
@@ -78,7 +78,7 @@ Jeanine stierf op een dinsdag in oktober, in het AZ in Aalst, na drie weken. Iet
 
 Roger belde bij ons aan, de avond dat het gebeurd was. Hij stond in de deuropening met zijn pet in zijn handen, zoals een man in een oude film. Hij zei: 'Ik wilde het u laten weten. Omdat ge de buren zijt.' Hij zei het tegen de deurmat. Lies kwam achter mij staan. Ze nam zijn hand. Hij liet het toe. Hij keek naar haar hand rond de zijne, alsof hij niet wist van wie ze was.
 
-De begrafenis was in de kerk van ons dorp. Er waren minder mensen dan bij mijn vader. Roger zat vooraan, alleen, op de eerste rij. Zijn zoon Patrick was niet gekomen. Hij woonde in Alicante. Hij had gebeld, zei Roger achteraf, op de koffietafel, met een broodje hesp in zijn hand dat hij niet at. 'Hij kon zo snel geen vlucht vinden. Hij komt met kerstmis. Dat zegt hij.' Roger keek naar het broodje. 'Dat zegt hij elk jaar.'
+De begrafenis was in de kerk van ons dorp. Er waren minder mensen dan bij mijn vader. Roger zat vooraan, alleen, op de eerste rij. Zijn zoon Patrick was niet gekomen. Hij woonde in Alicante. Hij had gebeld, zei Roger achteraf, op de koffietafel, met een broodje hesp in zijn hand dat hij niet at. 'Hij kon zo snel geen vlucht vinden. Hij komt met Kerstmis. Dat zegt hij.' Roger keek naar het broodje. 'Dat zegt hij elk jaar.'
 
 Ik had nooit geweten dat Roger een zoon had. Dat wil zeggen: ik had het geweten, op de manier waarop je weet dat de buren een zoon hebben, uit een zin die ooit gevallen was, *onze Patrick woont in Spanje*, maar ik had er nooit aan gedacht. Roger was voor mij de man van de haag. De man van *wanneer beginnen jullie eraan*. De man met de drie vingers. Ik had nooit gedacht dat hij zelf ooit een kind had gekregen, en dat dat kind ver weg was, en dat hij op zondagmorgen om negen uur een haag snoeide die niet gesnoeid moest worden, al vijfentwintig jaar, in een straat waar zijn zoon nooit meer kwam.
 
@@ -102,7 +102,7 @@ Hij keek naar mij. Hij keek naar de haag. Ik zag hem nadenken. Ik zag dat het ee
 
 'De schaar ligt in de garage,' zei hij. 'Op de werkbank.'
 
-Ik haalde de schaar. Het was een elektrische haagschaar van een merk dat al lang niet meer bestond, met een lange snoer dat aan een haspel zat. Ik rolde het snoer af naar het stopcontact in zijn garage. Ik had nog nooit een haag gesnoeid. We hebben geen haag. We hebben een draadafsluiting met klimop.
+Ik haalde de schaar. Het was een elektrische haagschaar van een merk dat al lang niet meer bestond, met een lang snoer dat aan een haspel zat. Ik rolde het snoer af naar het stopcontact in zijn garage. Ik had nog nooit een haag gesnoeid. We hebben geen haag. We hebben een draadafsluiting met klimop.
 
 Ik zette de schaar aan. Hij maakte het geluid. De wesp. Ik had het al tien jaar elke zondag gehoord en ik had het nog nooit van zo dichtbij gehoord. Het trilde in mijn armen tot in mijn schouders.
 
@@ -130,7 +130,7 @@ Ik hield op met vegen.
 
 'Dat wist ik niet.'
 
-'Nee. Ge vraagt dat niet, hé, aan een oude vent.' Hij lachte, kort. 'En nu zit hij in Alicante. En hij komt met kerstmis. Elk jaar.'
+'Nee. Ge vraagt dat niet, hé, aan een oude vent.' Hij lachte, kort. 'En nu zit hij in Alicante. En hij komt met Kerstmis. Elk jaar.'
 
 Ik stond met de borstel in mijn hand.
 

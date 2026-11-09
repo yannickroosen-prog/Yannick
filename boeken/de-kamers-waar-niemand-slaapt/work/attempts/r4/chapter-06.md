@@ -4,11 +4,11 @@ In het fertiliteitscentrum van Gent stond een tank met vloeibare stikstof op min
 
 Ik weet niet hoe die tank eruitzag. Ik heb hem nooit gezien. Ik stelde me een grote ketel voor, van glanzend staal, zoals de ketels van een brouwerij, met een deksel en een manometer en een etiket met een lijst van namen. Ergens op die lijst, dacht ik, stond *Claeys–Van Damme*, met een datum en een nummer. In werkelijkheid zijn het waarschijnlijk kleine rietjes in een soort thermos, in een kast in een kelder, en weet niemand daar onze namen zonder de computer te raadplegen. Maar ik stelde me een ketel voor. Ik werk voor een verwarmingsbedrijf. Ik denk in ketels.
 
-Ze waren er sinds oktober. De derde poging was mislukt, zoals de eerste twee, maar deze keer waren er embryo's over geweest. Zes goede op dag vijf. Eén teruggeplaatst, één niet goed genoeg, vier ingevroren. De vrouw met de vriendelijke stem had het aan de telefoon gezegd alsof het een prijs was die we gewonnen hadden. 'Vier in de diepvries,' had ze gezegd, '*dat is goed nieuws*.' Ik had haar bedankt.
+Ze waren er sinds oktober. De derde poging was mislukt, zoals de eerste twee, maar deze keer waren er embryo's over geweest. Zes op dag vijf. Eén teruggeplaatst, één niet goed genoeg, vier ingevroren. De vrouw met de vriendelijke stem had het aan de telefoon gezegd alsof het een prijs was die we gewonnen hadden. 'Vier in de diepvries,' had ze gezegd, '*dat is goed nieuws*.' Ik had haar bedankt.
 
 Daarna noemden we ze zo. De diepvries. 'Als het niet lukt, hebben we nog de diepvries.' Het klonk huiselijk. Alsof er ergens soep stond die je alleen nog moest opwarmen.
 
-Die kerst dacht ik veel aan die tank. Ik dacht eraan terwijl ik in de Delhaize in de rij stond met een kalkoenfilet en een doos pralines voor mijn schoonmoeder. Ik dacht eraan terwijl ik de kerstboom uit de kleine kamer haalde, tussen de verhuisdozen en de koffer van Kroatië, onder het behang met de luchtballonnen, een plastic boom van een meter vijftig in drie delen, die ik in de living in elkaar zette. Ik dacht: vier kleine dingen in een ketel van min honderdzesennegentig graden, en het is kerstmis, en zij weten van niets. Zij zijn in de beste zin van het woord nergens. Ik weet niet of dat een troostende gedachte was. Ik had ze vaak.
+Die kerst dacht ik veel aan die tank. Ik dacht eraan terwijl ik in de Delhaize in de rij stond met een kalkoenfilet en een doos pralines voor mijn schoonmoeder. Ik dacht eraan terwijl ik de kerstboom uit de kleine kamer haalde, tussen de verhuisdozen en de koffer van Kroatië, onder het behang met de luchtballonnen, een plastic boom van een meter vijftig in drie delen, die ik in de living in elkaar zette. Ik dacht: vier kleine dingen in een ketel van min honderdzesennegentig graden, en het is Kerstmis, en zij weten van niets. Zij zijn in de beste zin van het woord nergens. Ik weet niet of dat een troostende gedachte was. Ik had ze vaak.
 
 ---
 
@@ -34,7 +34,7 @@ Het was bij het dessert dat Rita het vroeg. Ze vroeg het niet aan Lies. Ze vroeg
 
 'En, Steven. Hoe zit het nu met jullie... projectje?'
 
-Ze zei *projectje*. Ik zal dat nooit vergeten. Ze zei het met haar handen gevouwen op het tafelkleed met de rendieren, en met een glimlach die ze wilde laten bemoedigend zijn.
+Ze zei *projectje*. Ik zal dat nooit vergeten. Ze zei het met haar handen gevouwen op het tafelkleed met de rendieren, en met een glimlach die bemoedigend moest zijn.
 
 Lies legde haar lepel neer. Ann keek naar haar bord. Dirk keek naar Ann. De meisjes keken naar het reuzenrad.
 
@@ -138,7 +138,7 @@ Iedereen juichte. Iemand riep: 'Proficiat!' Wouter klapte naast mij in zijn hand
 
 Iedereen lachte mee. *Een ongelukje.* Het woord bleef hangen in de kamer, tussen de lichtgevende zwaarden en de stopcontacten zonder afdekplaatje, en niemand anders leek het te horen, en ik hoorde niets anders.
 
-Ik keek naar de keukendeur. Lies stond in de deuropening. Ze had een glas water in haar hand. Ze glimlachte. Ze liep naar Sofie toe en omhelsde haar, lang, en zei iets in haar oor, en Sofie knikte en zei iets terug, en ze hielden elkaar vast, langer dan de anderen. Ik zag Sofie's gezicht over Lies' schouder. Haar ogen waren dicht en haar mond was een streep.
+Ik keek naar de keukendeur. Lies stond in de deuropening. Ze had een glas water in haar hand. Ze glimlachte. Ze liep naar Sofie toe en omhelsde haar, lang, en zei iets in haar oor, en Sofie knikte en zei iets terug, en ze hielden elkaar vast, langer dan de anderen. Ik zag Sofies gezicht over Lies' schouder. Haar ogen waren dicht en haar mond was een streep.
 
 Daarna liep Lies naar de badkamer. Ze bleef er twintig minuten.
 
@@ -188,13 +188,13 @@ Ze draaide zich om. Ik hoorde haar in de gang tegen Sofie iets zeggen, en Sofie 
 
 'Shit,' zei Bert. 'Man. Sorry. Ik...'
 
-'Het is niet aan u,' zei ik.
+'Het ligt niet aan u,' zei ik.
 
 Ik ging terug naar binnen. Ik zei tegen Sofie dat Lies zich niet goed voelde. Sofie keek me aan en zei: 'Ja.' Alleen dat. *Ja.* Ze wist het. Ik wist niet wat ze wist, maar ze wist het. Ik nam mijn jas.
 
 Ik ben naar huis gewandeld. Van het station van Aalst naar de Populierenlaan is het negen komma twee kilometer. Ik weet het precies, omdat ik het later heb opgezocht. Ik heb er twee uur over gedaan, langs de steenweg, in de mist, met mijn handen in mijn zakken en mijn kraag omhoog. Er reden auto's voorbij met grootlicht. Op een bepaald moment liep ik langs een tankstation dat open was, en ik ging binnen en kocht een koffie uit een automaat en dronk hem op tussen de rekken met motorolie en ruitenvloeistof, en de man achter de kassa keek naar me alsof ik een probleem zou kunnen worden. Ik betaalde. Ik liep verder.
 
-Ik dacht niet na, die twee uur. Of ik dacht wel na, maar in rondjes. Ik dacht aan Bert's gezicht. Aan het woord *weghalen*, dat ik had gezegd, dat uit mijn mond gekomen was, terwijl ik niet eens wist dat het daar zat. Ik dacht aan Lies' gezicht in de deuropening. Ik dacht dat ik iets kapot had gemaakt dat ik niet kon benoemen, zoals de olijfpit in de vaatwasser, maar dat ik deze keer niet wist welke filter ik moest losdraaien.
+Ik dacht niet na, die twee uur. Of ik dacht wel na, maar in rondjes. Ik dacht aan Berts gezicht. Aan het woord *weghalen*, dat ik had gezegd, dat uit mijn mond gekomen was, terwijl ik niet eens wist dat het daar zat. Ik dacht aan Lies' gezicht in de deuropening. Ik dacht dat ik iets kapot had gemaakt dat ik niet kon benoemen, zoals de olijfpit in de vaatwasser, maar dat ik deze keer niet wist welke filter ik moest losdraaien.
 
 ---
 
@@ -212,7 +212,7 @@ Ik bleef staan in de koude, met het portier open, met het zwakke lichtje. Dan le
 
 Ik ging naar binnen. Op de keukentafel stond een glas water en ernaast een strip Dafalgan, met twee tabletten eruit gedrukt. Ernaast lag een papiertje. Er stond niets op. Het was een leeg papiertje, van het blok dat naast de telefoon lag, met de pen erop. Ze had iets willen schrijven, en ze had het niet gedaan.
 
-Ik nam de Dafalgan. Ik dronk het water. Ik ging naar boven. Ik zag dat de deur van de kleine kamer openstond, een paar centimeter, en dat er licht van de straatlantaarn door de kier op de overloop viel. Ik had haar dicht gelaten, toen ik de kerstboom eruit haalde. Ik keek naar binnen. Er was niemand. De verhuisdozen, de koffer, de lege doos van de kerstboom. De luchtballonnen.
+Ik nam de Dafalgan. Ik dronk het water. Ik ging naar boven. Ik zag dat de deur van de kleine kamer openstond, een paar centimeter, en dat er licht van de straatlantaarn door de kier op de overloop viel. Ik had haar dichtgelaten, toen ik de kerstboom eruit haalde. Ik keek naar binnen. Er was niemand. De verhuisdozen, de koffer, de lege doos van de kerstboom. De luchtballonnen.
 
 Lies lag in bed, op haar zij, met haar rug naar de deur. Ik ging naast haar liggen. Ik raakte haar niet aan.
 
@@ -220,6 +220,6 @@ Lies lag in bed, op haar zij, met haar rug naar de deur. Ik ging naast haar ligg
 
 Ze antwoordde niet. Ik wist niet of ze sliep. Ik denk van niet.
 
-Op oudejaarsavond bleven we thuis. We keken naar de conference op televisie, en om middernacht gaven we elkaar een kus, kort, en gingen naar buiten om naar het vuurwerk te kijken dat de buren afstaken. Roger stond aan zijn voordeur in zijn kamerjas met Jeanine. Hij riep: 'Gelukkig Nieuwjaar, buren! En dat het ons jaar mag worden!' Hij hief een glas. Ik hief niets. Lies stak haar hand op. Hij bedoelde zijn jaar, en het onze, en dat van iedereen. Het kon niets betekenen. Het betekende ook niets. Het was gewoon wat Roger zei.
+Op oudejaarsavond bleven we thuis. We keken naar de conference op televisie, en om middernacht gaven we elkaar een kus, kort, en gingen naar buiten om naar het vuurwerk te kijken dat de buren afstaken. Roger stond aan zijn voordeur in zijn kamerjas met Jeanine. Hij riep: 'Gelukkig nieuwjaar, buren! En dat het ons jaar mag worden!' Hij hief een glas. Ik hief niets. Lies stak haar hand op. Hij bedoelde zijn jaar, en het onze, en dat van iedereen. Het kon niets betekenen. Het betekende ook niets. Het was gewoon wat Roger zei.
 
 We gingen naar binnen. Het was 2019.

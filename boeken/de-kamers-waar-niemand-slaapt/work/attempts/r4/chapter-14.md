@@ -104,7 +104,7 @@ Ze keek naar me. Ze keek naar de twee helften in mijn hand. Toen begon ze te lac
 
 'Ja.'
 
-Toen we uitgelachen waren, deed ik de twee doosjes van Lena in een plastic zak, en de gebroken suikerboon erbij. Thuis gooide ik de zak in de vuilbak. In de restafval. Ik weet niet waar doopsuiker hoort. Ik heb het niet opgezocht.
+Toen we uitgelachen waren, deed ik de twee doosjes van Lena in een plastic zak, en de gebroken suikerboon erbij. Thuis gooide ik de zak in de vuilbak. In het restafval. Ik weet niet waar doopsuiker hoort. Ik heb het niet opgezocht.
 
 Het doosje van Mila zette ik in het handschoenkastje. Bovenaan.
 
@@ -156,7 +156,7 @@ Ik sneed me. Een klein sneetje, onder mijn kaak, links. Er kwam een druppeltje b
 
 ---
 
-Het is dinsdag. Ik schrijf dit op een dinsdagavond in oktober. Het is anderhalf jaar na Dylan, drie jaar na de datum zonder bedrag, vier jaar na mijn vader, zeven jaar na de olijfpit. Het is halftien. Lies zit in haar kamer. De deur staat open. Ik hoor haar een bladzijde omslaan.
+Het is dinsdag. Ik schrijf dit op een dinsdagavond in oktober. Het is anderhalf jaar na Dylan, drie jaar na de datum zonder bedrag, vier jaar na mijn vader, zeven jaar na de olijfpit. Het is half tien. Lies zit in haar kamer. De deur staat open. Ik hoor haar een bladzijde omslaan.
 
 Straks ga ik naar boven. Ik doe het licht uit in de keuken. Ik kijk of de achterdeur op slot is. Ik zet het nachtlampje van de Hema aan op de overloop. Ik blijf staan bij de drie deuren. Onze deur. De deur van de kamer van Lies. De deur van de kleine kamer, die op een kier staat, met het oranje licht dat erin valt, op de luchtballonnen.
 

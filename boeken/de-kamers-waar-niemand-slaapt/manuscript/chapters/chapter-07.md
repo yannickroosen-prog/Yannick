@@ -2,7 +2,7 @@
 
 Mijn vader stierf op een vrijdag in mei, om ongeveer kwart over tien 's ochtends, tussen de bonenstaken.
 
-Hij had die ochtend de stokken gezet. Dat deed hij elk jaar half mei, na de IJsheiligen, omdat hij geloofde in de IJsheiligen zoals andere mensen in God. Hij had ze in twee rijen gezet, in de moestuin achter het huis van mijn ouders in Erpe, met de toppen tegen elkaar gebonden met groen tuindraad, zodat ze tenten vormden, en daarna was hij er blijkbaar tussen gaan zitten, of gevallen, dat weten we niet. Mijn moeder vond hem om half elf, toen ze hem wilde roepen voor de koffie. Hij lag op zijn zij tussen de rijen, met het rolletje tuindraad nog in zijn hand. De dokter zei dat het een hartstilstand was en dat hij waarschijnlijk niets gevoeld had. Dat zeggen ze altijd, denk ik. Het is een zin die ze hen in hun opleiding leren, zoals *onverklaard*.
+Hij had die ochtend de stokken gezet. Dat deed hij elk jaar half mei, na de IJsheiligen, omdat hij geloofde in de IJsheiligen zoals andere mensen in God. Hij had ze in twee rijen gezet, in de moestuin achter het huis van mijn ouders in Erpe, met de toppen tegen elkaar gebonden met groen tuindraad, zodat ze tenten vormden, en daarna was hij er blijkbaar tussen gaan zitten, of gevallen, dat weten we niet. Mijn moeder vond hem om half elf, toen ze hem wilde roepen voor de koffie. Hij lag op zijn zij tussen de rijen, met het rolletje tuindraad nog in zijn hand. De dokter zei dat het een hartstilstand was en dat hij waarschijnlijk niets gevoeld had. Dat zeggen ze altijd, denk ik. Het is een zin die ze hun in hun opleiding leren, zoals *onverklaard*.
 
 Ik kreeg het telefoontje op mijn werk. Het was Kristof. Hij zei: 'Steven.' Hij zei niets anders. Ik hoorde hem ademen, zwaar, met het geluid van wind erachter, want hij stond op een dak in Denderleeuw. Ik wist het toen al. Ik wist het aan de manier waarop hij mijn naam zei, zonder *manneke*, zonder iets.
 
@@ -50,7 +50,7 @@ Een oom van mijn moeder, nonkel Gerard, die tweeëntachtig was en hard van horen
 
 Hij knikte tevreden, alsof hij een opdracht had volbracht, en nam een stuk rijsttaart.
 
-Ik stond daar met mijn kopje koffie. Ik zag Lies aan de andere kant van de zaal, bij mijn moeder. Ze hield mijn moeders hand vast. Ze had het hele weekend bij mijn moeder geslapen, op de zetel, omdat mijn moeder niet alleen wilde zijn en niet in haar eigen bed wilde slapen, en ik had thuis geslapen, alleen, omdat ik vroeg moest opstaan voor het papier. Lies had dat aangeboden. Niemand had het gevraagd. Sinds kerstmis hadden we niet veel gepraat, of wel gepraat, maar over dingen als de boodschappen en de Picanto, die naar de garage moest voor de rare tik. In januari hadden we afgesproken om een pauze te nemen met de behandelingen. Tot de zomer, had ze gezegd. *Tot de zomer, en dan zien we.* De diepvries kon wachten. Dat is het voordeel van een diepvries.
+Ik stond daar met mijn kopje koffie. Ik zag Lies aan de andere kant van de zaal, bij mijn moeder. Ze hield mijn moeders hand vast. Ze had het hele weekend bij mijn moeder geslapen, op de zetel, omdat mijn moeder niet alleen wilde zijn en niet in haar eigen bed wilde slapen, en ik had thuis geslapen, alleen, omdat ik vroeg moest opstaan voor het papier. Lies had dat aangeboden. Niemand had het gevraagd. Sinds Kerstmis hadden we niet veel gepraat, of wel gepraat, maar over dingen als de boodschappen en de Picanto, die naar de garage moest voor de rare tik. In januari hadden we afgesproken om een pauze te nemen met de behandelingen. Tot de zomer, had ze gezegd. *Tot de zomer, en dan zien we.* De diepvries kon wachten. Dat is het voordeel van een diepvries.
 
 Ze keek op en zag me kijken. Ze glimlachte niet. Ze knikte, één keer, zoals je knikt naar iemand aan de overkant van een straat die je herkent. Ik knikte terug.
 
@@ -142,7 +142,7 @@ Ze nam er een op. Ze draaide het tussen haar vingers, zoals ze in het labo een b
 
 'Ja.'
 
-Ze legde het terug op de tafel, naast het andere. Ze legde haar hand op de mijne. Het was de eerste keer sinds kerstmis.
+Ze legde het terug op de tafel, naast het andere. Ze legde haar hand op de mijne. Het was de eerste keer sinds Kerstmis.
 
 'Uw vader,' zei ze.
 

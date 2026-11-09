@@ -41,7 +41,7 @@
 - Sept 2020: 2 ontdooid, 1 overleeft, teruggeplaatst. Positieve test dag 11; echo dag 39 (eind okt) zonder hartslag; tweede echo een week later; curettage donderdag 12 november 2020. Jan 2021: laatste 2 ontdooid, geen van beide overleeft.
 - Picanto: rood → in 2021 vervangen door witte tweedehands Picanto.
 - Roger: teckel Fanny † dec 2020 → Fanny Twee. Jeanine † oktober 2022 (78). Roger en Jeanine wachtten 8 jaar op Patrick (jaren '60).
-- Pleegzorg: consulente Ilse; Dylan 8 weekends okt 2021–juni 2022 (incl. krokus en Pasen); moeder Kelly (27), Opel Corsa; werkt later in wasserette in Zele.
+- Pleegzorg: consulente Ilse; Dylan 10 weekends okt 2021–juni 2022 (7 maandelijks t/m april, krokus, Pasen, afscheid juni) (incl. krokus en Pasen); moeder Kelly (27), Opel Corsa; werkt later in wasserette in Zele.
 - Steven slaapt van eind juli tot begin december 2022 in de kleine kamer (negentien weken).
 - Vaatwasser Bosch definitief kapot di 17 jan 2023; Siemens 45 cm; stofzuiger in de spleet.
 - Mila °do 26 jan 2023; feest mei 2023; Steven peter; houten trein als cadeau.

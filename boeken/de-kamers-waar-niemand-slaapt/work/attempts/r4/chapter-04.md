@@ -14,7 +14,7 @@ Daarna kwam er een wachtlijst, en een infosessie in een aula met zestig andere k
 
 ---
 
-De spuiten moesten 's avonds, elke avond om dezelfde tijd. Lies had acht uur gekozen. Om acht uur stond de alarm op haar telefoon, met een melodie die *Ontwaken* heette, wat ik een vreemde keuze vond voor een avondalarm.
+De spuiten moesten 's avonds, elke avond om dezelfde tijd. Lies had acht uur gekozen. Om acht uur stond het alarm op haar telefoon, met een melodie die *Ontwaken* heette, wat ik een vreemde keuze vond voor een avondalarm.
 
 De eerste avond deed ze het zelf. Ze had een filmpje bekeken op de website van het ziekenhuis, twee keer, en de verpleegster had het voorgedaan op een kussentje van schuimrubber. Ze zat op de rand van het bad met haar trui omhoog en de pen in haar hand. Ze ontsmette een stukje huid naast haar navel met een alcoholdoekje. Ze kneep een plooi vet tussen duim en wijsvinger. Ze hield de pen erboven.
 
@@ -42,7 +42,7 @@ Het gaf een klik. Ik telde tot tien, zoals in het filmpje. Lies keek naar het pl
 
 Ik draaide het naaldje van de pen en gooide het in de naaldcontainer. Dat was een gele plastic emmer met een deksel, zo groot als een pot verf, die we van de apotheek hadden gekregen, met een rood etiket met een symbool van een biologisch gevaar, drie halve cirkels in elkaar. Hij stond op de wasmachine. Hij heeft daar anderhalf jaar gestaan, met tussenpozen, en ik ben er nooit aan gewend geraakt. Een gele emmer met een biologisch-gevaarsymbool op de wasmachine. Als er mensen op bezoek kwamen, zette Lies hem in de kast onder de lavabo. Als ze vertrokken, zette ik hem terug. Zo hadden we elk onze rol.
 
-Vanaf die avond deed ik de spuiten. Elke avond om acht uur, als het *Ontwaken*-alarm afging. Twee weken lang, elke avond, op mijn knieën op de badmat, en daarna, toen er een tweede middel bij kwam, twee keer. Lies' buik werd blauw en geel rond haar navel, met kleine prikjes die in een cirkel lagen, zoals de cijfers op een klok. Ik prikte telkens op een ander uur. Elf uur. Twaalf uur. Eén uur. Ik heb dat tegen niemand gezegd, maar ik vond het mooi, op een manier die ik niet kan verdedigen, dat ik dat voor haar kon doen. Het was het eerste in heel die tijd dat ik kon doen. Er was eindelijk een taak.
+Vanaf die avond deed ik de spuiten. Elke avond om acht uur, als het *Ontwaken*-alarm afging. Twee weken lang, elke avond, op mijn knieën op de badmat, en daarna, toen er een tweede middel bij kwam, twee keer. Lies' buik werd blauw en geel rond haar navel, met kleine prikjes die in een cirkel lagen, zoals de cijfers op een klok. Ik prikte telkens op een ander uur. Elf uur. Twaalf uur. Eén uur. Ik heb dat tegen niemand gezegd, maar ik vond het mooi, op een manier die ik niet kan verdedigen, dat ik dat voor haar kon doen. Het was het eerste in heel die tijd wat ik kon doen. Er was eindelijk een taak.
 
 ---
 
@@ -62,7 +62,7 @@ Van de veertien eitjes waren er negen rijp. Daarvan werden er zes bevrucht, met 
 
 Op dag vijf plaatsten ze er een terug. De andere twee waren niet goed genoeg om in te vriezen.
 
-Ik was erbij. Het was in een kamer met gedimd licht. Er was een scherm waarop we het embryo zagen voor ze het terugplaatsten. Het was een grijs bolletje met een rand, een klein vlekje, onder de microscoop, uitvergroot op het scherm. De embryoloog zei: 'Dit is een mooie blastocyst.' Ik keek ernaar. Ik weet niet wat ik dacht dat ik zou zien. Het was een grijs bolletje. Het leek op een foto van een planeet, genomen van heel ver, of op een vlek op een lens. Ze vroegen of we een foto wilden. Lies zei ja. Ze kregen een uitprint van het scherm, op glanzend papier, zo groot als een bankkaart.
+Ik was erbij. Het was in een kamer met gedimd licht. Er was een scherm waarop we het embryo zagen voor ze het terugplaatsten. Het was een grijs bolletje met een rand, een klein vlekje, onder de microscoop, uitvergroot op het scherm. De embryoloog zei: 'Dit is een mooie blastocyst.' Ik keek ernaar. Ik weet niet wat ik dacht dat ik zou zien. Het was een grijs bolletje. Het leek op een foto van een planeet, genomen van heel ver, of op een vlek op een lens. Ze vroegen of we een foto wilden. Lies zei ja. We kregen een uitprint van het scherm, op glanzend papier, zo groot als een bankkaart.
 
 Toen deden ze het. Weer met een dun buisje. Op een echo zag je een klein wit flitsje, een lichtpuntje, dat het embryo was, of de vloeistof waar het in zat. De arts wees het aan. 'Daar,' zei hij. 'Daar zit het nu.'
 
@@ -106,7 +106,7 @@ Ik heb die middag aan Danny het hele verhaal verteld. Ik vertelde het als een gr
 
 Ik vertelde het hem. Misschien omdat ik net gelachen had. Misschien omdat ik dat lampje zelf had vervangen en me daardoor iets beter voelde dan ik me in maanden had gevoeld. Ik zei: 'We zijn bezig met IVF.'
 
-Danny keek me aan. Hij had een bruin gezicht, van twintig jaar op daken en in kelders, met diepe lijnen rond zijn ogen. Hij zei eerst niets. Dan leunde hij achterover in zijn stoel, die kraakte.
+Danny keek me aan. Hij had een bruin gezicht, van twintig jaar in kelders en stookplaatsen, met diepe lijnen rond zijn ogen. Hij zei eerst niets. Dan leunde hij achterover in zijn stoel, die kraakte.
 
 'Ah,' zei hij. 'Ja. Dat is lastig, hé.'
 

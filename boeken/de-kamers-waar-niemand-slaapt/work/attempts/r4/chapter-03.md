@@ -12,7 +12,7 @@ Nu was het september, en Nathalie had een feest georganiseerd. Geen doopfeest, w
 
 We kwamen om tien over drie. Lies had gezegd dat we om vijf over drie moesten vertrekken, omdat Kristof maar tien minuten van ons woont, en dat het onbeleefd was om stipt te komen op een feest. Ik vind het onbeleefd om te laat te komen. Zo hebben we het in het midden gehouden, wat de eerste jaren van ons huwelijk samenvat.
 
-Ik droeg het cadeau. Een knuffel, een konijn met lange oren van een merk dat Lies had uitgekozen in een winkel in Gent waar ze kinderkleding verkochten voor de prijs van volwassenenkleding. Ze had er een halfuur gestaan. Ik had buiten gewacht, voor het raam, en naar haar gekeken door de etalage, tussen de kleine jurkjes en de kleine schoentjes, en ik had gezien hoe ze de konijnen een voor een vastnam, en hoe ze een jurkje aanraakte dat er niet bij hoorde, een geel jurkje met witte stippen, en hoe ze haar hand terugtrok alsof het warm was. Ze had het konijn genomen. Het kostte zevenendertig euro.
+Ik droeg het cadeau. Een knuffel, een konijn met lange oren van een merk dat Lies had uitgekozen in een winkel in Gent waar ze kinderkleding verkochten voor de prijs van volwassenenkleding. Ze had er een half uur gestaan. Ik had buiten gewacht, voor het raam, en naar haar gekeken door de etalage, tussen de kleine jurkjes en de kleine schoentjes, en ik had gezien hoe ze de konijnen een voor een vastnam, en hoe ze een jurkje aanraakte dat er niet bij hoorde, een geel jurkje met witte stippen, en hoe ze haar hand terugtrok alsof het warm was. Ze had het konijn genomen. Het kostte zevenendertig euro.
 
 'Zevenendertig euro voor een konijn,' had ik gezegd, toen ze buitenkwam.
 
@@ -182,6 +182,6 @@ Ik weet niet wat ik dacht. Ik denk dat ik niets dacht. Ik denk dat ik daar allee
 
 Ik deed het doosje weer dicht met vijf suikerbonen erin. De andere twee doosjes deed ik niet open. Het open doosje liet ik op de tafel staan; Lies gooide het de volgende ochtend weg zonder iets te vragen.
 
-Ik nam ze mee naar de auto en legde ze in het handschoenkastje van de Skoda, onder het boekje van het onderhoud en de papieren van de verzekering en het reservepaar zonnebrillen. Ik heb het niet aan Lies verteld. Ze hebben er jaren gelegen.
+Ik nam de andere twee mee naar de auto en legde ze in het handschoenkastje van de Skoda, onder het boekje van het onderhoud en de papieren van de verzekering en het reservepaar zonnebrillen. Ik heb het niet aan Lies verteld. Ze hebben er jaren gelegen.
 
-Vier dagen later werd Lies ongesteld. Het was een woensdag. Ze stuurde me een sms op het werk. Er stond alleen *Nee* in. Ik was aan het bellen met mevrouw Van Hecke uit Haaltert, wiens ketel weer een rood lampje gaf, en ik zei tegen mevrouw Van Hecke dat Kurt in de namiddag zou langskomen, tussen twee en vier, en ze zei dat ze tussen twee en vier naar de kapper moest, en ik zei dat ik zou kijken wat ik kon doen.
+Vier dagen later werd Lies ongesteld. Het was een woensdag. Ze stuurde me een sms op het werk. Er stond alleen *Nee* in. Ik was aan het bellen met mevrouw Van Hecke uit Haaltert, wier ketel weer een rood lampje gaf, en ik zei tegen mevrouw Van Hecke dat Kurt in de namiddag zou langskomen, tussen twee en vier, en ze zei dat ze tussen twee en vier naar de kapper moest, en ik zei dat ik zou kijken wat ik kon doen.

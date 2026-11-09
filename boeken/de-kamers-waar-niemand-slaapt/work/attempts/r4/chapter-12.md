@@ -122,7 +122,7 @@ We gingen naar binnen. De taart werd aangesneden. Ik at een stuk van de nul.
 
 Het was half tien toen we vertrokken. Het was nog licht, dat zomerse grijs na de regen, met plassen op de weg waarin de lucht weerspiegelde. Lies reed. Ik had te veel gedronken. Dat was nu eenmaal zo, op familiefeesten. Het was een rolverdeling geworden, zoals de gele emmer: zij reed, ik dronk.
 
-'Hij heeft het u in de garage gezegd,' zei Lies. 'Hè.'
+'Hij heeft het u in de garage gezegd,' zei Lies. 'Hé.'
 
 'Wat?'
 

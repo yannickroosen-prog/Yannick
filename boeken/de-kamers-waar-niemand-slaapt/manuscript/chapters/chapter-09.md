@@ -130,7 +130,7 @@ Er was een folder. *Na een miskraam.* Er stond in dat het normaal was om verdrie
 
 Ik las de folder twee keer. Lies las hem niet. Ze legde hem in de schuif met de handleidingen, bij de bon van de trouwringen. Ik zag het, en ik zei er niets over.
 
-Ik belde mijn moeder. Ik moest het haar zeggen, omdat ik het haar gezegd had. Dat was het ergste van die maand. Niet het telefoontje zelf. Maar dat ik het haar moest *terugnemen*. Dat ik iets gegeven had wat ik niet had, en dat ik het nu moest terugvragen. Ze zei: 'Oh, jongen.' Ze zei het zoals ze het tussen de hortensia's had gezegd, met precies dezelfde woorden, en het was alsof iemand een film achterstevoren afspeelde.
+Ik belde mijn moeder. Ik moest het haar zeggen, omdat ik het haar gezegd had. Het ergste van die maand was dat ik het haar moest *terugnemen*. Dat ik iets gegeven had wat ik niet had, en dat ik het nu moest terugvragen. Ze zei: 'Oh, jongen.' Ze zei het zoals ze het tussen de hortensia's had gezegd, met precies dezelfde woorden, en het was alsof iemand een film achterstevoren afspeelde.
 
 'Ge moogt het aan niemand zeggen, ma.'
 
@@ -189,7 +189,3 @@ Ik belde ze op maandag. Ze ontdooiden ze op donderdag. De man belde om half elf.
 'Het spijt me heel erg,' zei hij.
 
 'Dank u,' zei ik.
-
-Ik hing op. Ik zat aan mijn bureau, op het werk, want we werkten weer half op kantoor, met plexiglas tussen de bureaus. Danny zat aan de andere kant van het plexiglas te bellen met een klant in Lebbeke. Ik keek naar zijn lijstje met *Bobbejaanland*. Ik keek naar mijn scherm, waarop de planning van die dag stond, met de namen van acht techniekers en hun routes, gekleurde balkjes van Ninove tot Lokeren.
-
-Er was niets meer in de diepvries. Er was niets meer om te beslissen. De ketel in Gent was leeg, voor ons in elk geval. Ergens zat iemand anders' naam erin, en wachtte.

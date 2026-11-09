@@ -16,7 +16,7 @@ Ze roerde in de soep. Ze keek niet om.
 
 'Dan is dat dat,' zei ze.
 
-Ik had verwacht dat ze kwaad zou zijn. Of verdrietig. Ik had het zelf verwacht te zijn. Ik weet nog dat ik in de keuken stond met mijn telefoon in mijn hand en wachtte op het gevoel, zoals je op een trein wacht die vertraging heeft, en dat het niet kwam. In de plaats daarvan kwam er iets anders, iets wat ik niet herkende en waarvan ik pas veel later begreep dat het opluchting was. Het was alsof iemand anders voor ons had beslist. Alsof er een man van het crisiscentrum op de radio was gekomen en had gezegd: vanaf woensdag moet u niet meer hopen. Het is verboden. Tot nader order.
+Ik had verwacht dat ze kwaad zou zijn. Of verdrietig. Ik had verwacht dat ik het zelf zou zijn. Ik weet nog dat ik in de keuken stond met mijn telefoon in mijn hand en wachtte op het gevoel, zoals je op een trein wacht die vertraging heeft, en dat het niet kwam. In de plaats daarvan kwam er iets anders, iets wat ik niet herkende en waarvan ik pas veel later begreep dat het opluchting was. Het was alsof iemand anders voor ons had beslist. Alsof er een man van het crisiscentrum op de radio was gekomen en had gezegd: vanaf woensdag moet u niet meer hopen. Het is verboden. Tot nader order.
 
 ---
 
@@ -60,7 +60,7 @@ De Brico was open. Ik reed erheen en stond in een rij op de parking, op anderhal
 
 Er waren vier soorten wit. Gebroken Wit. Zuiver Wit. Wolkenwit. Kalkwit. Ik las de beschrijvingen voor. Lies zei: 'Steven, het is wit,' en ik nam Gebroken Wit, omdat het me het meest eerlijk leek.
 
-We schilderden drie dagen. We schoven de zetels naar het midden en dekten ze af met plastic. We plakten de plinten af met schilderstape, Lies met een precisie waarbij ze met een meetlat werkte, ik met het oog, en zij trok mijn stukken telkens los en plakte ze opnieuw. We hadden de radio aan. Er werd veel over het virus gepraat, cijfers van besmettingen en ziekenhuisopnames en sterfgevallen, en op een bepaald moment zette Lies een andere zender op, met oude muziek, en draaide de volume omhoog, en we schilderden op de Kreuners en Clouseau en Doe Maar.
+We schilderden drie dagen. We schoven de zetels naar het midden en dekten ze af met plastic. We plakten de plinten af met schilderstape, Lies met een precisie waarbij ze met een meetlat werkte, ik met het oog, en zij trok mijn stukken telkens los en plakte ze opnieuw. We hadden de radio aan. Er werd veel over het virus gepraat, cijfers van besmettingen en ziekenhuisopnames en sterfgevallen, en op een bepaald moment zette Lies een andere zender op, met oude muziek, en draaide het volume omhoog, en we schilderden op de Kreuners en Clouseau en Doe Maar.
 
 Bij *Pa* van Doe Maar zong ze mee.
 
@@ -114,7 +114,7 @@ Ik las de mail op mijn werk, op het tweede scherm, tussen een panne in Lede en e
 
 Lies antwoordde niet. Dat was niet ongewoon. Ze antwoordde nooit op het werk.
 
-'s Avonds aten we in de tuin. Ik had gebarbecued. Het was het eerste keer dat jaar. Gewone worsten van de beenhouwer en een paar kippenbilletjes en een slaatje. Het was warm. In de verte, op de steenweg, reed weer verkeer. Het was nog niet zoals vroeger, maar het kwam terug, het geruis. Er vloog een vliegtuig over, het eerste dat ik in weken zag, hoog, met een witte streep erachter.
+'s Avonds aten we in de tuin. Ik had gebarbecued. Het was de eerste keer dat jaar. Gewone worsten van de beenhouwer en een paar kippenbilletjes en een slaatje. Het was warm. In de verte, op de steenweg, reed weer verkeer. Het was nog niet zoals vroeger, maar het kwam terug, het geruis. Er vloog een vliegtuig over, het eerste dat ik in weken zag, hoog, met een witte streep erachter.
 
 'Ik heb uw mail gezien,' zei Lies.
 
@@ -161,5 +161,3 @@ Ze zei niets. Ze keek lang naar me.
 'Na de zomer,' zei ze.
 
 'Na de zomer.'
-
-Ze nam haar vork weer op. Ze at haar slaatje. Ik at mijn kippenbilletje. De worsten waren te lang op de barbecue blijven liggen en waren aan één kant zwart. We aten ze toch. Om acht uur hoorden we Roger op zijn kookpot slaan, alleen, voor de laatste keer, want het applaus was eigenlijk al sinds eind mei gestopt en hij was de enige in de straat die het nog deed. Hij sloeg tien keer, langzaam. Dan hield hij op.

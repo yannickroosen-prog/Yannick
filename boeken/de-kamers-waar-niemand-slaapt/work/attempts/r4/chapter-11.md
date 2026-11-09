@@ -106,7 +106,7 @@ Hij keek me aan. Voor het eerst keek hij me echt aan.
 
 Hij sliep in de kleine kamer, onder de luchtballonnen, op het plooibed met de raketten.
 
-De eerste nacht kon ik niet slapen. Ik lag naast Lies en luisterde naar het huis. Het huis vertelt alles. Ik hoorde het plooibed kraken toen hij zich omdraaide. Ik hoorde hem één keer opstaan om naar het toilet te gaan, en de leidingen, en hoe hij terugkwam, en de deur, die hij openliet. Ik had het nachtlampje van de Hema op de overloop aangelaten. Het oranje licht viel door de open deur naar binnen, op het behang, en vanuit ons bed kon ik door onze eigen half open deur een stukje van de muur zien, met een rode ballon en een mandje met een poppetje dat zwaaide.
+De eerste nacht kon ik niet slapen. Ik lag naast Lies en luisterde naar het huis. Het huis vertelt alles. Ik hoorde het plooibed kraken toen hij zich omdraaide. Ik hoorde hem één keer opstaan om naar het toilet te gaan, en de leidingen, en hoe hij terugkwam, en de deur, die hij openliet. Ik had het nachtlampje van de Hema op de overloop aangelaten. Het oranje licht viel door de open deur naar binnen, op het behang, en vanuit ons bed kon ik door onze eigen halfopen deur een stukje van de muur zien, met een rode ballon en een mandje met een poppetje dat zwaaide.
 
 Lies sliep ook niet. Ik wist het aan haar schouder.
 
@@ -126,7 +126,7 @@ Ik zei niets. Ik kon niets zeggen. Ik legde mijn hand op haar heup en ze legde d
 
 ---
 
-Hij kwam negen keer, tussen oktober en juni. Eén weekend per maand, en twee keer extra, in de krokusvakantie en met Pasen, omdat Kelly naar het ziekenhuis moest voor iets wat Ilse niet uitlegde.
+Hij kwam tien keer, tussen oktober en juni. Eén weekend per maand, en twee keer extra, in de krokusvakantie en met Pasen, omdat Kelly naar het ziekenhuis moest voor iets wat Ilse niet uitlegde.
 
 Ik leerde Kelly kennen op de zondagen, om vijf uur, als ze hem kwam halen. Ze was zevenentwintig. Ze reed een oude Opel Corsa met een bumper die met tape was vastgemaakt. Ze rookte in de auto, met het raam open. Ze was mager en moe, met donkere kringen onder haar ogen en lang haar dat ze in een knot droeg, en ze kwam nooit binnen. Ze bleef op het trottoir staan, naast de Corsa, en Dylan liep naar haar toe met zijn rugzak van de Kruidvat en zijn folders, en ze sloeg haar armen om hem heen en hield hem vast met haar ogen dicht, op het trottoir, voor Roger en voor de hele straat. De eerste keer keek ze daarna naar mij en zei: 'Merci, hé.' Ze zei het snel en kwaad, alsof ze het niet wilde zeggen. 'Merci dat ge hem wilt.'
 
@@ -136,7 +136,7 @@ Ik dacht aan de man in de gang van het labo, met zijn potje met het rode deksel,
 
 Ik leerde Dylan kennen op de zaterdagen.
 
-We gingen naar de Colruyt. Elke zaterdag. Dat was zijn wens. Niet de speeltuin, niet het zwembad, niet de film. De Colruyt. Hij liep met een folder in zijn hand tussen de rekken en vergeleek prijzen met de prijzen in de folder van de Lidl en van de Aldi, en zei hardop welke winkel het goedkoopst was voor elk product, en ik duwde de kar achter hem aan en knikte. Hij kende de prijs per kilo van de bananen, van de gehakt, van de choco. Hij zei: 'De choco is hier duurder dan bij de Aldi, maar bij de Aldi hebben ze die zonder hazelnoten niet.' Hij had in de kast gekeken, de eerste ochtend. Hij had gezien welke choco ik at.
+We gingen naar de Colruyt. Elke zaterdag. Dat was zijn wens. Niet de speeltuin, niet het zwembad, niet de film. De Colruyt. Hij liep met een folder in zijn hand tussen de rekken en vergeleek prijzen met de prijzen in de folder van de Lidl en van de Aldi, en zei hardop welke winkel het goedkoopst was voor elk product, en ik duwde de kar achter hem aan en knikte. Hij kende de prijs per kilo van de bananen, van het gehakt, van de choco. Hij zei: 'De choco is hier duurder dan bij de Aldi, maar bij de Aldi hebben ze die zonder hazelnoten niet.' Hij had in de kast gekeken, de eerste ochtend. Hij had gezien welke choco ik at.
 
 In de Colruyt liepen we op een zaterdag in november langs de afdeling met babyspullen. Ik liep er altijd met een omweg omheen. Dat deed ik al jaren, zonder er ooit bij stil te staan, zoals je een put in het trottoir ontwijkt die je kent. Dylan liep er recht doorheen. Hij bleef staan bij de pampers. Hij las de prijzen. 'Die zijn heel duur,' zei hij. 'Mijn mama zegt dat ik vroeger een fortuin heb gekost aan pampers.' Hij keek me aan. 'Hebt gij geen kinderen?'
 
@@ -186,7 +186,7 @@ Dylan knikte tevreden. De ballon was zo groot geworden dat hij van het flesje dr
 
 In april belde Ilse.
 
-Ze zei dat het goed ging met Kelly. Beter dan het in lang was gegaan. Ze had werk gevonden, halftijds, in een wasserette in Zele. Ze had een nieuwe vriend, die *stabiel* was, zei Ilse, en die van Dylan hield. Kelly had gevraagd of de respijt kon stoppen. Niet omdat ze ontevreden was. Integendeel. Omdat ze het niet meer nodig had.
+Ze zei dat het goed ging met Kelly. Beter dan het in lang was gegaan. Ze had werk gevonden, halftijds, in een wasserette in Zele. Ze had een nieuwe vriend, die *stabiel* was, zei Ilse, en die van Dylan hield. Kelly had gevraagd of het respijt kon stoppen. Niet omdat ze ontevreden was. Integendeel. Omdat ze het niet meer nodig had.
 
 'Dat is goed nieuws,' zei Ilse.
 
