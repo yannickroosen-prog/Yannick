@@ -166,7 +166,15 @@
       "sha256": "7c7f25207f7d4beae74643b14285daee0bf1908e671da48c3bc74a60fc8d0269"
     },
     "de-kamers-waar-niemand-slaapt.epub": {
-      "sha256": "2951ff441973f98851a73482b1365301732b59347c6355e4e2df909d376e069a"
+      "sha256": "fa82d55d6748f0d9db27b2c1a82f44cee892462834ce8f0701eb45072f896e35"
+    },
+    "de-kamers-waar-niemand-slaapt.docx": {
+      "sha256": "c716e4f7951892c9bc5fb6a081f0ff1d89f493d375b87201ae1072528ad9c673",
+      "format": "docx"
+    },
+    "de-kamers-waar-niemand-slaapt.pdf": {
+      "sha256": "a087d2d61f62d5021934d38f884a7731e942b8879129ffef02710112b96e3b43",
+      "format": "pdf"
     }
   },
   "validation": {
@@ -175,6 +183,16 @@
       "chapters": 14,
       "toc_entries": 14,
       "zip_entries": 20,
+      "status": "passed"
+    },
+    "docx": {
+      "chapters": 14,
+      "status": "passed"
+    },
+    "pdf": {
+      "chapters": 14,
+      "pages": 179,
+      "text_bytes": 229316,
       "status": "passed"
     }
   },

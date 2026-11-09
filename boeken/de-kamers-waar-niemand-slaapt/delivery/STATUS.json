@@ -3,10 +3,12 @@
   "status": "delivered",
   "scope": "draft",
   "receipt": "export-receipt.json",
-  "receipt_sha256": "1e8501ab2557e79a6e6a0a1abb05933859a64dcb960b5543fc312e48cfa51a6d",
+  "receipt_sha256": "a05ed96abdf824491d8888a0cbc948f6c27d573197994fc5f7e342d031f54b74",
   "formats": [
     "md",
-    "epub"
+    "epub",
+    "docx",
+    "pdf"
   ],
   "literary_quality": "not_assessed_by_exporter",
   "publication_approval": "not_assessed"
