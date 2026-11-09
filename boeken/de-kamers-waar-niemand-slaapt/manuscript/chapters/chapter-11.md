@@ -126,7 +126,7 @@ Ik zei niets. Ik kon niets zeggen. Ik legde mijn hand op haar heup en ze legde d
 
 ---
 
-Hij kwam tien keer, tussen oktober en juni. Eén weekend per maand, en twee keer extra, in de krokusvakantie en met Pasen, omdat Kelly naar het ziekenhuis moest voor iets wat Ilse niet uitlegde.
+Hij kwam tien keer, tussen oktober en juni. Eén weekend per maand tot in april, twee keer extra, in de krokusvakantie en met Pasen, omdat Kelly naar het ziekenhuis moest voor iets wat Ilse niet uitlegde.
 
 Niet elk weekend ging goed. In januari plaste hij in bed. Ik hoorde hem om vier uur 's nachts op de overloop staan, zonder licht, en toen ik de deur van de kleine kamer opendeed, stond hij naast het plooibed met zijn pyjamabroek in zijn hand en keek naar de vlek op het matras alsof die van iemand anders was. Ik was half wakker. Ik zei: 'Allee, manneke. Ge zijt toch geen baby meer.'
 

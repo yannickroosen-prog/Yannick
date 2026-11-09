@@ -12,7 +12,7 @@ Niet met een knal, eerder met een zucht, zoals mijn vader vroeger in zijn zetel 
 
 Een vaatwasser voor twee mensen is eigenlijk een kast met ambities. Wij hadden er een van zestig centimeter, een Bosch, die bij de keuken hoorde toen we het huis kochten, en die keuken was getekend door mensen met drie kinderen. In ons huis duurde het drie dagen voor hij vol was. Soms zette ik hem half vol aan, uit medelijden, en dan voelde ik me een verkwister en een sentimentele man tegelijk, wat een combinatie is die niemand je aanraadt.
 
-Ik ging op mijn hurken zitten en keek naar het water. Ik keek eerst een tijdje, alsof het defect zich uit beleefdheid zal laten zien. Mijn vader deed dat met de auto. Hij opende de motorkap, zette zijn handen in zijn zij en keek. Soms kwam er dan een buurman bij staan die ook keek. Dan keken ze met twee. Ik heb nooit geweten of dat iets oploste, maar ik weet wel dat het hem rustig maakte, en dat ik het nu zelf deed, op mijn hurken voor een Bosch, in een keuken in een verkaveling tussen Aalst en Dendermonde, met een theedoek over mijn schouder die ik er niet bewust had gelegd.
+Ik ging op mijn hurken zitten en keek naar het water. Ik keek eerst een tijdje, alsof het defect zich uit beleefdheid zou laten zien. Mijn vader deed dat met de auto. Hij opende de motorkap, zette zijn handen in zijn zij en keek. Soms kwam er dan een buurman bij staan die ook keek. Dan keken ze met twee. Ik heb nooit geweten of dat iets oploste, maar ik weet wel dat het hem rustig maakte, en dat ik het nu zelf deed, op mijn hurken voor een Bosch, in een keuken in een verkaveling tussen Aalst en Dendermonde, met een theedoek over mijn schouder die ik er niet bewust had gelegd.
 
 In de schuif met handleidingen zat de bon van onze trouwringen, maar niet de handleiding van de vaatwasser. Ik vond ze op de website van Bosch, vierenveertig bladzijden in elf talen, en las de Nederlandse versie op mijn telefoon, aan de keukentafel. Ik las alles. Ik ben iemand die alles leest. Ik las over het kinderslot. Er was een hele paragraaf over het kinderslot, met een tekening van een kleine hand en een rood kruis erdoor. *Het apparaat is uitgerust met een kinderslot, zodat kinderen de deur niet kunnen openen.* Ik scrolde verder. Ik las over de filters.
 
@@ -134,7 +134,7 @@ Ik deed de deur van de kleine kamer open. Er was niets te zien. De dozen, de ker
 
 Ik dacht dat ik dat behang er nu eindelijk eens af moest halen.
 
-Ik deed de deur weer dicht. Ik ging terug naar bed. Ik hoorde Lies ademen. Ik legde mijn hand op haar heup, en ze bewoog niet, maar haar ademhaling veranderde even, en daaruit wist ik dat ze ook wakker was.
+Ik deed de deur weer dicht. Ik ging terug naar bed. Ik hoorde Lies ademen. Ik legde mijn hand op haar heup, en ze bewoog niet, maar haar ademhaling veranderde even, en daaraan wist ik dat ze ook wakker was.
 
 'Twaalf mei,' zei ze, in het donker.
 
@@ -180,11 +180,11 @@ Er staat veel op zo'n blad. Dat je twee tot vijf dagen geen zaadlozing mag hebbe
 
 Een daartoe voorziene ruimte.
 
-We wonen vijftig minuten van Gent als er geen file staat. Er staat altijd file. Ik rekende uit dat ik, als ik om zeven uur 's ochtends thuis het potje vulde, het in de binnenzak van mijn jas moest steken en het daar moest houden, tegen mijn borst, op lichaamstemperatuur, terwijl ik over de E40 reed, en dat ik dan bij Wetteren in de file zou staan met mijn zaad tegen mijn hart, en dat er een kans was dat ik te laat zou zijn, en dat het dan allemaal opnieuw moest, met drie dagen onthouding. Ik koos voor de daartoe voorziene ruimte.
+We wonen veertig minuten van Gent als er geen file staat. Er staat altijd file. Ik rekende uit dat ik, als ik om zeven uur 's ochtends thuis het potje vulde, het in de binnenzak van mijn jas moest steken en het daar moest houden, tegen mijn borst, op lichaamstemperatuur, terwijl ik over de E40 reed, en dat ik dan bij Wetteren in de file zou staan met mijn zaad tegen mijn hart, en dat er een kans was dat ik te laat zou zijn, en dat het dan allemaal opnieuw moest, met drie dagen onthouding. Ik koos voor de daartoe voorziene ruimte.
 
 Ik moest er drie weken later voor terug. Alleen, op een donderdagochtend. Lies moest werken. Ik had een halve dag verlof genomen en tegen Danny gezegd dat ik naar de tandarts moest.
 
-Danny zit tegenover mij op het werk. Wij zijn planners bij Verwarming De Smet in Aalst. Dat wil zeggen dat wij de dagen van acht techniekers inplannen die cv-ketels gaan onderhouden en pannes gaan oplossen, van Ninove tot Lokeren, van Geraardsbergen tot Buggenhout. Als mevrouw Van Hecke uit Haaltert om half acht belt omdat haar ketel een rood lampje geeft, dan is het aan mij om te bepalen of Kurt daar nog tussen kan voor hij naar zijn onderhoud in Denderleeuw gaat, of dat Patrick het over de middag doet. Het is een puzzel die elke dag opnieuw begint en nooit af is. Ik doe het graag. Dat zeg ik niet vaak, maar het is waar. Er is iets geruststellends aan een probleem dat elke dag weer hetzelfde is.
+Danny zit tegenover mij op het werk. Wij zijn planners bij Verwarming De Smet in Aalst. Dat wil zeggen dat wij de dagen van acht techniekers inplannen die cv-ketels gaan onderhouden en pannes gaan oplossen, van Ninove tot Lokeren, van Geraardsbergen tot Buggenhout. Als mevrouw Van Hecke uit Haaltert om half acht belt omdat haar ketel een rood lampje geeft, dan is het aan mij om te bepalen of Kurt daar nog tussen kan voor hij naar zijn onderhoud in Denderleeuw gaat, of dat Rudy het over de middag doet. Het is een puzzel die elke dag opnieuw begint en nooit af is. Ik doe het graag. Dat zeg ik niet vaak, maar het is waar. Er is iets geruststellends aan een probleem dat elke dag weer hetzelfde is.
 
 Danny was zelf techniker geweest tot hij een hernia kreeg, en hij miste het, en hij liet dat weten door elke dag te zeggen dat hij het niet miste. Hij had drie kinderen. Hij had een foto van die drie kinderen op zijn bureau, in een lijstje dat hij in een pretpark had gekocht, met *Bobbejaanland* erop, en elke maandag vertelde hij wat ze in het weekend gedaan hadden. Voetbal. Turnen. Een verjaardagsfeestje in een ballenbad waar de jongste had overgegeven. Hij vertelde het alsof hij erover klaagde, en dat deed hij ook, maar er zat iets anders onder, iets wat ik toen niet kon benoemen en nu wel. Het was het gemak waarmee hij erover klaagde. Hij had het recht om erover te klagen. Ik zei telkens: 'Amai,' of: 'Ja, die kleine mannen, hé,' en hij zei: 'Ge moet het maar meemaken.'
 
@@ -288,8 +288,6 @@ Ik lachte. Ze lachte niet, maar haar mondhoek bewoog, en dat was genoeg.
 
 ---
 
-Als er een oorzaak is, is er een verhaal. Een verhaal met een begin. *Hij had als kind de bof gehad.* *Haar eileiders waren verkleefd door een ontsteking.* *Hij had te veel gerookt.* Dan is er iets wat gebeurd is, en wat gebeurd is, had ook niet kunnen gebeuren, en daar kun je dan kwaad op zijn. Op de bof. Op de ontsteking. Op de sigaretten. Op jezelf, als het moet. Kwaad zijn is een vorm van ordening. Het zegt: dit had anders gemoeten. Het zegt: er bestaat een manier waarop het wel had gekund, een juist pad, en wij zijn daarvan afgeweken.
-
 *Onverklaard* zegt niets. *Onverklaard* zegt: alles is in orde en het werkt niet. Het zegt: er is geen fout gemaakt. Er is niemand schuldig. Je hebt de vragen van het mondeling examen allemaal juist beantwoord, en je bent niet geslaagd, en er is niemand bij wie je in beroep kunt gaan.
 
 ---
@@ -334,7 +332,7 @@ Mijn broer heeft een tuin met een vijver erin, en in de vijver zit een reiger va
 
 Op de zaterdag van het feest voor Lena stond er naast de vijver een springkasteel in de vorm van een piratenschip.
 
-Lena was in juni geboren, op een dinsdagnacht, drie dagen voor de uitgerekende datum. Ik had het gehoord om kwart over zes 's ochtends via een sms van Kristof met veertien uitroeptekens en een foto van een rood gezichtje in een wit dekentje met blauwe randjes, het dekentje van het ziekenhuis van Aalst, het gezichtje van iedereen. *Ze is er!!!!!!!!!!!!!! 3,420 kg 51 cm Moeder en kind stellen het goed!!!* Ik had in bed gelegen met de telefoon boven mijn gezicht en Lies had gevraagd wat het was, en ik had haar de telefoon gegeven, en ze had lang naar de foto gekeken, langer dan nodig, en toen had ze gezegd: 'Mooi,' en de telefoon teruggegeven en was opgestaan om te gaan lopen. Het was zes uur 's ochtends. Ze liep dat jaar vaak om zes uur 's ochtends.
+Lena was in juni geboren, op een dinsdagnacht, drie dagen voor de uitgerekende datum. Ik had het gehoord om kwart over zes 's ochtends via een sms van Kristof met veertien uitroeptekens en een foto van een rood gezichtje in een wit dekentje met blauwe randjes, het dekentje van het ziekenhuis van Aalst, het gezichtje van iedereen. *Ze is er!!!!!!!!!!!!!! 3,420 kg 51 cm Moeder en kind stellen het goed!!!* Ik had in bed gelegen met de telefoon boven mijn gezicht en Lies had gevraagd wat het was, en ik had haar de telefoon gegeven, en ze had lang naar de foto gekeken, langer dan nodig, en toen had ze gezegd: 'Mooi,' en de telefoon teruggegeven en was opgestaan om te gaan lopen. Het was nog geen half zeven. Ze liep dat jaar vaak om zes uur 's ochtends.
 
 Nu was het september, en Nathalie had een feest georganiseerd. Geen doopfeest, want ze waren niet gelovig, maar een *verwelkomingsfeest*, zoals op de uitnodiging stond, een roze kaartje met een gouden kroontje. *Kom Lena verwelkomen! Zaterdag 17 september vanaf 15u. Hapjes, drankjes en een springkasteel voor de kleintjes.* Mijn moeder had gevraagd waarom het geen doopfeest was, als er toch doopsuiker was, en Nathalie had gezegd dat doopsuiker niets met de doop te maken had, dat het gewoon traditie was, en mijn moeder had gezegd dat het daar juist mee te maken had, met de doop, daarom heette het doopsuiker, en ze hadden er twintig minuten over gebeld. Kristof had me erover verteld met tranen in zijn ogen van het lachen.
 
@@ -342,7 +340,7 @@ Nu was het september, en Nathalie had een feest georganiseerd. Geen doopfeest, w
 
 We kwamen om tien over drie. Lies had gezegd dat we om vijf over drie moesten vertrekken, omdat Kristof maar tien minuten van ons woont, en dat het onbeleefd was om stipt te komen op een feest. Ik vind het onbeleefd om te laat te komen. Zo hebben we het in het midden gehouden, wat de eerste jaren van ons huwelijk samenvat.
 
-Ik droeg het cadeau. Een knuffel, een konijn met lange oren van een merk dat Lies had uitgekozen in een winkel in Gent waar ze kinderkleding verkochten voor de prijs van volwassenenkleding. Ze had er een halfuur gestaan. Ik had buiten gewacht, voor het raam, en naar haar gekeken door de etalage, tussen de kleine jurkjes en de kleine schoentjes, en ik had gezien hoe ze de konijnen een voor een vastnam, en hoe ze een jurkje aanraakte dat er niet bij hoorde, een geel jurkje met witte stippen, en hoe ze haar hand terugtrok alsof het warm was. Ze had het konijn genomen. Het kostte zevenendertig euro.
+Ik droeg het cadeau. Een knuffel, een konijn met lange oren van een merk dat Lies had uitgekozen in een winkel in Gent waar ze kinderkleding verkochten voor de prijs van volwassenenkleding. Ze had er een half uur gestaan. Ik had buiten gewacht, voor het raam, en naar haar gekeken door de etalage, tussen de kleine jurkjes en de kleine schoentjes, en ik had gezien hoe ze de konijnen een voor een vastnam, en hoe ze een jurkje aanraakte dat er niet bij hoorde, een geel jurkje met witte stippen, en hoe ze haar hand terugtrok alsof het warm was. Ze had het konijn genomen. Het kostte zevenendertig euro.
 
 'Zevenendertig euro voor een konijn,' had ik gezegd, toen ze buitenkwam.
 
@@ -384,7 +382,7 @@ Nathalie legde Lena in haar armen. Lies hield haar vast zoals je een baby vastho
 
 Ik weet nog altijd niet wat ze daarmee bedoelde. Een goed teken waarvoor. Ik denk dat zij het ook niet wist. Mensen zeggen zulke dingen.
 
-Lies keek naar Lena. Haar gezicht deed iets wat ik niet kon lezen. Ze stond daar met de baby van mijn broer in haar armen, in het gouden septemberlicht, tussen de statafels, met het springkasteel achter haar en het gekrijs van de kinderen, en ze keek naar het gezichtje met een uitdrukking die ik later nog vaak heb gezien en die ik nooit heb kunnen benoemen. Het was geen verdriet. Het was ook geen verlangen. Het leek nog het meest op iemand die een berekening maakt.
+Lies keek naar Lena. Haar gezicht deed iets wat ik niet kon lezen. Ze stond daar met de baby van mijn broer in haar armen, in het gouden septemberlicht, tussen de statafels, met het springkasteel achter haar en het gekrijs van de kinderen, en ze keek naar het gezichtje met een uitdrukking die ik later nog vaak heb gezien en die ik nooit heb kunnen benoemen. Het leek nog het meest op iemand die een berekening maakt.
 
 Na twee minuten gaf ze Lena terug. 'Ze is prachtig,' zei ze.
 
@@ -454,7 +452,7 @@ Kristof hield een speech. Hij ging op een stoel staan in de tuin, met een glas D
 
 Iedereen lachte en klapte. Mijn moeder huilde. Nathalie gaf Kristof een kus. Ik klapte ook. Ik stond naast Lies en ik klapte, en ik keek opzij, en Lies klapte ook, en ze glimlachte, en ik zag dat het niet een van de echte was.
 
-*Allee, er mag nog iets bij.* Hij had het niet slecht bedoeld. Het was precies wat hij voelde. Hij had een zoon en een vrouw en een dak en hij dacht: er mag nog iets bij, en toen kwam er iets bij. Dat is de volgorde van de dingen, voor sommige mensen. Je denkt het, en het komt.
+*Allee, er mag nog iets bij.* Hij had het niet slecht bedoeld. Het was precies wat hij voelde. Hij had een zoon en een vrouw en een dak en hij dacht: er mag nog iets bij, en toen kwam er iets bij.
 
 ---
 
@@ -508,13 +506,13 @@ Thuis ging ze direct naar boven. Ik hoorde de leidingen. Ze nam een douche, wat 
 
 Ik ging in de keuken zitten en haalde de drie doosjes doopsuiker uit mijn jaszak. Ik zette ze op de tafel, naast elkaar. Witte doosjes, roze linten, *Lena*, *14.06.2016*. Ik maakte er een open. Zeven suikerbonen, roze en wit. Ik telde ze. Ik at er een. Ze was te zoet en de chocolade binnenin smaakte naar niets, zoals altijd. Ik at er nog een.
 
-Ik weet niet wat ik dacht. Ik denk dat ik niets dacht. Ik denk dat ik daar alleen zat in de keuken van een huis met drie slaapkamers, met de vaatwasser die niet vol was en de koelkast die zoemde, en dat ik suikerbonen at die bedoeld waren om te vieren dat er een kind was geboren, het kind van een ander, en dat dat het enige was wat ik op dat moment kon doen.
+Ik zat daar alleen in de keuken van een huis met drie slaapkamers, met de vaatwasser die niet vol was en de koelkast die zoemde.
 
 Ik deed het doosje weer dicht met vijf suikerbonen erin. De andere twee doosjes deed ik niet open. Het open doosje liet ik op de tafel staan; Lies gooide het de volgende ochtend weg zonder iets te vragen.
 
-Ik nam ze mee naar de auto en legde ze in het handschoenkastje van de Skoda, onder het boekje van het onderhoud en de papieren van de verzekering en het reservepaar zonnebrillen. Ik heb het niet aan Lies verteld. Ze hebben er jaren gelegen.
+Ik nam de andere twee mee naar de auto en legde ze in het handschoenkastje van de Skoda, onder het boekje van het onderhoud en de papieren van de verzekering en het reservepaar zonnebrillen. Ik heb het niet aan Lies verteld. Ze hebben er jaren gelegen.
 
-Vier dagen later werd Lies ongesteld. Het was een woensdag. Ze stuurde me een sms op het werk. Er stond alleen *Nee* in. Ik was aan het bellen met mevrouw Van Hecke uit Haaltert, wiens ketel weer een rood lampje gaf, en ik zei tegen mevrouw Van Hecke dat Kurt in de namiddag zou langskomen, tussen twee en vier, en ze zei dat ze tussen twee en vier naar de kapper moest, en ik zei dat ik zou kijken wat ik kon doen.
+Vier dagen later werd Lies ongesteld. Het was een woensdag. Ze stuurde me een sms op het werk. Er stond alleen *Nee* in. Ik was aan het bellen met mevrouw Van Hecke uit Haaltert, wier ketel weer een rood lampje gaf, en ik zei tegen mevrouw Van Hecke dat Kurt in de namiddag zou langskomen, tussen twee en vier, en ze zei dat ze tussen twee en vier naar de kapper moest, en ik zei dat ik zou kijken wat ik kon doen.
 
 # 4. De frigo
 
@@ -528,11 +526,11 @@ We waren aan IVF begonnen na drie inseminaties. De eerste in september 2016, de 
 
 *Mogen.* Ik weet nog dat ik over dat woord heb gevallen, maar ik heb het niet gezegd.
 
-Daarna kwam er een wachtlijst, en een infosessie in een aula met zestig andere koppels, waar een arts met een laserpen vertelde over slaagkansen, en waar ik de man met het te strakke hemd terugzag, en hij mij, en we weer knikten. Daarna kwamen er formulieren. Je moet bij IVF heel veel tekenen. Je tekent voor de behandeling, voor de risico's, voor wat er moet gebeuren met de embryo's die overblijven, voor wat er met die embryo's moet gebeuren als een van ons zou sterven, of als we zouden scheiden. Ik heb dat formulier gelezen, alles, zoals ik alles lees. Er stond een vakje in voor als we uit elkaar zouden gaan. Je moest kiezen: vernietigen, doneren aan de wetenschap, doneren aan een ander koppel. Lies kruiste *wetenschap* aan zonder op te kijken. Ik zat met mijn balpen boven het vakje en dacht aan een scheiding tussen ons, die er nog niet was, en aan embryo's, die er nog niet waren, en aan de wetenschap, die ze zou krijgen als het een niet bestond en het ander wel. Ik kruiste ook *wetenschap* aan. Het leek me het meest neutrale. Het voelde als een testament schrijven voor iemand die nog moest worden geboren, en ik bedacht dat dat eigenlijk precies was wat het was.
+Daarna kwam er een wachtlijst, en een infosessie in een aula met zestig andere koppels, waar een arts met een laserpen vertelde over slaagkansen, en waar ik de man met het te strakke hemd terugzag, en hij mij, en we weer knikten. Daarna kwamen er formulieren. Je moet bij IVF heel veel tekenen. Je tekent voor de behandeling, voor de risico's, voor wat er moet gebeuren met de embryo's die overblijven, voor wat er met die embryo's moet gebeuren als een van ons zou sterven, of als we zouden scheiden. Ik heb dat formulier gelezen, alles, zoals ik alles lees. Er stond een vakje in voor als we uit elkaar zouden gaan. Je moest kiezen: vernietigen, doneren aan de wetenschap, doneren aan een ander koppel. Lies kruiste *wetenschap* aan zonder op te kijken. Ik zat met mijn balpen boven het vakje en dacht aan een scheiding tussen ons, die er nog niet was, en aan embryo's, die er nog niet waren, en aan de wetenschap, die ze zou krijgen als het een niet bestond en het ander wel. Ik kruiste ook *wetenschap* aan. Het leek me het meest neutrale. Het voelde als een testament schrijven voor iemand die nog moest worden geboren.
 
 ---
 
-De spuiten moesten 's avonds, elke avond om dezelfde tijd. Lies had acht uur gekozen. Om acht uur stond de alarm op haar telefoon, met een melodie die *Ontwaken* heette, wat ik een vreemde keuze vond voor een avondalarm.
+De spuiten moesten 's avonds, elke avond om dezelfde tijd. Lies had acht uur gekozen. Om acht uur stond het alarm op haar telefoon, met een melodie die *Ontwaken* heette, wat ik een vreemde keuze vond voor een avondalarm.
 
 De eerste avond deed ze het zelf. Ze had een filmpje bekeken op de website van het ziekenhuis, twee keer, en de verpleegster had het voorgedaan op een kussentje van schuimrubber. Ze zat op de rand van het bad met haar trui omhoog en de pen in haar hand. Ze ontsmette een stukje huid naast haar navel met een alcoholdoekje. Ze kneep een plooi vet tussen duim en wijsvinger. Ze hield de pen erboven.
 
@@ -560,7 +558,7 @@ Het gaf een klik. Ik telde tot tien, zoals in het filmpje. Lies keek naar het pl
 
 Ik draaide het naaldje van de pen en gooide het in de naaldcontainer. Dat was een gele plastic emmer met een deksel, zo groot als een pot verf, die we van de apotheek hadden gekregen, met een rood etiket met een symbool van een biologisch gevaar, drie halve cirkels in elkaar. Hij stond op de wasmachine. Hij heeft daar anderhalf jaar gestaan, met tussenpozen, en ik ben er nooit aan gewend geraakt. Een gele emmer met een biologisch-gevaarsymbool op de wasmachine. Als er mensen op bezoek kwamen, zette Lies hem in de kast onder de lavabo. Als ze vertrokken, zette ik hem terug. Zo hadden we elk onze rol.
 
-Vanaf die avond deed ik de spuiten. Elke avond om acht uur, als het *Ontwaken*-alarm afging. Twee weken lang, elke avond, op mijn knieën op de badmat, en daarna, toen er een tweede middel bij kwam, twee keer. Lies' buik werd blauw en geel rond haar navel, met kleine prikjes die in een cirkel lagen, zoals de cijfers op een klok. Ik prikte telkens op een ander uur. Elf uur. Twaalf uur. Eén uur. Ik heb dat tegen niemand gezegd, maar ik vond het mooi, op een manier die ik niet kan verdedigen, dat ik dat voor haar kon doen. Het was het eerste in heel die tijd dat ik kon doen. Er was eindelijk een taak.
+Vanaf die avond deed ik de spuiten. Elke avond om acht uur, als het *Ontwaken*-alarm afging. Twee weken lang, elke avond, op mijn knieën op de badmat, en daarna, toen er een tweede middel bij kwam, twee keer. Lies' buik werd blauw en geel rond haar navel, met kleine prikjes die in een cirkel lagen, zoals de cijfers op een klok. Ik prikte telkens op een ander uur. Elf uur. Twaalf uur. Eén uur. Ik heb dat tegen niemand gezegd, maar ik vond het mooi, op een manier die ik niet kan verdedigen, dat ik dat voor haar kon doen. Het was het eerste in heel die tijd wat ik kon doen. Er was eindelijk een taak.
 
 ---
 
@@ -568,7 +566,7 @@ Wat er met ons vrijen gebeurd was, kan ik niet goed zeggen, omdat het zo geleide
 
 In het begin was er alleen het vuurwerkje van de app, en dat was grappig. Daarna was het vuurwerkje er altijd. Ook als het er niet was, was het er, omdat we allebei wisten welke dag het was, en welke dag het zou zijn. Er waren de dagen waarop het *moest*, en de dagen waarop het niet hoefde, en na een tijd waren er bijna geen dagen meer waarop het gewoon kon. Op de dagen waarop het moest, deden we het, ook als we moe waren, ook als we ruzie hadden gehad, ook die keer dat haar moeder nog in de living zat en we zeiden dat we iets gingen halen boven. Op de dagen waarop het niet hoefde, deden we het niet, omdat het zinloos voelde, of omdat we het bewaarden, zoals je je eetlust bewaart voor een feest.
 
-Ik denk dat ik op een gegeven moment begon te voelen dat ik geëvalueerd werd. Niet door Lies. Door het vuurwerkje. Door het Excelbestand dat ik nooit had gezien. Elke maand kwam er een resultaat, en het resultaat was *nee*, en hoewel de dokter had gezegd dat het niet aan mij lag, niet echt, of niet alleen, lag het in mijn hoofd natuurlijk wel aan mij. Aan de lage kant van normaal. Ik dacht aan de Wereldgezondheidsorganisatie. Ik dacht aan het luikje.
+Ik denk dat ik op een gegeven moment begon te voelen dat ik geëvalueerd werd, door het vuurwerkje en door het Excelbestand dat ik nooit had gezien. Elke maand kwam er een resultaat, en het resultaat was *nee*, en hoewel de dokter had gezegd dat het niet aan mij lag, niet echt, of niet alleen, lag het in mijn hoofd natuurlijk wel aan mij. Aan de lage kant van normaal. Ik dacht aan de Wereldgezondheidsorganisatie. Ik dacht aan het luikje.
 
 Met IVF hield dat op. Bij IVF is vrijen niet meer nodig. Het gebeurt allemaal in een labo, in een schaaltje, onder een microscoop. Je zou denken dat dat een opluchting is. Dat was het ook. Dat was het ergste eraan. In september 2017 hebben we niet één keer gevrijd, en we hebben het er niet over gehad, en ik denk dat we allebei een beetje opgelucht waren, en dat we ons daarover allebei een beetje schaamden.
 
@@ -580,7 +578,7 @@ Van de veertien eitjes waren er negen rijp. Daarvan werden er zes bevrucht, met 
 
 Op dag vijf plaatsten ze er een terug. De andere twee waren niet goed genoeg om in te vriezen.
 
-Ik was erbij. Het was in een kamer met gedimd licht. Er was een scherm waarop we het embryo zagen voor ze het terugplaatsten. Het was een grijs bolletje met een rand, een klein vlekje, onder de microscoop, uitvergroot op het scherm. De embryoloog zei: 'Dit is een mooie blastocyst.' Ik keek ernaar. Ik weet niet wat ik dacht dat ik zou zien. Het was een grijs bolletje. Het leek op een foto van een planeet, genomen van heel ver, of op een vlek op een lens. Ze vroegen of we een foto wilden. Lies zei ja. Ze kregen een uitprint van het scherm, op glanzend papier, zo groot als een bankkaart.
+Ik was erbij. Het was in een kamer met gedimd licht. Er was een scherm waarop we het embryo zagen voor ze het terugplaatsten. Het was een grijs bolletje met een rand, een klein vlekje, onder de microscoop, uitvergroot op het scherm. De embryoloog zei: 'Dit is een mooie blastocyst.' Ik keek ernaar. Ik weet niet wat ik dacht dat ik zou zien. Het was een grijs bolletje. Het leek op een foto van een planeet, genomen van heel ver, of op een vlek op een lens. Ze vroegen of we een foto wilden. Lies zei ja. We kregen een uitprint van het scherm, op glanzend papier, zo groot als een bankkaart.
 
 Toen deden ze het. Weer met een dun buisje. Op een echo zag je een klein wit flitsje, een lichtpuntje, dat het embryo was, of de vloeistof waar het in zat. De arts wees het aan. 'Daar,' zei hij. 'Daar zit het nu.'
 
@@ -612,7 +610,7 @@ Aan het einde krijg je je papier. Het is groen of rood. Mijn papier was rood.
 
 Ik keek naar hem. Hij was een jaar of vijfentwintig. Hij had een piercing in zijn wenkbrauw en een tattoo op zijn onderarm van een kinderhandje, met een naam erbij, die ik niet kon lezen. Hij gaf me het rode papier.
 
-Het was een lampje. Het kostte twee euro vijftig bij de Carglass, of bij de Halfords, of bij de garage om de hoek. Het was een lampje dat het werk deed van zichtbaar maken wie je bent, dat 's nachts je nummerplaat verlicht, zodat de politie kan zien welke auto je bent. Een van de twee was kapot, en de andere werkte, en daardoor was de hele auto afgekeurd. 
+Het was een lampje. Het kostte twee euro vijftig bij de Carglass, of bij de Halfords, of bij de garage om de hoek. Een van de twee was kapot, en de andere werkte, en daardoor was de hele auto afgekeurd. 
 
 Ik reed naar de garage om de hoek en kocht het lampje en zette het er zelf in, op de parking, met een schroevendraaier uit het handschoenkastje, waar ik de doosjes doopsuiker opzij moest schuiven om erbij te kunnen. Het duurde vier minuten. Ik ging terug naar de keuring en stond er anderhalf uur in de rij voor herkeuring, en de man met de piercing zag me terugkomen en lachte en zei: 'Dat was rap,' en deed het lampje aan en uit, en gaf me een groen papier.
 
@@ -624,7 +622,7 @@ Ik heb die middag aan Danny het hele verhaal verteld. Ik vertelde het als een gr
 
 Ik vertelde het hem. Misschien omdat ik net gelachen had. Misschien omdat ik dat lampje zelf had vervangen en me daardoor iets beter voelde dan ik me in maanden had gevoeld. Ik zei: 'We zijn bezig met IVF.'
 
-Danny keek me aan. Hij had een bruin gezicht, van twintig jaar op daken en in kelders, met diepe lijnen rond zijn ogen. Hij zei eerst niets. Dan leunde hij achterover in zijn stoel, die kraakte.
+Danny keek me aan. Hij had een bruin gezicht, van twintig jaar in kelders en stookplaatsen, met diepe lijnen rond zijn ogen. Hij zei eerst niets. Dan leunde hij achterover in zijn stoel, die kraakte.
 
 'Ah,' zei hij. 'Ja. Dat is lastig, hé.'
 
@@ -688,7 +686,7 @@ Steven doet het graag. De spuiten. Hij zou dat nooit zeggen. Hij weet niet dat i
 
 Om acht uur gaat het alarm. Hij staat al op voor de eerste noot. Hij gaat de pen uit de frigo halen, hij legt hem tien minuten op het aanrecht om op kamertemperatuur te komen, zoals in het filmpje. Hij heeft de alcoholdoekjes klaargelegd. Hij wast zijn handen, lang, tot aan de polsen, zoals een chirurg in een serie. Dan wacht hij op mij in de badkamer. Hij zit op zijn knieën op de badmat. Hij kijkt naar mijn buik met een ernst die ik bij hem anders alleen zie als hij de garantievoorwaarden van een toestel leest.
 
-Hij prikt volgens de klok. Ik heb dat pas na een week door. Elf uur, twaalf uur, één uur, rond mijn navel. Ik vraag niet waarom. Ik weet waarom. Hij heeft iets nodig om te ordenen. Ik ben het ding dat hij ordent.
+Hij prikt volgens de klok. Ik heb dat pas na een week doorgehad. Elf uur, twaalf uur, één uur, rond mijn navel. Ik weet waarom. Hij heeft iets nodig om te ordenen. Ik ben het ding dat hij ordent.
 
 Ik zou dankbaar moeten zijn. Ik bén dankbaar. Ik kan het zelf niet. Ik heb het één keer geprobeerd en mijn hand bleef boven mijn buik hangen alsof er een glazen plaat tussen zat. Hij heeft het overgenomen zonder iets te zeggen. Dat is lief. Dat is ook het probleem. Hij zegt nooit iets. Hij is kalm. Hij is altijd kalm. Hij zegt *goed* en *ik weet het* en *dat zal het zijn*. Hij zit op zijn knieën op de badmat en drukt op een knop en telt tot tien, en daarna draait hij het naaldje los en gooit het in de gele emmer, en daarna gaat hij naar beneden en zet de televisie aan. En ik blijf boven met een gaatje in mijn buik en een hormoon in mijn bloed dat mij misselijk maakt en woedend en moe, en ik zou willen dat hij één keer, één enkele keer, met iets zou smijten.
 
@@ -772,7 +770,7 @@ Ik sta in de keuken. Steven zit in de living naar het voetbal te kijken. Ik zie 
 
 Sofie zegt niets. Op de achtergrond roept Marie: *Mama, Lucas heeft mijn pony!* Steven roept in de living naar de televisie: 'Ah nee, scheidsrechter! Allee!' Ik sta in de keuken tussen die twee geluiden en ik denk: dit is mijn leven. Iemand anders heeft een pony die wordt afgepakt. Mijn man roept naar een scheidsrechter. Ik heb een geheim van zestien jaar oud dat niemand pijn heeft gedaan en dat nu, ineens, een wapen is, en ik weet niet tegen wie.
 
-Als ik het hem zeg, zal hij het begrijpen. Dat is het probleem. Hij zal het begrijpen, of doen alsof. Hij zal zeggen: *Dat was toen, Lies.* Hij zal zeggen: *Ge waart negentien.* Hij zal *goed* zeggen en *ik weet het*. Hij zal op de rand van het bad komen zitten en zijn hand op mijn knie leggen. En daarna zal hij in de auto, op weg naar zijn werk, op de E40, ter hoogte van Wetteren, voor de eerste keer denken: *maar ze kon het dus wel.* Dat zal hij denken. Niet uit kwaadheid. Gewoon omdat hij het zal denken, omdat het een feit is, en hij houdt van feiten. Hij zal het denken en hij zal het nooit zeggen, en het zal tussen ons liggen zoals de gele emmer op de wasmachine.
+Als ik het hem zeg, zal hij het begrijpen. Dat is het probleem. Hij zal het begrijpen, of doen alsof. Hij zal zeggen: *Dat was toen, Lies.* Hij zal zeggen: *Ge waart negentien.* Hij zal *goed* zeggen en *ik weet het*. Hij zal op de rand van het bad komen zitten en zijn hand op mijn knie leggen. En daarna zal hij in de auto, op weg naar zijn werk, op de E40, ter hoogte van Wetteren, voor de eerste keer denken: *maar ze kon het dus wel.* Dat zal hij denken. Gewoon omdat hij het zal denken, omdat het een feit is, en hij houdt van feiten. Hij zal het denken en hij zal het nooit zeggen, en het zal tussen ons liggen zoals de gele emmer op de wasmachine.
 
 'Ik zeg het hem niet,' zeg ik.
 
@@ -808,11 +806,11 @@ In het fertiliteitscentrum van Gent stond een tank met vloeibare stikstof op min
 
 Ik weet niet hoe die tank eruitzag. Ik heb hem nooit gezien. Ik stelde me een grote ketel voor, van glanzend staal, zoals de ketels van een brouwerij, met een deksel en een manometer en een etiket met een lijst van namen. Ergens op die lijst, dacht ik, stond *Claeys–Van Damme*, met een datum en een nummer. In werkelijkheid zijn het waarschijnlijk kleine rietjes in een soort thermos, in een kast in een kelder, en weet niemand daar onze namen zonder de computer te raadplegen. Maar ik stelde me een ketel voor. Ik werk voor een verwarmingsbedrijf. Ik denk in ketels.
 
-Ze waren er sinds oktober. De derde poging was mislukt, zoals de eerste twee, maar deze keer waren er embryo's over geweest. Zes goede op dag vijf. Eén teruggeplaatst, één niet goed genoeg, vier ingevroren. De vrouw met de vriendelijke stem had het aan de telefoon gezegd alsof het een prijs was die we gewonnen hadden. 'Vier in de diepvries,' had ze gezegd, '*dat is goed nieuws*.' Ik had haar bedankt.
+Ze waren er sinds oktober. De derde poging was mislukt, zoals de eerste twee, maar deze keer waren er embryo's over geweest. Zes op dag vijf. Eén teruggeplaatst, één niet goed genoeg, vier ingevroren. De vrouw met de vriendelijke stem had het aan de telefoon gezegd alsof het een prijs was die we gewonnen hadden. 'Vier in de diepvries,' had ze gezegd, '*dat is goed nieuws*.' Ik had haar bedankt.
 
 Daarna noemden we ze zo. De diepvries. 'Als het niet lukt, hebben we nog de diepvries.' Het klonk huiselijk. Alsof er ergens soep stond die je alleen nog moest opwarmen.
 
-Die kerst dacht ik veel aan die tank. Ik dacht eraan terwijl ik in de Delhaize in de rij stond met een kalkoenfilet en een doos pralines voor mijn schoonmoeder. Ik dacht eraan terwijl ik de kerstboom uit de kleine kamer haalde, tussen de verhuisdozen en de koffer van Kroatië, onder het behang met de luchtballonnen, een plastic boom van een meter vijftig in drie delen, die ik in de living in elkaar zette. Ik dacht: vier kleine dingen in een ketel van min honderdzesennegentig graden, en het is kerstmis, en zij weten van niets. Zij zijn in de beste zin van het woord nergens. Ik weet niet of dat een troostende gedachte was. Ik had ze vaak.
+Die kerst dacht ik veel aan die tank. Ik dacht eraan terwijl ik in de Delhaize in de rij stond met een kalkoenfilet en een doos pralines voor mijn schoonmoeder. Ik dacht eraan terwijl ik de kerstboom uit de kleine kamer haalde, tussen de verhuisdozen en de koffer van Kroatië, onder het behang met de luchtballonnen, een plastic boom van een meter vijftig in drie delen, die ik in de living in elkaar zette. Ik dacht: vier kleine dingen in een ketel van min honderdzesennegentig graden, en het is Kerstmis, en zij weten van niets. Zij zijn in de beste zin van het woord nergens. Ik weet niet of dat een troostende gedachte was. Ik had ze vaak.
 
 ---
 
@@ -838,7 +836,7 @@ Het was bij het dessert dat Rita het vroeg. Ze vroeg het niet aan Lies. Ze vroeg
 
 'En, Steven. Hoe zit het nu met jullie... projectje?'
 
-Ze zei *projectje*. Ik zal dat nooit vergeten. Ze zei het met haar handen gevouwen op het tafelkleed met de rendieren, en met een glimlach die ze wilde laten bemoedigend zijn.
+Ze zei *projectje*. Ik zal dat nooit vergeten. Ze zei het met haar handen gevouwen op het tafelkleed met de rendieren, en met een glimlach die bemoedigend moest zijn.
 
 Lies legde haar lepel neer. Ann keek naar haar bord. Dirk keek naar Ann. De meisjes keken naar het reuzenrad.
 
@@ -880,7 +878,43 @@ Dirk floot. Een lange, dalende fluit, zoals een bom in een tekenfilm. 'Amai,' ze
 
 'Ja,' zei ik.
 
-Ik had het precieze bedrag kunnen zeggen. Ik wist het. Ik hield het bij, in een schrift met een harde kaft in de schuif van het bureau, met de datums en de bedragen en de terugbetalingen van het ziekenfonds, en een totaal onderaan dat ik elke maand opnieuw berekende. Ik had die zomer niet naar Kroatië gewild, waar Lies naartoe wilde, opnieuw, omdat we er op huwelijksreis waren geweest. Ik had gezegd dat we dat geld beter konden bewaren. Voor *later*. Ze had me aangekeken en gezegd: 'Voor later. Ge klinkt als uw vader.' We waren niet naar Kroatië gegaan. We waren een week naar de Ardennen gegaan, naar een vakantiehuisje in de buurt van Durbuy, waar het vijf dagen regende en waar Lies elke dag ging lopen in de regen en ik in een zetel zat met een boek dat ik niet las.
+Ik had het precieze bedrag kunnen zeggen. Ik wist het. Ik hield het bij, in een schrift met een harde kaft in de schuif van het bureau, met de datums en de bedragen en de terugbetalingen van het ziekenfonds, en een totaal onderaan dat ik elke maand opnieuw berekende. Het ziet er zo uit, ook nu nog, in mijn kleine, rechte letters:
+
+*12.05.2016 — eerste consultatie UZ Gent — 31,50 (terug: 25,80)*
+
+*02.06.2016 — parking UZ — 4,80*
+
+*02.06.2016 — spermaonderzoek — 18,60 (terug: 14,10)*
+
+*08.06.2016 — parking UZ — 6,20*
+
+*07.09.2016 — IUI 1 — 112,40 (terug: 86,90)*
+
+*16.09.2016 — konijn (Lena) — 37,00*
+
+*17.09.2016 — doopsuiker — 0,00*
+
+*14.11.2016 — IUI 2 — 112,40 (terug: 86,90)*
+
+*12.01.2017 — IUI 3 — 112,40 (terug: 86,90) — sneeuw*
+
+*04.09.2017 — medicatie IVF 1 (apotheek) — 486,32*
+
+*04.09.2017 — naaldcontainer — 0,00*
+
+*20.09.2017 — nummerplaatverlichting Skoda — 2,50*
+
+*12.03.2018 — medicatie IVF 2 — 512,18*
+
+*07.2018 — Kroatië — niet geboekt*
+
+*08.10.2018 — medicatie IVF 3 — 498,77*
+
+*30.11.2018 — eigen bijdrage tot nu: 4.312,47*
+
+Het konijn en het lampje hoorden er niet in. De doopsuiker ook niet. Ik heb ze er toch in gezet, en ik heb ze niet doorgestreept.
+
+Ik had die zomer niet naar Kroatië gewild, waar Lies naartoe wilde, opnieuw, omdat we er op huwelijksreis waren geweest. Ik had gezegd dat we dat geld beter konden bewaren. Voor *later*. Ze had me aangekeken en gezegd: 'Voor later. Ge klinkt als uw vader.' We waren niet naar Kroatië gegaan. We waren een week naar de Ardennen gegaan, naar een vakantiehuisje in de buurt van Durbuy, waar het vijf dagen regende en waar Lies elke dag ging lopen in de regen en ik in een zetel zat met een boek dat ik niet las.
 
 'Een goeie tweedehandse auto,' zei Dirk nog eens. Hij schudde zijn hoofd. 'Maar ja. Als het lukt, is het dat natuurlijk waard.'
 
@@ -906,7 +940,7 @@ Iedereen juichte. Iemand riep: 'Proficiat!' Wouter klapte naast mij in zijn hand
 
 Iedereen lachte mee. *Een ongelukje.* Het woord bleef hangen in de kamer, tussen de lichtgevende zwaarden en de stopcontacten zonder afdekplaatje, en niemand anders leek het te horen, en ik hoorde niets anders.
 
-Ik keek naar de keukendeur. Lies stond in de deuropening. Ze had een glas water in haar hand. Ze glimlachte. Ze liep naar Sofie toe en omhelsde haar, lang, en zei iets in haar oor, en Sofie knikte en zei iets terug, en ze hielden elkaar vast, langer dan de anderen. Ik zag Sofie's gezicht over Lies' schouder. Haar ogen waren dicht en haar mond was een streep.
+Ik keek naar de keukendeur. Lies stond in de deuropening. Ze had een glas water in haar hand. Ze glimlachte. Ze liep naar Sofie toe en omhelsde haar, lang, en zei iets in haar oor, en Sofie knikte en zei iets terug, en ze hielden elkaar vast, langer dan de anderen. Ik zag Sofies gezicht over Lies' schouder. Haar ogen waren dicht en haar mond was een streep.
 
 Daarna liep Lies naar de badkamer. Ze bleef er twintig minuten.
 
@@ -944,7 +978,7 @@ Achter mij ging de keukendeur open.
 
 Ik draaide me om. Lies stond in de deuropening. Ze had haar jas aan. Ze had haar sjaal om. Ze had de autosleutels in haar hand. Ik weet niet hoe lang ze daar al stond. Ik weet niet wat ze gehoord had. Ik heb het haar nooit gevraagd.
 
-Ze keek naar mij. Het was niet de labo-blik. Het was een blik die ik niet kende.
+Ze keek naar mij. Het was een blik die ik niet kende.
 
 'Ik ga naar huis,' zei ze.
 
@@ -956,13 +990,13 @@ Ze draaide zich om. Ik hoorde haar in de gang tegen Sofie iets zeggen, en Sofie 
 
 'Shit,' zei Bert. 'Man. Sorry. Ik...'
 
-'Het is niet aan u,' zei ik.
+'Het ligt niet aan u,' zei ik.
 
 Ik ging terug naar binnen. Ik zei tegen Sofie dat Lies zich niet goed voelde. Sofie keek me aan en zei: 'Ja.' Alleen dat. *Ja.* Ze wist het. Ik wist niet wat ze wist, maar ze wist het. Ik nam mijn jas.
 
 Ik ben naar huis gewandeld. Van het station van Aalst naar de Populierenlaan is het negen komma twee kilometer. Ik weet het precies, omdat ik het later heb opgezocht. Ik heb er twee uur over gedaan, langs de steenweg, in de mist, met mijn handen in mijn zakken en mijn kraag omhoog. Er reden auto's voorbij met grootlicht. Op een bepaald moment liep ik langs een tankstation dat open was, en ik ging binnen en kocht een koffie uit een automaat en dronk hem op tussen de rekken met motorolie en ruitenvloeistof, en de man achter de kassa keek naar me alsof ik een probleem zou kunnen worden. Ik betaalde. Ik liep verder.
 
-Ik dacht niet na, die twee uur. Of ik dacht wel na, maar in rondjes. Ik dacht aan Bert's gezicht. Aan het woord *weghalen*, dat ik had gezegd, dat uit mijn mond gekomen was, terwijl ik niet eens wist dat het daar zat. Ik dacht aan Lies' gezicht in de deuropening. Ik dacht dat ik iets kapot had gemaakt dat ik niet kon benoemen, zoals de olijfpit in de vaatwasser, maar dat ik deze keer niet wist welke filter ik moest losdraaien.
+Ik dacht niet na, die twee uur. Of ik dacht wel na, maar in rondjes. Ik dacht aan Berts gezicht. Aan het woord *weghalen*, dat ik had gezegd, dat uit mijn mond gekomen was, terwijl ik niet eens wist dat het daar zat. Ik dacht aan Lies' gezicht in de deuropening. Ik dacht dat ik iets kapot had gemaakt dat ik niet kon benoemen.
 
 ---
 
@@ -980,7 +1014,7 @@ Ik bleef staan in de koude, met het portier open, met het zwakke lichtje. Dan le
 
 Ik ging naar binnen. Op de keukentafel stond een glas water en ernaast een strip Dafalgan, met twee tabletten eruit gedrukt. Ernaast lag een papiertje. Er stond niets op. Het was een leeg papiertje, van het blok dat naast de telefoon lag, met de pen erop. Ze had iets willen schrijven, en ze had het niet gedaan.
 
-Ik nam de Dafalgan. Ik dronk het water. Ik ging naar boven. Ik zag dat de deur van de kleine kamer openstond, een paar centimeter, en dat er licht van de straatlantaarn door de kier op de overloop viel. Ik had haar dicht gelaten, toen ik de kerstboom eruit haalde. Ik keek naar binnen. Er was niemand. De verhuisdozen, de koffer, de lege doos van de kerstboom. De luchtballonnen.
+Ik nam de Dafalgan. Ik dronk het water. Ik ging naar boven. Ik zag dat de deur van de kleine kamer openstond, een paar centimeter, en dat er licht van de straatlantaarn door de kier op de overloop viel. Ik had haar dichtgelaten, toen ik de kerstboom eruit haalde. Ik keek naar binnen. Er was niemand. De verhuisdozen, de koffer, de lege doos van de kerstboom. De luchtballonnen.
 
 Lies lag in bed, op haar zij, met haar rug naar de deur. Ik ging naast haar liggen. Ik raakte haar niet aan.
 
@@ -988,7 +1022,7 @@ Lies lag in bed, op haar zij, met haar rug naar de deur. Ik ging naast haar ligg
 
 Ze antwoordde niet. Ik wist niet of ze sliep. Ik denk van niet.
 
-Op oudejaarsavond bleven we thuis. We keken naar de conference op televisie, en om middernacht gaven we elkaar een kus, kort, en gingen naar buiten om naar het vuurwerk te kijken dat de buren afstaken. Roger stond aan zijn voordeur in zijn kamerjas met Jeanine. Hij riep: 'Gelukkig Nieuwjaar, buren! En dat het ons jaar mag worden!' Hij hief een glas. Ik hief niets. Lies stak haar hand op. Hij bedoelde zijn jaar, en het onze, en dat van iedereen. Het kon niets betekenen. Het betekende ook niets. Het was gewoon wat Roger zei.
+Op oudejaarsavond bleven we thuis. We keken naar de conference op televisie, en om middernacht gaven we elkaar een kus, kort, en gingen naar buiten om naar het vuurwerk te kijken dat de buren afstaken. Roger stond aan zijn voordeur in zijn kamerjas met Jeanine. Hij riep: 'Gelukkig nieuwjaar, buren! En dat het ons jaar mag worden!' Hij hief een glas. Ik hief niets. Lies stak haar hand op. Hij bedoelde zijn jaar, en het onze, en dat van iedereen. Het kon niets betekenen. Het betekende ook niets. Het was gewoon wat Roger zei.
 
 We gingen naar binnen. Het was 2019.
 
@@ -996,7 +1030,7 @@ We gingen naar binnen. Het was 2019.
 
 Mijn vader stierf op een vrijdag in mei, om ongeveer kwart over tien 's ochtends, tussen de bonenstaken.
 
-Hij had die ochtend de stokken gezet. Dat deed hij elk jaar half mei, na de IJsheiligen, omdat hij geloofde in de IJsheiligen zoals andere mensen in God. Hij had ze in twee rijen gezet, in de moestuin achter het huis van mijn ouders in Erpe, met de toppen tegen elkaar gebonden met groen tuindraad, zodat ze tenten vormden, en daarna was hij er blijkbaar tussen gaan zitten, of gevallen, dat weten we niet. Mijn moeder vond hem om half elf, toen ze hem wilde roepen voor de koffie. Hij lag op zijn zij tussen de rijen, met het rolletje tuindraad nog in zijn hand. De dokter zei dat het een hartstilstand was en dat hij waarschijnlijk niets gevoeld had. Dat zeggen ze altijd, denk ik. Het is een zin die ze hen in hun opleiding leren, zoals *onverklaard*.
+Hij had die ochtend de stokken gezet. Dat deed hij elk jaar half mei, na de IJsheiligen, omdat hij geloofde in de IJsheiligen zoals andere mensen in God. Hij had ze in twee rijen gezet, in de moestuin achter het huis van mijn ouders in Erpe, met de toppen tegen elkaar gebonden met groen tuindraad, zodat ze tenten vormden, en daarna was hij er blijkbaar tussen gaan zitten, of gevallen, dat weten we niet. Mijn moeder vond hem om half elf, toen ze hem wilde roepen voor de koffie. Hij lag op zijn zij tussen de rijen, met het rolletje tuindraad nog in zijn hand. De dokter zei dat het een hartstilstand was en dat hij waarschijnlijk niets gevoeld had. Dat zeggen ze altijd, denk ik. Het is een zin die ze hun in hun opleiding leren, zoals *onverklaard*.
 
 Ik kreeg het telefoontje op mijn werk. Het was Kristof. Hij zei: 'Steven.' Hij zei niets anders. Ik hoorde hem ademen, zwaar, met het geluid van wind erachter, want hij stond op een dak in Denderleeuw. Ik wist het toen al. Ik wist het aan de manier waarop hij mijn naam zei, zonder *manneke*, zonder iets.
 
@@ -1044,7 +1078,7 @@ Een oom van mijn moeder, nonkel Gerard, die tweeëntachtig was en hard van horen
 
 Hij knikte tevreden, alsof hij een opdracht had volbracht, en nam een stuk rijsttaart.
 
-Ik stond daar met mijn kopje koffie. Ik zag Lies aan de andere kant van de zaal, bij mijn moeder. Ze hield mijn moeders hand vast. Ze had het hele weekend bij mijn moeder geslapen, op de zetel, omdat mijn moeder niet alleen wilde zijn en niet in haar eigen bed wilde slapen, en ik had thuis geslapen, alleen, omdat ik vroeg moest opstaan voor het papier. Lies had dat aangeboden. Niemand had het gevraagd. Sinds kerstmis hadden we niet veel gepraat, of wel gepraat, maar over dingen als de boodschappen en de Picanto, die naar de garage moest voor de rare tik. In januari hadden we afgesproken om een pauze te nemen met de behandelingen. Tot de zomer, had ze gezegd. *Tot de zomer, en dan zien we.* De diepvries kon wachten. Dat is het voordeel van een diepvries.
+Ik stond daar met mijn kopje koffie. Ik zag Lies aan de andere kant van de zaal, bij mijn moeder. Ze hield mijn moeders hand vast. Ze had het hele weekend bij mijn moeder geslapen, op de zetel, omdat mijn moeder niet alleen wilde zijn en niet in haar eigen bed wilde slapen, en ik had thuis geslapen, alleen, omdat ik vroeg moest opstaan voor het papier. Lies had dat aangeboden. Niemand had het gevraagd. Sinds Kerstmis hadden we niet veel gepraat, of wel gepraat, maar over dingen als de boodschappen en de Picanto, die naar de garage moest voor de rare tik. In januari hadden we afgesproken om een pauze te nemen met de behandelingen. Tot de zomer, had ze gezegd. *Tot de zomer, en dan zien we.* De diepvries kon wachten. Dat is het voordeel van een diepvries.
 
 Ze keek op en zag me kijken. Ze glimlachte niet. Ze knikte, één keer, zoals je knikt naar iemand aan de overkant van een straat die je herkent. Ik knikte terug.
 
@@ -1136,7 +1170,7 @@ Ze nam er een op. Ze draaide het tussen haar vingers, zoals ze in het labo een b
 
 'Ja.'
 
-Ze legde het terug op de tafel, naast het andere. Ze legde haar hand op de mijne. Het was de eerste keer sinds kerstmis.
+Ze legde het terug op de tafel, naast het andere. Ze legde haar hand op de mijne. Het was de eerste keer sinds Kerstmis.
 
 'Uw vader,' zei ze.
 
@@ -1154,7 +1188,7 @@ Die nacht werd ik wakker om drie uur. Het dekbed lag half op de grond, aan mijn 
 
 De mail van het fertiliteitscentrum kwam op maandag 16 maart 2020, om 17.42 uur, en het onderwerp was *Belangrijke mededeling: tijdelijke opschorting van behandelingen*.
 
-We hadden een afspraak voor 2 april. Een ontdooiing en een terugplaatsing, de eerste uit de diepvries. Het had lang geduurd voor we zover waren. Na de begrafenis van mijn vader was de zomer gekomen, en na de zomer had Lies gezegd: 'Na de kerstperiode. Ik wil niet weer met Kerstmis.' Ik had niet gevraagd wat ze bedoelde. Ik wist wat ze bedoelde. Na Kerstmis had ze gezegd: 'In het voorjaar. Als het licht is.' Ik had geknikt. Er was in die tijd altijd een reden om nog even te wachten, en elke reden was goed, en ik denk nu dat we allebei een beetje bang waren voor de diepvries. Zolang ze in de ketel zaten, waren ze een mogelijkheid. Een mogelijkheid kan niet mislukken.
+We hadden een afspraak voor 2 april. Een ontdooiing en een terugplaatsing, de eerste uit de diepvries. Het had lang geduurd voor we zover waren. Na de begrafenis van mijn vader was de zomer gekomen, en na de zomer had Lies gezegd: 'Na de kerstperiode. Ik wil niet weer met Kerstmis.' Ik wist wat ze bedoelde. Na Kerstmis had ze gezegd: 'In het voorjaar. Als het licht is.' Ik had geknikt. Er was in die tijd altijd een reden om nog even te wachten, en elke reden was goed, en ik denk nu dat we allebei een beetje bang waren voor de diepvries. Zolang ze in de ketel zaten, waren ze een mogelijkheid. Een mogelijkheid kan niet mislukken.
 
 In de mail stond dat het centrum, in navolging van de richtlijnen van de overheid en van de Belgische Vereniging voor Reproductieve Geneeskunde, alle nieuwe behandelingen tot nader order opschortte. Dat lopende behandelingen indien mogelijk werden afgerond. Dat ingevroren embryo's veilig bewaard bleven. Dat we, en dat had iemand in het vet gezet, *geen contact moesten opnemen met het secretariaat* omdat zij ons zouden contacteren zodra er meer duidelijkheid was. Met vriendelijke groeten. Het team.
 
@@ -1168,13 +1202,13 @@ Ze roerde in de soep. Ze keek niet om.
 
 'Dan is dat dat,' zei ze.
 
-Ik had verwacht dat ze kwaad zou zijn. Of verdrietig. Ik had het zelf verwacht te zijn. Ik weet nog dat ik in de keuken stond met mijn telefoon in mijn hand en wachtte op het gevoel, zoals je op een trein wacht die vertraging heeft, en dat het niet kwam. In de plaats daarvan kwam er iets anders, iets wat ik niet herkende en waarvan ik pas veel later begreep dat het opluchting was. Het was alsof iemand anders voor ons had beslist. Alsof er een man van het crisiscentrum op de radio was gekomen en had gezegd: vanaf woensdag moet u niet meer hopen. Het is verboden. Tot nader order.
+Ik had verwacht dat ze kwaad zou zijn. Of verdrietig. Ik had verwacht dat ik het zelf zou zijn. Ik weet nog dat ik in de keuken stond met mijn telefoon in mijn hand en wachtte op het gevoel, zoals je op een trein wacht die vertraging heeft, en dat het niet kwam. In de plaats daarvan kwam er iets anders, iets wat ik niet herkende. Alsof er een man van het crisiscentrum op de radio was gekomen en had gezegd: vanaf woensdag moet u niet meer hopen. Het is verboden. Tot nader order.
 
 ---
 
 Het eerste wat ik me herinner van de lockdown is de stilte op de steenweg.
 
-Ik werkte thuis, aan de keukentafel, met een laptop van het werk en een tweede scherm dat ik uit het kantoor had mogen meenemen, en een koptelefoon. De techniekers deden alleen nog dringende pannes. Geen onderhouden. Mensen belden in paniek omdat hun ketel niet meer werkte en ze nu de hele dag thuis zaten, met hun kinderen, in een koud huis, en ze vroegen of de technieker een mondmasker zou dragen, en ik zei ja, terwijl ik niet wist of we mondmaskers hadden. We hadden er geen. Danny ging met zijn eigen auto naar de Brico, die open was, en kocht stofmaskers die bedoeld waren voor schuurwerk, en verdeelde ze onder de techniekers.
+Ik werkte thuis, aan de keukentafel, met een laptop van het werk en een tweede scherm dat ik uit het kantoor had mogen meenemen, en een koptelefoon. De techniekers deden alleen nog dringende pannes. Geen onderhouden. Mensen belden in paniek omdat hun ketel niet meer werkte en ze nu de hele dag thuis zaten, met hun kinderen, in een koud huis, en ze vroegen of de technieker een mondmasker zou dragen, en ik zei ja, terwijl ik niet wist of we mondmaskers hadden. We hadden er geen. Danny ging met zijn eigen auto naar een tankstation, en kocht stofmaskers die bedoeld waren voor schuurwerk, en verdeelde ze onder de techniekers.
 
 Maar ik herinner me vooral de stilte. Ons huis ligt honderd meter van de steenweg tussen Aalst en Dendermonde, en ik had nooit beseft hoeveel lawaai die steenweg maakte tot hij het niet meer deed. Ik hoorde vogels. Ik hoorde Roger in zijn tuin met Jeanine praten, twee tuinen verder, over de rozen. Ik hoorde de kerkklok van het dorp, die al jaren elk kwartier sloeg, en die ik nooit gehoord had.
 
@@ -1212,7 +1246,7 @@ De Brico was open. Ik reed erheen en stond in een rij op de parking, op anderhal
 
 Er waren vier soorten wit. Gebroken Wit. Zuiver Wit. Wolkenwit. Kalkwit. Ik las de beschrijvingen voor. Lies zei: 'Steven, het is wit,' en ik nam Gebroken Wit, omdat het me het meest eerlijk leek.
 
-We schilderden drie dagen. We schoven de zetels naar het midden en dekten ze af met plastic. We plakten de plinten af met schilderstape, Lies met een precisie waarbij ze met een meetlat werkte, ik met het oog, en zij trok mijn stukken telkens los en plakte ze opnieuw. We hadden de radio aan. Er werd veel over het virus gepraat, cijfers van besmettingen en ziekenhuisopnames en sterfgevallen, en op een bepaald moment zette Lies een andere zender op, met oude muziek, en draaide de volume omhoog, en we schilderden op de Kreuners en Clouseau en Doe Maar.
+We schilderden drie dagen. We schoven de zetels naar het midden en dekten ze af met plastic. We plakten de plinten af met schilderstape, Lies met een precisie waarbij ze met een meetlat werkte, ik met het oog, en zij trok mijn stukken telkens los en plakte ze opnieuw. We hadden de radio aan. Er werd veel over het virus gepraat, cijfers van besmettingen en ziekenhuisopnames en sterfgevallen, en op een bepaald moment zette Lies een andere zender op, met oude muziek, en draaide het volume omhoog, en we schilderden op de Kreuners en Clouseau en Doe Maar.
 
 Bij *Pa* van Doe Maar zong ze mee.
 
@@ -1230,7 +1264,7 @@ Ze hield op toen het liedje gedaan was. Ze keek naar beneden en zag me kijken.
 
 Ze veegde over haar wang en maakte het erger. Ik lachte. Ze lachte. Ze kwam de ladder af en veegde haar verfhand aan mijn T-shirt af, op mijn borst, een grote witte hand op een grijs T-shirt, en ik pakte de kwast en zette een stip op haar neus, en zij nam de rol, en daarna waren we vijf minuten lang twee mensen van achtendertig en zevenendertig die elkaar met verf achternaliepen rond een stapel met plastic afgedekte zetels, en het was belachelijk, en ik weet niet wanneer ik me ooit gelukkiger heb gevoeld.
 
-Daarna vrijden we op het plastic. Het was geen vuurwerkjesdag. Ik wist niet welke dag het was. Ik denk dat zij het wel wist, maar ze zei het niet, en ik vroeg het niet, en het plastic kraakte en plakte aan onze rug en er zat verf in haar haar, en achteraf lagen we naast elkaar naar het plafond te kijken, dat nog geel was.
+Daarna vrijden we op het plastic. Ik wist niet welke dag het was. Ik denk dat zij het wel wist, maar ze zei het niet, en ik vroeg het niet, en het plastic kraakte en plakte aan onze rug en er zat verf in haar haar, en achteraf lagen we naast elkaar naar het plafond te kijken, dat nog geel was.
 
 'Het plafond moet ook,' zei Lies.
 
@@ -1248,7 +1282,7 @@ Toen het applaus voorbij was en ik terug in de tuin ging zitten, dacht ik: ik he
 
 Ik moest even nagaan wat ik bedoelde. Ik bedoelde de diepvries. De ketel in Gent. De kleine kamer. Het schrift met de harde kaft. Ik bedoelde het kind. Ik had er die dag niet aan gedacht. Ik had er ook gisteren niet aan gedacht. Ik probeerde me te herinneren wanneer ik er voor het laatst aan had gedacht, echt aan gedacht, niet als een geluid op de achtergrond maar als iets wat in de kamer stond, en ik wist het niet. Een week? Twee? Er was een periode van dagen geweest, misschien wel weken, waarin ik geschilderd had en geschoffeld en ketels ingepland en applaus gegeven en mijn vrouw had horen zingen, en waarin ik niet één keer aan dat kind had gedacht.
 
-Ik schaamde me. Dat was het eerste. Ik schaamde me zoals je je schaamt als je een verjaardag vergeten bent van iemand die gestorven is. Daarna kwam er iets anders, en dat was erger dan de schaamte. Het was de gedachte dat het misschien zo kon zijn. Dat het leven ook zo kon zijn. Zonder. Met Gebroken Wit en vals zingen en een pint in de tuin onder een lege lucht. Dat dat niet het leven was dat ik gewild had, maar dat het misschien een leven was.
+Ik schaamde me. Daarna kwam de gedachte dat het misschien zo kon zijn. Dat het leven ook zo kon zijn. Zonder. Met Gebroken Wit en vals zingen en een pint in de tuin onder een lege lucht. Dat dat niet het leven was dat ik gewild had, maar dat het misschien een leven was.
 
 Ik dronk mijn pint uit. Ik ging naar binnen. Lies zat in de zetel met haar telefoon. Ze keek op.
 
@@ -1266,7 +1300,7 @@ Ik las de mail op mijn werk, op het tweede scherm, tussen een panne in Lede en e
 
 Lies antwoordde niet. Dat was niet ongewoon. Ze antwoordde nooit op het werk.
 
-'s Avonds aten we in de tuin. Ik had gebarbecued. Het was het eerste keer dat jaar. Gewone worsten van de beenhouwer en een paar kippenbilletjes en een slaatje. Het was warm. In de verte, op de steenweg, reed weer verkeer. Het was nog niet zoals vroeger, maar het kwam terug, het geruis. Er vloog een vliegtuig over, het eerste dat ik in weken zag, hoog, met een witte streep erachter.
+'s Avonds aten we in de tuin. Ik had gebarbecued. Het was de eerste keer dat jaar. Gewone worsten van de beenhouwer en een paar kippenbilletjes en een slaatje. Het was warm. In de verte, op de steenweg, reed weer verkeer. Het was nog niet zoals vroeger, maar het kwam terug, het geruis. Er vloog een vliegtuig over, het eerste dat ik in weken zag, hoog, met een witte streep erachter.
 
 'Ik heb uw mail gezien,' zei Lies.
 
@@ -1313,8 +1347,6 @@ Ze zei niets. Ze keek lang naar me.
 'Na de zomer,' zei ze.
 
 'Na de zomer.'
-
-Ze nam haar vork weer op. Ze at haar slaatje. Ik at mijn kippenbilletje. De worsten waren te lang op de barbecue blijven liggen en waren aan één kant zwart. We aten ze toch. Om acht uur hoorden we Roger op zijn kookpot slaan, alleen, voor de laatste keer, want het applaus was eigenlijk al sinds eind mei gestopt en hij was de enige in de straat die het nog deed. Hij sloeg tien keer, langzaam. Dan hield hij op.
 
 # 9. Geen hartslag
 
@@ -1448,7 +1480,7 @@ Er was een folder. *Na een miskraam.* Er stond in dat het normaal was om verdrie
 
 Ik las de folder twee keer. Lies las hem niet. Ze legde hem in de schuif met de handleidingen, bij de bon van de trouwringen. Ik zag het, en ik zei er niets over.
 
-Ik belde mijn moeder. Ik moest het haar zeggen, omdat ik het haar gezegd had. Dat was het ergste van die maand. Niet het telefoontje zelf. Maar dat ik het haar moest *terugnemen*. Dat ik iets gegeven had wat ik niet had, en dat ik het nu moest terugvragen. Ze zei: 'Oh, jongen.' Ze zei het zoals ze het tussen de hortensia's had gezegd, met precies dezelfde woorden, en het was alsof iemand een film achterstevoren afspeelde.
+Ik belde mijn moeder. Ik moest het haar zeggen, omdat ik het haar gezegd had. Het ergste van die maand was dat ik het haar moest *terugnemen*. Dat ik iets gegeven had wat ik niet had, en dat ik het nu moest terugvragen. Ze zei: 'Oh, jongen.' Ze zei het zoals ze het tussen de hortensia's had gezegd, met precies dezelfde woorden, en het was alsof iemand een film achterstevoren afspeelde.
 
 'Ge moogt het aan niemand zeggen, ma.'
 
@@ -1508,10 +1540,6 @@ Ik belde ze op maandag. Ze ontdooiden ze op donderdag. De man belde om half elf.
 
 'Dank u,' zei ik.
 
-Ik hing op. Ik zat aan mijn bureau, op het werk, want we werkten weer half op kantoor, met plexiglas tussen de bureaus. Danny zat aan de andere kant van het plexiglas te bellen met een klant in Lebbeke. Ik keek naar zijn lijstje met *Bobbejaanland*. Ik keek naar mijn scherm, waarop de planning van die dag stond, met de namen van acht techniekers en hun routes, gekleurde balkjes van Ninove tot Lokeren.
-
-Er was niets meer in de diepvries. Er was niets meer om te beslissen. De ketel in Gent was leeg, voor ons in elk geval. Ergens zat iemand anders' naam erin, en wachtte.
-
 # 10. De rest van mijn leven
 
 *Lies*
@@ -1546,7 +1574,7 @@ We lopen in hetzelfde tempo. Dat is zeldzaam. De meeste mensen lopen sneller of 
 
 Hij vraagt nooit of ik kinderen heb. Ik weet niet of hij het weet. Ik denk dat het in het labo bekend is dat ik in 2017 en 2018 vaak afwezig was voor *medische afspraken*. Ik denk dat de mensen hun conclusies hebben getrokken. Ik denk dat Ward ze ook getrokken heeft en dat hij daarom niet vraagt. Dat is het eerste wat ik aan hem goed vond.
 
-Op een donderdag in maart lopen we langs de Leie en het is de eerste warme dag. Er zitten mensen op de kaaien met blikjes, voor het eerst na de winter. Er hangt een geur van gras en water en een frituur. Ward stopt bij een bank, met zijn handen op zijn knieën, en zegt: 'Ik ben te oud voor dit.' Ik stop ook. Ik ben niet moe. Ik stop omdat hij stopt.
+Op een donderdag in maart lopen we langs de Leie en het is de eerste warme dag. Er zitten mensen op de kaaien met blikjes, voor het eerst na de winter. Er hangt een geur van gras en water en een frituur. Ward stopt bij een bank, met zijn handen op zijn knieën, en zegt: 'Ik ben te oud voor dit.' Ik stop ook. Ik stop omdat hij stopt.
 
 'Mag ik iets zeggen?' zegt hij.
 
@@ -1562,7 +1590,7 @@ Ik kijk naar hem. Hij kijkt niet naar mij. Hij kijkt naar het water.
 
 We lopen verder. Ik loop een beetje sneller dan nodig. Hij past zich aan. Bij het labo houden we stil aan de achteringang en hij houdt de deur voor me open, en ik loop langs hem, dichtbij, en ik ruik zijn zweet, en ik denk: als ik nu iets zou doen. Ik denk het heel duidelijk, als een zin. *Als ik nu iets zou doen.* Ik doe niets. Ik ga naar de kleedkamer. Ik neem een douche. Ik doe mijn labojas aan en ga naar mijn stomacher en ik zet er een staal salami in, vijfentwintig gram, en het apparaat klopt negentig seconden lang met vlakke handen op een deur.
 
-Ik wil niet met Ward slapen. Dat is de waarheid. Ik heb er een paar keer over nagedacht, op de manier waarop je nadenkt over een appartement in de Brugse Poort, maar ik wil het niet. Wat ik wil, is iets anders, en het is erger. Ik wil iemand zijn die niet *de vrouw die geen kinderen kan krijgen* is. Ward kent mij niet zo. Voor Ward ben ik iemand die zes kilometer loopt in vijfendertig minuten. Dat is alles. Het is niet veel. Het is meer dan ik thuis ben.
+Ik wil niet met Ward slapen. Dat is de waarheid. Ik heb er een paar keer over nagedacht, op de manier waarop je nadenkt over een appartement in de Brugse Poort, maar ik wil het niet. Wat ik wil, is iets anders, en het is erger. Ik wil iemand zijn die niet *de vrouw die geen kinderen kan krijgen* is. Ward kent mij niet zo. Voor Ward ben ik iemand die zes kilometer loopt in vijfendertig minuten. Dat is alles. Het is meer dan ik thuis ben.
 
 ---
 
@@ -1574,7 +1602,7 @@ We praten. We praten over het werk, over zijn moeder, over Kristof, over de Pica
 
 We vrijen niet. Of bijna niet. Twee keer sinds november. Beide keren was het vriendelijk. Ik weet geen beter woord. Het was zoals twee mensen die elkaar een hand geven na een begrafenis.
 
-Wat ik hem niet vergeef, is niet wat hij denkt. Hij denkt dat ik hem kwalijk neem dat hij de diepvries wilde. Dat hij zijn belofte heeft gebroken. Dat hij *nog één keer* heeft gezegd, en daarna nog eens. Dat is het niet. Ik begrijp dat. Ik heb het zelf gewild, die laatste twee, meer dan ik heb gezegd. Ik heb in de keuken gestaan met zijn lege koffietas en gedacht: als ze het halen. Als ze het halen.
+Hij denkt dat ik hem kwalijk neem dat hij de diepvries wilde. Dat hij zijn belofte heeft gebroken. Dat hij *nog één keer* heeft gezegd, en daarna nog eens. Dat is het niet. Ik begrijp dat. Ik heb het zelf gewild, die laatste twee, meer dan ik heb gezegd. Ik heb in de keuken gestaan met zijn lege koffietas en gedacht: als ze het halen. Als ze het halen.
 
 Wat ik hem niet vergeef, is dat ik het heb moeten zeggen. *Ik wil niet meer.* Dat ik het eerst heb moeten zeggen. In de tuin, bij de barbecue, met die verbrande worsten. Dat ik de vrouw ben geweest die gestopt is. Dat het in zijn verhaal, als hij het later aan iemand vertelt, aan Kristof, aan een collega, aan een vrouw die hij na mij leert kennen, altijd zo zal zijn: *Lies wilde niet meer.* En dat het waar zal zijn. En dat hij het nooit zal moeten zeggen over zichzelf.
 
@@ -1594,17 +1622,17 @@ Mijn moeder belt op zondag. Ze vraagt hoe het gaat. Ze vraagt niet naar iets and
 
 'Gij zoudt dat goed kunnen. Gij en Steven. Ge hebt toch die kamers.'
 
-*Ge hebt toch die kamers.* Ik zit aan de keukentafel. Steven is in de tuin. Hij is aan het spitten. Hij heeft in maart een moestuin aangelegd, een klein stuk achteraan, twee op drie meter, met tomaten en bonen en een rij radijzen. Hij heeft er niets over gezegd. Hij heeft op een zaterdag de graszoden uitgestoken en gespit en een kordon gespannen en zaadjes gezaaid in rechte lijnen, volgens het zakje, en hij gaat er elke avond naar kijken, met zijn handen op zijn rug. Ik heb het gezien. Ik heb er niets over gezegd.
+Ik zit aan de keukentafel. Steven is in de tuin. Hij is aan het spitten. Hij heeft in maart een moestuin aangelegd, een klein stuk achteraan, twee op drie meter, met tomaten en bonen en een rij radijzen. Hij heeft er niets over gezegd. Hij heeft op een zaterdag de graszoden uitgestoken en gespit en een kordon gespannen en zaadjes gezaaid in rechte lijnen, volgens het zakje, en hij gaat er elke avond naar kijken, met zijn handen op zijn rug. Ik heb het gezien. Ik heb er niets over gezegd.
 
 'Ik zal erover nadenken,' zeg ik.
 
 Ik denk erover na. Dat is het rare. Ik doe het echt. Ik zoek het op, die avond. Pleegzorg Vlaanderen. Er staat een site met foto's van lachende kinderen op een schommel, die er waarschijnlijk niet echt in pleegzorg zijn maar die een fotograaf heeft betaald, en een filmpje met een koppel dat vertelt over hun pleegzoon. Ik lees over de verschillende vormen. Langdurig. Kortdurend. Crisis. Perspectiefzoekend. Respijt.
 
-Respijt. Een weekend per maand, of een paar dagen in de vakantie, voor een kind dat thuis woont, bij ouders die het moeilijk hebben, zodat die ouders even op adem kunnen komen. Het kind gaat altijd terug. Dat is de bedoeling. Het is geen vervanging. Het is een pauze. Voor iemand anders.
+Respijt. Een weekend per maand, of een paar dagen in de vakantie, voor een kind dat thuis woont, bij ouders die het moeilijk hebben, zodat die ouders even op adem kunnen komen. Het kind gaat altijd terug. Dat is de bedoeling. Het is een pauze. Voor iemand anders.
 
-Ik lees het drie keer. Ik denk aan de kleine kamer. Ik denk niet: dit lost het op. Ik ben niet dom. Ik weet dat een kind dat een weekend per maand komt en altijd teruggaat, niet het kind is dat we niet hebben gekregen. Ik weet dat het misschien erger is. Dat je elke maand opnieuw een kind uitzwaait. Ik ben laborante. Ik kan een risico inschatten.
+Ik lees het drie keer. Ik denk aan de kleine kamer. Ik ben niet dom. Ik weet dat een kind dat een weekend per maand komt en altijd teruggaat, niet het kind is dat we niet hebben gekregen. Ik weet dat het misschien erger is. Dat je elke maand opnieuw een kind uitzwaait. Ik ben laborante. Ik kan een risico inschatten.
 
-Maar ik denk ook: er is iemand die het moeilijk heeft. Er is ergens een moeder die niet slaapt. Er is een kind dat een weekend ergens moet zijn. En wij hebben een kamer. Dat is alles. Het is een rekensom zonder marge. Een kamer en een kind.
+Maar ik denk ook: er is iemand die het moeilijk heeft. Er is ergens een moeder die niet slaapt. Er is een kind dat een weekend ergens moet zijn.
 
 ---
 
@@ -1658,7 +1686,7 @@ Hij zet de gieter neer. Hij veegt zijn handen af aan zijn broek. Hij kijkt naar 
 
 Ik begrijp niet wat hij bedoelt. Dan begrijp ik het.
 
-Ik lach. Ik lach hard, met mijn hoofd achterover. Het is de eerste keer sinds november. Steven kijkt ernaar zoals hij in 2008 keek, in die keuken, op dat feestje van een collega van zijn broer.
+Ik lach, kort, door mijn neus. Het is de eerste keer sinds november.
 
 'Ge zijt zot,' zeg ik.
 
@@ -1666,7 +1694,7 @@ Ik lach. Ik lach hard, met mijn hoofd achterover. Het is de eerste keer sinds no
 
 Die nacht wis ik de favorieten. Alle elf. Dat is niet zo moeilijk als je zou denken. Er is een knopje met een vuilbakje. Ik druk er elf keer op. Daarna leg ik mijn telefoon op het nachtkastje, met het scherm naar beneden. Steven ligt met zijn rug naar mij. Hij slaapt niet. Ik zie het aan zijn schouder. Ik leg mijn hand erop. Ik laat ze daar liggen. Hij beweegt niet.
 
-Ik ga niet weg. Dat heb ik toen besloten. Niet voor altijd. Voorlopig.
+Ik ga niet weg. Voorlopig.
 
 # 11. Dylan
 
@@ -1710,7 +1738,7 @@ Ik schreef: *Omdat we een kamer hebben.*
 
 Ik keek ernaar. Het was het eerlijkste wat ik in de hele vragenlijst had opgeschreven. Ik streepte het door en schreef er iets anders onder, iets over *een kind een warme thuis willen bieden*, wat ik uit een folder had. Maar de doorstreepte zin bleef leesbaar. Ik had niet hard genoeg doorgestreept.
 
-De consulente heette Ilse. Ze was een jaar of dertig, met een neusring en een notitieboekje met een kaft van gerecycleerd karton, en ze kwam twee keer bij ons thuis. Ze dronk thee. Ze vroeg naar alles. Ze vroeg naar de behandelingen, en Lies vertelde het, kort, in feiten, en Ilse schreef het op en zei: 'Dat moet zwaar geweest zijn,' en Lies zei: 'Ja,' en daarmee was het gesprek daarover afgelopen. Ze vroeg of we het verlies *een plek hadden kunnen geven*. Ik zei: 'We hebben er een kamer voor.' Ze lachte. Ik denk dat ze dacht dat het een grap was. Lies keek me aan.
+De consulente heette Ilse. Ze was een jaar of dertig, met een neusring en een notitieboekje met een kaft van gerecycleerd karton, en ze kwam twee keer bij ons thuis. Ze dronk thee. Ze vroeg naar alles. Ze vroeg naar de behandelingen, en Lies vertelde het, kort, in feiten, en Ilse schreef het op en zei: 'Dat moet zwaar geweest zijn,' en Lies zei: 'Ja,' en daarmee was het gesprek daarover afgelopen. Ze vroeg of we het verlies *een plek hadden kunnen geven*. Ik zei niets. Lies keek naar haar thee.
 
 Ze vroeg naar de doorstreepte zin. Ik wist niet dat ze die gezien had.
 
@@ -1740,7 +1768,7 @@ De verhuisdozen gingen naar de zolder, voor zover ze daar pasten, en wat er niet
 
 De bananendoos van mijn vader bleef staan. Ik zette ze in de hoek, tegen de muur. Lies zei er niets over.
 
-We kochten een plooibed bij de Ikea. Pleegzorg had gezegd dat een gewoon bed niet nodig was voor respijt, dat een plooibed volstond, of een zetelbed, en we hadden even overwogen om een echt bed te kopen, en toen hadden we het niet gedaan. Ik weet niet wie van ons twee eerst *plooibed* zei. Ik denk dat we het tegelijk zeiden. Er was iets aan een echt bed wat we niet durfden. Een echt bed blijft staan.
+We kochten een plooibed bij de Ikea. Pleegzorg had gezegd dat een gewoon bed niet nodig was voor respijt, dat een plooibed volstond, of een zetelbed, en we hadden even overwogen om een echt bed te kopen, en toen hadden we het niet gedaan. Ik weet niet wie van ons twee eerst *plooibed* zei. Ik denk dat we het tegelijk zeiden.
 
 Lies kocht een dekbedovertrek met raketten erop. Ze stond er lang mee in de Ikea, met het overtrek in de verpakking in haar handen, tussen de overtrekken met dinosaurussen en die met paarden en die met voetballen, en ze koos de raketten, en ik vroeg waarom, en ze zei: 'Omdat het bij de ballonnen past. Alles wat vliegt.'
 
@@ -1776,7 +1804,7 @@ Hij keek me aan. Voor het eerst keek hij me echt aan.
 
 Hij sliep in de kleine kamer, onder de luchtballonnen, op het plooibed met de raketten.
 
-De eerste nacht kon ik niet slapen. Ik lag naast Lies en luisterde naar het huis. Het huis vertelt alles. Ik hoorde het plooibed kraken toen hij zich omdraaide. Ik hoorde hem één keer opstaan om naar het toilet te gaan, en de leidingen, en hoe hij terugkwam, en de deur, die hij openliet. Ik had het nachtlampje van de Hema op de overloop aangelaten. Het oranje licht viel door de open deur naar binnen, op het behang, en vanuit ons bed kon ik door onze eigen half open deur een stukje van de muur zien, met een rode ballon en een mandje met een poppetje dat zwaaide.
+De eerste nacht kon ik niet slapen. Ik lag naast Lies en luisterde naar het huis. Het huis vertelt alles. Ik hoorde het plooibed kraken toen hij zich omdraaide. Ik hoorde hem één keer opstaan om naar het toilet te gaan, en de leidingen, en hoe hij terugkwam, en de deur, die hij openliet. Ik had het nachtlampje van de Hema op de overloop aangelaten. Het oranje licht viel door de open deur naar binnen, op het behang, en vanuit ons bed kon ik door onze eigen halfopen deur een stukje van de muur zien, met een rode ballon en een mandje met een poppetje dat zwaaide.
 
 Lies sliep ook niet. Ik wist het aan haar schouder.
 
@@ -1792,11 +1820,19 @@ We lagen een tijd stil.
 
 'Steven,' fluisterde ze. 'Er slaapt iemand.'
 
-Ik zei niets. Ik kon niets zeggen. Ik legde mijn hand op haar heup en ze legde de hare erop, en zo bleven we liggen, met onze ogen open, luisterend naar een jongen van acht die in een kamer sliep waar nooit iemand had geslapen, of niet sinds de Brackes, en die af en toe iets mompelde in zijn slaap, één keer heel duidelijk: 'Vijf euro.'
+Ik zei niets. Ik kon niets zeggen. Ik legde mijn hand op haar heup en ze legde de hare erop, en zo bleven we liggen, met onze ogen open, luisterend naar een jongen van acht die af en toe iets mompelde in zijn slaap, één keer heel duidelijk: 'Vijf euro.'
 
 ---
 
-Hij kwam negen keer, tussen oktober en juni. Eén weekend per maand, en twee keer extra, in de krokusvakantie en met Pasen, omdat Kelly naar het ziekenhuis moest voor iets wat Ilse niet uitlegde.
+Hij kwam tien keer, tussen oktober en juni. Eén weekend per maand tot in april, twee keer extra, in de krokusvakantie en met Pasen, omdat Kelly naar het ziekenhuis moest voor iets wat Ilse niet uitlegde.
+
+Niet elk weekend ging goed. In januari plaste hij in bed. Ik hoorde hem om vier uur 's nachts op de overloop staan, zonder licht, en toen ik de deur van de kleine kamer opendeed, stond hij naast het plooibed met zijn pyjamabroek in zijn hand en keek naar de vlek op het matras alsof die van iemand anders was. Ik was half wakker. Ik zei: 'Allee, manneke. Ge zijt toch geen baby meer.'
+
+Ik hoorde het zelf terwijl ik het zei. Het was de stem van mijn vader, of van Kristof, of van iedere man die om vier uur 's nachts iets moet zeggen en het verkeerde kiest. Dylan zei niets. Hij zei de rest van de nacht niets en de hele zondagochtend ook niet. Hij at zijn boterham met choco niet op. Om tien uur vroeg hij of hij naar huis mocht. Lies belde Kelly. Kelly nam niet op. Ze kwam om zeven uur 's avonds, twee uur te laat, zonder uitleg, en ik heb die twee uur aan het raam van de living gestaan en de minuten geteld, en ik was kwaad op haar, en ik wist dat ik geen recht had om kwaad te zijn, en ik was het toch.
+
+Lies waste het overtrek met de raketten op zestig graden. Ze hing het op het droogrek in de strijkkamer. Het hing er een week. Ik ben er elke avond langsgelopen.
+
+De maand daarna kwam hij gewoon terug, met zijn folders. Hij zei niets over januari. Ik ook niet. Ik heb hem in de Colruyt wel een zakje Prince-koeken laten kiezen, de echte, niet de namaak van de Lidl, en hij heeft me aangekeken alsof hij precies wist wat dat kostte.
 
 Ik leerde Kelly kennen op de zondagen, om vijf uur, als ze hem kwam halen. Ze was zevenentwintig. Ze reed een oude Opel Corsa met een bumper die met tape was vastgemaakt. Ze rookte in de auto, met het raam open. Ze was mager en moe, met donkere kringen onder haar ogen en lang haar dat ze in een knot droeg, en ze kwam nooit binnen. Ze bleef op het trottoir staan, naast de Corsa, en Dylan liep naar haar toe met zijn rugzak van de Kruidvat en zijn folders, en ze sloeg haar armen om hem heen en hield hem vast met haar ogen dicht, op het trottoir, voor Roger en voor de hele straat. De eerste keer keek ze daarna naar mij en zei: 'Merci, hé.' Ze zei het snel en kwaad, alsof ze het niet wilde zeggen. 'Merci dat ge hem wilt.'
 
@@ -1806,7 +1842,7 @@ Ik dacht aan de man in de gang van het labo, met zijn potje met het rode deksel,
 
 Ik leerde Dylan kennen op de zaterdagen.
 
-We gingen naar de Colruyt. Elke zaterdag. Dat was zijn wens. Niet de speeltuin, niet het zwembad, niet de film. De Colruyt. Hij liep met een folder in zijn hand tussen de rekken en vergeleek prijzen met de prijzen in de folder van de Lidl en van de Aldi, en zei hardop welke winkel het goedkoopst was voor elk product, en ik duwde de kar achter hem aan en knikte. Hij kende de prijs per kilo van de bananen, van de gehakt, van de choco. Hij zei: 'De choco is hier duurder dan bij de Aldi, maar bij de Aldi hebben ze die zonder hazelnoten niet.' Hij had in de kast gekeken, de eerste ochtend. Hij had gezien welke choco ik at.
+We gingen naar de Colruyt. Elke zaterdag. Dat was zijn wens. Niet de speeltuin, niet het zwembad, niet de film. De Colruyt. Hij liep met een folder in zijn hand tussen de rekken en vergeleek prijzen met de prijzen in de folder van de Lidl en van de Aldi, en zei hardop welke winkel het goedkoopst was voor elk product, en ik duwde de kar achter hem aan en knikte. Hij kende de prijs per kilo van de bananen, van het gehakt, van de choco. Hij zei: 'De choco is hier duurder dan bij de Aldi, maar bij de Aldi hebben ze die zonder hazelnoten niet.' Hij had in de kast gekeken, de eerste ochtend. Hij had gezien welke choco ik at.
 
 In de Colruyt liepen we op een zaterdag in november langs de afdeling met babyspullen. Ik liep er altijd met een omweg omheen. Dat deed ik al jaren, zonder er ooit bij stil te staan, zoals je een put in het trottoir ontwijkt die je kent. Dylan liep er recht doorheen. Hij bleef staan bij de pampers. Hij las de prijzen. 'Die zijn heel duur,' zei hij. 'Mijn mama zegt dat ik vroeger een fortuin heb gekost aan pampers.' Hij keek me aan. 'Hebt gij geen kinderen?'
 
@@ -1830,7 +1866,7 @@ Hij knikte. Hij dacht na. Hij had een manier van nadenken die ik herkende, met z
 
 'Ja,' zei Dylan. 'Maar niks van iemand.'
 
-Hij liep verder. Naar de koekjes. Hij las de prijs van de Prince-koeken en zei dat ze bij de Lidl een namaak hadden die bijna hetzelfde was voor de helft van de prijs. Ik duwde de kar achter hem aan. Ik dacht aan *niks van iemand*.
+Hij liep verder. Naar de koekjes. Hij las de prijs van de Prince-koeken en zei dat ze bij de Lidl een namaak hadden die bijna hetzelfde was voor de helft van de prijs. Ik duwde de kar achter hem aan.
 
 ---
 
@@ -1856,13 +1892,13 @@ Dylan knikte tevreden. De ballon was zo groot geworden dat hij van het flesje dr
 
 In april belde Ilse.
 
-Ze zei dat het goed ging met Kelly. Beter dan het in lang was gegaan. Ze had werk gevonden, halftijds, in een wasserette in Zele. Ze had een nieuwe vriend, die *stabiel* was, zei Ilse, en die van Dylan hield. Kelly had gevraagd of de respijt kon stoppen. Niet omdat ze ontevreden was. Integendeel. Omdat ze het niet meer nodig had.
+Ze zei dat het goed ging met Kelly. Beter dan het in lang was gegaan. Ze had werk gevonden, halftijds, in een wasserette in Zele. Ze had een nieuwe vriend, die *stabiel* was, zei Ilse, en die van Dylan hield. Kelly had gevraagd of het respijt kon stoppen. Niet omdat ze ontevreden was. Integendeel. Omdat ze het niet meer nodig had.
 
 'Dat is goed nieuws,' zei Ilse.
 
 'Ja,' zei ik. 'Dat is goed nieuws.'
 
-Het was goed nieuws. Ik meende het. Ik meende het zoals ik het meende toen mijn broer zijn derde aankondigde, wat pas later kwam, maar ik zeg het hier al, omdat het hetzelfde soort menen was: een menen dat waar is, en dat toch ergens anders pijn doet.
+Het was goed nieuws. Ik meende het.
 
 'Hij mag nog één keer komen,' zei Ilse. 'In juni. Om afscheid te nemen. Dat is belangrijk voor hem. Hij vraagt naar jullie.'
 
@@ -2036,11 +2072,11 @@ We gingen naar binnen. De taart werd aangesneden. Ik at een stuk van de nul.
 
 Het was half tien toen we vertrokken. Het was nog licht, dat zomerse grijs na de regen, met plassen op de weg waarin de lucht weerspiegelde. Lies reed. Ik had te veel gedronken. Dat was nu eenmaal zo, op familiefeesten. Het was een rolverdeling geworden, zoals de gele emmer: zij reed, ik dronk.
 
-'Hij heeft het u in de garage gezegd,' zei Lies. 'Hè.'
+'Hij heeft het u in de garage gezegd,' zei Lies. 'Hé.'
 
 'Wat?'
 
-'Kristof. Dat hij het niet wist hoe hij het moest zeggen.'
+'Kristof. Dat hij niet wist hoe hij het moest zeggen.'
 
 'Hoe weet gij dat?'
 
@@ -2126,7 +2162,7 @@ Het dekbedovertrek met de raketten lag in de commode in de strijkkamer. Ik haald
 
 Ik lag op mijn rug. Door het raam viel het licht van de straatlantaarn op de muur, op de ballonnen, op de tekening van Dylan met de plakband, het huis met de drie ramen en de drie gezichtjes. In het halfdonker kon ik de gezichtjes niet zien. Ik wist dat ze er waren.
 
-Ik dacht aan de tafel. Ik dacht aan het gewicht ervan, aan de nerf van het teak die donker werd van de regen, aan mijn vingers die gleden, aan de zijdeur die te smal was. Ik had die tafel gedragen. Vijf minuten nadat mijn broer had gezegd dat hij een derde kind kreeg, had ik zijn tafel gedragen, op zijn kant, door een deur die hij niet had gemeten, en ik had het gedaan zonder na te denken, omdat hij het vroeg en omdat de tafel nat werd en omdat er niemand anders was. Ik had het gewoon gedaan.
+Ik dacht aan de tafel. Aan de nerf van het teak die donker werd van de regen, aan mijn vingers die gleden, aan de zijdeur die te smal was. Ik had hem gewoon gedragen.
 
 Ik had ook gedacht wat ik in de auto had gedacht. Ook dat had ik gewoon gedaan.
 
@@ -2134,7 +2170,7 @@ Ik denk dat ze van dezelfde man komen. Ik lag op een plooibed onder de luchtball
 
 Om drie uur hoorde ik de deur van onze slaapkamer opengaan. Ik hoorde haar op de overloop. Ze bleef staan bij de deur van de kleine kamer. Ik hield mijn ogen dicht. Ik ademde zoals iemand die slaapt. Ze stond daar een hele tijd. Ik voelde haar kijken.
 
-Dan hoorde ik haar naar de strijkkamer gaan. Ik hoorde de schuif van de commode. Ze kwam terug. Ze kwam de kleine kamer binnen. Ze legde iets over mij heen, over de jas, iets zachts, en trok het recht tot aan mijn schouder, met de rand van haar hand, één keer.
+Dan hoorde ik haar naar de strijkkamer gaan. Ik hoorde de schuif van de commode. Ze kwam terug. Ze kwam de kleine kamer binnen. Ze legde iets over mij heen, over de jas, iets zachts, en trok het recht tot aan mijn schouder.
 
 Het was het overtrek met de raketten. Zonder dekbed erin. Gewoon het overtrek, een lege hoes van katoen, die niets warm hield.
 
@@ -2166,7 +2202,7 @@ Ze stond in de deuropening van haar appartement in een kamerjas, om twee uur 's 
 
 Ze keek me aan. Dan deed ze de deur verder open.
 
-Ze zette koffie. Ze zette de pralines op tafel, een doos die nog van kerstmis was, met een paar lege vakjes. We zaten aan de tafel waar het kerstdiner had plaatsgevonden, zonder het tafelkleed met de rendieren, en buiten op het plein werd een podium opgebouwd, met mannen die stangen tegen elkaar sloegen.
+Ze zette koffie. Ze zette de pralines op tafel, een doos die nog van Kerstmis was, met een paar lege vakjes. We zaten aan de tafel waar het kerstdiner had plaatsgevonden, zonder het tafelkleed met de rendieren, en buiten op het plein werd een podium opgebouwd, met mannen die stangen tegen elkaar sloegen.
 
 'Ze heeft het u verteld,' zei Rita.
 
@@ -2188,11 +2224,7 @@ Rita lachte. Het was een korte lach, door haar neus, die ik van Lies kende.
 
 Op het plein viel een stang op de grond met een klap. Iemand vloekte.
 
-'Ik zeg maar wat, Steven,' zei Rita. 'Maar ze heeft het toen alleen gedaan. En ze heeft daarna alles alleen gedaan. Die spuiten, dat heeft ze me verteld, dat ze die niet zelf kon zetten. Dat gij dat deed. Ze was daar zo kwaad om.'
-
-'Kwaad?'
-
-'Dat ze het niet zelf kon.' Rita keek me aan. 'Dat ze iemand nodig had. Ik heb na haar vader nooit meer iemand nodig willen hebben. Kijk waar ik nu zit.' Ze maakte een gebaar naar het appartement, de pralines, de kamerjas. 'Met mijn artikels.'
+'Ik zeg maar wat, Steven,' zei Rita. 'Maar ze heeft het toen alleen gedaan. En ze heeft daarna alles alleen gedaan.'
 
 Ik zei niets. Ik dronk mijn koffie. Hij was sterk en bitter. Rita zette altijd te sterke koffie. Lies zei dat altijd. Ik had het nooit gemerkt.
 
@@ -2220,7 +2252,7 @@ Jeanine stierf op een dinsdag in oktober, in het AZ in Aalst, na drie weken. Iet
 
 Roger belde bij ons aan, de avond dat het gebeurd was. Hij stond in de deuropening met zijn pet in zijn handen, zoals een man in een oude film. Hij zei: 'Ik wilde het u laten weten. Omdat ge de buren zijt.' Hij zei het tegen de deurmat. Lies kwam achter mij staan. Ze nam zijn hand. Hij liet het toe. Hij keek naar haar hand rond de zijne, alsof hij niet wist van wie ze was.
 
-De begrafenis was in de kerk van ons dorp. Er waren minder mensen dan bij mijn vader. Roger zat vooraan, alleen, op de eerste rij. Zijn zoon Patrick was niet gekomen. Hij woonde in Alicante. Hij had gebeld, zei Roger achteraf, op de koffietafel, met een broodje hesp in zijn hand dat hij niet at. 'Hij kon zo snel geen vlucht vinden. Hij komt met kerstmis. Dat zegt hij.' Roger keek naar het broodje. 'Dat zegt hij elk jaar.'
+De begrafenis was in de kerk van ons dorp. Er waren minder mensen dan bij mijn vader. Roger zat vooraan, alleen, op de eerste rij. Zijn zoon Patrick was niet gekomen. Hij woonde in Alicante. Hij had gebeld, zei Roger achteraf, op de koffietafel, met een broodje hesp in zijn hand dat hij niet at. 'Hij kon zo snel geen vlucht vinden. Hij komt met Kerstmis. Dat zegt hij.' Roger keek naar het broodje. 'Dat zegt hij elk jaar.'
 
 Ik had nooit geweten dat Roger een zoon had. Dat wil zeggen: ik had het geweten, op de manier waarop je weet dat de buren een zoon hebben, uit een zin die ooit gevallen was, *onze Patrick woont in Spanje*, maar ik had er nooit aan gedacht. Roger was voor mij de man van de haag. De man van *wanneer beginnen jullie eraan*. De man met de drie vingers. Ik had nooit gedacht dat hij zelf ooit een kind had gekregen, en dat dat kind ver weg was, en dat hij op zondagmorgen om negen uur een haag snoeide die niet gesnoeid moest worden, al vijfentwintig jaar, in een straat waar zijn zoon nooit meer kwam.
 
@@ -2232,7 +2264,7 @@ Ik lag in de kleine kamer, onder de raketten, met mijn voeten op de stoel. Ik lu
 
 Ik lag er een kwartier. Toen stond ik op en kleedde me aan en ging naar beneden en naar buiten.
 
-Roger zat op een tuinstoel in zijn voortuin, in zijn kamerjas, met een kop koffie. Fanny Twee lag aan zijn voeten. De haag stond naast hem. Ze was niet gesnoeid. Ze was al drie weken niet gesnoeid, sinds Jeanine in het ziekenhuis lag, en je zag het. Er staken takken uit, wilde scheuten, lichtgroen, in alle richtingen, zoals het haar van iemand die net wakker is.
+Roger zat op een tuinstoel in zijn voortuin, in zijn kamerjas, met een kop koffie. Fanny Twee lag aan zijn voeten. De haag stond naast hem. Ze was niet gesnoeid. Ze was al vier weken niet gesnoeid, sinds Jeanine in het ziekenhuis lag, en je zag het. Er staken takken uit, wilde scheuten, lichtgroen, in alle richtingen, zoals het haar van iemand die net wakker is.
 
 'Morgen, Roger,' zei ik.
 
@@ -2244,9 +2276,9 @@ Hij keek naar mij. Hij keek naar de haag. Ik zag hem nadenken. Ik zag dat het ee
 
 'De schaar ligt in de garage,' zei hij. 'Op de werkbank.'
 
-Ik haalde de schaar. Het was een elektrische haagschaar van een merk dat al lang niet meer bestond, met een lange snoer dat aan een haspel zat. Ik rolde het snoer af naar het stopcontact in zijn garage. Ik had nog nooit een haag gesnoeid. We hebben geen haag. We hebben een draadafsluiting met klimop.
+Ik haalde de schaar. Het was een elektrische haagschaar van een merk dat al lang niet meer bestond, met een lang snoer dat aan een haspel zat. Ik rolde het snoer af naar het stopcontact in zijn garage. Ik had nog nooit een haag gesnoeid. We hebben geen haag. We hebben een draadafsluiting met klimop.
 
-Ik zette de schaar aan. Hij maakte het geluid. De wesp. Ik had het al tien jaar elke zondag gehoord en ik had het nog nooit van zo dichtbij gehoord. Het trilde in mijn armen tot in mijn schouders.
+Ik zette de schaar aan. Hij maakte het geluid. De wesp. Ik had het al negen jaar elke zondag gehoord en ik had het nog nooit van zo dichtbij gehoord. Het trilde in mijn armen tot in mijn schouders.
 
 Ik begon. Ik deed het slecht. Ik wist niet hoe diep ik moest gaan, of hoe recht, en ik maakte een gat in de bovenkant dat ik niet meer kon herstellen, en ik ging te diep aan de zijkant zodat je de bruine takken binnenin zag. Roger keek ernaar. Hij zei niets. Na tien minuten stond hij op, zette zijn koffie op de grond, en kwam naast mij staan.
 
@@ -2272,27 +2304,15 @@ Ik hield op met vegen.
 
 'Dat wist ik niet.'
 
-'Nee. Ge vraagt dat niet, hé, aan een oude vent.' Hij lachte, kort. 'En nu zit hij in Alicante. En hij komt met kerstmis. Elk jaar.'
+'Nee. Ge vraagt dat niet, hé, aan een oude vent.' Hij lachte, kort. 'En nu zit hij in Alicante. En hij komt met Kerstmis. Elk jaar.'
 
 Ik stond met de borstel in mijn hand.
 
-'Ik heb het u ooit gevraagd,' zei Roger. 'Lang geleden. Wanneer jullie eraan begonnen. Aan de haag. Weet ge dat nog?'
-
-'Ja.'
-
-'Dat had ik niet mogen vragen.'
-
-'Ge wist het niet, Roger.'
-
-'Nee,' zei hij. Hij boog zich voorover en raapte zijn koffiekop op, die koud moest zijn. Hij keek erin. 'Jeanine zei toen al, toen ik binnenkwam: dat moogt ge niet vragen, Roger. Ze had het van achter het gordijn gezien, aan uw gezicht. Ik zeg: wat? Het is een gewone vraag. Ze zei: er bestaan geen gewone vragen.'
-
 Hij dronk zijn koude koffie. Fanny Twee stond op en rekte zich uit.
-
-'Ze had altijd gelijk,' zei Roger. 'Dat was het ambetante aan haar.'
 
 Ik veegde de laatste takjes op en deed ze in de groene container. Ik rolde het snoer op de haspel. Ik legde de schaar terug op de werkbank in zijn garage, op de plaats waar een contour van stof was achtergebleven.
 
-Ik heb sindsdien elke zondag om negen uur zijn haag gesnoeid. Niet elke zondag. Elke zondag dat het moest. Roger zegt wanneer het moet. Hij zit erbij in zijn tuinstoel. Hij zegt: 'Van onder naar boven.' Ik weet het al. Hij zegt het toch.
+Ik heb sindsdien elke zondag om negen uur zijn haag gesnoeid. Elke zondag dat het moest. Roger zegt wanneer het moet. Hij zit erbij in zijn tuinstoel. Hij zegt: 'Van onder naar boven.' Ik weet het al. Hij zegt het toch.
 
 ---
 
@@ -2442,7 +2462,7 @@ Ik stond aan de gootsteen met de pan in mijn hand en de afwasborstel in de ander
 
 'Ja.'
 
-'Ge moet niet direct antwoorden. Ik weet dat... Allee. Ge weet wat ik bedoel. Als ge het niet wilt, is dat ook goed. Dan vragen we het aan Nathalie haar broer. Maar ik wilde het eerst aan u vragen. Ik heb het deze keer eerst aan u gevraagd.' Hij was even stil. 'Ik heb het niet drie keer moeten proberen. Ik heb gewoon gebeld.'
+'Ge moet niet direct antwoorden. Ik weet dat... Allee. Ge weet wat ik bedoel. Als ge het niet wilt, is dat ook goed. Dan vragen we het aan Nathalie haar broer. Maar ik wilde het eerst aan u vragen.'
 
 'Ja,' zei ik.
 
@@ -2532,9 +2552,61 @@ Ze keek naar me. Ze keek naar de twee helften in mijn hand. Toen begon ze te lac
 
 'Ja.'
 
-Toen we uitgelachen waren, deed ik de twee doosjes van Lena in een plastic zak, en de gebroken suikerboon erbij. Thuis gooide ik de zak in de vuilbak. Niet de PMD. De restafval. Ik weet niet waar doopsuiker hoort. Ik heb het niet opgezocht.
+Toen we uitgelachen waren, deed ik de twee doosjes van Lena in een plastic zak, en de gebroken suikerboon erbij. Thuis gooide ik de zak in de vuilbak. In het restafval. Ik weet niet waar doopsuiker hoort. Ik heb het niet opgezocht.
 
 Het doosje van Mila zette ik in het handschoenkastje. Bovenaan.
+
+---
+
+In juni, op een zaterdagvoormiddag, kregen we ruzie over het plooibed.
+
+Lies stond in de kleine kamer met de deur wijd open en het raam open, omdat ze vond dat het er muf rook. Ze had het overtrek met de raketten van het plooibed genomen en hield het onder haar arm.
+
+'Ik ga dat naar Ilse brengen,' zei ze. 'Voor een ander pleeggezin. En het plooibed ook. Dat staat hier maar.'
+
+'Het staat hier niet maar,' zei ik.
+
+'Het staat daar sinds december, Steven. Opengeplooid. Ge hebt het niet eens dichtgedaan.'
+
+'Het kan nog dienen.'
+
+'Waarvoor?'
+
+Ik had geen antwoord. Ik stond in de deuropening in mijn zaterdagse trui met een vlek van verf op de mouw. Ik keek naar het plooibed. Het was een ding van de Ikea, met een hendeltje dat klemde. Het was niets.
+
+'Gij bewaart alles,' zei Lies. Ze zei het niet kwaad. Ze zei het zoals ze een resultaat zou voorlezen. 'Stopcontactbeveiligers. Doopsuiker in uw handschoenkastje. Een schrift met parkeerkosten van zeven jaar geleden. Ge hebt een doos van uw vader die ge niet opendoet.'
+
+'Ik heb ze opengedaan.'
+
+'Eén keer. Voor een trein.'
+
+'En gij,' zei ik. 'Gij hebt uw Excelbestand nog.'
+
+Ze keek me aan.
+
+'Met uw cycli,' zei ik. 'Sinds 2014. Met een kolom voor de temperatuur. Ge hebt dat nog op uw laptop. Ik weet dat ge dat nog hebt.'
+
+'Ik heb dat gewist,' zei ze. 'In juni 2020. Na de barbecue.'
+
+Ik zei niets. Ik had het niet geweten. Ik had drie jaar gedacht dat het er nog was, in een map op haar laptop, en dat zij het soms opendeed, 's nachts, zoals ik de deur van de kleine kamer opendeed. Ze had het gewist en het me niet gezegd, en ik had niet gevraagd, en zo hadden we elk drie jaar in een ander huis gewoond, met dezelfde voordeur.
+
+'Ik dacht dat het er nog was,' zei ik.
+
+'Ik weet het,' zei ze. 'Ge kijkt soms naar mijn laptop alsof er iets in zit.'
+
+Buiten stond Roger aan zijn haag, met zijn handen op zijn rug, te kijken of ze morgen moest. Hij keek naar ons open raam, en weer naar de haag. Fanny Twee lag op de stoep in de zon.
+
+'Het overtrek mag weg,' zei ik.
+
+'En het plooibed?'
+
+'Het plooibed blijft.'
+
+Lies keek naar het plooibed, en naar mij, en weer naar het plooibed. Ik zag haar rekenen. Ik zag haar besluiten dat dit geen ruzie was die ze wilde winnen.
+
+'Goed,' zei ze. Het was mijn woord. Ze gebruikte het zelden.
+
+Ze bracht het overtrek die maandag naar Ilse, in een papieren zak van de Delhaize. Ilse stuurde een berichtje terug met een duimpje. Het plooibed heb ik die avond dichtgeplooid. Het hendeltje klemde. Het staat er nog.
 
 ---
 
@@ -2562,29 +2634,27 @@ Ze zit er 's avonds. Niet elke avond. Ze leest of ze kijkt in haar microscoop of
 
 ---
 
-De kleine kamer is gebleven zoals ze was. Het plooibed staat rechtop tegen de muur. De bananendoos staat in de hoek, met de Lego en de autootjes en Barry erin, zonder de trein. De tekening van Dylan hangt tussen twee ballonnen, met plakband die geel begint te worden. Het overtrek met de raketten ligt opgevouwen op het plooibed.
+De kleine kamer is gebleven zoals ze was. Het plooibed staat rechtop tegen de muur. De bananendoos staat in de hoek, met de Lego en de autootjes en Barry erin, zonder de trein. De tekening van Dylan hangt tussen twee ballonnen, met plakband die geel begint te worden. Het overtrek met de raketten is weg.
 
 Ik ga er soms binnen. Ik doe er niets. Ik sta er.
 
-Ik heb het behang niet afgestoomd. Ik ga het niet afstomen. Dat heb ik niet besloten. Het is gewoon niet gebeurd, tien jaar lang, en ik denk dat iets wat tien jaar niet gebeurd is, mag blijven zoals het is. De poppetjes in de mandjes zwaaien nog.
+Ik heb het behang niet afgestoomd. Ik ga het niet afstomen. Het is gewoon niet gebeurd, tien jaar lang. De poppetjes in de mandjes zwaaien nog.
 
 ---
 
-Ik scheer me elke ochtend met een mesje. Ik heb dat altijd gedaan. Lies heeft me ooit een elektrisch scheerapparaat gegeven, voor mijn veertigste, en het ligt nog in de doos in de badkamerkast, naast de wattenstaafjes, op de plaats waar vroeger de ovulatietesten lagen. Ik denk dat ik het gevoel nodig heb van het mesje dat over mijn huid gaat, dat ik moet opletten, dat ik me kan snijden als ik niet oplet.
+Ik scheer me elke ochtend met een mesje. Ik heb dat altijd gedaan. Lies heeft me ooit een elektrisch scheerapparaat gegeven, voor mijn veertigste, en het ligt nog in de doos in de badkamerkast, naast de wattenstaafjes, op de plaats waar vroeger de ovulatietesten lagen.
 
 Op een ochtend in september stond ik me te scheren en keek ik in de spiegel naar een man van eenenveertig met schuim op zijn gezicht en een kruin die dun werd. Ik had het nooit zo goed gezien. Ik zag het nu, in de spiegel van de badkamerkast, omdat Lies er een lamp boven had gehangen, een nieuwe, met led, die alles toonde.
 
 Ik dacht: dit is het.
 
-Ik dacht het niet als een groot moment. Ik dacht het zoals je denkt dat de melk op is. Ik had al die jaren gewacht. Op de uitslag, op het streepje, op de hartslag, op een verklaring. Ik dacht dat er ergens een loket was.
-
-Er was geen loket. Er was een man die zich stond te scheren. Er was de Siemens beneden, die om zes uur gepiept had. Er was de choco in de frigo, op de bovenste plank, rechts. Er was een vrouw in de kamer van Zacht Salie die naar een raderdiertje keek. Er was een buurman die zondag zijn haag gesnoeid wilde hebben. Er was een meisje van acht maanden met een houten trein.
+Ik dacht het zoals je denkt dat de melk op is.
 
 Ik sneed me. Een klein sneetje, onder mijn kaak, links. Er kwam een druppeltje bloed, rond en rood, zo groot als een speldenkop. Ik keek ernaar in de spiegel. Ik dacht aan Lies op de rand van het bad, aan de pen, aan het druppeltje naast haar navel. Ik plakte er een stukje wc-papier op, zoals mijn vader deed, zoals iedere man doet, en ik spoelde het mesje af, en ik ging naar beneden, en ik smeerde mijn boterhammen.
 
 ---
 
-Het is dinsdag. Ik schrijf dit op een dinsdagavond in oktober. Het is anderhalf jaar na Dylan, drie jaar na de datum zonder bedrag, vier jaar na mijn vader, zeven jaar na de olijfpit. Het is halftien. Lies zit in haar kamer. De deur staat open. Ik hoor haar een bladzijde omslaan.
+Het is dinsdag. Ik schrijf dit op een dinsdagavond in oktober. Het is anderhalf jaar na Dylan, drie jaar na de datum zonder bedrag, vier jaar na mijn vader, zeven jaar na de olijfpit. Het is half tien. Lies zit in haar kamer. De deur staat open. Ik hoor haar een bladzijde omslaan.
 
 Straks ga ik naar boven. Ik doe het licht uit in de keuken. Ik kijk of de achterdeur op slot is. Ik zet het nachtlampje van de Hema aan op de overloop. Ik blijf staan bij de drie deuren. Onze deur. De deur van de kamer van Lies. De deur van de kleine kamer, die op een kier staat, met het oranje licht dat erin valt, op de luchtballonnen.
 

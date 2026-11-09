@@ -2,7 +2,7 @@
 
 De mail van het fertiliteitscentrum kwam op maandag 16 maart 2020, om 17.42 uur, en het onderwerp was *Belangrijke mededeling: tijdelijke opschorting van behandelingen*.
 
-We hadden een afspraak voor 2 april. Een ontdooiing en een terugplaatsing, de eerste uit de diepvries. Het had lang geduurd voor we zover waren. Na de begrafenis van mijn vader was de zomer gekomen, en na de zomer had Lies gezegd: 'Na de kerstperiode. Ik wil niet weer met Kerstmis.' Ik had niet gevraagd wat ze bedoelde. Ik wist wat ze bedoelde. Na Kerstmis had ze gezegd: 'In het voorjaar. Als het licht is.' Ik had geknikt. Er was in die tijd altijd een reden om nog even te wachten, en elke reden was goed, en ik denk nu dat we allebei een beetje bang waren voor de diepvries. Zolang ze in de ketel zaten, waren ze een mogelijkheid. Een mogelijkheid kan niet mislukken.
+We hadden een afspraak voor 2 april. Een ontdooiing en een terugplaatsing, de eerste uit de diepvries. Het had lang geduurd voor we zover waren. Na de begrafenis van mijn vader was de zomer gekomen, en na de zomer had Lies gezegd: 'Na de kerstperiode. Ik wil niet weer met Kerstmis.' Ik wist wat ze bedoelde. Na Kerstmis had ze gezegd: 'In het voorjaar. Als het licht is.' Ik had geknikt. Er was in die tijd altijd een reden om nog even te wachten, en elke reden was goed, en ik denk nu dat we allebei een beetje bang waren voor de diepvries. Zolang ze in de ketel zaten, waren ze een mogelijkheid. Een mogelijkheid kan niet mislukken.
 
 In de mail stond dat het centrum, in navolging van de richtlijnen van de overheid en van de Belgische Vereniging voor Reproductieve Geneeskunde, alle nieuwe behandelingen tot nader order opschortte. Dat lopende behandelingen indien mogelijk werden afgerond. Dat ingevroren embryo's veilig bewaard bleven. Dat we, en dat had iemand in het vet gezet, *geen contact moesten opnemen met het secretariaat* omdat zij ons zouden contacteren zodra er meer duidelijkheid was. Met vriendelijke groeten. Het team.
 
@@ -78,7 +78,7 @@ Ze hield op toen het liedje gedaan was. Ze keek naar beneden en zag me kijken.
 
 Ze veegde over haar wang en maakte het erger. Ik lachte. Ze lachte. Ze kwam de ladder af en veegde haar verfhand aan mijn T-shirt af, op mijn borst, een grote witte hand op een grijs T-shirt, en ik pakte de kwast en zette een stip op haar neus, en zij nam de rol, en daarna waren we vijf minuten lang twee mensen van achtendertig en zevenendertig die elkaar met verf achternaliepen rond een stapel met plastic afgedekte zetels, en het was belachelijk, en ik weet niet wanneer ik me ooit gelukkiger heb gevoeld.
 
-Daarna vrijden we op het plastic. Het was geen vuurwerkjesdag. Ik wist niet welke dag het was. Ik denk dat zij het wel wist, maar ze zei het niet, en ik vroeg het niet, en het plastic kraakte en plakte aan onze rug en er zat verf in haar haar, en achteraf lagen we naast elkaar naar het plafond te kijken, dat nog geel was.
+Daarna vrijden we op het plastic. Ik wist niet welke dag het was. Ik denk dat zij het wel wist, maar ze zei het niet, en ik vroeg het niet, en het plastic kraakte en plakte aan onze rug en er zat verf in haar haar, en achteraf lagen we naast elkaar naar het plafond te kijken, dat nog geel was.
 
 'Het plafond moet ook,' zei Lies.
 

@@ -126,7 +126,7 @@ Lies stond in de kleine kamer met de deur wijd open en het raam open, omdat ze v
 
 Ik had geen antwoord. Ik stond in de deuropening in mijn zaterdagse trui met een vlek van verf op de mouw. Ik keek naar het plooibed. Het was een ding van de Ikea, met een hendeltje dat klemde. Het was niets.
 
-'Gij bewaart alles,' zei Lies. Ze zei het niet kwaad. Ze zei het zoals ze een resultaat zou voorlezen. 'Stopcontactbeveiligers. Doopsuiker in uw handschoenkastje. Een schrift met parkeertickets van zeven jaar geleden. Ge hebt een doos van uw vader die ge niet opendoet.'
+'Gij bewaart alles,' zei Lies. Ze zei het niet kwaad. Ze zei het zoals ze een resultaat zou voorlezen. 'Stopcontactbeveiligers. Doopsuiker in uw handschoenkastje. Een schrift met parkeerkosten van zeven jaar geleden. Ge hebt een doos van uw vader die ge niet opendoet.'
 
 'Ik heb ze opengedaan.'
 
@@ -190,7 +190,7 @@ De kleine kamer is gebleven zoals ze was. Het plooibed staat rechtop tegen de mu
 
 Ik ga er soms binnen. Ik doe er niets. Ik sta er.
 
-Ik heb het behang niet afgestoomd. Ik ga het niet afstomen. Dat heb ik niet besloten. Het is gewoon niet gebeurd, tien jaar lang. De poppetjes in de mandjes zwaaien nog.
+Ik heb het behang niet afgestoomd. Ik ga het niet afstomen. Het is gewoon niet gebeurd, tien jaar lang. De poppetjes in de mandjes zwaaien nog.
 
 ---
 
@@ -200,7 +200,7 @@ Op een ochtend in september stond ik me te scheren en keek ik in de spiegel naar
 
 Ik dacht: dit is het.
 
-Ik dacht het niet als een groot moment. Ik dacht het zoals je denkt dat de melk op is.
+Ik dacht het zoals je denkt dat de melk op is.
 
 Ik sneed me. Een klein sneetje, onder mijn kaak, links. Er kwam een druppeltje bloed, rond en rood, zo groot als een speldenkop. Ik keek ernaar in de spiegel. Ik dacht aan Lies op de rand van het bad, aan de pen, aan het druppeltje naast haar navel. Ik plakte er een stukje wc-papier op, zoals mijn vader deed, zoals iedere man doet, en ik spoelde het mesje af, en ik ging naar beneden, en ik smeerde mijn boterhammen.
 

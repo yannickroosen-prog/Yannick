@@ -32,7 +32,7 @@ We lopen in hetzelfde tempo. Dat is zeldzaam. De meeste mensen lopen sneller of 
 
 Hij vraagt nooit of ik kinderen heb. Ik weet niet of hij het weet. Ik denk dat het in het labo bekend is dat ik in 2017 en 2018 vaak afwezig was voor *medische afspraken*. Ik denk dat de mensen hun conclusies hebben getrokken. Ik denk dat Ward ze ook getrokken heeft en dat hij daarom niet vraagt. Dat is het eerste wat ik aan hem goed vond.
 
-Op een donderdag in maart lopen we langs de Leie en het is de eerste warme dag. Er zitten mensen op de kaaien met blikjes, voor het eerst na de winter. Er hangt een geur van gras en water en een frituur. Ward stopt bij een bank, met zijn handen op zijn knieën, en zegt: 'Ik ben te oud voor dit.' Ik stop ook. Ik ben niet moe. Ik stop omdat hij stopt.
+Op een donderdag in maart lopen we langs de Leie en het is de eerste warme dag. Er zitten mensen op de kaaien met blikjes, voor het eerst na de winter. Er hangt een geur van gras en water en een frituur. Ward stopt bij een bank, met zijn handen op zijn knieën, en zegt: 'Ik ben te oud voor dit.' Ik stop ook. Ik stop omdat hij stopt.
 
 'Mag ik iets zeggen?' zegt hij.
 
@@ -48,7 +48,7 @@ Ik kijk naar hem. Hij kijkt niet naar mij. Hij kijkt naar het water.
 
 We lopen verder. Ik loop een beetje sneller dan nodig. Hij past zich aan. Bij het labo houden we stil aan de achteringang en hij houdt de deur voor me open, en ik loop langs hem, dichtbij, en ik ruik zijn zweet, en ik denk: als ik nu iets zou doen. Ik denk het heel duidelijk, als een zin. *Als ik nu iets zou doen.* Ik doe niets. Ik ga naar de kleedkamer. Ik neem een douche. Ik doe mijn labojas aan en ga naar mijn stomacher en ik zet er een staal salami in, vijfentwintig gram, en het apparaat klopt negentig seconden lang met vlakke handen op een deur.
 
-Ik wil niet met Ward slapen. Dat is de waarheid. Ik heb er een paar keer over nagedacht, op de manier waarop je nadenkt over een appartement in de Brugse Poort, maar ik wil het niet. Wat ik wil, is iets anders, en het is erger. Ik wil iemand zijn die niet *de vrouw die geen kinderen kan krijgen* is. Ward kent mij niet zo. Voor Ward ben ik iemand die zes kilometer loopt in vijfendertig minuten. Dat is alles. Het is niet veel. Het is meer dan ik thuis ben.
+Ik wil niet met Ward slapen. Dat is de waarheid. Ik heb er een paar keer over nagedacht, op de manier waarop je nadenkt over een appartement in de Brugse Poort, maar ik wil het niet. Wat ik wil, is iets anders, en het is erger. Ik wil iemand zijn die niet *de vrouw die geen kinderen kan krijgen* is. Ward kent mij niet zo. Voor Ward ben ik iemand die zes kilometer loopt in vijfendertig minuten. Dat is alles. Het is meer dan ik thuis ben.
 
 ---
 
@@ -88,7 +88,7 @@ Ik denk erover na. Dat is het rare. Ik doe het echt. Ik zoek het op, die avond. 
 
 Respijt. Een weekend per maand, of een paar dagen in de vakantie, voor een kind dat thuis woont, bij ouders die het moeilijk hebben, zodat die ouders even op adem kunnen komen. Het kind gaat altijd terug. Dat is de bedoeling. Het is een pauze. Voor iemand anders.
 
-Ik lees het drie keer. Ik denk aan de kleine kamer. Ik denk niet: dit lost het op. Ik ben niet dom. Ik weet dat een kind dat een weekend per maand komt en altijd teruggaat, niet het kind is dat we niet hebben gekregen. Ik weet dat het misschien erger is. Dat je elke maand opnieuw een kind uitzwaait. Ik ben laborante. Ik kan een risico inschatten.
+Ik lees het drie keer. Ik denk aan de kleine kamer. Ik ben niet dom. Ik weet dat een kind dat een weekend per maand komt en altijd teruggaat, niet het kind is dat we niet hebben gekregen. Ik weet dat het misschien erger is. Dat je elke maand opnieuw een kind uitzwaait. Ik ben laborante. Ik kan een risico inschatten.
 
 Maar ik denk ook: er is iemand die het moeilijk heeft. Er is ergens een moeder die niet slaapt. Er is een kind dat een weekend ergens moet zijn.
 

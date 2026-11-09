@@ -126,7 +126,7 @@ Het was half tien toen we vertrokken. Het was nog licht, dat zomerse grijs na de
 
 'Wat?'
 
-'Kristof. Dat hij het niet wist hoe hij het moest zeggen.'
+'Kristof. Dat hij niet wist hoe hij het moest zeggen.'
 
 'Hoe weet gij dat?'
 

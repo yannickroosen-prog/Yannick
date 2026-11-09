@@ -86,7 +86,7 @@ Ik lag in de kleine kamer, onder de raketten, met mijn voeten op de stoel. Ik lu
 
 Ik lag er een kwartier. Toen stond ik op en kleedde me aan en ging naar beneden en naar buiten.
 
-Roger zat op een tuinstoel in zijn voortuin, in zijn kamerjas, met een kop koffie. Fanny Twee lag aan zijn voeten. De haag stond naast hem. Ze was niet gesnoeid. Ze was al drie weken niet gesnoeid, sinds Jeanine in het ziekenhuis lag, en je zag het. Er staken takken uit, wilde scheuten, lichtgroen, in alle richtingen, zoals het haar van iemand die net wakker is.
+Roger zat op een tuinstoel in zijn voortuin, in zijn kamerjas, met een kop koffie. Fanny Twee lag aan zijn voeten. De haag stond naast hem. Ze was niet gesnoeid. Ze was al vier weken niet gesnoeid, sinds Jeanine in het ziekenhuis lag, en je zag het. Er staken takken uit, wilde scheuten, lichtgroen, in alle richtingen, zoals het haar van iemand die net wakker is.
 
 'Morgen, Roger,' zei ik.
 
@@ -100,7 +100,7 @@ Hij keek naar mij. Hij keek naar de haag. Ik zag hem nadenken. Ik zag dat het ee
 
 Ik haalde de schaar. Het was een elektrische haagschaar van een merk dat al lang niet meer bestond, met een lang snoer dat aan een haspel zat. Ik rolde het snoer af naar het stopcontact in zijn garage. Ik had nog nooit een haag gesnoeid. We hebben geen haag. We hebben een draadafsluiting met klimop.
 
-Ik zette de schaar aan. Hij maakte het geluid. De wesp. Ik had het al tien jaar elke zondag gehoord en ik had het nog nooit van zo dichtbij gehoord. Het trilde in mijn armen tot in mijn schouders.
+Ik zette de schaar aan. Hij maakte het geluid. De wesp. Ik had het al negen jaar elke zondag gehoord en ik had het nog nooit van zo dichtbij gehoord. Het trilde in mijn armen tot in mijn schouders.
 
 Ik begon. Ik deed het slecht. Ik wist niet hoe diep ik moest gaan, of hoe recht, en ik maakte een gat in de bovenkant dat ik niet meer kon herstellen, en ik ging te diep aan de zijkant zodat je de bruine takken binnenin zag. Roger keek ernaar. Hij zei niets. Na tien minuten stond hij op, zette zijn koffie op de grond, en kwam naast mij staan.
 

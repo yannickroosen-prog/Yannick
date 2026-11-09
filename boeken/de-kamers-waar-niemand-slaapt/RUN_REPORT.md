@@ -12,3 +12,12 @@
 - Fase 5: pass 1 (alle tickets + nieuwe scène h13), verificatie-audit → 1 nieuwe high (continuïteit) → pass 2; eindpanel → h13 2/4 → pass 3 → A/B 3/4. Rubriek: 7,94 ruw / 7,14 gekalibreerd, poort niet gehaald.
 - Fase 6: `artifacts/11-genesis-score.md`.
 - Fase 7: pakket + positionering; hooktest afgebroken door gebruikslimiet (niet uitgevoerd). Export: `delivery/manuscript.md` + EPUB, validatie passed, 42.457 woorden.
+- Opvolgronde ("maak in orde wat nog niet in orde is"):
+  - Middenstuk herwerkt (kostenschrift als lijst in h6; h8 en h9 eindigen op dialoog); ontkenningscontrasten teruggedrongen.
+  - Taalcorrectie door aparte subagent: 33 correcties + 3 continuïteitsfixes.
+  - Comps geverifieerd via webonderzoek (01-market-map, aanvulling met bronnen).
+  - Hooktest uitgevoerd: A (titel) wint, C tweede; flaptekst aangescherpt.
+  - Eindpanel met vier aparte contexten op 10 hoofdstukken (incl. eerder overgeslagen checkpoints h4 en h11): alle ≥3/4.
+  - Volledige audit: revise (2 high) → verwerkt + nieuwe scènes h11 (misgelopen weekend) en h14 (ruzie over het plooibed); verificatie: 2 nieuwe high (continuïteit) → verwerkt; gerichte slotverificatie: pass.
+  - Rubriek door twee beoordelaars: mediaan ruw 8,06, gekalibreerd 7,26; poort (8,5) niet gehaald.
+  - Export opnieuw: 42.232 woorden, EPUB gevalideerd.
