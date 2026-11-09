@@ -70,7 +70,7 @@ De verhuisdozen gingen naar de zolder, voor zover ze daar pasten, en wat er niet
 
 De bananendoos van mijn vader bleef staan. Ik zette ze in de hoek, tegen de muur. Lies zei er niets over.
 
-We kochten een plooibed bij de Ikea. Pleegzorg had gezegd dat een gewoon bed niet nodig was voor respijt, dat een plooibed volstond, of een zetelbed, en we hadden even overwogen om een echt bed te kopen, en toen hadden we het niet gedaan. Ik weet niet wie van ons twee eerst *plooibed* zei. Ik denk dat we het tegelijk zeiden. Er was iets aan een echt bed wat we niet durfden. Een echt bed blijft staan.
+We kochten een plooibed bij de Ikea. Pleegzorg had gezegd dat een gewoon bed niet nodig was voor respijt, dat een plooibed volstond, of een zetelbed, en we hadden even overwogen om een echt bed te kopen, en toen hadden we het niet gedaan. Ik weet niet wie van ons twee eerst *plooibed* zei. Ik denk dat we het tegelijk zeiden.
 
 Lies kocht een dekbedovertrek met raketten erop. Ze stond er lang mee in de Ikea, met het overtrek in de verpakking in haar handen, tussen de overtrekken met dinosaurussen en die met paarden en die met voetballen, en ze koos de raketten, en ik vroeg waarom, en ze zei: 'Omdat het bij de ballonnen past. Alles wat vliegt.'
 

@@ -110,7 +110,7 @@ Het doosje van Mila zette ik in het handschoenkastje. Bovenaan.
 
 ---
 
-In april, op een zaterdagvoormiddag, kregen we ruzie over het plooibed.
+In juni, op een zaterdagvoormiddag, kregen we ruzie over het plooibed.
 
 Lies stond in de kleine kamer met de deur wijd open en het raam open, omdat ze vond dat het er muf rook. Ze had het overtrek met de raketten van het plooibed genomen en hield het onder haar arm.
 
@@ -118,7 +118,7 @@ Lies stond in de kleine kamer met de deur wijd open en het raam open, omdat ze v
 
 'Het staat hier niet maar,' zei ik.
 
-'Het staat tegen de muur, Steven. Het staat daar al tien maanden tegen de muur.'
+'Het staat daar sinds december, Steven. Opengeplooid. Ge hebt het niet eens dichtgedaan.'
 
 'Het kan nog dienen.'
 
@@ -146,7 +146,7 @@ Ik zei niets. Ik had het niet geweten. Ik had drie jaar gedacht dat het er nog w
 
 'Ik weet het,' zei ze. 'Ge kijkt soms naar mijn laptop alsof er iets in zit.'
 
-Buiten startte Roger zijn haagschaar. Het was zaterdag. Het was geen zondag. Hij had het weekend van de haag verplaatst omdat zijn zoon zondag zou bellen, uit Alicante, dat had hij me gezegd. De wesp met een mening ging aan en uit, aan en uit, korte stukjes, alsof hij niet zeker was.
+Buiten stond Roger aan zijn haag, met zijn handen op zijn rug, te kijken of ze morgen moest. Hij keek naar ons open raam, en weer naar de haag. Fanny Twee lag op de stoep in de zon.
 
 'Het overtrek mag weg,' zei ik.
 
@@ -158,7 +158,7 @@ Lies keek naar het plooibed, en naar mij, en weer naar het plooibed. Ik zag haar
 
 'Goed,' zei ze. Het was mijn woord. Ze gebruikte het zelden.
 
-Ze bracht het overtrek die maandag naar Ilse, in een papieren zak van de Delhaize. Ilse stuurde een berichtje terug met een duimpje. Het plooibed staat er nog.
+Ze bracht het overtrek die maandag naar Ilse, in een papieren zak van de Delhaize. Ilse stuurde een berichtje terug met een duimpje. Het plooibed heb ik die avond dichtgeplooid. Het hendeltje klemde. Het staat er nog.
 
 ---
 
@@ -190,11 +190,11 @@ De kleine kamer is gebleven zoals ze was. Het plooibed staat rechtop tegen de mu
 
 Ik ga er soms binnen. Ik doe er niets. Ik sta er.
 
-Ik heb het behang niet afgestoomd. Ik ga het niet afstomen. Dat heb ik niet besloten. Het is gewoon niet gebeurd, tien jaar lang, en ik denk dat iets wat tien jaar niet gebeurd is, mag blijven zoals het is. De poppetjes in de mandjes zwaaien nog.
+Ik heb het behang niet afgestoomd. Ik ga het niet afstomen. Dat heb ik niet besloten. Het is gewoon niet gebeurd, tien jaar lang. De poppetjes in de mandjes zwaaien nog.
 
 ---
 
-Ik scheer me elke ochtend met een mesje. Ik heb dat altijd gedaan. Lies heeft me ooit een elektrisch scheerapparaat gegeven, voor mijn veertigste, en het ligt nog in de doos in de badkamerkast, naast de wattenstaafjes, op de plaats waar vroeger de ovulatietesten lagen. Ik denk dat ik het gevoel nodig heb van het mesje dat over mijn huid gaat, dat ik moet opletten, dat ik me kan snijden als ik niet oplet.
+Ik scheer me elke ochtend met een mesje. Ik heb dat altijd gedaan. Lies heeft me ooit een elektrisch scheerapparaat gegeven, voor mijn veertigste, en het ligt nog in de doos in de badkamerkast, naast de wattenstaafjes, op de plaats waar vroeger de ovulatietesten lagen.
 
 Op een ochtend in september stond ik me te scheren en keek ik in de spiegel naar een man van eenenveertig met schuim op zijn gezicht en een kruin die dun werd. Ik had het nooit zo goed gezien. Ik zag het nu, in de spiegel van de badkamerkast, omdat Lies er een lamp boven had gehangen, een nieuwe, met led, die alles toonde.
 
