@@ -1,0 +1,62 @@
+[
+  {
+    "reader": "Joris",
+    "chapter": 11,
+    "turn_page": "yes",
+    "stopped_at": {"quote": "Er was iets aan een echt bed wat we niet durfden. Een echt bed blijft staan."},
+    "why_stopped": {"reason": "Het plooibed was genoeg; de verteller legt het symbool uit en ik voel de auteur over zijn schouder meekijken, maar het blijft bij één zin, dus ik lees door."},
+    "remember_tomorrow": [
+      {"quote": "Hij zei het tegen niemand. Hij zei het tegen de speculoos.", "reason": "Droog, Elsschotiaans, zonder één woord zelfmedelijden."},
+      {"quote": "Ik had niet hard genoeg doorgestreept.", "reason": "De hele schuld van de man in één administratieve handeling."},
+      {"quote": "'Die van u valt altijd stil,' zei Dylan. 'Ik heb het gezien. Deze is in promotie.'", "reason": "Het afscheid gebeurt via een Brico-folder; precies de juiste maat van ontroering."}
+    ],
+    "confused_by": [],
+    "flags": [
+      {"flag": "over_explained", "quote": "Er was iets aan een echt bed wat we niet durfden. Een echt bed blijft staan."},
+      {"flag": "over_explained", "quote": "'Ja,' zei Dylan. 'Maar niks van iemand.'"},
+      {"flag": "cliche", "quote": "'Steven,' fluisterde ze. 'Er slaapt iemand.'"}
+    ],
+    "strongest_passage": {"quote": "Ik hoorde het zelf terwijl ik het zei. Het was de stem van mijn vader, of van Kristof, of van iedere man die om vier uur 's nachts iets moet zeggen en het verkeerde kiest.", "reason": "De verteller betrapt zichzelf op een fout zonder zich vrij te pleiten; de gevolgen (choco niet opgegeten, Kelly twee uur te laat) zijn kaal en echt."},
+    "weakest_passage": {"quote": "'Daarom hebt ge die kamers,' zei hij.", "reason": "Een kind van acht als spreekbuis voor de titel. Hij is geloofwaardig als prijzenrekenaar, niet als thema-orakel; hier wordt de jongen een instrument."},
+    "machine_tells": [
+      {"tell": "contrast door ontkenning", "quote": "Het was niet gelogen. Het was ook niet waar."},
+      {"tell": "contrast door ontkenning", "quote": "Hij zei het niet als een opschepper. Hij zei het als een feit."},
+      {"tell": "contrast door ontkenning", "quote": "Niet de speeltuin, niet het zwembad, niet de film. De Colruyt."},
+      {"tell": "beeld dan uitleg", "quote": "Er was iets aan een echt bed wat we niet durfden. Een echt bed blijft staan."}
+    ],
+    "felt": {"emotion": "tegenzin die overging in een droge keel bij de folder", "reason": "Dylan is geen ontroeringsmachine maar een rekenaar; de schrijver vertrouwt hem bijna overal, behalve bij de pampers."},
+    "confidence": "medium"
+  },
+  {
+    "reader": "Joris",
+    "chapter": 14,
+    "turn_page": "yes",
+    "stopped_at": {"quote": "Ik denk dat ik het gevoel nodig heb van het mesje dat over mijn huid gaat, dat ik moet opletten, dat ik me kan snijden als ik niet oplet."},
+    "why_stopped": {"reason": "Het scheermes wordt eerst als symbool uitgelegd en snijdt dan braaf, met daarna nog een terugverwijzing naar de pen en het druppeltje; dat is het enige stuk waar het boek zijn eigen strik knoopt, maar ik was te dicht bij het einde om af te haken."},
+    "remember_tomorrow": [
+      {"quote": "Ik stak hem in mijn mond. Ik beet. Er kraakte iets. Ik wist niet of het de suikerboon was of mijn tand.", "reason": "Rouw als tandartsrisico, en dan lachen in de Skoda: het beste wat het boek doet, verdriet zonder zalving."},
+      {"quote": "'Ik heb dat gewist,' zei ze. 'In juni 2020. Na de barbecue.'", "reason": "Eén feit dat drie jaar huwelijk herschrijft, zonder dat iemand erover huilt."},
+      {"quote": "'Negenhonderd euro,' zei ik. 'Voor een kroon. Dat zegt Danny.'", "reason": "De boekhouding redt de scène van sentiment."}
+    ],
+    "confused_by": [
+      {"quote": "In april, op een zaterdagvoormiddag, kregen we ruzie over het plooibed.", "reason": "Na het feest in mei springt het terug naar april zonder signaal; ik moest even nadenken of dit een volgend jaar was."}
+    ],
+    "flags": [
+      {"flag": "over_explained", "quote": "Ik denk dat ik het gevoel nodig heb van het mesje dat over mijn huid gaat, dat ik moet opletten, dat ik me kan snijden als ik niet oplet."},
+      {"flag": "over_explained", "quote": "zo hadden we elk drie jaar in een ander huis gewoond, met dezelfde voordeur."},
+      {"flag": "predictable", "quote": "Ik sneed me. Een klein sneetje, onder mijn kaak, links."},
+      {"flag": "continuity_doubt", "quote": "In april, op een zaterdagvoormiddag, kregen we ruzie over het plooibed."}
+    ],
+    "strongest_passage": {"quote": "Ze lachte zo hard dat ze haar hoofd tegen de hoofdsteun legde en haar ogen sloot. Ze lachte haar echte lach, in de Skoda, op de straat van Kristof, en ik begon ook te lachen, met de twee helften van een suikerboon van zeven jaar oud in mijn hand.", "reason": "Het enige moment van verlossing in het boek is een dwaasheid en een lach, geen inzicht. Dat geloof ik."},
+    "weakest_passage": {"quote": "Ik heb het behang niet afgestoomd. Ik ga het niet afstomen. Dat heb ik niet besloten. Het is gewoon niet gebeurd, tien jaar lang, en ik denk dat iets wat tien jaar niet gebeurd is, mag blijven zoals het is.", "reason": "Een levensles in de verpakking van een niet-besluit; de verteller trekt de conclusie die ik zelf al getrokken had."},
+    "machine_tells": [
+      {"tell": "contrast door ontkenning", "quote": "Ik dacht het niet als een groot moment. Ik dacht het zoals je denkt dat de melk op is."},
+      {"tell": "contrast door ontkenning", "quote": "Ze zei het niet kwaad. Ze zei het zoals ze een resultaat zou voorlezen."},
+      {"tell": "moraal aan de deur", "quote": "en ik denk dat iets wat tien jaar niet gebeurd is, mag blijven zoals het is."},
+      {"tell": "recapitulatie", "quote": "Het is anderhalf jaar na Dylan, drie jaar na de datum zonder bedrag, vier jaar na mijn vader, zeven jaar na de olijfpit."},
+      {"tell": "beeld dan uitleg", "quote": "Ik denk dat ik het gevoel nodig heb van het mesje dat over mijn huid gaat"}
+    ],
+    "felt": {"emotion": "een tegenzinnige erkenning; geen spijt van het einde", "reason": "De PMD-zak met twee handen is een strik, maar een kleine, gemaakt van restafval; het boek weigert troost en eindigt op een huishoudelijke handeling, en dat is net genoeg om het te vergeven."},
+    "confidence": "medium"
+  }
+]
