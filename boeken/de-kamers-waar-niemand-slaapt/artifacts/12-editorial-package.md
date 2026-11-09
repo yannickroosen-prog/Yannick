@@ -10,9 +10,9 @@ De vaatwasser van Steven en Lies heeft drie dagen nodig om vol te raken. Boven, 
 
 Wat begint met een app vol vuurwerkjes, wordt een tocht door wachtzalen, potjes met een rood deksel, pennen in de frigo naast de choco en een gele naaldcontainer op de wasmachine. Ondertussen gaat de wereld gewoon door. Broers krijgen kinderen. Schoonmoeders sturen artikels. Collega's zeggen dat je er gewoon niet zoveel mee bezig moet zijn. En de buurman snoeit elke zondag om negen uur zijn haag.
 
-*De kamers waar niemand slaapt* is een rauwe, droog-grappige roman over een man die geen grote woorden heeft voor zijn verdriet, over een vrouw met een eigen woede en een eigen geheim, en over de vraag wat je nog bent als je niet wordt wie je dacht te zullen worden.
+Zijn broer kondigt een derde kind aan. Vijf minuten later begint het te regenen en moet de tuintafel naar binnen. Steven draagt hem.
 
-Een boek dat je laat lachen op het moment dat je zou moeten huilen.
+Lies heeft haar eigen woede, en een geheim dat ze al twintig jaar bij zich draagt.
 
 ## Synopsis (voor uitgevers, met einde)
 **Deel I (2016–2017).** Steven Claeys (34), planner bij een verwarmingsbedrijf in Aalst, en Lies Van Damme (33), laborante voedselveiligheid in Gent, proberen al twee jaar een kind te krijgen. Een olijfpit in de vaatwasser en een afspraak bij het fertiliteitscentrum openen het boek. De onderzoeken leveren "onverklaarde subfertiliteit" op: er is niemand schuldig, en dat ondraaglijke gebrek aan een schuldige wordt Stevens motor. Op het verwelkomingsfeest van zijn nichtje Lena steelt hij doopsuiker, die jarenlang in het handschoenkastje blijft liggen. Na drie inseminaties volgt IVF. Steven zet de spuiten en vindt er, tot zijn schaamte, een taak in. De eerste poging mislukt: hij vindt de test, ingerold in wc-papier.

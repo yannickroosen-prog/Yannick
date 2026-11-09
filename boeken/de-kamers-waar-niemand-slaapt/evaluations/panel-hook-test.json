@@ -1,0 +1,63 @@
+{
+  "test": "Blinde hooktest — De kamers waar niemand slaapt",
+  "datum": "2026-11-09",
+  "bronnen": [
+    "work/hook-packages.md (pakketten A, B, C)",
+    "manuscript/chapters/chapter-01.md (eerste ca. 250 woorden, t/m 'Dan keken ze met twee.')"
+  ],
+  "methode": "Vier lezers, elk onafhankelijk beoordeeld. Per pakket: klikken, kopen, doorlezen na 250 woorden (ja/nee) met één zin motivatie. Rangschikking op totaal aantal ja; Hilde (primaire lezer) beslist bij gelijke stand.",
+  "panel": [
+    {
+      "persona": "Hilde, 52, leesclub Lokeren (Verhulst, Lize Spit, Griet Op de Beeck)",
+      "oordelen": {
+        "A": {"klikken": true, "kopen": true, "doorlezen": true, "reden": "De titel en 'twee deuren die dicht blijven' zijn meteen leesclubmateriaal, en de flap geeft Lies evenveel plaats als Steven; de vaatwasser met 'een kast met ambities' bevestigt de droge toon die beloofd wordt."},
+        "B": {"klikken": true, "kopen": false, "doorlezen": true, "reden": "De potjes met rood deksel en de pennen naast de choco herken ik, maar 'Onverklaard' klinkt als een medisch dossier en de flap draait alleen om Stevens schuldvraag."},
+        "C": {"klikken": true, "kopen": true, "doorlezen": true, "reden": "Een broer die een derde kind aankondigt en een schoonmoeder die het goed meent: dat is een familiescène waar we in de leesclub een avond over praten."}
+      },
+      "voorkeur_bij_gelijkstand": "A, dan C, dan B",
+      "kernreden": "Wil een boek dat beide partners en het huis zelf centraal zet; A's titel en flap doen dat het best, C komt vlak daarna dankzij de herkenbare familiescène."
+    },
+    {
+      "persona": "Joris, 44, criticus, vijandig; haat miseryporno en verlossende verpakking",
+      "oordelen": {
+        "A": {"klikken": false, "kopen": false, "doorlezen": true, "reden": "'Droog-grappig, rauw' en 'wat je bent als je niet wordt wie je dacht te worden' is precies het flapjargon waar ik van gruw, al is de openingsbladzijde zelf verrassend ingehouden."},
+        "B": {"klikken": true, "kopen": false, "doorlezen": true, "reden": "'Geen oorzaak, dus niemand om kwaad op te zijn' is een echte, onsentimentele premisse, maar de slotzin over 'de oneerlijkheid van het leven' zakt terug in het generieke."},
+        "C": {"klikken": true, "kopen": false, "doorlezen": true, "reden": "'Er is geen slechterik' en die tuintafel prikkelen, maar 'lachen waar je zou moeten huilen' en 'de waardigheid van wie de tafel draagt' is verlossende verpakking."}
+      },
+      "kernreden": "De tekst zelf overtuigt hem (geen miserie, droge observatie), maar elke flap verliest hem met een slotzin die betekenis of verlossing komt uitdelen; B en C halen hem net binnen dankzij hun concrete premisse."
+    },
+    {
+      "persona": "Saïda, 37, leest autofictie en moederschapsessays (Cusk, Heti)",
+      "oordelen": {
+        "A": {"klikken": true, "kopen": true, "doorlezen": true, "reden": "Een huwelijk en een lichaam 'inrichten' rond een kind dat niet komt raakt mijn thema, en de verteller die de handleiding van het kinderslot leest laat zien dat het boek met precisie werkt in plaats van met uitroeptekens."},
+        "B": {"klikken": true, "kopen": false, "doorlezen": true, "reden": "De wachtzalen en de medische leegte interesseren me, maar een man die een schuldige zoekt voelt smaller dan wat ik zoek; de opening is wel sterker dan de flap."},
+        "C": {"klikken": false, "kopen": false, "doorlezen": true, "reden": "Dit klinkt als een tragikomische familieroman over ongemakkelijke barbecues, niet als een boek over wat kinderloosheid met een identiteit doet; de opening zelf zou me wel vasthouden."}
+      },
+      "kernreden": "Reageert op lichaam, identiteit en precisie; alleen A belooft die laag, C verkoopt het boek als komedie."
+    },
+    {
+      "persona": "Toevallige luchthavenlezer, geeft elk boek tien bladzijden",
+      "oordelen": {
+        "A": {"klikken": true, "kopen": false, "doorlezen": true, "reden": "Mooie, wat mysterieuze titel, maar de flap is stil; de grap over de vaatwasser als 'kast met ambities' houdt me wel aan het lezen."},
+        "B": {"klikken": true, "kopen": false, "doorlezen": false, "reden": "'Onverklaard' deed me een spanningsroman verwachten, en na 250 woorden over een kapotte vaatwasser voel ik me om de tuin geleid."},
+        "C": {"klikken": true, "kopen": true, "doorlezen": true, "reden": "Een concrete, grappige scène en 'je laat lachen' is precies wat ik op een vlucht wil, en de droge vaatwasseropening lost die belofte meteen in."}
+      },
+      "kernreden": "Koopt op een concrete scène en een belofte van humor; C levert die het duidelijkst, B wekt een verkeerde (thriller)verwachting."
+    }
+  ],
+  "totalen": {
+    "A": {"klikken": 3, "kopen": 2, "doorlezen": 4, "totaal": 9},
+    "B": {"klikken": 4, "kopen": 0, "doorlezen": 3, "totaal": 7},
+    "C": {"klikken": 3, "kopen": 2, "doorlezen": 4, "totaal": 9}
+  },
+  "rangschikking": ["A", "C", "B"],
+  "gelijkstand": "A en C staan gelijk op 9; Hilde scoort beide 3/3 en verkiest A (titel als leesclubhaak, Lies zichtbaar in de flap).",
+  "winnaar": "A — De kamers waar niemand slaapt",
+  "tweede": "C — De tuintafel",
+  "opmerkingen": [
+    "De opening scoort bij drie van de vier lezers ongeacht pakket goed; het verlies zit in de flappen, niet in de tekst.",
+    "B wint de meeste kliks (4) maar geen enkele aankoop: sterke concrete details, zwakke titel en een generieke slotzin.",
+    "Bij Joris sneuvelt elk pakket op de slotzin van de flap; een kale flap zonder conclusie zou hem waarschijnlijk winnen.",
+    "C wint de luchthavenlezer en Joris' klik maar verliest Saïda doordat het boek als komedie oogt."
+  ]
+}

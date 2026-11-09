@@ -1,16 +1,23 @@
 # 13 — Positionering
 
-**Hooktest: niet uitgevoerd.** De gesimuleerde lezersronde over de drie pakketten (`work/hook-packages.md`) werd afgebroken door een gebruikslimiet van de omgeving. Er is dus geen gemeten voorkeur. De aanbeveling hieronder is een redactionele keuze, geen testresultaat.
+## Hooktest (gesimuleerd, `evaluations/panel-hook-test.json`)
+Vier lezers, drie pakketten, eerste ±250 woorden van hoofdstuk 1.
 
-## Pakketten
-- **A — De kamers waar niemand slaapt.** Titel gelijk aan het boek; belofte: huis, huwelijk, het leven is niets verschuldigd.
-- **B — Onverklaard.** Medische ingang ("geen oorzaak, dus niemand om kwaad op te zijn").
-- **C — De tuintafel.** Komische, familiale ingang; "er is geen slechterik in dit boek".
+| Pakket | Klikken | Kopen | Doorlezen | Totaal /12 |
+|---|---|---|---|---|
+| A — De kamers waar niemand slaapt | 3 | 2 | 4 | **9** |
+| B — Onverklaard | 4 | 0 | 3 | 7 |
+| C — De tuintafel | 3 | 2 | 4 | **9** |
 
-## Aanbeveling (redactioneel, ongetest)
-Titel **A** behouden, met de flaptekst uit `12-editorial-package.md` en de tuintafelzin uit pakket C als citaat op de achterflap. B riskeert het boek als "medisch verhaal" te verkopen, wat de brief uitdrukkelijk niet wil.
+**Winnaar: A** (gelijk met C; de primaire lezer Hilde gaf de doorslag). **Tweede: C.**
+- B trekt clicks maar verkoopt niet: de titel doet de luchthavenlezer aan een thriller denken.
+- De vijandige lezer haakte bij elke flaptekst af op de slotzin met zelfbeschrijving ("droog-grappig, rauw", "waardigheid van wie de tafel draagt").
+- Saïda kiest alleen A, omdat Lies daar evenveel ruimte krijgt als Steven.
+
+## Aanbeveling
+Titel A. Flaptekst uit `12-editorial-package.md`, aangepast na de test: de zelfbeschrijvende slotzinnen zijn geschrapt en vervangen door de concrete tuintafelscène uit pakket C en één zin over Lies' geheim. Die aangepaste flaptekst is niet opnieuw getest.
 
 ## Categorie en comps
-Literaire fictie, korte roman (Vlaanderen/Nederland). Comps (ongeverifieerd, zie `01-market-map.md`): Verhulst, Elsschot, Boon. De rubriekbeoordelaar merkte op dat het boek "milder en burgerlijker" is dan Verhulst. Een eerlijkere vergelijking is misschien Elsschot met de ingetogenheid van hedendaagse familieromans. Laat dit nakijken door iemand met zicht op de actuele Vlaamse fondsen.
+Literaire fictie, korte roman. Zie `01-market-map.md` (aanvulling met bronnen): voor zover gevonden geen Nederlandstalige roman over ongewenste kinderloosheid vanuit de man. Nabij: Auke Hulst (rouw van een man om een ongeboren kind), Hanneke Hendrix *Aswoensdag* (IVF, vrouwelijk perspectief), VRT-reeks *De Club* (2023). Toon: Elsschot, Verhulst (milder).
 
 *Gesimuleerd signaal; geen verkoopvoorspelling.*
