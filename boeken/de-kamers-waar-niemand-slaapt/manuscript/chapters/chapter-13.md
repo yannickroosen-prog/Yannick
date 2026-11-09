@@ -36,7 +36,7 @@ Ze knikte. Ze roerde in haar koffie, hoewel ze er geen suiker in deed.
 
 'Ik weet het.'
 
-'Ik ben toen met haar meegegaan,' zei Rita. 'Naar dat centrum. In Gent. Ze was negentien. Ze had alles zelf geregeld, de afspraak, de papieren. Ze had me alleen nodig om te rijden.' Lies had het anders verteld. Ik zei niets. 'Ze heeft het me gezegd op een zondagavond in de keuken en op woensdag had ze alles al geregeld.' Ze schudde haar hoofd. 'Ik heb in die wachtzaal gezeten met mijn handtas en ik heb gebeden. Ik geloof niet eens. Ik heb toch gebeden. Niet dat het niet zou gebeuren. Dat het snel voorbij zou zijn. Voor haar.'
+'Ik ben toen met haar meegegaan,' zei Rita. 'Naar dat centrum. In Gent. Ze was negentien. Ik heb gebeld voor de afspraak, maar zij had alles al uitgezocht, het adres, de papieren, wat ze moest meebrengen. Ze had me nodig om te bellen en om te rijden. Ze heeft het me gezegd op een zondagavond in de keuken en op woensdag zaten we daar.' Ze schudde haar hoofd. 'Ik heb in die wachtzaal gezeten met mijn handtas en ik heb gebeden. Ik geloof niet eens. Ik heb toch gebeden. Niet dat het niet zou gebeuren. Dat het snel voorbij zou zijn. Voor haar.'
 
 'Ze zei dat ge friet hebt gehaald.'
 

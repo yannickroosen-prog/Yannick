@@ -196,7 +196,9 @@ Ik zei niets.
 
 Ze deed haar gordel los. Ze stapte uit. Ze deed het portier niet hard dicht. Ze deed het zachtjes dicht, met twee handen, zoals je een portier dichtdoet als er iemand in de auto slaapt. Ze liep naar de voordeur. Ze opende hem met haar sleutel. Ze ging naar binnen. Het licht in de gang ging aan. Het licht op de overloop ging aan. Het licht in onze slaapkamer ging aan.
 
-Ik bleef in de Picanto zitten. Ik weet niet hoe lang. ---
+Ik bleef in de Picanto zitten. Ik weet niet hoe lang.
+
+---
 
 Ik heb die nacht in de kleine kamer geslapen.
 

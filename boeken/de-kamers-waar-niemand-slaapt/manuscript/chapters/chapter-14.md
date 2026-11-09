@@ -96,7 +96,7 @@ Ik spuwde hem uit in mijn hand. Hij was in twee gebroken. Mijn tand niet. Ik voe
 
 'Of het verouderde. Suiker. Als ge het niet gebruikt.'
 
-Ze keek naar me. Ze keek naar de twee helften in mijn hand. Toen begon ze te lachen. Ze lachte zo hard dat ze haar hoofd tegen de hoofdsteun legde en haar ogen sloot. Ze lachte haar echte lach, in de witte Picanto, op de straat van Kristof, en ik begon ook te lachen, met de twee helften van een suikerboon van zeven jaar oud in mijn hand.
+Ze keek naar me. Ze keek naar de twee helften in mijn hand. Toen begon ze te lachen. Ze lachte zo hard dat ze haar hoofd tegen de hoofdsteun legde en haar ogen sloot. Ze lachte haar echte lach, in de Skoda, op de straat van Kristof, en ik begon ook te lachen, met de twee helften van een suikerboon van zeven jaar oud in mijn hand.
 
 'Negenhonderd euro,' zei ik. 'Voor een kroon. Dat zegt Danny.'
 
@@ -126,7 +126,7 @@ Ze kocht een zetel. Een lelijke, oude fauteuil, van de kringwinkel, met een oran
 
 'Wat is dat?'
 
-'Een raderdiertje,' zei ze. 'Ze kunnen jaren uitgedroogd liggen. Als ze water krijgen, worden ze wakker.'
+'Een raderdiertje,' zei ze. 'Ze zitten overal. In elke plas. Niemand kijkt ernaar.'
 
 Ik keek naar het raderdiertje. Ik zei niets. Ik had niets te zeggen. Het zwom.
 
@@ -159,8 +159,6 @@ Ik sneed me. Een klein sneetje, onder mijn kaak, links. Er kwam een druppeltje b
 Het is dinsdag. Ik schrijf dit op een dinsdagavond in oktober. Het is anderhalf jaar na Dylan, drie jaar na de datum zonder bedrag, vier jaar na mijn vader, zeven jaar na de olijfpit. Het is halftien. Lies zit in haar kamer. De deur staat open. Ik hoor haar een bladzijde omslaan.
 
 Straks ga ik naar boven. Ik doe het licht uit in de keuken. Ik kijk of de achterdeur op slot is. Ik zet het nachtlampje van de Hema aan op de overloop. Ik blijf staan bij de drie deuren. Onze deur. De deur van de kamer van Lies. De deur van de kleine kamer, die op een kier staat, met het oranje licht dat erin valt, op de luchtballonnen.
-
-Er slaapt daar niemand. Er heeft daar één jongen geslapen, en één man.
 
 Ik doe die deur niet dicht. Ik ga slapen.
 

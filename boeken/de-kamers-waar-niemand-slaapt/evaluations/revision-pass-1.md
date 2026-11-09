@@ -24,3 +24,11 @@ Staging: `work/attempts/r2/` → canoniek na read-back. SHA256: `canonical-r2.sh
 | T-20 | low | register 09 bijgewerkt (zie sectie "Canon vastgelegd na drafting"). |
 
 Lengte na revisie: 42.731 woorden (contract 42.000–52.000: PASS, dicht bij de vloer).
+
+## Verificatie (verse audit, `audit-recheck-pass-1.md`): audit_status: revise
+Gesloten: T-04 (scène), T-05 (blikken), T-06 (tic). Nieuwe high: doopsuiker in de Picanto i.p.v. de Skoda (h14).
+Pass 2 (kleine correcties, canoniek):
+- h14: auto → Skoda; raderdiertje herschreven (geen herhaling van het gistbeeld); titelverklarende zin "Er heeft daar één jongen geslapen, en één man." geschrapt.
+- h13: Rita's versie afgestemd op h5 (zij belde voor de afspraak); Stevens kennis uit h5 verwijderd.
+- h12: scènescheiding hersteld.
+Bewust behouden: "Ik dacht: dit is het. Er komt geen antwoord." (h14). Het besef dat de auteur expliciet vraagt; Dylans "niks van iemand" (dialoog, geen uitleg).
