@@ -212,7 +212,7 @@ Het dekbedovertrek met de raketten lag in de commode in de strijkkamer. Ik haald
 
 Ik lag op mijn rug. Door het raam viel het licht van de straatlantaarn op de muur, op de ballonnen, op de tekening van Dylan met de plakband, het huis met de drie ramen en de drie gezichtjes. In het halfdonker kon ik de gezichtjes niet zien. Ik wist dat ze er waren.
 
-Ik dacht aan de tafel. Ik dacht aan het gewicht ervan, aan de nerf van het teak die donker werd van de regen, aan mijn vingers die gleden, aan de zijdeur die te smal was. Ik had die tafel gedragen. Vijf minuten nadat mijn broer had gezegd dat hij een derde kind kreeg, had ik zijn tafel gedragen, op zijn kant, door een deur die hij niet had gemeten, en ik had het gedaan zonder na te denken, omdat hij het vroeg en omdat de tafel nat werd en omdat er niemand anders was. Ik had het gewoon gedaan.
+Ik dacht aan de tafel. Aan de nerf van het teak die donker werd van de regen, aan mijn vingers die gleden, aan de zijdeur die te smal was. Ik had hem gewoon gedragen.
 
 Ik had ook gedacht wat ik in de auto had gedacht. Ook dat had ik gewoon gedaan.
 
@@ -220,7 +220,7 @@ Ik denk dat ze van dezelfde man komen. Ik lag op een plooibed onder de luchtball
 
 Om drie uur hoorde ik de deur van onze slaapkamer opengaan. Ik hoorde haar op de overloop. Ze bleef staan bij de deur van de kleine kamer. Ik hield mijn ogen dicht. Ik ademde zoals iemand die slaapt. Ze stond daar een hele tijd. Ik voelde haar kijken.
 
-Dan hoorde ik haar naar de strijkkamer gaan. Ik hoorde de schuif van de commode. Ze kwam terug. Ze kwam de kleine kamer binnen. Ze legde iets over mij heen, over de jas, iets zachts, en trok het recht tot aan mijn schouder, met de rand van haar hand, één keer.
+Dan hoorde ik haar naar de strijkkamer gaan. Ik hoorde de schuif van de commode. Ze kwam terug. Ze kwam de kleine kamer binnen. Ze legde iets over mij heen, over de jas, iets zachts, en trok het recht tot aan mijn schouder.
 
 Het was het overtrek met de raketten. Zonder dekbed erin. Gewoon het overtrek, een lege hoes van katoen, die niets warm hield.
 

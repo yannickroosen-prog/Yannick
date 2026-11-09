@@ -84,7 +84,7 @@ Ik had het precieze bedrag kunnen zeggen. Ik wist het. Ik hield het bij, in een 
 
 *02.06.2016 — spermaonderzoek — 18,60 (terug: 14,10)*
 
-*23.06.2016 — parking UZ — 6,20*
+*08.06.2016 — parking UZ — 6,20*
 
 *07.09.2016 — IUI 1 — 112,40 (terug: 86,90)*
 
@@ -194,7 +194,7 @@ Ik ging terug naar binnen. Ik zei tegen Sofie dat Lies zich niet goed voelde. So
 
 Ik ben naar huis gewandeld. Van het station van Aalst naar de Populierenlaan is het negen komma twee kilometer. Ik weet het precies, omdat ik het later heb opgezocht. Ik heb er twee uur over gedaan, langs de steenweg, in de mist, met mijn handen in mijn zakken en mijn kraag omhoog. Er reden auto's voorbij met grootlicht. Op een bepaald moment liep ik langs een tankstation dat open was, en ik ging binnen en kocht een koffie uit een automaat en dronk hem op tussen de rekken met motorolie en ruitenvloeistof, en de man achter de kassa keek naar me alsof ik een probleem zou kunnen worden. Ik betaalde. Ik liep verder.
 
-Ik dacht niet na, die twee uur. Of ik dacht wel na, maar in rondjes. Ik dacht aan Berts gezicht. Aan het woord *weghalen*, dat ik had gezegd, dat uit mijn mond gekomen was, terwijl ik niet eens wist dat het daar zat. Ik dacht aan Lies' gezicht in de deuropening. Ik dacht dat ik iets kapot had gemaakt dat ik niet kon benoemen, zoals de olijfpit in de vaatwasser, maar dat ik deze keer niet wist welke filter ik moest losdraaien.
+Ik dacht niet na, die twee uur. Of ik dacht wel na, maar in rondjes. Ik dacht aan Berts gezicht. Aan het woord *weghalen*, dat ik had gezegd, dat uit mijn mond gekomen was, terwijl ik niet eens wist dat het daar zat. Ik dacht aan Lies' gezicht in de deuropening. Ik dacht dat ik iets kapot had gemaakt dat ik niet kon benoemen.
 
 ---
 

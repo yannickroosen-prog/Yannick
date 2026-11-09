@@ -46,11 +46,7 @@ Rita lachte. Het was een korte lach, door haar neus, die ik van Lies kende.
 
 Op het plein viel een stang op de grond met een klap. Iemand vloekte.
 
-'Ik zeg maar wat, Steven,' zei Rita. 'Maar ze heeft het toen alleen gedaan. En ze heeft daarna alles alleen gedaan. Die spuiten, dat heeft ze me verteld, dat ze die niet zelf kon zetten. Dat gij dat deed. Ze was daar zo kwaad om.'
-
-'Kwaad?'
-
-'Dat ze het niet zelf kon.' Rita keek me aan. 'Dat ze iemand nodig had. Ik heb na haar vader nooit meer iemand nodig willen hebben. Kijk waar ik nu zit.' Ze maakte een gebaar naar het appartement, de pralines, de kamerjas. 'Met mijn artikels.'
+'Ik zeg maar wat, Steven,' zei Rita. 'Maar ze heeft het toen alleen gedaan. En ze heeft daarna alles alleen gedaan.'
 
 Ik zei niets. Ik dronk mijn koffie. Hij was sterk en bitter. Rita zette altijd te sterke koffie. Lies zei dat altijd. Ik had het nooit gemerkt.
 
@@ -134,19 +130,7 @@ Ik hield op met vegen.
 
 Ik stond met de borstel in mijn hand.
 
-'Ik heb het u ooit gevraagd,' zei Roger. 'Lang geleden. Wanneer jullie eraan begonnen. Aan de haag. Weet ge dat nog?'
-
-'Ja.'
-
-'Dat had ik niet mogen vragen.'
-
-'Ge wist het niet, Roger.'
-
-'Nee,' zei hij. Hij boog zich voorover en raapte zijn koffiekop op, die koud moest zijn. Hij keek erin. 'Jeanine zei toen al, toen ik binnenkwam: dat moogt ge niet vragen, Roger. Ze had het van achter het gordijn gezien, aan uw gezicht. Ik zeg: wat? Het is een gewone vraag. Ze zei: er bestaan geen gewone vragen.'
-
 Hij dronk zijn koude koffie. Fanny Twee stond op en rekte zich uit.
-
-'Ze had altijd gelijk,' zei Roger. 'Dat was het ambetante aan haar.'
 
 Ik veegde de laatste takjes op en deed ze in de groene container. Ik rolde het snoer op de haspel. Ik legde de schaar terug op de werkbank in zijn garage, op de plaats waar een contour van stof was achtergebleven.
 

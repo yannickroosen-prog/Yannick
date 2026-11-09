@@ -36,7 +36,7 @@ Er staat veel op zo'n blad. Dat je twee tot vijf dagen geen zaadlozing mag hebbe
 
 Een daartoe voorziene ruimte.
 
-We wonen vijftig minuten van Gent als er geen file staat. Er staat altijd file. Ik rekende uit dat ik, als ik om zeven uur 's ochtends thuis het potje vulde, het in de binnenzak van mijn jas moest steken en het daar moest houden, tegen mijn borst, op lichaamstemperatuur, terwijl ik over de E40 reed, en dat ik dan bij Wetteren in de file zou staan met mijn zaad tegen mijn hart, en dat er een kans was dat ik te laat zou zijn, en dat het dan allemaal opnieuw moest, met drie dagen onthouding. Ik koos voor de daartoe voorziene ruimte.
+We wonen veertig minuten van Gent als er geen file staat. Er staat altijd file. Ik rekende uit dat ik, als ik om zeven uur 's ochtends thuis het potje vulde, het in de binnenzak van mijn jas moest steken en het daar moest houden, tegen mijn borst, op lichaamstemperatuur, terwijl ik over de E40 reed, en dat ik dan bij Wetteren in de file zou staan met mijn zaad tegen mijn hart, en dat er een kans was dat ik te laat zou zijn, en dat het dan allemaal opnieuw moest, met drie dagen onthouding. Ik koos voor de daartoe voorziene ruimte.
 
 Ik moest er drie weken later voor terug. Alleen, op een donderdagochtend. Lies moest werken. Ik had een halve dag verlof genomen en tegen Danny gezegd dat ik naar de tandarts moest.
 
@@ -143,8 +143,6 @@ Op de E40, ter hoogte van Wetteren, stond file. We stonden er twintig minuten. L
 Ik lachte. Ze lachte niet, maar haar mondhoek bewoog, en dat was genoeg.
 
 ---
-
-Als er een oorzaak is, is er een verhaal. Een verhaal met een begin. *Hij had als kind de bof gehad.* *Haar eileiders waren verkleefd door een ontsteking.* *Hij had te veel gerookt.* Dan is er iets wat gebeurd is, en wat gebeurd is, had ook niet kunnen gebeuren, en daar kun je dan kwaad op zijn. Op de bof. Op de ontsteking. Op de sigaretten. Op jezelf, als het moet. Kwaad zijn is een vorm van ordening. Het zegt: dit had anders gemoeten. Het zegt: er bestaat een manier waarop het wel had gekund, een juist pad, en wij zijn daarvan afgeweken.
 
 *Onverklaard* zegt niets. *Onverklaard* zegt: alles is in orde en het werkt niet. Het zegt: er is geen fout gemaakt. Er is niemand schuldig. Je hebt de vragen van het mondeling examen allemaal juist beantwoord, en je bent niet geslaagd, en er is niemand bij wie je in beroep kunt gaan.
 

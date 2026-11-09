@@ -16,13 +16,13 @@ Ze roerde in de soep. Ze keek niet om.
 
 'Dan is dat dat,' zei ze.
 
-Ik had verwacht dat ze kwaad zou zijn. Of verdrietig. Ik had verwacht dat ik het zelf zou zijn. Ik weet nog dat ik in de keuken stond met mijn telefoon in mijn hand en wachtte op het gevoel, zoals je op een trein wacht die vertraging heeft, en dat het niet kwam. In de plaats daarvan kwam er iets anders, iets wat ik niet herkende en waarvan ik pas veel later begreep dat het opluchting was. Het was alsof iemand anders voor ons had beslist. Alsof er een man van het crisiscentrum op de radio was gekomen en had gezegd: vanaf woensdag moet u niet meer hopen. Het is verboden. Tot nader order.
+Ik had verwacht dat ze kwaad zou zijn. Of verdrietig. Ik had verwacht dat ik het zelf zou zijn. Ik weet nog dat ik in de keuken stond met mijn telefoon in mijn hand en wachtte op het gevoel, zoals je op een trein wacht die vertraging heeft, en dat het niet kwam. In de plaats daarvan kwam er iets anders, iets wat ik niet herkende. Alsof er een man van het crisiscentrum op de radio was gekomen en had gezegd: vanaf woensdag moet u niet meer hopen. Het is verboden. Tot nader order.
 
 ---
 
 Het eerste wat ik me herinner van de lockdown is de stilte op de steenweg.
 
-Ik werkte thuis, aan de keukentafel, met een laptop van het werk en een tweede scherm dat ik uit het kantoor had mogen meenemen, en een koptelefoon. De techniekers deden alleen nog dringende pannes. Geen onderhouden. Mensen belden in paniek omdat hun ketel niet meer werkte en ze nu de hele dag thuis zaten, met hun kinderen, in een koud huis, en ze vroegen of de technieker een mondmasker zou dragen, en ik zei ja, terwijl ik niet wist of we mondmaskers hadden. We hadden er geen. Danny ging met zijn eigen auto naar de Brico, die open was, en kocht stofmaskers die bedoeld waren voor schuurwerk, en verdeelde ze onder de techniekers.
+Ik werkte thuis, aan de keukentafel, met een laptop van het werk en een tweede scherm dat ik uit het kantoor had mogen meenemen, en een koptelefoon. De techniekers deden alleen nog dringende pannes. Geen onderhouden. Mensen belden in paniek omdat hun ketel niet meer werkte en ze nu de hele dag thuis zaten, met hun kinderen, in een koud huis, en ze vroegen of de technieker een mondmasker zou dragen, en ik zei ja, terwijl ik niet wist of we mondmaskers hadden. We hadden er geen. Danny ging met zijn eigen auto naar een tankstation, en kocht stofmaskers die bedoeld waren voor schuurwerk, en verdeelde ze onder de techniekers.
 
 Maar ik herinner me vooral de stilte. Ons huis ligt honderd meter van de steenweg tussen Aalst en Dendermonde, en ik had nooit beseft hoeveel lawaai die steenweg maakte tot hij het niet meer deed. Ik hoorde vogels. Ik hoorde Roger in zijn tuin met Jeanine praten, twee tuinen verder, over de rozen. Ik hoorde de kerkklok van het dorp, die al jaren elk kwartier sloeg, en die ik nooit gehoord had.
 
@@ -96,7 +96,7 @@ Toen het applaus voorbij was en ik terug in de tuin ging zitten, dacht ik: ik he
 
 Ik moest even nagaan wat ik bedoelde. Ik bedoelde de diepvries. De ketel in Gent. De kleine kamer. Het schrift met de harde kaft. Ik bedoelde het kind. Ik had er die dag niet aan gedacht. Ik had er ook gisteren niet aan gedacht. Ik probeerde me te herinneren wanneer ik er voor het laatst aan had gedacht, echt aan gedacht, niet als een geluid op de achtergrond maar als iets wat in de kamer stond, en ik wist het niet. Een week? Twee? Er was een periode van dagen geweest, misschien wel weken, waarin ik geschilderd had en geschoffeld en ketels ingepland en applaus gegeven en mijn vrouw had horen zingen, en waarin ik niet één keer aan dat kind had gedacht.
 
-Ik schaamde me. Dat was het eerste. Ik schaamde me zoals je je schaamt als je een verjaardag vergeten bent van iemand die gestorven is. Daarna kwam er iets anders, en dat was erger dan de schaamte. Het was de gedachte dat het misschien zo kon zijn. Dat het leven ook zo kon zijn. Zonder. Met Gebroken Wit en vals zingen en een pint in de tuin onder een lege lucht. Dat dat niet het leven was dat ik gewild had, maar dat het misschien een leven was.
+Ik schaamde me. Daarna kwam de gedachte dat het misschien zo kon zijn. Dat het leven ook zo kon zijn. Zonder. Met Gebroken Wit en vals zingen en een pint in de tuin onder een lege lucht. Dat dat niet het leven was dat ik gewild had, maar dat het misschien een leven was.
 
 Ik dronk mijn pint uit. Ik ging naar binnen. Lies zat in de zetel met haar telefoon. Ze keek op.
 

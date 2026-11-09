@@ -60,7 +60,7 @@ We praten. We praten over het werk, over zijn moeder, over Kristof, over de Pica
 
 We vrijen niet. Of bijna niet. Twee keer sinds november. Beide keren was het vriendelijk. Ik weet geen beter woord. Het was zoals twee mensen die elkaar een hand geven na een begrafenis.
 
-Wat ik hem niet vergeef, is niet wat hij denkt. Hij denkt dat ik hem kwalijk neem dat hij de diepvries wilde. Dat hij zijn belofte heeft gebroken. Dat hij *nog één keer* heeft gezegd, en daarna nog eens. Dat is het niet. Ik begrijp dat. Ik heb het zelf gewild, die laatste twee, meer dan ik heb gezegd. Ik heb in de keuken gestaan met zijn lege koffietas en gedacht: als ze het halen. Als ze het halen.
+Hij denkt dat ik hem kwalijk neem dat hij de diepvries wilde. Dat hij zijn belofte heeft gebroken. Dat hij *nog één keer* heeft gezegd, en daarna nog eens. Dat is het niet. Ik begrijp dat. Ik heb het zelf gewild, die laatste twee, meer dan ik heb gezegd. Ik heb in de keuken gestaan met zijn lege koffietas en gedacht: als ze het halen. Als ze het halen.
 
 Wat ik hem niet vergeef, is dat ik het heb moeten zeggen. *Ik wil niet meer.* Dat ik het eerst heb moeten zeggen. In de tuin, bij de barbecue, met die verbrande worsten. Dat ik de vrouw ben geweest die gestopt is. Dat het in zijn verhaal, als hij het later aan iemand vertelt, aan Kristof, aan een collega, aan een vrouw die hij na mij leert kennen, altijd zo zal zijn: *Lies wilde niet meer.* En dat het waar zal zijn. En dat hij het nooit zal moeten zeggen over zichzelf.
 
@@ -80,7 +80,7 @@ Mijn moeder belt op zondag. Ze vraagt hoe het gaat. Ze vraagt niet naar iets and
 
 'Gij zoudt dat goed kunnen. Gij en Steven. Ge hebt toch die kamers.'
 
-*Ge hebt toch die kamers.* Ik zit aan de keukentafel. Steven is in de tuin. Hij is aan het spitten. Hij heeft in maart een moestuin aangelegd, een klein stuk achteraan, twee op drie meter, met tomaten en bonen en een rij radijzen. Hij heeft er niets over gezegd. Hij heeft op een zaterdag de graszoden uitgestoken en gespit en een kordon gespannen en zaadjes gezaaid in rechte lijnen, volgens het zakje, en hij gaat er elke avond naar kijken, met zijn handen op zijn rug. Ik heb het gezien. Ik heb er niets over gezegd.
+Ik zit aan de keukentafel. Steven is in de tuin. Hij is aan het spitten. Hij heeft in maart een moestuin aangelegd, een klein stuk achteraan, twee op drie meter, met tomaten en bonen en een rij radijzen. Hij heeft er niets over gezegd. Hij heeft op een zaterdag de graszoden uitgestoken en gespit en een kordon gespannen en zaadjes gezaaid in rechte lijnen, volgens het zakje, en hij gaat er elke avond naar kijken, met zijn handen op zijn rug. Ik heb het gezien. Ik heb er niets over gezegd.
 
 'Ik zal erover nadenken,' zeg ik.
 
@@ -90,7 +90,7 @@ Respijt. Een weekend per maand, of een paar dagen in de vakantie, voor een kind 
 
 Ik lees het drie keer. Ik denk aan de kleine kamer. Ik denk niet: dit lost het op. Ik ben niet dom. Ik weet dat een kind dat een weekend per maand komt en altijd teruggaat, niet het kind is dat we niet hebben gekregen. Ik weet dat het misschien erger is. Dat je elke maand opnieuw een kind uitzwaait. Ik ben laborante. Ik kan een risico inschatten.
 
-Maar ik denk ook: er is iemand die het moeilijk heeft. Er is ergens een moeder die niet slaapt. Er is een kind dat een weekend ergens moet zijn. En wij hebben een kamer. Dat is alles. Het is een rekensom zonder marge. Een kamer en een kind.
+Maar ik denk ook: er is iemand die het moeilijk heeft. Er is ergens een moeder die niet slaapt. Er is een kind dat een weekend ergens moet zijn.
 
 ---
 
@@ -144,7 +144,7 @@ Hij zet de gieter neer. Hij veegt zijn handen af aan zijn broek. Hij kijkt naar 
 
 Ik begrijp niet wat hij bedoelt. Dan begrijp ik het.
 
-Ik lach. Ik lach hard, met mijn hoofd achterover. Het is de eerste keer sinds november. Steven kijkt ernaar zoals hij in 2008 keek, in die keuken, op dat feestje van een collega van zijn broer.
+Ik lach, kort, door mijn neus. Het is de eerste keer sinds november.
 
 'Ge zijt zot,' zeg ik.
 
@@ -152,4 +152,4 @@ Ik lach. Ik lach hard, met mijn hoofd achterover. Het is de eerste keer sinds no
 
 Die nacht wis ik de favorieten. Alle elf. Dat is niet zo moeilijk als je zou denken. Er is een knopje met een vuilbakje. Ik druk er elf keer op. Daarna leg ik mijn telefoon op het nachtkastje, met het scherm naar beneden. Steven ligt met zijn rug naar mij. Hij slaapt niet. Ik zie het aan zijn schouder. Ik leg mijn hand erop. Ik laat ze daar liggen. Hij beweegt niet.
 
-Ik ga niet weg. Dat heb ik toen besloten. Niet voor altijd. Voorlopig.
+Ik ga niet weg. Voorlopig.

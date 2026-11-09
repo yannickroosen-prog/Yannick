@@ -14,7 +14,7 @@ Ik stond aan de gootsteen met de pan in mijn hand en de afwasborstel in de ander
 
 'Ja.'
 
-'Ge moet niet direct antwoorden. Ik weet dat... Allee. Ge weet wat ik bedoel. Als ge het niet wilt, is dat ook goed. Dan vragen we het aan Nathalie haar broer. Maar ik wilde het eerst aan u vragen. Ik heb het deze keer eerst aan u gevraagd.' Hij was even stil. 'Ik heb het niet drie keer moeten proberen. Ik heb gewoon gebeld.'
+'Ge moet niet direct antwoorden. Ik weet dat... Allee. Ge weet wat ik bedoel. Als ge het niet wilt, is dat ook goed. Dan vragen we het aan Nathalie haar broer. Maar ik wilde het eerst aan u vragen.'
 
 'Ja,' zei ik.
 
@@ -110,6 +110,58 @@ Het doosje van Mila zette ik in het handschoenkastje. Bovenaan.
 
 ---
 
+In april, op een zaterdagvoormiddag, kregen we ruzie over het plooibed.
+
+Lies stond in de kleine kamer met de deur wijd open en het raam open, omdat ze vond dat het er muf rook. Ze had het overtrek met de raketten van het plooibed genomen en hield het onder haar arm.
+
+'Ik ga dat naar Ilse brengen,' zei ze. 'Voor een ander pleeggezin. En het plooibed ook. Dat staat hier maar.'
+
+'Het staat hier niet maar,' zei ik.
+
+'Het staat tegen de muur, Steven. Het staat daar al tien maanden tegen de muur.'
+
+'Het kan nog dienen.'
+
+'Waarvoor?'
+
+Ik had geen antwoord. Ik stond in de deuropening in mijn zaterdagse trui met een vlek van verf op de mouw. Ik keek naar het plooibed. Het was een ding van de Ikea, met een hendeltje dat klemde. Het was niets.
+
+'Gij bewaart alles,' zei Lies. Ze zei het niet kwaad. Ze zei het zoals ze een resultaat zou voorlezen. 'Stopcontactbeveiligers. Doopsuiker in uw handschoenkastje. Een schrift met parkeertickets van zeven jaar geleden. Ge hebt een doos van uw vader die ge niet opendoet.'
+
+'Ik heb ze opengedaan.'
+
+'Eén keer. Voor een trein.'
+
+'En gij,' zei ik. 'Gij hebt uw Excelbestand nog.'
+
+Ze keek me aan.
+
+'Met uw cycli,' zei ik. 'Sinds 2014. Met een kolom voor de temperatuur. Ge hebt dat nog op uw laptop. Ik weet dat ge dat nog hebt.'
+
+'Ik heb dat gewist,' zei ze. 'In juni 2020. Na de barbecue.'
+
+Ik zei niets. Ik had het niet geweten. Ik had drie jaar gedacht dat het er nog was, in een map op haar laptop, en dat zij het soms opendeed, 's nachts, zoals ik de deur van de kleine kamer opendeed. Ze had het gewist en het me niet gezegd, en ik had niet gevraagd, en zo hadden we elk drie jaar in een ander huis gewoond, met dezelfde voordeur.
+
+'Ik dacht dat het er nog was,' zei ik.
+
+'Ik weet het,' zei ze. 'Ge kijkt soms naar mijn laptop alsof er iets in zit.'
+
+Buiten startte Roger zijn haagschaar. Het was zaterdag. Het was geen zondag. Hij had het weekend van de haag verplaatst omdat zijn zoon zondag zou bellen, uit Alicante, dat had hij me gezegd. De wesp met een mening ging aan en uit, aan en uit, korte stukjes, alsof hij niet zeker was.
+
+'Het overtrek mag weg,' zei ik.
+
+'En het plooibed?'
+
+'Het plooibed blijft.'
+
+Lies keek naar het plooibed, en naar mij, en weer naar het plooibed. Ik zag haar rekenen. Ik zag haar besluiten dat dit geen ruzie was die ze wilde winnen.
+
+'Goed,' zei ze. Het was mijn woord. Ze gebruikte het zelden.
+
+Ze bracht het overtrek die maandag naar Ilse, in een papieren zak van de Delhaize. Ilse stuurde een berichtje terug met een duimpje. Het plooibed staat er nog.
+
+---
+
 In de zomer maakte Lies van de strijkkamer haar kamer.
 
 Ze zei het niet zo. Ze zei: 'Ik ga dat droogrek naar de garage doen.' En dan deed ze dat. En daarna zei ze: 'Die dozen met kleren gaan naar de kringwinkel. Die passen ons nooit meer.' Ze ging ze één voor één door, op een zaterdag, op de vloer van de kamer van Zacht Salie, en ze legde alles op twee stapels, en op de ene stapel lag bijna alles en op de andere lag één ding: het grijze T-shirt met de witte hand van Gebroken Wit. Ze hield het omhoog. Ze keek naar mij in de deuropening.
@@ -134,7 +186,7 @@ Ze zit er 's avonds. Niet elke avond. Ze leest of ze kijkt in haar microscoop of
 
 ---
 
-De kleine kamer is gebleven zoals ze was. Het plooibed staat rechtop tegen de muur. De bananendoos staat in de hoek, met de Lego en de autootjes en Barry erin, zonder de trein. De tekening van Dylan hangt tussen twee ballonnen, met plakband die geel begint te worden. Het overtrek met de raketten ligt opgevouwen op het plooibed.
+De kleine kamer is gebleven zoals ze was. Het plooibed staat rechtop tegen de muur. De bananendoos staat in de hoek, met de Lego en de autootjes en Barry erin, zonder de trein. De tekening van Dylan hangt tussen twee ballonnen, met plakband die geel begint te worden. Het overtrek met de raketten is weg.
 
 Ik ga er soms binnen. Ik doe er niets. Ik sta er.
 
@@ -148,9 +200,7 @@ Op een ochtend in september stond ik me te scheren en keek ik in de spiegel naar
 
 Ik dacht: dit is het.
 
-Ik dacht het niet als een groot moment. Ik dacht het zoals je denkt dat de melk op is. Ik had al die jaren gewacht. Op de uitslag, op het streepje, op de hartslag, op een verklaring. Ik dacht dat er ergens een loket was.
-
-Er was geen loket. Er was een man die zich stond te scheren. Er was de Siemens beneden, die om zes uur gepiept had. Er was de choco in de frigo, op de bovenste plank, rechts. Er was een vrouw in de kamer van Zacht Salie die naar een raderdiertje keek. Er was een buurman die zondag zijn haag gesnoeid wilde hebben. Er was een meisje van acht maanden met een houten trein.
+Ik dacht het niet als een groot moment. Ik dacht het zoals je denkt dat de melk op is.
 
 Ik sneed me. Een klein sneetje, onder mijn kaak, links. Er kwam een druppeltje bloed, rond en rood, zo groot als een speldenkop. Ik keek ernaar in de spiegel. Ik dacht aan Lies op de rand van het bad, aan de pen, aan het druppeltje naast haar navel. Ik plakte er een stukje wc-papier op, zoals mijn vader deed, zoals iedere man doet, en ik spoelde het mesje af, en ik ging naar beneden, en ik smeerde mijn boterhammen.
 

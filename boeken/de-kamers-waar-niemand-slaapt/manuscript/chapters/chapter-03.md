@@ -4,7 +4,7 @@ Mijn broer heeft een tuin met een vijver erin, en in de vijver zit een reiger va
 
 Op de zaterdag van het feest voor Lena stond er naast de vijver een springkasteel in de vorm van een piratenschip.
 
-Lena was in juni geboren, op een dinsdagnacht, drie dagen voor de uitgerekende datum. Ik had het gehoord om kwart over zes 's ochtends via een sms van Kristof met veertien uitroeptekens en een foto van een rood gezichtje in een wit dekentje met blauwe randjes, het dekentje van het ziekenhuis van Aalst, het gezichtje van iedereen. *Ze is er!!!!!!!!!!!!!! 3,420 kg 51 cm Moeder en kind stellen het goed!!!* Ik had in bed gelegen met de telefoon boven mijn gezicht en Lies had gevraagd wat het was, en ik had haar de telefoon gegeven, en ze had lang naar de foto gekeken, langer dan nodig, en toen had ze gezegd: 'Mooi,' en de telefoon teruggegeven en was opgestaan om te gaan lopen. Het was zes uur 's ochtends. Ze liep dat jaar vaak om zes uur 's ochtends.
+Lena was in juni geboren, op een dinsdagnacht, drie dagen voor de uitgerekende datum. Ik had het gehoord om kwart over zes 's ochtends via een sms van Kristof met veertien uitroeptekens en een foto van een rood gezichtje in een wit dekentje met blauwe randjes, het dekentje van het ziekenhuis van Aalst, het gezichtje van iedereen. *Ze is er!!!!!!!!!!!!!! 3,420 kg 51 cm Moeder en kind stellen het goed!!!* Ik had in bed gelegen met de telefoon boven mijn gezicht en Lies had gevraagd wat het was, en ik had haar de telefoon gegeven, en ze had lang naar de foto gekeken, langer dan nodig, en toen had ze gezegd: 'Mooi,' en de telefoon teruggegeven en was opgestaan om te gaan lopen. Het was nog geen half zeven. Ze liep dat jaar vaak om zes uur 's ochtends.
 
 Nu was het september, en Nathalie had een feest georganiseerd. Geen doopfeest, want ze waren niet gelovig, maar een *verwelkomingsfeest*, zoals op de uitnodiging stond, een roze kaartje met een gouden kroontje. *Kom Lena verwelkomen! Zaterdag 17 september vanaf 15u. Hapjes, drankjes en een springkasteel voor de kleintjes.* Mijn moeder had gevraagd waarom het geen doopfeest was, als er toch doopsuiker was, en Nathalie had gezegd dat doopsuiker niets met de doop te maken had, dat het gewoon traditie was, en mijn moeder had gezegd dat het daar juist mee te maken had, met de doop, daarom heette het doopsuiker, en ze hadden er twintig minuten over gebeld. Kristof had me erover verteld met tranen in zijn ogen van het lachen.
 
@@ -124,7 +124,7 @@ Kristof hield een speech. Hij ging op een stoel staan in de tuin, met een glas D
 
 Iedereen lachte en klapte. Mijn moeder huilde. Nathalie gaf Kristof een kus. Ik klapte ook. Ik stond naast Lies en ik klapte, en ik keek opzij, en Lies klapte ook, en ze glimlachte, en ik zag dat het niet een van de echte was.
 
-*Allee, er mag nog iets bij.* Hij had het niet slecht bedoeld. Het was precies wat hij voelde. Hij had een zoon en een vrouw en een dak en hij dacht: er mag nog iets bij, en toen kwam er iets bij. Dat is de volgorde van de dingen, voor sommige mensen. Je denkt het, en het komt.
+*Allee, er mag nog iets bij.* Hij had het niet slecht bedoeld. Het was precies wat hij voelde. Hij had een zoon en een vrouw en een dak en hij dacht: er mag nog iets bij, en toen kwam er iets bij.
 
 ---
 
@@ -178,7 +178,7 @@ Thuis ging ze direct naar boven. Ik hoorde de leidingen. Ze nam een douche, wat 
 
 Ik ging in de keuken zitten en haalde de drie doosjes doopsuiker uit mijn jaszak. Ik zette ze op de tafel, naast elkaar. Witte doosjes, roze linten, *Lena*, *14.06.2016*. Ik maakte er een open. Zeven suikerbonen, roze en wit. Ik telde ze. Ik at er een. Ze was te zoet en de chocolade binnenin smaakte naar niets, zoals altijd. Ik at er nog een.
 
-Ik weet niet wat ik dacht. Ik denk dat ik niets dacht. Ik denk dat ik daar alleen zat in de keuken van een huis met drie slaapkamers, met de vaatwasser die niet vol was en de koelkast die zoemde, en dat ik suikerbonen at die bedoeld waren om te vieren dat er een kind was geboren, het kind van een ander, en dat dat het enige was wat ik op dat moment kon doen.
+Ik zat daar alleen in de keuken van een huis met drie slaapkamers, met de vaatwasser die niet vol was en de koelkast die zoemde.
 
 Ik deed het doosje weer dicht met vijf suikerbonen erin. De andere twee doosjes deed ik niet open. Het open doosje liet ik op de tafel staan; Lies gooide het de volgende ochtend weg zonder iets te vragen.
 

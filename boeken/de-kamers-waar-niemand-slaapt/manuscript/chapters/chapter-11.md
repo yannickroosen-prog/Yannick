@@ -40,7 +40,7 @@ Ik schreef: *Omdat we een kamer hebben.*
 
 Ik keek ernaar. Het was het eerlijkste wat ik in de hele vragenlijst had opgeschreven. Ik streepte het door en schreef er iets anders onder, iets over *een kind een warme thuis willen bieden*, wat ik uit een folder had. Maar de doorstreepte zin bleef leesbaar. Ik had niet hard genoeg doorgestreept.
 
-De consulente heette Ilse. Ze was een jaar of dertig, met een neusring en een notitieboekje met een kaft van gerecycleerd karton, en ze kwam twee keer bij ons thuis. Ze dronk thee. Ze vroeg naar alles. Ze vroeg naar de behandelingen, en Lies vertelde het, kort, in feiten, en Ilse schreef het op en zei: 'Dat moet zwaar geweest zijn,' en Lies zei: 'Ja,' en daarmee was het gesprek daarover afgelopen. Ze vroeg of we het verlies *een plek hadden kunnen geven*. Ik zei: 'We hebben er een kamer voor.' Ze lachte. Ik denk dat ze dacht dat het een grap was. Lies keek me aan.
+De consulente heette Ilse. Ze was een jaar of dertig, met een neusring en een notitieboekje met een kaft van gerecycleerd karton, en ze kwam twee keer bij ons thuis. Ze dronk thee. Ze vroeg naar alles. Ze vroeg naar de behandelingen, en Lies vertelde het, kort, in feiten, en Ilse schreef het op en zei: 'Dat moet zwaar geweest zijn,' en Lies zei: 'Ja,' en daarmee was het gesprek daarover afgelopen. Ze vroeg of we het verlies *een plek hadden kunnen geven*. Ik zei niets. Lies keek naar haar thee.
 
 Ze vroeg naar de doorstreepte zin. Ik wist niet dat ze die gezien had.
 
@@ -122,11 +122,19 @@ We lagen een tijd stil.
 
 'Steven,' fluisterde ze. 'Er slaapt iemand.'
 
-Ik zei niets. Ik kon niets zeggen. Ik legde mijn hand op haar heup en ze legde de hare erop, en zo bleven we liggen, met onze ogen open, luisterend naar een jongen van acht die in een kamer sliep waar nooit iemand had geslapen, of niet sinds de Brackes, en die af en toe iets mompelde in zijn slaap, één keer heel duidelijk: 'Vijf euro.'
+Ik zei niets. Ik kon niets zeggen. Ik legde mijn hand op haar heup en ze legde de hare erop, en zo bleven we liggen, met onze ogen open, luisterend naar een jongen van acht die af en toe iets mompelde in zijn slaap, één keer heel duidelijk: 'Vijf euro.'
 
 ---
 
 Hij kwam tien keer, tussen oktober en juni. Eén weekend per maand, en twee keer extra, in de krokusvakantie en met Pasen, omdat Kelly naar het ziekenhuis moest voor iets wat Ilse niet uitlegde.
+
+Niet elk weekend ging goed. In januari plaste hij in bed. Ik hoorde hem om vier uur 's nachts op de overloop staan, zonder licht, en toen ik de deur van de kleine kamer opendeed, stond hij naast het plooibed met zijn pyjamabroek in zijn hand en keek naar de vlek op het matras alsof die van iemand anders was. Ik was half wakker. Ik zei: 'Allee, manneke. Ge zijt toch geen baby meer.'
+
+Ik hoorde het zelf terwijl ik het zei. Het was de stem van mijn vader, of van Kristof, of van iedere man die om vier uur 's nachts iets moet zeggen en het verkeerde kiest. Dylan zei niets. Hij zei de rest van de nacht niets en de hele zondagochtend ook niet. Hij at zijn boterham met choco niet op. Om tien uur vroeg hij of hij naar huis mocht. Lies belde Kelly. Kelly nam niet op. Ze kwam om zeven uur 's avonds, twee uur te laat, zonder uitleg, en ik heb die twee uur aan het raam van de living gestaan en de minuten geteld, en ik was kwaad op haar, en ik wist dat ik geen recht had om kwaad te zijn, en ik was het toch.
+
+Lies waste het overtrek met de raketten op zestig graden. Ze hing het op het droogrek in de strijkkamer. Het hing er een week. Ik ben er elke avond langsgelopen.
+
+De maand daarna kwam hij gewoon terug, met zijn folders. Hij zei niets over januari. Ik ook niet. Ik heb hem in de Colruyt wel een zakje Prince-koeken laten kiezen, de echte, niet de namaak van de Lidl, en hij heeft me aangekeken alsof hij precies wist wat dat kostte.
 
 Ik leerde Kelly kennen op de zondagen, om vijf uur, als ze hem kwam halen. Ze was zevenentwintig. Ze reed een oude Opel Corsa met een bumper die met tape was vastgemaakt. Ze rookte in de auto, met het raam open. Ze was mager en moe, met donkere kringen onder haar ogen en lang haar dat ze in een knot droeg, en ze kwam nooit binnen. Ze bleef op het trottoir staan, naast de Corsa, en Dylan liep naar haar toe met zijn rugzak van de Kruidvat en zijn folders, en ze sloeg haar armen om hem heen en hield hem vast met haar ogen dicht, op het trottoir, voor Roger en voor de hele straat. De eerste keer keek ze daarna naar mij en zei: 'Merci, hé.' Ze zei het snel en kwaad, alsof ze het niet wilde zeggen. 'Merci dat ge hem wilt.'
 
@@ -160,7 +168,7 @@ Hij knikte. Hij dacht na. Hij had een manier van nadenken die ik herkende, met z
 
 'Ja,' zei Dylan. 'Maar niks van iemand.'
 
-Hij liep verder. Naar de koekjes. Hij las de prijs van de Prince-koeken en zei dat ze bij de Lidl een namaak hadden die bijna hetzelfde was voor de helft van de prijs. Ik duwde de kar achter hem aan. Ik dacht aan *niks van iemand*.
+Hij liep verder. Naar de koekjes. Hij las de prijs van de Prince-koeken en zei dat ze bij de Lidl een namaak hadden die bijna hetzelfde was voor de helft van de prijs. Ik duwde de kar achter hem aan.
 
 ---
 
@@ -192,7 +200,7 @@ Ze zei dat het goed ging met Kelly. Beter dan het in lang was gegaan. Ze had wer
 
 'Ja,' zei ik. 'Dat is goed nieuws.'
 
-Het was goed nieuws. Ik meende het. Ik meende het zoals ik het meende toen mijn broer zijn derde aankondigde, wat pas later kwam, maar ik zeg het hier al, omdat het hetzelfde soort menen was: een menen dat waar is, en dat toch ergens anders pijn doet.
+Het was goed nieuws. Ik meende het.
 
 'Hij mag nog één keer komen,' zei Ilse. 'In juni. Om afscheid te nemen. Dat is belangrijk voor hem. Hij vraagt naar jullie.'
 
