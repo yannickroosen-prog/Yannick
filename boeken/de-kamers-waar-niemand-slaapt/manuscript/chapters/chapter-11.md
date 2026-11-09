@@ -104,7 +104,7 @@ Hij keek me aan. Voor het eerst keek hij me echt aan.
 
 'Is dat zo?'
 
-'Ja. Bij de Lidl is het twee euro vijftig per kilo. Bij de Aldi drie euro.' Hij dacht na. 'Drie euro en nul cent.'
+'Ja. Bij de Lidl is het twee euro vijftig per kilo. Bij de Aldi bijna drie euro.' Hij dacht na. 'Twee euro negenennegentig en een beetje.'
 
 'Gij kunt goed rekenen.'
 
@@ -132,7 +132,7 @@ We lagen een tijd stil.
 
 Ik legde mijn hand op haar heup en ze legde de hare erop, en zo bleven we liggen, met onze ogen open, luisterend naar een jongen van acht die af en toe iets mompelde in zijn slaap, één keer heel duidelijk: 'Vijf euro.'
 
-Op zondag, toen Lies het bed afhaalde, vond ze onder het matras een pistolet. Een van de pistolets van zaterdagochtend, ingepakt in een papieren servetje, met een plakje kaas erin. Ze hield hem omhoog in de deuropening van de kleine kamer. Ze zei niets. Ze legde hem terug onder het matras, precies waar hij gelegen had, en trok het laken weer recht.
+Op zondag, toen Lies het bed opschudde, vond ze onder het matras een pistolet. Een van de pistolets van zaterdagochtend, ingepakt in een papieren servetje, met een plakje kaas erin. Ze hield hem omhoog in de deuropening van de kleine kamer. Ze zei niets. Ze legde hem terug onder het matras, precies waar hij gelegen had, en trok het laken weer recht.
 
 'Dat doen ze soms,' zei ze 's avonds, toen hij weg was. 'Dat stond in de map van de voorbereiding. Eten verstoppen. Voor als er morgen niets is.'
 
@@ -188,7 +188,7 @@ We gingen naar de Colruyt. Dat was zijn wens. Niet de speeltuin, niet het zwemba
 
 Hij spaarde voor een fiets. Dat vertelde hij in de rij aan de kassa, aan de vrouw achter ons, niet aan mij. Een mountainbike, van vierentwintig inch, met schijfremmen, die in de folder van de Decathlon stond voor tweehonderdnegenenveertig euro. Hij had er achtendertig euro vijftig van. Hij kreeg twee euro per week. Hij had uitgerekend dat hij hem zou hebben als hij tien was. 'Dan is hij te klein,' zei de vrouw achter ons. 'Dan neem ik die van zesentwintig,' zei Dylan. 'Die is maar twintig euro duurder.' Hij had het allemaal al bedacht. Hij had het niet aan mij gevraagd. Ik heb het hem niet aangeboden. Ik heb er lang over nagedacht of ik het moest aanbieden, en ik heb het niet gedaan, en ik weet niet of dat goed was.
 
-Op een zaterdag in februari liepen we langs de afdeling met babyspullen. Ik liep daar al jaren met een omweg omheen, zoals je een put in het trottoir ontwijkt die je kent. Dylan liep er recht doorheen. Hij bleef staan bij de pampers. Hij las de prijzen. 'Die zijn heel duur,' zei hij. 'Mijn mama zegt dat ik vroeger een fortuin heb gekost aan pampers.' Hij keek me aan. 'Hebt gij geen kinderen?'
+Op een zaterdag in februari liepen we langs de afdeling met babyspullen. Ik liep daar al jaren met een omweg omheen. Dylan liep er recht doorheen. Hij bleef staan bij de pampers. Hij las de prijzen. 'Die zijn heel duur,' zei hij. 'Mijn mama zegt dat ik vroeger een fortuin heb gekost aan pampers.' Hij keek me aan. 'Hebt gij geen kinderen?'
 
 'Nee,' zei ik.
 
@@ -294,7 +294,7 @@ Hij liep naar buiten. Kelly sloeg haar armen om hem heen, op het trottoir, met h
 
 We gingen naar boven. Lies haalde het dekbedovertrek met de raketten van het plooibed en vouwde het op, in vieren, en legde het in de commode in de strijkkamer. Ik plooide het plooibed op. Er was een hendeltje dat klemde. Ik moest het drie keer proberen. Toen het dicht was, zette ik het rechtop tegen de muur, naast de bananendoos van mijn vader.
 
-Op de vensterbank lag niets meer. Aan de muur hing een tekening, met plakband op het behang geplakt, tussen twee ballonnen. Een huis met drie ramen boven, en in elk raam een gezichtje. Dylan had hem in maart gemaakt en zelf opgehangen.
+Op de vensterbank lag niets meer. Aan de muur hing een tekening, met plakband op het behang geplakt, tussen twee ballonnen. Een fiets, een mountainbike met schijfremmen, met de prijs eronder in grote cijfers: 249 euro. Dylan had hem in maart gemaakt en zelf opgehangen.
 
 'Laat ge die hangen?' vroeg Lies.
 

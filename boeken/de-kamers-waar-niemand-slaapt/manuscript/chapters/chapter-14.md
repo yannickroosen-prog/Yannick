@@ -184,7 +184,7 @@ Ze zit er 's avonds. Niet elke avond. Ze leest of ze kijkt in haar microscoop of
 
 ---
 
-De kleine kamer is gebleven zoals ze was. Het plooibed staat open, zonder overtrek. De bananendoos staat in de hoek, met de Lego en de autootjes en Barry erin, zonder de trein. De tekening van Dylan hangt tussen twee ballonnen, met plakband die geel begint te worden. Het overtrek met de raketten is weg.
+De kleine kamer is gebleven zoals ze was. Het plooibed staat open, zonder overtrek. De bananendoos staat in de hoek, met de Lego en de autootjes en Barry erin, zonder de trein. De tekening van Dylan hangt tussen twee ballonnen, met plakband die geel begint te worden.
 
 Ik ga er soms binnen. Ik doe er niets. Ik sta er.
 

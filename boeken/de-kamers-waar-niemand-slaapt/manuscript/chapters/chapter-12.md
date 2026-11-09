@@ -104,10 +104,6 @@ Ik keek naar mijn broer. Hij stond daar, in zijn natte hemd, met zijn grote hand
 
 'Ge zijt geen lafaard,' zei ik.
 
-'Nee?'
-
-'Ge hebt een tafel van vijfenzeventig kilo gekocht zonder de deur te meten.'
-
 Hij keek me aan. Hij wachtte op meer. Ik had niets meer. Ik had een grap kunnen maken, over een tafel van vijfenzeventig kilo en een deur die niemand gemeten had. Ik maakte ze niet. Buiten hield de regen op, zo plots als hij begonnen was, en we hoorden de laatste druppels van het golfplaten dak vallen.
 
 'Proficiat, Kristof,' zei ik.
@@ -210,7 +206,7 @@ Bij de vierde keer ging het open.
 
 Het dekbedovertrek met de raketten lag in de commode in de strijkkamer. Ik haalde het niet. Ik ging op het kale matras liggen, in mijn kleren, met mijn jas als deken. Het matras was te kort. Mijn voeten staken over de rand. Het was een bed voor een jongen van acht.
 
-Ik lag op mijn rug. Door het raam viel het licht van de straatlantaarn op de muur, op de ballonnen, op de tekening van Dylan met de plakband, het huis met de drie ramen en de drie gezichtjes. In het halfdonker kon ik de gezichtjes niet zien. Ik wist dat ze er waren.
+Ik lag op mijn rug. Door het raam viel het licht van de straatlantaarn op de muur, op de ballonnen, op de tekening van Dylan met de plakband, de fiets met de prijs eronder. In het halfdonker kon ik de prijs niet lezen. Ik wist hoeveel het was.
 
 Ik dacht aan de tafel. Aan de nerf van het teak die donker werd van de regen, aan mijn vingers die gleden, aan de zijdeur die te smal was. Ik had hem gewoon gedragen.
 

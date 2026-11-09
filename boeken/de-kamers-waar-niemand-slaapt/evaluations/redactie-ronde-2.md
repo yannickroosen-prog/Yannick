@@ -38,3 +38,19 @@ Lies voorspelt niet meer letterlijk "maar ze kon het dus wel". Ze vreest dat hij
 ## 6. Geloofwaardigheid van procedures
 - **Pleegzorg**: de Vlaamse overheid noemt een voorbereidingstraject van 3 à 4 maanden na de kandidaatstelling (https://www.vlaanderen.be/pleegouder-worden). De regelgeving kent "ondersteunend verblijf in een pleeggezin – lage frequentie". De exacte duur van de screening is niet publiek vastgelegd. Laat dit bij Pleegzorg Oost-Vlaanderen bevestigen.
 - **Cryo-terugplaatsing**: ontdooiing gebeurt op de ochtend van de geplande terugplaatsing. Pas daarna weet men of de embryo's het overleefd hebben, en de kliniek belt dan. Beide partners tekenen schriftelijk voor de ontdooiing (o.a. https://www.uza.be/sites/default/files/uploads/aanvraag_voor_het_ontdooien_van_embryos.pdf, https://www.asz.nl/folders/embryo_719/terugplaatsen-van-een-ontdooid-embryo-cryo-et.pdf). Hoofdstuk 9 is daarop aangepast: drie weken voorbereiding met pillen, twee echo's, het formulier, het telefoontje in de file. Het specifieke protocol van UZ Gent is niet gevonden; laat dit door een fertiliteitsverpleegkundige nalezen.
+
+## Controle na herschrijving (`redactie-ronde-2-controle.md`)
+13 nieuwe punten gemeld, verwerkt:
+- **Tijdlijn**: h10 en het register zijn gelijkgetrokken met de ontdooiing in februari 2021.
+- **Kleine correcties in de tekst**:
+  - De grap over de tafel in h12 is weg.
+  - De dubbele vermelding van het overtrek in h14 is weg.
+  - "Zeven keer" in plaats van "zeven zondagen" (een van de ophalingen was op Paasmaandag).
+  - De dialoog tussen Kelly en Dylan is herschreven: zij overhoort hem, in plaats van hem iets te leren wat hij al kon.
+  - De prijsberekening van Dylan is gecorrigeerd.
+  - Lies schudt het bed op, in plaats van het af te halen.
+  - De dubbele vergelijking met een put in het trottoir is weg.
+  - "kopje" in plaats van "tas".
+  - In h9 staat nu wie rijdt.
+- **Tekening van Dylan**: geen huis met gezichtjes meer, maar de fiets waarvoor hij spaart, met de prijs.
+- **Bewust niet aangepast**: de volgorde van Wards vertrek.

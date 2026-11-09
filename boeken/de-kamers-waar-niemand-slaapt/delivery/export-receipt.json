@@ -26,7 +26,7 @@
       },
       {
         "number": 3,
-        "words": 3210
+        "words": 3154
       },
       {
         "number": 4,
@@ -34,15 +34,15 @@
       },
       {
         "number": 5,
-        "words": 2301
+        "words": 2289
       },
       {
         "number": 6,
-        "words": 3017
+        "words": 2992
       },
       {
         "number": 7,
-        "words": 3105
+        "words": 3090
       },
       {
         "number": 8,
@@ -50,30 +50,30 @@
       },
       {
         "number": 9,
-        "words": 2964
+        "words": 3105
       },
       {
         "number": 10,
-        "words": 2391
+        "words": 2504
       },
       {
         "number": 11,
-        "words": 3405
+        "words": 3710
       },
       {
         "number": 12,
-        "words": 3454
+        "words": 3436
       },
       {
         "number": 13,
-        "words": 3804
+        "words": 4240
       },
       {
         "number": 14,
-        "words": 2563
+        "words": 2489
       }
     ],
-    "total": 42232
+    "total": 43027
   },
   "source_chapters": [
     {
@@ -92,7 +92,7 @@
       "number": 3,
       "path": "chapter-03.md",
       "title": "3. Doopsuiker",
-      "sha256": "420c51ed5fa555b48a2e7e0cb9d2bdfe0f80ef6cad0d6d290da0ceda6a183280"
+      "sha256": "59326cea9eda838afa336d3a60950f8097941df2048b6312eb8167a2db6119e4"
     },
     {
       "number": 4,
@@ -104,19 +104,19 @@
       "number": 5,
       "path": "chapter-05.md",
       "title": "5. Meetonzekerheid",
-      "sha256": "0ea837b2af1e662f632820b87efc1fbb759a7afabde8c52ddeb5d510cd4292c5"
+      "sha256": "0878f2ae3d1a7356776caa749ed1284794daff4654e55eeab2d183fde3beee16"
     },
     {
       "number": 6,
       "path": "chapter-06.md",
       "title": "6. Het kerstdiner",
-      "sha256": "2396a1e4105e05aef2c8605f926347653db75a128f645a889cf9943d92da1e26"
+      "sha256": "69421efa4f1b0ac7106ded6a64ab9d9fb4631d72ca606327522f563f65aaf2b4"
     },
     {
       "number": 7,
       "path": "chapter-07.md",
       "title": "7. Voor later",
-      "sha256": "2b7493de17651d02f731e9b31891bdc7a96d7869e266c6f8dfba5cc38a738c80"
+      "sha256": "1c5933f8e4107751b8095da3ebbe64631aea7ac769bbe3305efcea5cdc2ebd69"
     },
     {
       "number": 8,
@@ -128,52 +128,52 @@
       "number": 9,
       "path": "chapter-09.md",
       "title": "9. Geen hartslag",
-      "sha256": "62a0752ce8b269db9964e990dd0c6c52690f2f30a6df7ea9c16ceb73a740a1f4"
+      "sha256": "c2e0475752116cf4cded33edb845feb60f9fa11819f7746038ba3a3e5f64ec36"
     },
     {
       "number": 10,
       "path": "chapter-10.md",
       "title": "10. De rest van mijn leven",
-      "sha256": "d84d324365cdd25fdd8e9391c79edfdee3f7ec794f0f1ba5734bc77e2e16e62c"
+      "sha256": "032d1bf3c36bf379d8519bff5af4bf0ce1818cfa8818e1dd75d27fc9a4a4eb52"
     },
     {
       "number": 11,
       "path": "chapter-11.md",
       "title": "11. Dylan",
-      "sha256": "3ee5c60e0bc08146b84088d75f6f84092143a38ec6de7594973caf1774b4bea5"
+      "sha256": "aff7cba6f4da7b4c3e08d6447b24280f8c30b950e82672fab2d5ce306acdb4f7"
     },
     {
       "number": 12,
       "path": "chapter-12.md",
       "title": "12. De tuintafel",
-      "sha256": "8bcdf27eb7234cb17aaedd370b442efc3a25ee4964d2f345b5a1541d2922c408"
+      "sha256": "4f5553016d9009ef576c5ad1b51b9b7654909c01a0ba371df79a5c5f4437db05"
     },
     {
       "number": 13,
       "path": "chapter-13.md",
       "title": "13. De haag",
-      "sha256": "ca2902a3fbac5949c41992e74bf74b036fc2563fd1f725efdcb7dc9e82472080"
+      "sha256": "1b304579eff62c027d73254fb02ba927d8b743837c5e05b044558d0f85ff324e"
     },
     {
       "number": 14,
       "path": "chapter-14.md",
       "title": "14. De kamers",
-      "sha256": "84cfe562979d9b47d31059e6952240710b0451787e7dc163d26c122872a18e14"
+      "sha256": "ce2c708236369a33375c8d5ddddf5a5435e54d299bc759bc0d37c7748d3b83b1"
     }
   ],
   "outputs": {
     "manuscript.md": {
-      "sha256": "7c7f25207f7d4beae74643b14285daee0bf1908e671da48c3bc74a60fc8d0269"
+      "sha256": "ef541b8d81261fff08dba25b389c344e7f69d9c096fa003980b982d7612d3b2d"
     },
     "de-kamers-waar-niemand-slaapt.epub": {
-      "sha256": "fa82d55d6748f0d9db27b2c1a82f44cee892462834ce8f0701eb45072f896e35"
+      "sha256": "08c00808be978d9353a9c693dfcfdc8b44185352572aa81c7264fab2dabd7c16"
     },
     "de-kamers-waar-niemand-slaapt.docx": {
-      "sha256": "c716e4f7951892c9bc5fb6a081f0ff1d89f493d375b87201ae1072528ad9c673",
+      "sha256": "0763e71fd82e38bd89a946d6e12d5e8347f7a01106e215114d84cd4b37983cd1",
       "format": "docx"
     },
     "de-kamers-waar-niemand-slaapt.pdf": {
-      "sha256": "a087d2d61f62d5021934d38f884a7731e942b8879129ffef02710112b96e3b43",
+      "sha256": "e36905e41e270263a35cc39e8c7b5ff027e9becaf9294c805aee917f828eae59",
       "format": "pdf"
     }
   },
@@ -191,8 +191,8 @@
     },
     "pdf": {
       "chapters": 14,
-      "pages": 179,
-      "text_bytes": 229316,
+      "pages": 183,
+      "text_bytes": 233768,
       "status": "passed"
     }
   },

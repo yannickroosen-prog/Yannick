@@ -6,7 +6,7 @@ Author: Yannick Roosen. Language: nl. Chapters: chapter-01.md to chapter-14.md (
 - de-kamers-waar-niemand-slaapt.epub: created and validated
 - de-kamers-waar-niemand-slaapt.docx: created and validated
 - de-kamers-waar-niemand-slaapt.pdf: created and validated as a reading-proof PDF
-- word count: 42232 prose words (receipt method: whitespace_split_prose_v2)
+- word count: 43027 prose words (receipt method: whitespace_split_prose_v2)
 - export-receipt.json: created with source and output hashes
 - quality gates: not assessed by this helper; no publication-readiness claim
 

@@ -48,7 +48,7 @@ Ze schudde haar hoofd.
 
 Ik vertelde het haar. Het koertje bij Bert, in 2018, de mist, het woord *weghalen*, en dat Lies in de deur had gestaan. Ik vertelde het zonder iets weg te laten. Daarna vertelde ik over de auto, deze zomer, na het feest van mijn moeder. Over de moeder van Dylan. Dat ik had gezegd dat zij het niet aankon, op haar negentiende, met een of andere vent, en dat wij het weekend moesten overnemen.
 
-Rita zette haar tas neer.
+Rita zette haar kopje neer.
 
 'Lies was negentien,' zei ze.
 
@@ -56,9 +56,9 @@ Rita zette haar tas neer.
 
 'Nee,' zei Rita. 'Ge wist het van die andere ook niet.' Ze keek me aan, lang, met de ogen van Lies, die ik nooit eerder bij haar had gezien. 'Hoe lang hebt ge dat meisje gekend?'
 
-'Zeven zondagen.'
+'Zeven keer.'
 
-'Zeven zondagen,' zei Rita.
+'Zeven keer,' zei Rita.
 
 Op het plein viel een stang op de grond met een klap. Iemand vloekte. Ik dronk mijn koffie. Hij was sterk en bitter. Rita zette altijd te sterke koffie. Lies zei dat altijd. Ik had het nooit gemerkt.
 
@@ -148,13 +148,21 @@ Ik had er niets te zoeken. Wij gaan naar de Colruyt in Lede. Ik was in Wetteren 
 
 Ze stonden bij het vlees. Kelly met een kar, Dylan ernaast met een folder. Ik zag ze tussen de rekken door, van bij de koekjes. Dylan las prijzen voor. Kelly luisterde. Ze had een andere jas aan, een rode, en haar haar was korter.
 
-'Kipfilet,' zei Dylan. 'Zeven negenennegentig.'
+'Kipfilet,' zei Dylan. 'Zeven negenennegentig voor vijfhonderd gram.'
 
-'Per kilo?' zei Kelly.
+'En per kilo?' zei Kelly. Ze keek niet op. Ze las het etiket van een pak gehakt.
 
-'Voor vijfhonderd gram.'
+'Vijftien achtennegentig.'
 
-'Dan is het per kilo vijftien achtennegentig, Dylan. Altijd per kilo. Hoeveel keer moet ik dat zeggen.' Ze nam de folder van hem af en keek erin. 'Bij de Lidl is het goedkoper. Leg terug.'
+'En bij de Lidl?'
+
+'Twaalf negenenveertig.'
+
+'Dan?'
+
+'Dan leggen we terug,' zei Dylan.
+
+'Dan leggen we terug,' zei Kelly.
 
 Hij legde het terug. Hij zei niets. Hij keek naar haar zoals hij in onze keuken naar de ballon op het flesje had gekeken.
 
@@ -164,7 +172,7 @@ Dylan draaide zich om. Hij zag me. Hij stak zijn hand op, half, tot aan zijn sch
 
 Ik knikte terug.
 
-Ik ging niet naar hen toe. Ik heb er lang over nagedacht, in de auto, op de parking, met de motor uit, waarom ik niet naar hen toe ben gegaan, en ik weet het niet. Ik weet alleen dat ik daar stond, een man van veertig met een pak koekjes, die in een auto op een oprit tegen zijn vrouw had gezegd dat die moeder het niet aankon. Ik had haar zeven zondagen gezien, telkens drie minuten, op een trottoir. De rest had ik erbij verzonnen.
+Ik ging niet naar hen toe. Ik heb er lang over nagedacht, in de auto, op de parking, met de motor uit, waarom ik niet naar hen toe ben gegaan, en ik weet het niet. Ik weet alleen dat ik daar stond, een man van veertig met een pak koekjes, die in een auto op een oprit tegen zijn vrouw had gezegd dat die moeder het niet aankon. Ik had haar zeven keer gezien, telkens drie minuten, op een trottoir. De rest had ik erbij verzonnen.
 
 Ik zette de Prince-koeken terug. Ik nam de kar en ging naar de kassa, langs de andere kant, langs de diepvriezers.
 

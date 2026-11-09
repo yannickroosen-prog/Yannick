@@ -14,7 +14,7 @@
 - Roger Verstraeten (buren, nr. 25), snoeit zondag 9u. Jeanine †oktober 2022. Zoon Patrick in Alicante.
 - Danny, collega, 3 kinderen.
 - Sofie (vriendin Lies), man Bert; derde zwangerschap aangekondigd kerst 2018.
-- Dylan Mertens, °2013; moeder Kelly. Respijtpleegzorg via Pleegzorg Oost-Vlaanderen, van oktober 2021 tot juni 2022, één weekend per maand (+ enkele extra). Laatste weekend juni 2022.
+- Dylan Mertens, °2013; moeder Kelly. Respijtpleegzorg via Pleegzorg Oost-Vlaanderen, januari tot juni 2022 (7 keer; voorbereiding sept–dec 2021). Laatste weekend juni 2022.
 - Ward, collega van Lies in het labo (ch10).
 
 ## Medische tijdlijn
@@ -25,7 +25,7 @@
 - 2018: IVF 2 (maart), IVF 3 (okt), negatief. Vier embryo's ingevroren na poging 3 (= "de diepvries").
 - Terugbetaling: ziekenfonds/RIZIV voor maximaal zes IVF-cycli (labo); eigen kosten medicatie deels. Lies is 36 eind 2018.
 - Maart 2020: centra sluiten (corona). Juni 2020 heropenen.
-- Sept 2020: ontdooiing; twee embryo's overleven, terugplaatsing van één (de andere niet levensvatbaar na ontdooiing). Positieve test begin okt 2020. Echo 7 weken (eind okt 2020): geen hartslag. Curettage begin november 2020. Ch9 eindigt januari 2021.
+- Sept 2020: ontdooiing; twee embryo's overleven, terugplaatsing van één (de andere niet levensvatbaar na ontdooiing). Positieve test begin okt 2020. Echo 7 weken (eind okt 2020): geen hartslag. Curettage begin november 2020. Ch9 eindigt februari 2021 (geannuleerde cryo-terugplaatsing).
 - Na 2020: geen embryo's meer over. Lies 38. Geen nieuwe IVF.
 
 ## Wie weet wat
@@ -38,7 +38,7 @@
 - Lies' zus Ann, man Dirk (verzekeringen), dochters Femke (7) en Lotte (9) in 2018.
 - IUI's: sept 2016 (week vóór Lena's feest), nov 2016, jan 2017. IVF 1 sept 2017 (14 eitjes, 1 terug, 0 ingevroren). IVF 2 maart 2018. IVF 3 okt 2018 → 4 ingevroren.
 - Pauze 2019: tot "na de zomer", dan "na kerst", dan "in het voorjaar"; terugplaatsing gepland 2 april 2020, geannuleerd door corona (mail 16 maart 2020); heropstart-mail 8 juni 2020.
-- Sept 2020: 2 ontdooid, 1 overleeft, teruggeplaatst. Positieve test dag 11; echo dag 39 (eind okt) zonder hartslag; tweede echo een week later; curettage donderdag 12 november 2020. Jan 2021: laatste 2 ontdooid, geen van beide overleeft.
+- Sept 2020: 2 ontdooid, 1 overleeft, teruggeplaatst. Positieve test dag 11; echo dag 39 (eind okt) zonder hartslag; tweede echo een week later; curettage donderdag 12 november 2020. Feb 2021: laatste 2 ontdooid op de ochtend van de geplande terugplaatsing, geen van beide overleeft.
 - Picanto: rood → in 2021 vervangen door witte tweedehands Picanto.
 - Roger: teckel Fanny † dec 2020 → Fanny Twee. Jeanine † oktober 2022 (78). Roger en Jeanine wachtten 8 jaar op Patrick (jaren '60).
 - Pleegzorg: consulente Ilse; Dylan: kandidaatstelling juli 2021, voorbereiding sept–dec 2021, 7 weekends jan–juni 2022 (maandelijks + krokus + Pasen + afscheid juni); astma (puffer); verstopt eten; spaart voor fiets (incl. krokus en Pasen); moeder Kelly (27), Opel Corsa; werkt later in wasserette in Zele.

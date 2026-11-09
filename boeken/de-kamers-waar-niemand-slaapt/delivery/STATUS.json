@@ -3,7 +3,7 @@
   "status": "delivered",
   "scope": "draft",
   "receipt": "export-receipt.json",
-  "receipt_sha256": "a05ed96abdf824491d8888a0cbc948f6c27d573197994fc5f7e342d031f54b74",
+  "receipt_sha256": "4bdf0073a158f26151c462cbcc591f83e78a752bc4525ff0e1f6b4dd4bcbc91b",
   "formats": [
     "md",
     "epub",

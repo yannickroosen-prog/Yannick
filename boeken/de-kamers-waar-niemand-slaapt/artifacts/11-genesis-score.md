@@ -3,10 +3,10 @@
 *Gemeten craft-risico, geen verkoopvoorspelling. Gesimuleerde lezers en beoordelaars, geen echte lezers. Geen uitspraak over publicatierijpheid; dat beslist een mens.*
 
 ## 1. Waar het boek staat
-De roman is volledig: 14 hoofdstukken, 42.232 woorden, binnen het lengtecontract. Vier aparte gesimuleerde lezers bladeren door bij elk gesampled hoofdstuk, en de verse audit van het slot vindt geen zware problemen meer. Alleen de strengste rubriekpoort (8,5 na kalibratie) wordt niet gehaald. Proza, tempo en markt blijven tussen 7 en 7,5.
+De roman is volledig: 14 hoofdstukken, 43.027 woorden, binnen het lengtecontract. Vier aparte gesimuleerde lezers bladeren door bij elk gesampled hoofdstuk, en de verse audit van het slot vindt geen zware problemen meer. Alleen de strengste rubriekpoort (8,5 na kalibratie) wordt niet gehaald. Proza, tempo en markt blijven tussen 7 en 7,5.
 
 ## 2. Volledigheid
-- Hoofdstukken 14/14 · 42.232 woorden (`delivery/export-receipt.json`) · contract 42.000–52.000: **PASS**.
+- Hoofdstukken 14/14 · 43.027 woorden (`delivery/export-receipt.json`) · contract 42.000–52.000: **PASS**.
 - Uitgeverspakket en positionering: aanwezig, hooktest uitgevoerd.
 - Label: **compleet**.
 
@@ -74,3 +74,6 @@ Na de laatste rubriek en audit volgde nog één zinspass. Daarin is in h5, h8, h
 
 ## 8. Volgende stap
 De zwakste dimensie is **Markt**, en binnen de tekst **Proza**. De zinspass op het ontkenningscontrast is gedaan; een nieuwe rubriekbeoordeling moet uitwijzen of het proza-plafond nu weg is. Daarna volgt een menselijke lezing door iemand uit de Vlaamse uitgeefwereld voor de positionering.
+
+---
+**Aanvulling, redactieronde 2:** het redactioneel rapport van de auteur is verwerkt (zie `evaluations/redactie-ronde-2.md`). Hoofdstuk 11 en delen van 12–14 zijn herschreven, en hoofdstuk 9 is procedureel gecorrigeerd. De scores en panels hierboven gaan over de versie vóór deze ronde. De nieuwe tekst is alleen gecontroleerd door één redactionele controlelezing (`redactie-ronde-2-controle.md`); de punten die die vond, zijn verwerkt. Nieuwe lengte: 43.027 woorden.

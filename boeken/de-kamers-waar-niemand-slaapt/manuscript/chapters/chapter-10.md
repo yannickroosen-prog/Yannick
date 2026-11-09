@@ -6,7 +6,7 @@ Een appartement in Gent, Brugse Poort. Zestig vierkante meter. Eén slaapkamer. 
 
 Ik heb het opgeslagen bij mijn favorieten op Immoweb. Er staan er elf in. Ik heb er nog geen enkele bezocht.
 
-Ik kijk 's nachts. Steven slaapt. Hij slaapt goed sinds januari, beter dan in jaren. Ik weet niet wat dat betekent. Ik lig naast hem met mijn telefoon onder het dekbed, met de helderheid op het laagst, en ik scrol door foto's van keukens en badkamers en slaapkamers met één bed. Ik kijk niet naar de grote appartementen. Ik kijk alleen naar de appartementen met één slaapkamer. Dat is een filter dat je kunt instellen. *Aantal slaapkamers: 1.*
+Ik kijk 's nachts. Steven slaapt. Hij slaapt goed sinds februari, beter dan in jaren. Ik weet niet wat dat betekent. Ik lig naast hem met mijn telefoon onder het dekbed, met de helderheid op het laagst, en ik scrol door foto's van keukens en badkamers en slaapkamers met één bed. Ik kijk niet naar de grote appartementen. Ik kijk alleen naar de appartementen met één slaapkamer. Dat is een filter dat je kunt instellen. *Aantal slaapkamers: 1.*
 
 Ik ben niet van plan om te vertrekken. Ik kijk alleen.
 
@@ -16,7 +16,7 @@ De redenering is eenvoudig. Ik heb ze vaak gemaakt.
 
 Steven is negenendertig. Een man van negenendertig kan nog vader worden. Een man van negenenveertig ook. Er zijn mannen die op hun zestigste nog vader worden. Er staat er elke maand een in *Dag Allemaal*, mijn moeder knipt die er niet uit. Het is een kwestie van biologie. Het zaad van een man aan de lage kant van normaal is nog altijd normaal. Bij een andere vrouw, een jongere, met een lichaam dat niet verklaard hoeft te worden, zou het waarschijnlijk lukken. Ik schat de kans in. Ik heb er geen getal voor, maar ik schat het hoog in.
 
-Ik ben achtendertig. Mijn eierstokken zijn achtendertig. Het fertiliteitscentrum heeft na januari een brief gestuurd, met een afspraak voor een *evaluatiegesprek*, waarin stond dat ze bij een volgende stimulatie *gezien de leeftijd en de voorgeschiedenis* een aangepast protocol zouden voorstellen. Ik heb de afspraak geannuleerd. Ik heb dat alleen gedaan, op een dinsdag, vanuit het labo, en ik heb het Steven 's avonds gezegd. Hij zei: 'Goed.' Hij zei het zoals hij het altijd zegt. Ik weet nog altijd niet of hij opgelucht was.
+Ik ben achtendertig. Mijn eierstokken zijn achtendertig. Het fertiliteitscentrum heeft na februari een brief gestuurd, met een afspraak voor een *evaluatiegesprek*, waarin stond dat ze bij een volgende stimulatie *gezien de leeftijd en de voorgeschiedenis* een aangepast protocol zouden voorstellen. Ik heb de afspraak geannuleerd. Ik heb dat alleen gedaan, op een dinsdag, vanuit het labo, en ik heb het Steven 's avonds gezegd. Hij zei: 'Goed.' Hij zei het zoals hij het altijd zegt. Ik weet nog altijd niet of hij opgelucht was.
 
 De redenering gaat dus zo: als ik ga, kan hij nog. Als ik blijf, kan hij niet meer. Ik ben de factor. Ik ben de onverklaarde factor.
 
@@ -58,7 +58,7 @@ Thuis is het stil. Het is een ander soort stil dan vroeger.
 
 Steven heeft in februari de pennen uit de frigo gehaald. Er waren er nog twee over, van de derde poging. Hij heeft ze naar de apotheek gebracht, in een papieren zak, omdat je ze niet bij het gewone afval mag doen. Hij heeft de gele emmer meegenomen. Hij zei er niets over. Ik zag op een avond dat de wasmachine leeg was, bovenop. Gewoon een wasmachine. Wit. Met een ronde vlek op de plaats waar de emmer had gestaan, een cirkel waar het stof niet was gekomen, en hij heeft die vlek niet weggeveegd, en ik ook niet.
 
-We praten. We praten over het werk, over zijn moeder, over Kristof, over de Picanto, die eindelijk is weggegaan en vervangen door een andere Picanto, een witte, tweedehands. We praten over wat we gaan eten. We praten niet over januari. We praten niet over november. We praten niet over de kleine kamer, waar de doos van zijn vader staat, onder het behang met de ballonnen, en waar hij soms naar binnen gaat als hij denkt dat ik slaap. Ik hoor het. De deur van de kleine kamer heeft een scharnier dat kraakt bij de helft.
+We praten. We praten over het werk, over zijn moeder, over Kristof, over de Picanto, die eindelijk is weggegaan en vervangen door een andere Picanto, een witte, tweedehands. We praten over wat we gaan eten. We praten niet over februari. We praten niet over november. We praten niet over de kleine kamer, waar de doos van zijn vader staat, onder het behang met de ballonnen, en waar hij soms naar binnen gaat als hij denkt dat ik slaap. Ik hoor het. De deur van de kleine kamer heeft een scharnier dat kraakt bij de helft.
 
 We vrijen niet. Of bijna niet. Twee keer sinds november. Beide keren was het vriendelijk. Ik weet geen beter woord. Het was zoals twee mensen die elkaar een hand geven na een begrafenis.
 
