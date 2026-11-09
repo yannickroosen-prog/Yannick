@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "coverage": {
+    "scope": "full_manuscript",
+    "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+  },
+  "dimensions": [
+    {
+      "name": "Originality",
+      "score": 7.6,
+      "evidence": [
+        {
+          "chapter": 2,
+          "quote": "Ik ben iemand die van getallen houdt, maar ik had nooit gedacht dat ik er zelf een zou worden.",
+          "reason": "De mannelijke kant van fertiliteitsbehandeling (het kamertje met het luikje, het spermastaal als getal) wordt zelden zo concreet en onsentimenteel verteld; de lens van de planner die alles telt is eigen."
+        },
+        {
+          "chapter": 1,
+          "quote": "Het apparaat is uitgerust met een kinderslot, zodat kinderen de deur niet kunnen openen.",
+          "reason": "Huishoudtoestellen en handleidingen als drager van het thema (vaatwasser, frigo, keuring, stopcontactbeveiligers) is een herkenbare maar consequent en fris uitgevoerde strategie."
+        },
+        {
+          "chapter": 5,
+          "quote": "Ik heb een geheim van zestien jaar oud dat niemand pijn heeft gedaan en dat nu, ineens, een wapen is, en ik weet niet tegen wie.",
+          "reason": "Het verborgen abortusgeheim als plotmotor is een bekend romanmechanisme; het wordt goed ingezet, maar trekt het boek richting conventionele onthullingsstructuur."
+        }
+      ],
+      "reason": "Premisse (onvrijwillige kinderloosheid vanuit de man, als droogkomische kroniek van objecten en procedures) en uitvoering zijn onderscheidend binnen de Vlaamse literatuur. Afgetrokken punten: het geheim-en-onthulling-mechanisme van Lies is vertrouwd, en het patroon 'object wordt symbool' is soms voorspelbaar (plooibed, raketten, raderdiertje)."
+    },
+    {
+      "name": "Theme",
+      "score": 8.4,
+      "evidence": [
+        {
+          "chapter": 2,
+          "quote": "Kwaad zijn is een vorm van ordening.",
+          "reason": "De centrale vraag (wat doe je met verlies zonder oorzaak, zonder schuldige) wordt vroeg en scherp geformuleerd in de passage over 'onverklaard'."
+        },
+        {
+          "chapter": 9,
+          "quote": "Het is de enige datum in dat schrift zonder bedrag ernaast.",
+          "reason": "Het thema wordt via het kostenschrift belichaamd in plaats van uitgelegd: rouw zonder vakje, zonder akte."
+        },
+        {
+          "chapter": 14,
+          "quote": "Er was geen loket. Er was een man die zich stond te scheren.",
+          "reason": "De slotgedachte sluit de vraag af zonder troost of moraal; de resonantie reikt voorbij het plot (verklaring, administratie, zingeving)."
+        }
+      ],
+      "reason": "Diep en consequent uitgewerkt: onverklaardheid, bijhouden versus voelen, wie 'stopt', kamers als mogelijkheid. Lichte overexplicitering op enkele plaatsen (ch14 'dit is het. Er komt geen antwoord.') houdt het onder 8.5."
+    },
+    {
+      "name": "Characters",
+      "score": 8.2,
+      "evidence": [
+        {
+          "chapter": 13,
+          "quote": "Ge zat op uw knieën op die badmat en ge prikte volgens de klok en ge vond dat schoon.",
+          "reason": "Lies ontmaskert Steven met een detail dat in hoofdstuk 4 als zijn tedere geheim werd gepresenteerd; de tegenspraak in Stevens zorgzaamheid (taak als vlucht) wordt zichtbaar."
+        },
+        {
+          "chapter": 11,
+          "quote": "'Ja,' zei Dylan. 'Maar niks van iemand.'",
+          "reason": "Ook een bijfiguur krijgt een eigen logica (prijzen per kilo) en raakt het thema zonder dat hij een spreekbuis wordt."
+        },
+        {
+          "chapter": 13,
+          "quote": "'Wij hebben ook lang gewacht, hé,' zei hij. 'Jeanine en ik.'",
+          "reason": "Roger kantelt van komische buurman naar spiegelfiguur; de vroege plant uit hoofdstuk 1 wordt laat en verdiend herzien."
+        }
+      ],
+      "reason": "Steven (passief, ordenend, met een lelijke onderstroom die in ch6 en ch12 doorbreekt) en Lies (meetonzekerheid, autonomie, geheim) zijn wond, verlangen en tegenspraak volledig. Kristof, Roger, Rita en Dylan zijn memorabel. Zwakte: Steven blijft lang een registrerende stilte; zijn passiviteit wordt wel benoemd maar zelden in handelen gedramatiseerd buiten de twee uitbarstingen."
+    },
+    {
+      "name": "Prose",
+      "score": 7.5,
+      "evidence": [
+        {
+          "chapter": 9,
+          "quote": "Een vrouw met goed nieuws loopt naar iemand. Zij liep naar een Skoda Octavia break uit 2011 op een parking in Gent.",
+          "reason": "Precisie en ritme op het emotionele hoogtepunt: de alledaagse specificiteit draagt het verdriet."
+        },
+        {
+          "chapter": 6,
+          "quote": "Het was niet de cava. Het was Bert.",
+          "reason": "Contrast-door-ontkenning (Nederlands equivalent van tell 2) op een sleutelmoment; de constructie keert terug in een groot deel van de hoofdstukken."
+        },
+        {
+          "chapter": 10,
+          "quote": "Dat is geen zelfmedelijden. Het is een analyse.",
+          "reason": "Zelfde sjabloon in de stem van Lies; in-character, maar het patroon telt mee."
+        },
+        {
+          "chapter": 4,
+          "quote": "Het voelde als een testament schrijven voor iemand die nog moest worden geboren, en ik bedacht dat dat eigenlijk precies was wat het was.",
+          "reason": "Beeld gevolgd door uitleg (tell 5): de zin vertrouwt het beeld niet."
+        }
+      ],
+      "reason": "Heldere, gestructureerde, ritmisch gevarieerde prose met droge Vlaamse precisie; nauwelijks gedachtestreepjes, weinig emotielabels. Plafond 7.5 is bindend: contrast-door-ontkenning ('niet X, maar Y', 'Het was geen X. Het was Y.', 'Niet uit X. Omdat Y.') overschrijdt het plafond van 1 per hoofdstuk in ruim meer dan een kwart van de hoofdstukken (o.a. 2, 3, 6, 8, 9, 10, 13). Daarnaast een narratieve tic: 'ik weet (het) niet' komt ca. 43 keer voor in de vertelling."
+    },
+    {
+      "name": "Pacing",
+      "score": 7.4,
+      "evidence": [
+        {
+          "chapter": 9,
+          "quote": "Na tweeënvijftig minuten kwam ze door de draaideur.",
+          "reason": "Goed gedoseerde vertraging: het aftellen in de auto bouwt spanning op met minimale middelen."
+        },
+        {
+          "chapter": 13,
+          "quote": "Ik sliep negentien weken in de kleine kamer.",
+          "reason": "Hoofdstuk 13 (ruim 4.000 woorden) stapelt vijf episodes (Rita, Jeanine, de haag, de radiator, de vaatwasser en Mila); de eigen lijn van verzoening concurreert met nevenlijnen en het tempo vlakt af na de climax van ch12."
+        }
+      ],
+      "reason": "Sterke voorwaartse druk via de behandelingskalender en duidelijke pieken (ch6, ch9, ch12). Zwakte: bijna elk hoofdstuk volgt hetzelfde stramien (familieritueel of procedure, huishoudelijk object, stille slotscène), wat in het middendeel (ch7-8, ch10-11) herhaling en voorspelbare cadans geeft; ch13 is overvol."
+    },
+    {
+      "name": "Emotion",
+      "score": 8.5,
+      "evidence": [
+        {
+          "chapter": 7,
+          "quote": "Aan onze keukentafel, om half zeven, met twee stopcontactbeveiligers van de Action tussen ons in, die een vrouw van het labo had verzekerd dat ze in het donker niet zouden verouderen.",
+          "reason": "Uitgestelde rouw breekt door via een absurd-concreet object; komisch en ontroerend tegelijk, precies de beoogde toon."
+        },
+        {
+          "chapter": 12,
+          "quote": "Ze deed het zachtjes dicht, met twee handen, zoals je een portier dichtdoet als er iemand in de auto slaapt.",
+          "reason": "De onthulling landt via gebaar in plaats van verklaring; de terughoudendheid maakt de klap groter."
+        },
+        {
+          "chapter": 13,
+          "quote": "We hebben het niet opgelost. We hebben een radiator ontlucht.",
+          "reason": "Verzoening zonder catharsis, droogkomisch; het beoogde gevoel (berusting met humor) komt aan, al is de zin licht uitleggend."
+        }
+      ],
+      "reason": "De beoogde mix van donkere komedie en ingehouden verdriet werkt over het hele boek, met meerdere echte pieken. Afgetrokken: op enkele hoogtepunten wordt het gevoel toch benoemd (ch8 'ik weet niet wanneer ik me ooit gelukkiger heb gevoeld', ch12 'ik was jaloers op hem, op een manier waarvoor ik me schaamde')."
+    },
+    {
+      "name": "Coherence",
+      "score": 8.0,
+      "evidence": [
+        {
+          "chapter": 6,
+          "quote": "Ik weet niet wat ze gehoord had. Ik heb het haar nooit gevraagd.",
+          "reason": "Wordt in hoofdstuk 12 exact ingelost ('Ge hebt dat op dat koertje ook gezegd. In 2018.'); causaliteit en plants zijn strak bewaakt, net als de embryotelling (4, dan 2, dan 0) en de leeftijden en jaartallen."
+        },
+        {
+          "chapter": 6,
+          "quote": "Zes goede op dag vijf. Eén teruggeplaatst, één niet goed genoeg, vier ingevroren.",
+          "reason": "Kleine interne tegenspraak: 'zes goede' bevat er een die 'niet goed genoeg' is."
+        },
+        {
+          "chapter": 5,
+          "quote": "op weg naar zijn werk, op de E40, ter hoogte van Wetteren",
+          "reason": "Geografische slordigheid: Steven werkt in Aalst en woont tussen Aalst en Dendermonde; Wetteren ligt op de route naar Gent, niet naar zijn werk."
+        },
+        {
+          "chapter": 12,
+          "quote": "Ik weet niet hoe lang. ---",
+          "reason": "Opmaakfout: de scèneonderbreking staat in de lopende zin."
+        }
+      ],
+      "reason": "Tijdlijn 2013-2023 klopt opvallend goed (leeftijden, coronadata, weekdagen), motieven worden consequent ingelost. Enkele kleine slordigheden (embryotelling-formulering, Wetteren-route, opmaak) houden het op 8.0."
+    },
+    {
+      "name": "Market",
+      "score": 7.3,
+      "evidence": [
+        {
+          "chapter": 1,
+          "quote": "Een vaatwasser voor twee mensen is eigenlijk een kast met ambities.",
+          "reason": "Toon en register zijn direct herkenbaar als Vlaamse tragikomische literaire fictie, toegankelijk voor een breed lezerspubliek."
+        },
+        {
+          "chapter": 2,
+          "quote": "Er is geen geheim in Vlaanderen dat niet via een turnclub loopt.",
+          "reason": "Sterke lokale verankering (tussentaal in dialoog, Colruyt, Brico, VRT) helpt de Vlaamse markt; vertaalbaarheid blijft mogelijk."
+        }
+      ],
+      "reason": "Kort, legible, thematisch actueel en met een zeldzaam perspectief (de man) - verpakbaar. De comps zijn deels te hoog of scheef: het boek is milder en burgerlijker dan Verhulst of Boon (geen rauwheid, geen sociale satire op die schaal); Elsschot past qua beknoptheid en ironie beter. Positionering als 'donkere komedie' overschat de scherpte; 'tedere tragikomedie' is eerlijker."
+    },
+    {
+      "name": "Voice",
+      "score": 8.2,
+      "evidence": [
+        {
+          "chapter": 1,
+          "quote": "Hij heeft een elektrische haagschaar die klinkt als een wesp met een mening.",
+          "reason": "Herkenbare droge, precieze vergelijkingsstijl die een heel boek meegaat en terugkeert als motief."
+        },
+        {
+          "chapter": 5,
+          "quote": "Mijn lichaam heeft geen marge. Mijn lichaam zegt nee.",
+          "reason": "De Lies-hoofdstukken krijgen een duidelijk andere stem (tegenwoordige tijd, laboratoriumlogica, kortere zinnen) zonder de toon van het boek te breken."
+        }
+      ],
+      "reason": "Distinct en duurzaam: de planner die alles telt, met Vlaamse spreektaal in dialoog en een nuchtere vertelling. Risico voor de lange adem: verbale tics ('ik weet (het) niet' ca. 43 keer, 'Ik zei niets' en varianten veelvuldig, 'Ik weet het' als refrein) maken de stem soms mechanisch, en Lies' hoofdstukken delen te veel cadans met Steven (zelfde 'Ik weet...'-ritme)."
+    },
+    {
+      "name": "Opening",
+      "score": 8.1,
+      "evidence": [
+        {
+          "chapter": 1,
+          "quote": "De vaatwasser gaf het op op een dinsdag.",
+          "reason": "Een droge, alledaagse eerste zin die meteen toon en thema (iets wat het opgeeft, onverklaard) zet."
+        },
+        {
+          "chapter": 1,
+          "quote": "Het defect was ik. Dat is altijd een beetje een teleurstelling, als je iets wil herstellen.",
+          "reason": "Het eerste hoofdstuk belooft de schuldvraag die het boek draagt; ingelost in hoofdstuk 13 (vaatwasser definitief kapot) en 14 (PMD-zak met twee handen)."
+        }
+      ],
+      "reason": "Sterk eerste hoofdstuk met heldere belofte en een volledig ingeloste cirkelstructuur. Lichte smet: de openingsalinea leunt op een ontkenningscontrast ('Niet met een knal, eerder met een zucht'), op een dragende positie."
+    }
+  ],
+  "strongest_passage": {
+    "chapter": 9,
+    "quote": "Het is de enige datum in dat schrift zonder bedrag ernaast.",
+    "reason": "Bundelt het thema (bijhouden, administratie, rouw zonder vakje) in een enkel concreet beeld zonder uitleg; de beste zin van het boek."
+  },
+  "weakest_passage": {
+    "chapter": 12,
+    "quote": "Ik hield van hem en ik was jaloers op hem, op een manier waarvoor ik me schaamde, en ik wilde hem slaan, en ik wilde hem vastpakken, en ik deed niets, omdat ik niet wist welk van die dingen ik eerst moest doen.",
+    "reason": "Op het emotionele hoogtepunt in de garage worden liefde, jaloezie en schaamte benoemd in plaats van gedramatiseerd; de scène had het met het gewicht van de tafel en de hand van de vader zonder deze inventaris gekund."
+  },
+  "confidence": {
+    "level": "medium",
+    "reason": "Volledige lezing van alle veertien hoofdstukken in volgorde; tells-tellingen zijn handmatig en met eenvoudige zoekpatronen op het Nederlands toegepast (de standaarden zijn Engelstalig), dus aantallen zijn benaderingen."
+  },
+  "limitations": "Deze beoordeling zegt niets over verkoopbaarheid of publicatiegereedheid. De Engelstalige tellingsdrempels zijn naar Nederlandse equivalenten vertaald zonder gevalideerde Nederlandse normen; er was geen 05-voice.md beschikbaar om eventuele stijlvrijstellingen (bv. bewust gebruik van ontkenningscontrast of het 'ik weet het niet'-refrein) te verifiëren. Marktinschatting steunt alleen op de opgegeven positionering en comps, niet op marktdata."
+}
