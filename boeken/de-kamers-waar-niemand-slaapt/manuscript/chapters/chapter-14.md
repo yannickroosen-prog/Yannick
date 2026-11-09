@@ -146,7 +146,7 @@ Ik scheer me elke ochtend met een mesje. Ik heb dat altijd gedaan. Lies heeft me
 
 Op een ochtend in september stond ik me te scheren en keek ik in de spiegel naar een man van eenenveertig met schuim op zijn gezicht en een kruin die dun werd. Ik had het nooit zo goed gezien. Ik zag het nu, in de spiegel van de badkamerkast, omdat Lies er een lamp boven had gehangen, een nieuwe, met led, die alles toonde.
 
-Ik dacht: dit is het. Er komt geen antwoord.
+Ik dacht: dit is het.
 
 Ik dacht het niet als een groot moment. Ik dacht het zoals je denkt dat de melk op is. Ik had al die jaren gewacht. Op de uitslag, op het streepje, op de hartslag, op een verklaring. Ik dacht dat er ergens een loket was.
 

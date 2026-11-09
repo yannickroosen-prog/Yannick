@@ -28,17 +28,17 @@ independence:
   notes: "Geen tweede modelfamilie beschikbaar in deze cloudomgeving."
 
 pipeline:
-  current_phase: "Phase 4: Adversarial Audit"
+  current_phase: "Phase 7: Editorial Package"
   current_gate: ""
-  status: "in_progress"
-  panel_passes: 0
-  rubric_passes: 0
+  status: "delivered_with_unmet_gates"
+  panel_passes: 2
+  rubric_passes: 1
 
 manuscript:
   chapter_count_planned: 14
   average_words_per_chapter_planned: 3321
   completed_chapters: [1,2,3,4,5,6,7,8,9,10,11,12,13,14]
-  word_count_actual: 43457
+  word_count_actual: 42457
   length_gate: "PASS"
   status: "drafted"
 
@@ -47,10 +47,10 @@ gates:
   foundation: "passed"
   architecture: "passed (verification: degraded, not independent)"
   drafting: "passed"
-  adversarial_audit: "pending"
-  revision_loop: "pending"
-  final_score: "pending"
-  editorial_package: "pending"
+  adversarial_audit: "revise (5 high) → herzien; recheck revise (1 nieuwe high) → opgelost; geen bevestigde pass"
+  revision_loop: "panel: passed na pass 3; rubric: niet gehaald"
+  final_score: "rubric 7,94 ruw / 7,14 gekalibreerd; ondergrens 6,5; doel 8,5 niet gehaald"
+  editorial_package: "aanwezig; hooktest niet uitgevoerd (gebruikslimiet)"
 
 decisions:
   - "Autonome modus: de opdracht vraagt een volledige roman."
@@ -59,6 +59,6 @@ decisions:
 open_questions: []
 
 delivery:
-  status: "pending"
-  scope: ""
+  status: "exported"
+  scope: "manuscript.md + EPUB, gevalideerd"
   receipt: ""

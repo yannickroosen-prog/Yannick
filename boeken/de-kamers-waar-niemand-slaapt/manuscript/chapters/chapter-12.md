@@ -168,7 +168,7 @@ Ik wist wat ik zou denken. Ik dacht het al. Het was er al, het was er gekomen te
 
 *Maar ze kon het dus wel.*
 
-Ik weet niet wat mijn gezicht deed. Ik weet dat zij het zag. Ik weet dat ze het zag zoals ze een resultaat ziet onder een microscoop, en dat ze knikte, één keer, alsof een hypothese bevestigd werd die ze al jaren had.
+Ik weet niet wat mijn gezicht deed. Ik weet dat zij het zag. Ik weet dat ze het zag en dat ze knikte, één keer.
 
 'Ja,' zei ze. 'Dat.'
 

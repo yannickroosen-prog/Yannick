@@ -32,3 +32,8 @@ Pass 2 (kleine correcties, canoniek):
 - h13: Rita's versie afgestemd op h5 (zij belde voor de afspraak); Stevens kennis uit h5 verwijderd.
 - h12: scènescheiding hersteld.
 Bewust behouden: "Ik dacht: dit is het. Er komt geen antwoord." (h14). Het besef dat de auteur expliciet vraagt; Dylans "niks van iemand" (dialoog, geen uitleg).
+
+## Pass 3 (na eindpanel)
+Geschrapt: uitlegzinnen in h7 (polypropyleen-bijzin, "zonder haar"), h12 (microscoop-vergelijking), h13 (meta-alinea "We hebben het niet opgelost...", Rita "Dat heeft ze van mij", Roger "Ge weet het nooit. Van niemand.", meting-vergelijking), h14 ("Er komt geen antwoord.").
+Blinde A/B h13 (A = herzien): Hilde A, Joris A, Saïda A, luchthaven same. Doorbladeren: 3/4 ja (Joris twijfel). → h13 PASS, herziening gepromoveerd.
+Panelpoort: alle gesamplede hoofdstukken nu ≥3/4.

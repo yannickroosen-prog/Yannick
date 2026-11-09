@@ -50,7 +50,7 @@ Op het plein viel een stang op de grond met een klap. Iemand vloekte.
 
 'Kwaad?'
 
-'Dat ze het niet zelf kon.' Rita keek me aan. 'Dat ze iemand nodig had. Ze heeft nooit iemand nodig willen hebben. Dat heeft ze van mij. Ik heb na haar vader ook nooit meer iemand nodig willen hebben. Kijk waar ik nu zit.' Ze maakte een gebaar naar het appartement, de pralines, de kamerjas. 'Met mijn artikels.'
+'Dat ze het niet zelf kon.' Rita keek me aan. 'Dat ze iemand nodig had. Ik heb na haar vader nooit meer iemand nodig willen hebben. Kijk waar ik nu zit.' Ze maakte een gebaar naar het appartement, de pralines, de kamerjas. 'Met mijn artikels.'
 
 Ik zei niets. Ik dronk mijn koffie. Hij was sterk en bitter. Rita zette altijd te sterke koffie. Lies zei dat altijd. Ik had het nooit gemerkt.
 
@@ -142,7 +142,7 @@ Ik stond met de borstel in mijn hand.
 
 'Ge wist het niet, Roger.'
 
-'Nee,' zei hij. 'Dat is het, hé. Ge weet het nooit. Van niemand.' Hij boog zich voorover en raapte zijn koffiekop op, die koud moest zijn. Hij keek erin. 'Jeanine zei toen al, toen ik binnenkwam: dat moogt ge niet vragen, Roger. Ze had het van achter het gordijn gezien, aan uw gezicht. Ik zeg: wat? Het is een gewone vraag. Ze zei: er bestaan geen gewone vragen.'
+'Nee,' zei hij. Hij boog zich voorover en raapte zijn koffiekop op, die koud moest zijn. Hij keek erin. 'Jeanine zei toen al, toen ik binnenkwam: dat moogt ge niet vragen, Roger. Ze had het van achter het gordijn gezien, aan uw gezicht. Ik zeg: wat? Het is een gewone vraag. Ze zei: er bestaan geen gewone vragen.'
 
 Hij dronk zijn koude koffie. Fanny Twee stond op en rekte zich uit.
 
@@ -182,7 +182,7 @@ Ze stond op. Ze ging de kamer uit. Ze nam het sleuteltje mee.
 
 Ik bleef liggen. Ik luisterde naar de radiator, die tikte, zoals radiatoren tikken als ze warm worden. Toen stond ik op. Ik nam mijn kussen. Ik liet de raketten liggen. Ik ging naar onze kamer. De deur stond open. Ze lag op haar zij, met haar rug naar de deur. Ik ging naast haar liggen. Ik raakte haar niet aan. Na een tijd zei ze: 'Uw voeten zijn ijskoud.' Ik zei: 'Sorry.' Ze legde haar voeten tegen de mijne, onder het dekbed. Ze waren warm.
 
-We hebben er niet meer over gepraat. Niet die nacht. Ik weet dat dat niet is hoe het in boeken gaat, of in de folders van het ziekenhuis, of in de vragenlijst van achtentwintig bladzijden. *Beschrijf een conflict tussen u en uw partner en hoe u dat hebt opgelost.* We hebben het niet opgelost. We hebben een radiator ontlucht.
+We hebben er die nacht niet over gepraat.
 
 Later hebben we er wel over gepraat. In stukken. In de auto, op een wandeling langs de Molenbeek, terwijl zij liep en ik naast haar fietste, omdat ik niet kan lopen. Zij heeft me verteld over de appartementen met één slaapkamer, en waarom. *Gij zoudt beter af zijn met een ander. Een jongere.* Ze zei het als een feit. Ik zei dat ik hetzelfde had gedacht, over mezelf, in het kamertje met het luikje. Ze lachte niet.
 
@@ -208,7 +208,7 @@ Het klonk lelijker hardop dan in mijn hoofd. Het klonk als iets wat Dirk zou zeg
 
 'Maar ge kon het dus wel.'
 
-Ze knikte. Ze knikte lang, met haar mond dicht, alsof ze een meting afleest die ze al kende.
+Ze knikte. Ze knikte lang, met haar mond dicht.
 
 'Weet ge wat ik dacht,' zei ze, 'op dat koertje bij Bert? Toen ik in die deur stond?' Ze wachtte niet op een antwoord. 'Ik dacht: daar staat hij. Met vijf glazen cava en een schrift in zijn schuif waarin hij elke euro bijhoudt. Hij weet het niet eens, van mij. En hij heeft het toch over mij. Hij staat over mij te praten tegen Bert, en hij weet het niet.'
 
