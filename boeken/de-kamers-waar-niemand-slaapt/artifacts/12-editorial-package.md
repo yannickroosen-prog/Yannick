@@ -30,7 +30,7 @@ Graag bied ik u mijn roman *De kamers waar niemand slaapt* aan (ca. 42.700 woord
 
 Steven en Lies hebben een huis met drie slaapkamers en geen kinderen. Over zeven jaar, van een kapotte vaatwasser tot een teakhouten tuintafel in de regen, volgt de roman hoe twee mensen die van elkaar houden hetzelfde verlies in verschillende richtingen dragen. Hij zoekt een schuldige die er niet is. Zij zoekt haar lichaam en haar leven terug, en draagt een geheim dat zijn morele boekhouding uiteindelijk breekt. Behandelingen, een miskraam en pleegzorg zitten in het verhaal, maar het is geen medisch verhaal. Het is een existentiële roman over de vraag wat het leven ons verschuldigd is.
 
-De toon sluit aan bij de Vlaamse traditie van de kleine man, zoals Dimitri Verhulst en Willem Elsschot die ze in hun proza neerzetten: droog, onverbiddelijk in het observeren, met humor als verdediging. De stem is hedendaags.
+Over kinderwens en IVF bestaan romans vanuit de vrouw (zoals Hanneke Hendrix' *Aswoensdag*) en Auke Hulst schreef over een man die rouwt om een ongeboren kind. Een roman die ongewenste kinderloosheid volledig vanuit de man vertelt, als tragikomische Vlaamse roman, ben ik niet tegengekomen. Het thema leeft ook in Vlaanderen, zie de VRT-reeks *De Club* (2023). De toon sluit aan bij Elsschots ingetogen kleine man en bij de droge Vlaamse tragikomedie van Dimitri Verhulst, maar dan milder en huiselijker.
 
 Het volledige manuscript is beschikbaar.
 
