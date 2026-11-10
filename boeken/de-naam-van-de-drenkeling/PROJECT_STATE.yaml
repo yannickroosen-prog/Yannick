@@ -17,7 +17,7 @@ project:
 collaboration:
   mode: "check-in"
   waiting_for_author: true
-  pending_checkpoint: "Phase 1: Foundation + proefhoofdstuk 12"
+  pending_checkpoint: "Phase 2: Architecture (I-01, I-02 ter bevestiging)"
 
 independence:
   level: "isolated subagents, same model family"
@@ -28,8 +28,8 @@ independence:
   notes: "Geen tweede modelfamilie geïnstalleerd in deze sessie. Lezers draaien als aparte subagents zonder toegang tot plan of scores."
 
 pipeline:
-  current_phase: "Phase 1: Foundation"
-  current_gate: "foundation"
+  current_phase: "Phase 2: Architecture"
+  current_gate: "architecture"
   status: "awaiting_author"
   panel_passes: 0
   rubric_passes: 0
@@ -44,8 +44,8 @@ manuscript:
 
 gates:
   intake: "passed"
-  foundation: "awaiting_author"
-  architecture: "pending"
+  foundation: "passed"
+  architecture: "awaiting_author"
   drafting: "pending"
   adversarial_audit: "pending"
   revision_loop: "pending"
@@ -62,6 +62,10 @@ decisions:
   - "Life of Pi: alleen korte erkenning in het nawoord."
   - "Auteur: werkveld [auteursnaam]."
   - "De wacht: 'Wilt ge dat ik blijf?' / 'Ge wilt dat ik zeg dat ge moogt gaan.'"
+  - "Haven in één dag (19 mei 1884); voorstel, ter bevestiging (I-02)."
+  - "46 jaar: de naam wordt een bijgeloof met knipsels; krantenbericht mei 1884 (verzonnen); voorstel, ter bevestiging (I-01)."
+  - "Proefhoofdstuk 12 herzien na feedback auteur (sloep-zin, dankbaarheid, thee, kanttekeningen, zeshonderd jaar)."
+  - "Brief-contractcheck: PASS; verificatie degraded (niet onafhankelijk)."
   - "Afwijking van de workflow op vraag van de auteur: proefhoofdstuk 12 vóór fase 2, als werkstuk (work/), niet canoniek; geen paneelronde."
 
 open_questions:

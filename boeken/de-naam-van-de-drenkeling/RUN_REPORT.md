@@ -19,3 +19,23 @@
 - Afwijking op vraag van de auteur: proefhoofdstuk 12 (het avondeten, 3.507 woorden) geschreven vóór fase 2, als werkstuk in `work/proef-hoofdstuk-12.md`. Het is niet canoniek en heeft geen paneelronde gehad.
 - Stemcontract heeft nog geen comp-bewijs; de vijf voorbeeldpassages zijn origineel ontwerp.
 - Volgende stap: reactie van de auteur op het proefhoofdstuk, daarna fase 2 (outline, openingsstrategie, continuïteitsregister).
+
+## 10 november 2026 — feedback op het proefhoofdstuk, fase 2: architectuur
+
+- Proefhoofdstuk 12 herzien volgens de auteur:
+  - de zin 'Wie in de sloep gaat zitten …' is geschrapt; de kam blijft;
+  - de Bijbel-grap van Brooks is bewaard voor hfst. 9;
+  - 'vreemde dankbaarheid' is twee keer geschrapt;
+  - de tweede omgestoten thee is vervangen door Brooks die blijft kijken;
+  - de kanttekening na de lach geeft nu twijfel in plaats van zekerheid;
+  - de verwijzingen naar hoofdstukken zijn weg;
+  - het slot is vervangen door de zin van de auteur;
+  - 'zeshonderd jaar' is geschrapt.
+  - Nieuwe lengte: 3.366 woorden.
+- Fase 2 opgeslagen: `07-outline.md` (22 hoofdstukken, 78.300 woorden), `08-opening-strategy.md` en `09-continuity-ledger.md`.
+- Twee bouwbeslissingen ter bevestiging:
+  - I-02: de haven in één dag;
+  - I-01: de 'zesenveertig jaar' uit de openingszin botste met de nieuwe tijdlijn en wordt hersteld door het bijgeloof met knipsels.
+- Twee beats vallen bewust buiten de tolerantie van 5 punten: de overgang naar deel 2 (+5,9, op vraag van de auteur rond 25%) en de overgang naar deel 3 (+6,7).
+- Brief-contractcheck: PASS. Verificatie: degraded (niet onafhankelijk); er is geen subagent gestart.
+- Volgende stap: akkoord van de auteur op I-01 en I-02, daarna fase 3 (schrijven, te beginnen met hoofdstuk 1 en een leespanel).

@@ -52,7 +52,7 @@ Hij zei het met zijn mond vol. Brooks sloeg hem op zijn achterhoofd met de vlakk
 
 Toen vroeg Richard aan Stephens hoeveel water we hadden.
 
-Stephens keek op. Niemand vroeg hem ooit iets. Iedereen wist dat Stephens telde, maar het was een gewoonte waar je omheen liep, zoals je om een man heen loopt die tegen zichzelf praat in een herberg. Er lag een vreemde dankbaarheid in zijn stem toen hij antwoordde.
+Stephens keek op. Niemand vroeg hem ooit iets. Iedereen wist dat Stephens telde, maar het was een gewoonte waar je omheen liep, zoals je om een man heen loopt die tegen zichzelf praat in een herberg.
 
 'Vier vaten,' zei hij. 'Eén lekt. Ik zeg niet welk.'
 
@@ -76,13 +76,9 @@ Ik zag hem het vragen. Ik zag hoe hij de vraag had gebouwd, zoals hij een knoop 
 
 'Maar als...'
 
-'Er is geen als, jongen. We gaan aan land in Sydney, in een haven, aan een kade, en dan hebt gij geen sloep nodig maar een kam.' Dudley glimlachte. Hij glimlachte zelden, en het stond hem niet slecht. Het was de glimlach van een man die een kind zijn plaats wijst en daar oprecht plezier in heeft, omdat hij gelooft dat die plaats een goede plaats is. 'Wie in de sloep gaat zitten voor het schip zinkt, zinkt twee keer.'
+'Er is geen als, jongen. We gaan aan land in Sydney, in een haven, aan een kade, en dan hebt gij geen sloep nodig maar een kam.' Dudley glimlachte. Hij glimlachte zelden, en het stond hem niet slecht. Het was de glimlach van een man die een kind zijn plaats wijst en daar oprecht plezier in heeft, omdat hij gelooft dat die plaats een goede plaats is.
 
-'Is dat uit de Bijbel?' vroeg Brooks.
-
-'Dat is van mijn vader.'
-
-'Dan is het uit de Bijbel,' zei Brooks, en Stephens lachte zo onverwacht dat hij zijn thee omstootte.
+Richard keek naar zijn haar, dat sinds Southampton geen kam meer had gezien, en zei niets.
 
 *Het water van de thee was het tweede water van het vlees. Ik heb dit nooit iemand verteld. Het doet er niet toe. Het smaakte naar zout en een beetje naar koe, en we dronken het allemaal.*
 
@@ -104,7 +100,7 @@ Ik had niet gezien dat hij het pakte. Ik keek naar Dudleys mes. Toen ik weer naa
 
 Hij liet niet los.
 
-Het duurde, denk ik, drie tellen. Ik heb er later met een metronoom naar gezocht, in een kamer in Londen, en ik kom altijd tussen de drie en de vier uit, afhankelijk van hoe ik het me herinner. Misschien duurde het twee. In die tellen gebeurde er niets wat iemand anders aan die tafel heeft gezien. Brooks keek naar de lamp. Stephens veegde de thee op met zijn mouw. Dudley keek naar zijn eigen hand, die leeg bleef, en wachtte zonder te weten dat hij wachtte.
+Het duurde, denk ik, drie tellen. Ik heb er later met een metronoom naar gezocht, in een kamer in Londen, en ik kom altijd tussen de drie en de vier uit, afhankelijk van hoe ik het me herinner. Misschien duurde het twee. In die tellen gebeurde er niets wat iemand anders aan die tafel heeft gezien. Brooks keek naar de lamp. Stephens wreef met zijn duim over de rand van zijn beker. Dudley keek naar zijn eigen hand, die leeg bleef, en wachtte zonder te weten dat hij wachtte.
 
 Ik zag Richards duim over de korst gaan. Eén keer, heen en terug. Zoals je over een munt wrijft om te voelen of hij echt is.
 
@@ -124,7 +120,7 @@ Hij at het zoals hij al het brood van Stephens at, de hele reis lang: eerst de k
 
 'Het is goed brood, Stephens,' zei hij.
 
-Stephens keek op met dezelfde vreemde dankbaarheid als daarnet.
+Stephens keek op.
 
 'Twaalf keer,' zei hij. 'Elf.'
 
@@ -162,17 +158,17 @@ Richard schudde zijn hoofd. Hij kon niet praten. Er stonden tranen in zijn ogen,
 
 'Niks,' zei hij, toen hij weer kon. 'Niks. Ik dacht aan die vrouw met haar ellebogen.'
 
-Brooks sloeg met zijn vlakke hand op de tafel, en Stephens verloor voor de tweede keer zijn thee.
+Brooks sloeg met zijn vlakke hand op de tafel en lachte het hardst van allemaal. Toen hij uitgelachen was, bleef hij naar Richard kijken. Hij zette de eerste regel niet opnieuw in.
 
 Ik lachte niet. Ik heb het geprobeerd. Ik wist dat ik moest lachen, omdat iemand die aan zo'n tafel niet lacht, opvalt. Ik deed mijn mond open en er kwam iets uit dat in een salon voor een lach had kunnen doorgaan. Niemand zag het. Iedereen keek naar Richard, en Richard keek, met tranen op zijn wangen, naar mij.
 
 Hij keek naar mij zoals hij die middag naar de bladzijde had gekeken. Met zijn vinger onder de regel.
 
-*Ik weet wat Richard deed als hij bang was. Ik heb het hier, in hoofdstuk negen, zelf opgeschreven. Ik heb het die avond niet herkend. Ik dacht dat hij voor mij speelde. Hij speelde voor de drie anderen. Ik was de enige aan die tafel voor wie hij niet hoefde te spelen.*
+*Ik had hem al eens zo zien lachen, op de avond dat Dudley hem de mast in stuurde in de regen. Ik heb het die avond aan tafel niet herkend. Ik heb die blik jarenlang uitgelegd als verstandhouding: wij tweeën wisten iets wat de anderen niet wisten. Ik weet niet meer of het dat was. Het kan ook zijn dat hij me iets verweet. Ik heb het hem niet gevraagd.*
 
 ---
 
-Na het eten waste de jongste af. Dat was aan boord van de Mignonette zo geregeld door Dudley, in de eerste week, en niemand had het ooit in vraag gesteld. Ik heb daarom zeven weken lang na het eten aan dek gestaan met mijn rug naar het luik, om niet te hoeven zien dat een jongen van zeventien borden afwaste van een man van zeshonderd jaar. Zo oud ben ik niet. Ik zeg dat alleen om aan te geven hoe het voelde.
+Na het eten waste de jongste af. Dat was aan boord van de Mignonette zo geregeld door Dudley, in de eerste week, en niemand had het ooit in vraag gesteld. Ik heb daarom zeven weken lang na het eten aan dek gestaan met mijn rug naar het luik, om niet te hoeven zien dat een jongen van zeventien mijn bord afwaste.
 
 Die avond bleef ik.
 
@@ -224,6 +220,4 @@ Hij had niet gezegd een uur waarvóór.
 
 ---
 
-*Ik heb hem gewekt. Dat staat in het volgende hoofdstuk, en daar staat ook hoe laat. Hier wil ik alleen opschrijven dat ik die nacht niet heb geslapen en dat ik niet ben weggegaan. Ik had het gekund. Ik had kunnen opstaan, mijn jas aantrekken, het dagboek in mijn binnenzak steken en verdwijnen naar een kamer in 1902, of 1790, of naar de ochtend van een dag die nog niemand had gezien. Niemand had het gemerkt. Ik stond niet op de lijst.*
-
-*Ik ben gebleven. Ik heb dat lang als een daad beschouwd. Het was geen daad. Hij had me gevraagd hem een uur ervoor te wekken, en een man die beloofd heeft iemand te wekken, gaat niet weg. Dat is alles. Het is minder dan ik het jarenlang heb laten klinken.*
+*Ik heb hem gewekt. Jarenlang heb ik gezegd dat ik het hem had beloofd. Hier staat alleen dat hij het vroeg.*
