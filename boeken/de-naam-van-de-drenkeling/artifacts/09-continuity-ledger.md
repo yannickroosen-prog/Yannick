@@ -1,6 +1,6 @@
 # Continuïteitsregister: De naam van de drenkeling
 
-Bijgewerkt na: hoofdstuk 19 (canoniek: hfst. 1-19). De enige tekst die al bestaat, is de proefversie van hoofdstuk 12 (`work/proef-hoofdstuk-12.md`). Die wordt hieronder aangeduid als `proef12`.
+Bijgewerkt na: hoofdstuk 22 (canoniek: hfst. 1-22, eerste volledige versie). De enige tekst die al bestaat, is de proefversie van hoofdstuk 12 (`work/proef-hoofdstuk-12.md`). Die wordt hieronder aangeduid als `proef12`.
 
 Bronnotatie: `plan: <artefact>` geeft aan dat iets alleen gepland is. `proef12 "…"` verwijst naar de proeftekst. `bron: <url>` verwijst naar een historische bron.
 
@@ -153,6 +153,9 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **K-17** Stephens was de kok op de Ellen Ward (1878). Hij bewaarde het laatste vlees een dag te lang; twee man stierven (ch18) [V]. Dudley wist het niet.
 - **K-18** Dudley weigerde het aanbod van de graaf: 'U hebt betaald. U bent een heer. U bent onze gast. Dat doen we niet.' Richard tegen de graaf: 'Ge kunt het aanbieden. Omdat ge weg kunt.' (ch18, dag 19, ochtend)
 - **K-19** De wacht (ch19): de graaf vroeg Richard iets en sprak hem daarbij één keer met 'ge' aan; Richard antwoordde. De inhoud volgt pas in hfst. 21. Daarna gaf Richard hem de knoop. Er werd niets bij gezegd.
+- **K-20** Poe neemt aan dat de graaf in de sloep zat. Pas in ch21 hoort hij 'Ik was er niet. Ik was de nacht ervoor weggegaan' en de wacht: 'Wilt ge dat ik blijf?' / 'Ge wilt dat ik zeg dat ge moogt gaan.' Hij zegt niets. Hij ziet de knoop, raakt hem niet aan en vraagt niet wat hij betekent.
+- **K-21** Poe veranderde het verhaal bewust: 'Omdat u mij een jongen hebt gegeven die niets te zeggen had over zijn eigen dood … Ik heb hem het lot gegeven.' (ch21)
+- **K-22 (ch22):** de graaf weet het woord van de Fransman ('merci', ch01) niet meer. Hij schrijft 'Dank u' en streept het door. De lezer weet het wel.
 - **K-08** Wie de graaf is. Brooks vroeg het op dag 5; de graaf zei de waarheid ('graaf van Saint-Germain … in 1784 in Eckernförde gestorven … de vijfde juli in de krant van december gelezen'). Brooks lachte, voor het laatst. Dudley en Stephens hoorden het; Richard glimlachte met zijn ogen dicht (ch14).
   - Brooks vraagt het in hfst. 14. De graaf zegt de waarheid, en Brooks gelooft hem niet.
 
@@ -179,6 +182,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
   - het procesverslag zit vooraan (proef12);
   - in het Engels geschreven, weergegeven in het Nederlands (ASSUMPTIONS).
 - **O-03 Pym (1838):** eerste band van de Londense uitgave, rug van groen linnen; altijd in zijn binnenzak. Herlezen in de Dolphin, ch05. In het dagboek staat een bladzijde 'Richard Parker' uit december; de regels 'driest … zal zelf het lot voorstellen' zijn doorgestreept, met één rechte lijn, leesbaar. Daaronder: 'Ik heb het zelf gekozen, mevrouw Coombs. Het is het eerste wat ik zelf gekozen heb.' ch05
+- **O-04a (ch20):** Maria Clemm legt brood bij zijn soep, dat hij niet aanraakt, en daarna een stuk in een doek naast zijn bed; dat eet hij 's ochtends, de korst eerst.
 - **O-04 Het brood van Stephens:**
   - hfst. 7: eerste keer;
   - hfst. 12: het laatste stuk wordt toegeschoven;
@@ -197,7 +201,8 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **O-20 Loon en viool:** Richard verdient 12 shilling per maand; vier pond = 'mijn loon van zeven maanden' (ch12; 80 / 12 ≈ 6,7). De graaf noemt de prijs pas in ch12; in ch08 weigerde hij.
 - **O-09 Vijf pond:** in hfst. 4 aangeboden en teruggelegd. Niet te verwarren met de vier pond voor de viool (hfst. 8 en proef12).
 - **O-10 Zakhorloge uit 1761:** van Pierre Le Roy; de initialen in de deksel zijn niet die van de graaf. ch05, ch06 [V] proef12
-- **O-11 De drukproef van Pym:** hfst. 21 meegegeven. [V]
+- **O-11 De drukproef van Pym:** lange stroken van Harper, in mei gezet; de inkt geeft af. Poe geeft ze mee: 'Ik heb er nog een.' (ch21) Liggen dubbelgevouwen naast de knoop (ch22). [V]
+- **O-22 Hemd en sjaal:** het hemd van Poe en de sjaal van Virginia, gewassen bij een vrouw in Greenwich Lane en in papier teruggebracht (ch21).
 - **O-17 De valse brief (O-08):** op papier van de Dolphin, verzegeld; beschuldigt Richard van diefstal van het horloge; ondertekend 'Jermyn'. Richard leest hem op de meerpaal (ch06). In achten verscheurd boven het water tussen kade en romp; het wapen van de Dolphin dreef het langst. ch06
 - **O-18 Twintig pond:** vijf sovereigns (1871) en drie biljetten van vijf pond, aan Dudley voor de overtocht. ch06
 - **O-14 Het blad met de waarschuwing:** in een plas op de kade achtergelaten, ochtend 19 mei. ch01. Nooit teruggevonden.
@@ -223,8 +228,8 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 | T-10 | 14-17 | ch14: zondag 6 juli = dag 1; dag 1 eerste blik rapen; dag 2 hozen met handen en pet; dag 3 hozen met laarzen; dag 4 (9 juli) schildpad, bloed gedronken uit het lege blik; dag 5 Brooks' vraag. Verder tot ±23 juli | dag 1-18 in de sloep | de schildpad op dag 4 [H?]; het zeewater [H?] |
 | T-11 | 18 | ±23-24 juli | | voorstel om te loten [H: Dudley stelde voor; Brooks weigerde] |
 | T-12 | 19 | nacht van 24 op 25 juli 1884 | | de sprong vóór dageraad; Richard sterft 25 juli [H] |
-| T-13 | 20 | voorjaar 1837, New York | sprong | na het begin van de paniek (mei 1837) [H] |
-| T-14 | 21 | juni 1837 | enkele weken later | Harper-registratie in juni 1837 [H]. De graaf springt van hfst. 20 naar deze datum en leeft de tussentijd niet |
+| T-13 | 20 | maart 1837, nacht, vorst, Carmine Street (de dag niet genoteerd) | sprong | vóór de paniek van mei 1837. Maria Clemm ('Muddy') verwarmt een hemd van Poe bij het vuur en legt het over zijn schouders; Virginia ('Sissy') geeft haar sjaal. Pym blijft verborgen onder het hemd. De graaf vertelt alles, ook de dood volgens het verslag; Poe vraagt de naam: 'Ja … Omdat ik wil dat iemand hem onthoudt.' 's Ochtends eet hij het brood van Maria Clemm, de korst eerst |
+| T-14 | 21 | maart – laatste week van juni 1837: veertien weken in een kamer boven een taveerne in Hudson Street, bij de kapel van St. John; hij speelt viool in de gelagzaal; schrijft hfst. 13-19 (= de kamer van hfst. 16). In de laatste week van juni: de drukproeven van Harper, de wacht verteld aan Poe | geleefd, niet gesprongen | wijzigt het eerdere plan (sprong) |
 | T-15 | 22 | zonder datum | | bewust |
 | — | (buiten het boek) | 29 juli 1884 redding door de Montezuma; 6 sept Falmouth | | [H]; komt alleen voor in het procesverslag (hfst. 2) |
 

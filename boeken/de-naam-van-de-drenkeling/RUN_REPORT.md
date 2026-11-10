@@ -163,3 +163,26 @@
 
 - **Totaal:** 31.799 woorden in 19 hoofdstukken.
 - **Projectie:** met deel IV komt het boek uit op ongeveer 37.000 à 39.000 woorden, onder het richtpunt van de auteur (~45.000 tot 50.000). Dit is gemeld aan de auteur. Er is niet opgevuld.
+
+## 10 november 2026 — deel IV (hfst. 20-22): eerste versie volledig
+
+- **Hfst. 19 (a2):** het dagboek en Pym liggen even op zijn knie terwijl hij de jas onder Richards hoofd vouwt (auteur). Het slot blijft 'Ik ben gegaan.'
+- **Hfst. 20:** maart 1837, Carmine Street, nacht, vorst.
+  - Maria Clemm verwarmt een hemd bij het vuur; Virginia geeft haar sjaal.
+  - De graaf komt vragen waar de naam vandaan komt en vertelt in plaats daarvan de jongen.
+  - Poe vraagt of hij de naam mag gebruiken: 'Ja … Omdat ik wil dat iemand hem onthoudt.'
+- **Hfst. 21:** veertien weken later, de drukproeven.
+  - 'Ik heb hem het lot gegeven.'
+  - Poe neemt aan dat de graaf erbij was: 'Waar was u toen het gebeurde?'
+  - De wacht wordt verteld; Poe zwijgt; de knoop.
+- **Hfst. 22:** de kade uit het hoofd opgeschreven. Het woord van de Fransman is vergeten. 'Dank u' wordt doorgestreept. Daar eindigt het.
+- **Tijdlijn gewijzigd:** de graaf leeft de weken tussen hfst. 20 en 21 (geen sprong). Daarmee is de kamer van hfst. 16 zijn kamer in Hudson Street.
+- **Totaal:** 22 hoofdstukken, 35.421 woorden proza.
+- **Export (leesexemplaar):**
+  - `delivery/manuscript.md` en `delivery/de-naam-van-de-drenkeling.epub`; EPUB-validatie: passed.
+  - Scope: draft. Literaire kwaliteit is niet beoordeeld; dit is geen publicatiegoedkeuring.
+  - De doorhaling in het slot staat in Unicode, omdat `~~` in de EPUB letterlijk verscheen.
+- **Niet uitgevoerd in fase 3:**
+  - de continuïteitscontroles per blok van vijf hoofdstukken;
+  - leespanels op ±25% en vóór de finale (alleen hfst. 1 en hfst. 12 zijn gelezen).
+  - Fase 4 (audit) moet de continuïteit volledig nalopen.

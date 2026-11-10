@@ -48,8 +48,8 @@ Ik keek naar Dudley, achterin. Hij sliep nog. Zijn hand lag op zijn borst, waar 
 
 Ik keek naar Richard. Zijn ogen waren dicht. Hij ademde. Ik telde het niet.
 
-Ik tilde zijn hoofd van mijn knie, zo voorzichtig als ik kon, en legde het op de opgerolde jas die eronder lag, mijn jas. Hij werd niet wakker. Of hij deed alsof. Ik heb het nooit geweten.
+Ik tilde zijn hoofd van mijn knie, zo voorzichtig als ik kon, en hield het in mijn ene hand. Met de andere trok ik mijn jas naar me toe, die naast hem in de bodem lag. Ik haalde het dagboek uit de binnenzak, en Pym, en legde ze op mijn knie, waar zijn hoofd had gelegen. Ik vouwde de jas op, één keer, twee keer, en schoof haar onder zijn hoofd. Hij werd niet wakker. Of hij deed alsof. Ik heb het nooit geweten.
 
-Ik haalde het dagboek uit de binnenzak van de jas, en Pym, en stak ze onder mijn broeksband, tegen mijn blote buik. De jas liet ik liggen, onder zijn hoofd. Ik had de knoop in mijn hand. Ik had niets anders.
+Ik nam het dagboek en Pym van mijn knie en stak ze onder mijn broeksband, tegen mijn blote buik. Ik had de knoop in mijn hand. Ik had niets anders.
 
 Ik ben gegaan.
