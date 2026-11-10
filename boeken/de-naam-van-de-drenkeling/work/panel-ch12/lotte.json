@@ -1,0 +1,52 @@
+{
+  "reader": "Lotte",
+  "leeservaring": "Een jongen op een schip heeft net in een dagboek iets gelezen, en de verteller weet dat het morgen misloopt: schipbreuk. Daarna is het gewoon avondeten met vijf man, en dat is het hele hoofdstuk. Het begin met de kajuit en het gebed heb ik eigenlijk overgeslagen, maar vanaf het brood zat ik erin: die paar tellen dat Richard niet loslaat, dat werkte. Het lachen was raar en goed, ik voelde dat er iets onder zat dat ik niet helemaal snap. De afwas met die viool vond ik eerst traag, en toen raakte het me toch, omdat je doorhebt dat hij iets vraagt voor een toekomst die hij misschien niet heeft. De laatste regel, 'een uur waarvóór', is een goede haak. Ik zou doorlezen, al vind ik dat de verteller soms te veel uitlegt hoe hij het vroeger anders vertelde.",
+  "turn_page": "yes",
+  "stopped_at": {"quote": "Vijf mannen pasten er alleen in als ze hun ellebogen bij zich hielden."},
+  "why_stopped": {"reason": "Net een spannende cliffhanger (hij leest een naam) en dan krijg ik een hele alinea over hoe de kajuit is ingericht en wie waar zit, gevolgd door rundvlees, rapen en een gebed. Daar ben ik gaan scannen tot het brood."},
+  "remember_tomorrow": [
+    {"quote": "Hij liet niet los.", "reason": "Kort, en het hele hoofdstuk kantelt hier. Daar ging ik rechtop zitten."},
+    {"quote": "Hij had niet gezegd een uur waarvóór.", "reason": "Koude slotzin, hij weet het dus. Daarom sla ik de bladzijde om."},
+    {"quote": "'Maak me dan een uur ervoor wakker,' zei hij. 'Dan kan ik die strofe nog leren.'", "reason": "Klein en droevig, zonder dat iemand zegt dat het droevig is."}
+  ],
+  "confused_by": [
+    {"quote": "Ik heb dat horloge sinds 1761.", "reason": "Het is 1884. Ik snap dat het de tijdreis is, maar ik weet niet wie of wat de verteller is. Werkt wel als prikkel."},
+    {"quote": "Daarna de bladzijde die ik in december had volgeschreven en die ik in de Dolphin had doorgestreept.", "reason": "Uit de aanloop: geen idee wat de Dolphin is."},
+    {"quote": "Ik heb dit jarenlang anders verteld. Ik vertelde dat hij bleek was. Hier staat dat hij de pan noemde.", "reason": "Wie schrijft die cursieve stukken en wat is 'hier'? Een later commentaar op het eigen dagboek, denk ik, maar ik moest even stoppen."}
+  ],
+  "flags": [
+    {"flag": "slow_start", "quote": "De kajuit van de Mignonette was gebouwd om er whist te spelen, zoals Dudley me in Southampton met trots had laten zien."},
+    {"flag": "over_explained", "quote": "Ik weet niet meer wat we die avond eerst bespraken. Dat is niet waar. Ik weet het wel."},
+    {"flag": "over_explained", "quote": "Ik bedoel niet dat hij stil werd zoals een jongen stil wordt die moe is of zich verveelt. Ik heb in mijn leven veel stiltes gehoord."}
+  ],
+  "strongest_passage": {"quote": "Ik zag Richards duim over de korst gaan. Eén keer, heen en terug. Zoals je over een munt wrijft om te voelen of hij echt is.", "reason": "Ik zag het voor me en voelde dat de jongen iets beslist, zonder dat het wordt uitgelegd."},
+  "weakest_passage": {"quote": "Ik had antwoorden. Ik had ze al zeven weken. Uit welke richting het zou komen. Het uur niet; dat wist hij. Wie wat zou zeggen, voor zover de stukken van het proces het vermeldden. Wat er daarna kwam. Ik had alles, behalve een vraag.", "reason": "Hier gaat de verteller over zichzelf nadenken op het moment dat ik bij de jongen wil blijven. Het eindigt met een wijsheidje."},
+  "machine_tells": [
+    {"tell": "contrast door ontkenning", "quote": "Hij brak het niet in tweeën maar in een groot en een klein stuk."},
+    {"tell": "beeld dat meteen wordt uitgelegd", "quote": "Het was een gebaar dat hij zo vaak had gemaakt dat het geen gebaar meer was. Het was een plaats in de lucht waar dingen terechtkwamen."},
+    {"tell": "moraal aan het slot van een alinea", "quote": "Ik ben altijd beter geweest in antwoorden geven dan in vragen stellen. Dat is een eigenschap die je aan hoven ver brengt."},
+    {"tell": "opgestapelde voorbehouden", "quote": "Het duurde, denk ik, drie tellen. Ik heb er later met een metronoom naar gezocht, in een kamer in Londen, en ik kom altijd tussen de drie en de vier uit, afhankelijk van hoe ik het me herinner. Misschien duurde het twee."}
+  ],
+  "felt": {"emotion": "beklemming, en een beetje verdriet aan het eind", "reason": "Iedereen lacht en eet, en jij weet samen met twee personages dat het morgen gebeurt. Het viool-gesprek werd daardoor pijnlijk."},
+  "auteursvragen": {
+    "wat_las_richard": {
+      "antwoord": "Zijn eigen naam in een procesverslag, denk ik. Dat hij sterft en dat de mannen aan tafel er iets mee te maken hebben, misschien dat ze hem opeten. Hij kijkt daarna naar hun handen en vraagt naar water in de sloep, dus hij weet dat ze in die sloep belanden.",
+      "aanwijzingen": [
+        {"quote": "'Als we de sloep nodig hebben,' zei Richard. 'Hoeveel water past er dan in?'"},
+        {"quote": "Hij keek naar Brooks als die praatte, en naar Dudley als die praatte. Hij keek naar hun handen."},
+        {"quote": "Richard zei het te laat."}
+      ]
+    },
+    "het_brood": {
+      "betekenis": "Dudley is niet gemeen, hij zorgt voor de jongen, en dat maakt het erger. Wie je voedt, kan je ook opofferen. Het voelde als een omgekeerd avondmaal.",
+      "verwachting": "Net als de verteller dacht ik dat hij het zou teruggeven of iets zou zeggen. Dat hij het gewoon opat, vond ik sterker.",
+      "quote": "'Gij groeit nog,' zei hij."
+    },
+    "vertel_het_nog_eens": {
+      "lezing": "Hij wil doen alsof er een toekomst is, of hij test of de verteller er een voor hem ziet. Misschien wil hij gewoon nog iets normaals horen. Of hij rekent uit of hij het nog kan veranderen.",
+      "basis": "De verteller vertelt het voor het eerst 'zoals aan een leerling' en noemt nu wel een prijs. Daarna rekent Richard het om naar zijn loon en vraagt hij hoe laat het is.",
+      "quote": "Ik zag dat hij iets aan het uitrekenen was, en ik dacht dat het over het geld ging."
+    }
+  },
+  "confidence": "medium"
+}

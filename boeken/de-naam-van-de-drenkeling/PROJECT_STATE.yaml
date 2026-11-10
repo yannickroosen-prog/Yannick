@@ -17,7 +17,7 @@ project:
 collaboration:
   mode: "check-in"
   waiting_for_author: true
-  pending_checkpoint: "Phase 3: na hfst. 12 (middenpunt); leespanel op het midden volgens de workflow"
+  pending_checkpoint: "Phase 3: na hfst. 14; lengtebeslissing van de auteur"
 
 independence:
   level: "isolated subagents, same model family"
@@ -37,8 +37,8 @@ pipeline:
 manuscript:
   chapter_count_planned: 22
   average_words_per_chapter_planned: 3650
-  completed_chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-  word_count_actual: 23149
+  completed_chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+  word_count_actual: 26824
   length_gate: "pending"
   status: "in_progress"
 

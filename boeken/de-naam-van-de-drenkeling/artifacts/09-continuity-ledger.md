@@ -1,6 +1,6 @@
 # Continuïteitsregister: De naam van de drenkeling
 
-Bijgewerkt na: hoofdstuk 12 (canoniek: hfst. 1-12; hfst. 12 vervangt de proefversie). De enige tekst die al bestaat, is de proefversie van hoofdstuk 12 (`work/proef-hoofdstuk-12.md`). Die wordt hieronder aangeduid als `proef12`.
+Bijgewerkt na: hoofdstuk 14 (canoniek: hfst. 1-14). De enige tekst die al bestaat, is de proefversie van hoofdstuk 12 (`work/proef-hoofdstuk-12.md`). Die wordt hieronder aangeduid als `proef12`.
 
 Bronnotatie: `plan: <artefact>` geeft aan dat iets alleen gepland is. `proef12 "…"` verwijst naar de proeftekst. `bron: <url>` verwijst naar een historische bron.
 
@@ -146,7 +146,10 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **K-10** Dudley, Stephens en Brooks weten vanaf ch06 dat de graaf meevaart 'omdat de jongen het gevraagd heeft'. Ze weten niets van de waarschuwing.
 - **K-11** Wat Richard weet vóór het dagboek (ch03-ch11): de voorspelde ondergang (5 juli, tegen de avond, binnen vijf minuten, één sloep), dat de graaf gelooft dat hij zal sterven, en dat de graaf het uur niet kent. Hij telt af: sinds ±23 juni vraagt hij Stephens elke ochtend de datum (ch11). Hij weet niets van Dudley, Stephens, het mes of het gebed tot 4 juli 17.10 uur.
 - **K-12** De graaf heeft Richard bewust niets verteld over wat er in de sloep gebeurt (ch11: 'een uitvlucht met goede manieren').
-- **K-08** Wie de graaf is.
+- **K-13** De graaf koos zelf het uur om Richard te wekken: 15.00 uur op 5 juli (ch13). Richard: 'Ongeveer.' / 'Dan heb ik tijd.'
+- **K-14** De graaf maakte de sjorringen van de sloep los en legde slipsteken; Stephens hielp en sneed de laatste (ch13). Hij haalde zelf geen water, omdat het verslag 'geen water' zei (ch13).
+- **K-15** Richard heeft de mannen niets verteld: 'Wat zou het veranderen? Dan kijken ze me nu al zo aan.' (ch14, nacht van dag 4)
+- **K-08** Wie de graaf is. Brooks vroeg het op dag 5; de graaf zei de waarheid ('graaf van Saint-Germain … in 1784 in Eckernförde gestorven … de vijfde juli in de krant van december gelezen'). Brooks lachte, voor het laatst. Dudley en Stephens hoorden het; Richard glimlachte met zijn ogen dicht (ch14).
   - Brooks vraagt het in hfst. 14. De graaf zegt de waarheid, en Brooks gelooft hem niet.
 
 ## Plaatsen
@@ -154,11 +157,13 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **L-01 Kade van Southampton:** meerpalen, de ligplaats van de Mignonette en een kroeg. [V voor de details]
 - **L-02 Itchen:** de kamer waar Richard logeert. [V]
 - **L-03 Mignonette:** een jacht van 52 voet [H?], 19½ ton [H?]. De kajuit met een tafel met opstaande rand, een lamp aan een beugel en een fornuis met ijzeren pan [V] proef12. Er is een kombuis van vier voet breed [V] proef12.
+- **L-04a Zitplaatsen in de sloep (ch14):** Dudley achterin met een riem als roer; Stephens; Brooks midden; Richard en de graaf in de boeg. Gesprongen plank bij de kiel, die steeds water doorlaat. Inventaris: twee blikken rapen, één riem, Dudleys mes, Stephens' natte boekje, Brooks' pet, het horloge van de graaf (niet opgewonden). Geen zeil, geen water.
 - **L-04 De sloep:** een bijboot van 13 voet, ongeveer 4 meter [H?], van dun hout. Er zitten vijf mannen in [V], tegenover vier in de bronnen.
 - **L-05 Carmine Street, New York, 1837.** [H]
 
 ## Voorwerpen
 
+- **O-01a Linkerlaars (canoniek ch14):** dag 3 gebruikt om te hozen. Richard haalde eerst de reep zeildoek eruit (die zit nu in zijn broekzak, bij de knoop). Een golf nam de laars uit zijn hand; ze dreef weg met de zool naar boven. Hij hoost verder met de rechterlaars.
 - **O-01 De veter / de laars:**
   - hfst. 1: touw als veter;
   - hfst. 7: vervangen door een reep zeildoek;
@@ -193,7 +198,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **O-15 Het briefje van Mr. Lyle:** een plaats als hutjongen naar Lissabon voor woensdag, 18 shilling per maand; de graaf betaalde 5 pond plus 5 pond 8 shilling. Richard geeft het terug. ch03
 - **O-16 De blikken tabaksdoos met knipsels.** ch02
 - **O-12 De kist van zeven shilling:** gereedschapskist van Hutchings, grenen, ijzeren hoeken, slot zonder sleutel. Inhoud bij vertrek: de plaathandschoen. ch06 [V] proef12
-- **O-13 De kruik:** klein, van steengoed. Richard vult haar in het uur vóór de golf uit het vat dat niet lekt, en zingt daarbij de strofe. Hij verliest haar wanneer hij een hand vrijmaakt om Brooks overeind te trekken. [V] plan: 07-outline hfst. 13. Gevolg van proef12: 'Hoeveel water past er dan in?'
+- **O-13 De kruik (canoniek ch13):** bruin steengoed, met een oor en een kurk. Richard vulde ze uit het volle vat, dat hij herkende door met zijn knokkel te kloppen ('Als een kist'), en zong daarbij de tweede strofe. Brooks hoorde het. Hij liet de kruik los om Brooks onder een lijn bij de mast vandaan te trekken; ze rolde over de reling. Planbeschrijving: klein, van steengoed. Richard vult haar in het uur vóór de golf uit het vat dat niet lekt, en zingt daarbij de strofe. Hij verliest haar wanneer hij een hand vrijmaakt om Brooks overeind te trekken. [V] plan: 07-outline hfst. 13. Gevolg van proef12: 'Hoeveel water past er dan in?'
 
 ## Tijdlijn
 
@@ -207,8 +212,8 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 | T-06 | 7-10 | ch07: di 20 mei 6.12 uur (St. Catherine's Point) – wo 28 mei 4.45 uur (dag 9, Golf van Biskaje); ch08: do 5 juni 2.40-5.06 uur (dag 17, Canarische Eilanden); ch09: 'donderdag, denk ik', half juni, boven de evenaar, regen, avond; ch10: windstilte, zonder datum, ±2 weken na ch08; om 21 uur de zuidoostpassaat | ~6 weken | |
 | T-07 | 11 | maandag 30 juni (breedte van Rio, ver uit de kust, koud) – vrijdag 4 juli, 17.10 uur | | de datering keert terug. 4 juli 1884 = vrijdag (berekend) |
 | T-08 | 12 | vrijdag 4 juli, vanaf 17.11 uur tot ongeveer 20.45 uur | dezelfde dag | proef12 'Kwart voor negen … Ongeveer' |
-| T-09 | 13 | zaterdag 5 juli 1884 | 1 dag | ondergang [H] |
-| T-10 | 14-17 | 5 – ±23 juli | dag 1-18 in de sloep | de schildpad op dag 4 [H?]; het zeewater [H?] |
+| T-09 | 13 | zaterdag 5 juli 1884: Richard slaapt van 12 uur tot hij om 15 uur gewekt wordt; de golf 'tegen de avond'; het uur is niet gemeten (de graaf keek bewust niet op zijn horloge); zinkt in vijf minuten | 1 dag | ondergang [H]; Dudley gooit twee blikken in de sloep |
+| T-10 | 14-17 | ch14: zondag 6 juli = dag 1; dag 1 eerste blik rapen; dag 2 hozen met handen en pet; dag 3 hozen met laarzen; dag 4 (9 juli) schildpad, bloed gedronken uit het lege blik; dag 5 Brooks' vraag. Verder tot ±23 juli | dag 1-18 in de sloep | de schildpad op dag 4 [H?]; het zeewater [H?] |
 | T-11 | 18 | ±23-24 juli | | voorstel om te loten [H: Dudley stelde voor; Brooks weigerde] |
 | T-12 | 19 | nacht van 24 op 25 juli 1884 | | de sprong vóór dageraad; Richard sterft 25 juli [H] |
 | T-13 | 20 | voorjaar 1837, New York | sprong | na het begin van de paniek (mei 1837) [H] |

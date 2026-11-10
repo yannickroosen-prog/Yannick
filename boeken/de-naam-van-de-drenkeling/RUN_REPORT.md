@@ -114,3 +114,29 @@
   - Richards loon: vier pond is zeven maanden werk;
   - de prijs wordt pas hier genoemd: 'De eerste keer had ik dat geweigerd.'
 - **Leespanel:** de workflow voorziet een paneelronde rond 25% en 50%. Die is nog niet uitgevoerd, in afwachting van de auteur.
+
+## 10 november 2026 — leespanel hfst. 12, hoofdstukken 13-14
+
+- **Leespanel hfst. 12:** dezelfde vier subagents, met de aanloop uit hfst. 11 en de drie vragen van de auteur. Alle vier slaan de bladzijde om. Twee hoge tickets:
+  - P12-01: de tafelschikking;
+  - P12-02: het cv van de verteller.
+  - Zie `evaluations/panel-chapter-12.md`.
+- **Revisiethema over twee panels:** het cv van de verteller en het bonmot aan het slot van een alinea.
+- **Hfst. 13 (2.011 woorden):**
+  - de graaf kiest zelf om 15 uur te wekken;
+  - de kruik wordt gevuld en losgelaten voor Brooks;
+  - de graaf maakt de sloep los en haalt geen water.
+- **Hfst. 14 (1.660 woorden):**
+  - opent met de gewoonte van ruimte maken;
+  - de laars wordt een hoosvat en drijft weg;
+  - de schildpad;
+  - 'Dan kijken ze me nu al zo aan';
+  - Brooks' laatste lach.
+- **Totaal:** 26.824 woorden in 14 hoofdstukken.
+- **Lengtegegevens** (voor de beslissing van de auteur):
+
+  | Deel | Woorden |
+  |---|---|
+  | de kade, één dag (hfst. 1-6) | 12.456 |
+  | zes weken aan boord (hfst. 7-12) | 10.693 |
+  | eerste vijf dagen in de sloep (hfst. 13-14) | 3.675 |

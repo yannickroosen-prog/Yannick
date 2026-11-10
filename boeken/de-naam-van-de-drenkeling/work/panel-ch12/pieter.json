@@ -1,0 +1,37 @@
+{
+  "reader": "Pieter",
+  "leeservaring": "Ik zag het al aankomen: Dudley, Stephens, Brooks, een jongen die Richard heet, de Mignonette. Dat is Richard Parker, de opgegeten scheepsjongen, en een onsterfelijke die erbij zit met een horloge uit 1761. Ik verwachtte een verteller die wijs over het lot doet en een slachtoffer dat braaf zit te wachten. Dat kreeg ik niet. De jongen heeft net zijn eigen naam in het procesverslag gelezen en zegt niets over de dood. Hij vraagt naar water in de sloep, houdt het brood drie tellen vast en eet het daarna gewoon op, tegen de voorspelling van de verteller in. Wat me binnenhield, waren de cursieve notities waarin de verteller zijn eigen versie van het verhaal betrapt ('Hier staat dat hij de pan noemde'). Dat is een regel, en het hoofdstuk houdt zich eraan tot de laatste regel. Wat me ergerde, is dat bijna elke alinea een 'zoals'-vergelijking heeft en dat de verteller blijft opscheppen over koningen en kardinalen. Het slot, 'een uur waarvóór', zit goed.",
+  "turn_page": "yes",
+  "stopped_at": {"quote": "Ik heb in mijn leven veel stiltes gehoord."},
+  "why_stopped": {"reason": "Hier zit het cv van de onsterfelijke: een koning, een gesneuvelde zoon, eerder al een kardinaal. Dat leidt af van de jongen aan tafel en zet de verteller weer in het midden. Daarna komt de alinea over de handen, die ik half heb overgeslagen."},
+  "remember_tomorrow": [
+    {"quote": "Hij at het op.", "reason": "De verteller zegt precies wat er gaat gebeuren en heeft ongelijk. Die drie woorden betrappen hem en mij."},
+    {"quote": "Hij had niet gezegd een uur waarvóór.", "reason": "Een droog slot dat geen moraal trekt en de jongen zijn eigen wil laat."},
+    {"quote": "*Ik heb dit jarenlang anders verteld. Ik vertelde dat hij bleek was. Hier staat dat hij de pan noemde.*", "reason": "Dit is de regel die het boek zichzelf oplegt: de verteller wordt door zijn eigen tekst gecorrigeerd. Daarom lees ik verder."}
+  ],
+  "confused_by": [
+    {"quote": "In de zevende week, die avond, begreep ik dat het juist was op een manier die Stephens niet bedoelde.", "reason": "Ik vermoed dat hij bedoelt dat hij buiten de rekening van de doden valt, maar het blijft vaag en klinkt geheimzinniger dan nodig."},
+    {"quote": "'Waarom zijt ge zo stil, jong?'", "reason": "Engelse zeelui die Vlaams praten met 'ge' en 'jong'. Ik weet niet of dat een bewuste keuze is. Het stoort me niet, maar het trekt me telkens even uit het schip."}
+  ],
+  "flags": [
+    {"flag": "cliche", "quote": "zoals een verkeerde noot in een strijkkwartet te horen is, ook voor wie geen noten leest"},
+    {"flag": "over_explained", "quote": "Het was een gebaar dat hij zo vaak had gemaakt dat het geen gebaar meer was. Het was een plaats in de lucht waar dingen terechtkwamen."},
+    {"flag": "slow_start", "quote": "De kajuit van de Mignonette was gebouwd om er whist te spelen"}
+  ],
+  "strongest_passage": {"quote": "Ik zag Richards duim over de korst gaan. Eén keer, heen en terug. Zoals je over een munt wrijft om te voelen of hij echt is.", "reason": "Hier gebeurt alles zonder één woord over de dood. De jongen weegt het brood, de man en zijn eigen leven tegelijk. Dit is de enige vergelijking die ik er niet uit zou schrappen."},
+  "weakest_passage": {"quote": "Ik ben altijd beter geweest in antwoorden geven dan in vragen stellen. Dat is een eigenschap die je aan hoven ver brengt.", "reason": "Een wijze oneliner van de onsterfelijke, precies waarvoor ik vreesde. Hij sluit een sterke alinea af met een bonmot."},
+  "machine_tells": [
+    {"tell": "contrast door ontkenning", "quote": "Ik bedoel niet dat hij stil werd zoals een jongen stil wordt die moe is of zich verveelt."},
+    {"tell": "beeld dat meteen wordt uitgelegd", "quote": "Het was een gebaar dat hij zo vaak had gemaakt dat het geen gebaar meer was."},
+    {"tell": "moraal aan het slot van een alinea", "quote": "Dat is een eigenschap die je aan hoven ver brengt."},
+    {"tell": "reflexmatige drietallen", "quote": "We zeiden niets over het dagboek. Niets over de datum. We zeiden niets over wat er de volgende dag zou gebeuren."},
+    {"tell": "'zoals'-vergelijking als tic", "quote": "zoals een paardenkoopman een oud paard roskamt"}
+  ],
+  "felt": {"emotion": "tegen mijn zin geraakt, met ergernis erdoorheen", "reason": "Ik wilde het boek dichtslaan, maar de jongen weigert slachtoffer te zijn en de verteller krijgt ongelijk. Dat is meer dan ik verwachtte."},
+  "auteursvragen": {
+    "wat_las_richard": {"antwoord": "Ik denk dat hij in het procesverslag zijn eigen naam las, met wat hem overkomt: de schipbreuk, de sloep, gedood en opgegeten worden door Dudley en Stephens. Waarschijnlijk las hij ook de datum, morgen.", "aanwijzingen": [{"quote": "'En in de sloep?' vroeg Richard."}, {"quote": "Hij keek naar hun handen."}, {"quote": "'Zeg,' zei hij. 'Hoe laat is het?'"}]},
+    "het_brood": {"betekenis": "Het is de goedheid van de man die hem gaat doden. Dudley geeft de jongen die nog groeit het grootste stuk. Dat is wrede ironie, maar de schrijver schrijft ze niet uit, en dat is goed.", "verwachting": "Net als de verteller dacht ik dat hij het zou teruggeven of iets zou zeggen. Dat hij het opeet en Stephens bedankt, leest als een keuze: hij neemt wat hem toekomt.", "quote": "Hij at het zonder haast en zonder dankjewel."},
+    "vertel_het_nog_eens": {"lezing": "Hij laat de verteller hem behandelen alsof hij een toekomst heeft. Misschien test hij ook of de verteller gelooft dat hij Sydney haalt. De vraag naar de prijs, die de eerste keer werd geweigerd, wordt nu wel beantwoord.", "basis": "De verteller merkt dat hij spreekt tegen iemand die er 'de rest van zijn leven' iets mee moet doen, en Richard rekent het om naar zijn loon.", "quote": "Ik vertelde het, merkte ik halverwege, zoals ik het aan een leerling zou vertellen die er de rest van zijn leven iets mee moest doen."}
+  },
+  "confidence": "medium"
+}
