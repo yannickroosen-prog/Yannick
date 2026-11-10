@@ -1,0 +1,71 @@
+schema_version: 6
+
+project:
+  id: "de-naam-van-de-drenkeling"
+  title: "De naam van de drenkeling"
+  idea: "work/idee-auteur.md"
+  language: "nl-BE"
+  genre: "literaire historische roman met tijdreiselement"
+  audience: "volwassen lezers van literaire en historische fictie"
+  positioning: "volwaardige roman, boek I van een reeks"
+  series: true
+  target_range_words: "80000-100000"
+  target_floor_words: 80000
+  target_ceiling_words: 100000
+  quality_target: 8.5
+
+collaboration:
+  mode: "check-in"
+  waiting_for_author: true
+  pending_checkpoint: "Phase 0: Intake"
+
+independence:
+  level: "isolated subagents, same model family"
+  grade: "pending isolation check"
+  writer_model: "host model (Claude Code)"
+  reader_model: "host model in isolated subagents"
+  isolation_check: "not_run"
+  notes: "Geen tweede modelfamilie geïnstalleerd in deze sessie. Lezers draaien als aparte subagents zonder toegang tot plan of scores."
+
+pipeline:
+  current_phase: "Phase 0: Intake"
+  current_gate: "intake"
+  status: "awaiting_author"
+  panel_passes: 0
+  rubric_passes: 0
+
+manuscript:
+  chapter_count_planned: 24
+  average_words_per_chapter_planned: 3750
+  completed_chapters: []
+  word_count_actual: 0
+  length_gate: "pending"
+  status: "not_started"
+
+gates:
+  intake: "awaiting_author"
+  foundation: "pending"
+  architecture: "pending"
+  drafting: "pending"
+  adversarial_audit: "pending"
+  revision_loop: "pending"
+  final_score: "pending"
+  editorial_package: "pending"
+  market: "unverified"
+
+decisions:
+  - "Sprongregel: geen terugkeer naar een dag die de graaf al beleefde (uit idee auteur)."
+  - "Kantelpunt 'Waarom komt ge zelf niet mee?' rond 25% (uit idee auteur)."
+  - "Voorstel, wacht op bevestiging: graaf springt van februari 1784 naar 1838, zodat 1837 bereikbaar blijft."
+
+open_questions:
+  - "Lengte: 90.000 woorden (Engelse richtlijn) of korter volgens Nederlandstalige comps?"
+  - "Bevestigt de auteur de tijdlijn 1784 -> 1838?"
+  - "Hoe gaat het boek om met de associatie Richard Parker / Life of Pi?"
+  - "Auteursnaam op de titelpagina."
+  - "Kosten van een sprong (fase 1)."
+
+delivery:
+  status: "pending"
+  scope: ""
+  receipt: ""
