@@ -88,3 +88,29 @@
 
   Deel I komt daarmee op 12.456 woorden, tegenover 20.300 gepland.
 - **Volgende stap:** deel II (hfst. 7-12) en de herziening van het proefhoofdstuk tot hfst. 12.
+
+## 10 november 2026 — deel II: hoofdstukken 7-12
+
+- **Hfst. 4 (a3):** de kanttekening over de tweede strofe is geschrapt op vraag van de auteur. De kruik blijft een verrassing voor hfst. 13.
+- **Nawoordnotities gestart** in `work/nawoord-notities.md`: de zin over de Vlaamse spreektaal en de erkenning van *Life of Pi*.
+- **Geschreven en canoniek gemaakt:**
+
+  | Hoofdstuk | Woorden |
+  |---|---|
+  | hfst. 7 | 1.669 |
+  | hfst. 8 | 1.587 |
+  | hfst. 9 | 1.449 |
+  | hfst. 10 | 1.534 |
+  | hfst. 11 | 1.344 |
+  | hfst. 12 | 3.206 (uit het herziene proefhoofdstuk; opent met 'Stephens bakt') |
+
+- **Totaal:** 23.149 woorden proza in 12 hoofdstukken.
+- **Ritmeprojectie** (informatief): bij dit ritme komt het boek op ongeveer 45.000 woorden. Volgens de afspraak met de auteur valt de lengtebeslissing na de eerste dagen in de sloep (hfst. 13-14).
+- **Aanpassingen aan het proefhoofdstuk:**
+  - de openingsscène is verhuisd naar het slot van hfst. 11;
+  - de graaf slaapt op de vloer, niet in een kooi;
+  - het brood wordt niet opnieuw beschreven;
+  - de graaf kent het uur niet;
+  - Richards loon: vier pond is zeven maanden werk;
+  - de prijs wordt pas hier genoemd: 'De eerste keer had ik dat geweigerd.'
+- **Leespanel:** de workflow voorziet een paneelronde rond 25% en 50%. Die is nog niet uitgevoerd, in afwachting van de auteur.

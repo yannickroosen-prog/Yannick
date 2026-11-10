@@ -17,7 +17,7 @@ project:
 collaboration:
   mode: "check-in"
   waiting_for_author: true
-  pending_checkpoint: "Phase 3: na hfst. 6 (einde deel I) en leespanel hfst. 1"
+  pending_checkpoint: "Phase 3: na hfst. 12 (middenpunt); leespanel op het midden volgens de workflow"
 
 independence:
   level: "isolated subagents, same model family"
@@ -37,8 +37,8 @@ pipeline:
 manuscript:
   chapter_count_planned: 22
   average_words_per_chapter_planned: 3650
-  completed_chapters: [1, 2, 3, 4, 5, 6]
-  word_count_actual: 12456
+  completed_chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+  word_count_actual: 23149
   length_gate: "pending"
   status: "in_progress"
 
@@ -73,6 +73,9 @@ decisions:
   - "Golfuur: tegen de avond van 5 juli (auteur, met bronnen); hfst. 3 aangepast."
   - "Hfst. 2 en 3 eindigen eerder (auteur)."
   - "Leespanel hfst. 1: vier geïsoleerde subagents, met drie extra vragen van de auteur."
+  - "Hfst. 4: kanttekening over de tweede strofe geschrapt (auteur): de kruik blijft voor hfst. 13."
+  - "Nawoord: 'De gesprekken aan boord zijn in Vlaamse spreektaal weergegeven.' (work/nawoord-notities.md)."
+  - "Hfst. 12 vervangt de proefversie; opent met 'Stephens bakt'; het slot van hfst. 11 is de vinger op de naam."
   - "Afwijking van de workflow op vraag van de auteur: proefhoofdstuk 12 vóór fase 2, als werkstuk (work/), niet canoniek; geen paneelronde."
 
 open_questions:

@@ -66,8 +66,6 @@ Brooks keek me aan. Toen begon hij te lachen, een grote, ronde lach die door de 
 
 Hij ging. De deur viel achter hem dicht en de geur van de haven kwam even naar binnen en bleef hangen.
 
-*Ik heb dat lied daarna nooit meer gespeeld. Ik heb het wel geleerd. Brooks heeft het me op zee geleerd, de hele tekst, en ik ken het nu beter dan Richard het ooit heeft gekend. Hij heeft de tweede strofe één keer gezongen, op een namiddag in juli, met een kruik in zijn handen.*
-
 ---
 
 We bleven met zijn tweeën.

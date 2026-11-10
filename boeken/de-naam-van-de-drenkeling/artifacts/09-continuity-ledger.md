@@ -1,6 +1,6 @@
 # Continuïteitsregister: De naam van de drenkeling
 
-Bijgewerkt na: hoofdstuk 6 (canoniek: hfst. 1-6). De enige tekst die al bestaat, is de proefversie van hoofdstuk 12 (`work/proef-hoofdstuk-12.md`). Die wordt hieronder aangeduid als `proef12`.
+Bijgewerkt na: hoofdstuk 12 (canoniek: hfst. 1-12; hfst. 12 vervangt de proefversie). De enige tekst die al bestaat, is de proefversie van hoofdstuk 12 (`work/proef-hoofdstuk-12.md`). Die wordt hieronder aangeduid als `proef12`.
 
 Bronnotatie: `plan: <artefact>` geeft aan dat iets alleen gepland is. `proef12 "…"` verwijst naar de proeftekst. `bron: <url>` verwijst naar een historische bron.
 
@@ -96,18 +96,22 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 ### C-11 Hutchings, scheepsleverancier op de hoek van Canute Road. ch03 [V]
 ### C-12 Karel van Hessen, landgraaf, beschermheer in Eckernförde. ch02 [H]
 
+### C-15 Jimmy Hale, 14, van de werf in Northam; kan niet lezen; zou door Dudley gekozen zijn als Richard niet had getekend (Brooks, ch07). Richard wil hem vanuit Sydney schrijven 'dat hij niks gemist heeft' (ch10). De graaf vond hem in 1885 bij de gasfabriek in Northam, met een vrouw en een kind, en sprak hem niet aan (kanttekening ch07) [V].
+
 ## Relaties
 
 - **R-01 graaf – Richard:**
   - hfst. 1: vreemden;
   - hfst. 3: wantrouwen na de leugen;
   - hfst. 6: tot elkaar veroordeeld;
-  - hfst. 8-10: vriendschap;
+  - hfst. 7: Richard negeert hem zeventien dagen lang; 'Lang genoeg' (veter, dag 6) is het eerste ongevraagde woord;
+  - hfst. 8 (5 juni, 2.40 uur): Richard zoekt hem voor het eerst uit eigen beweging op, met de vioolvraag. De graaf weigert de prijs te noemen;
+  - hfst. 10: de mastworp, hand in hand; 'de enige middag van die reis waarvan ik niets heb geteld';
   - hfst. 12: Richard stuurt;
   - hfst. 18: Richard doorziet het aanbod van de graaf;
   - hfst. 19: de knoop. Wat dat gebaar betekent, blijft onbeslist; geen toestemming, geen vergeving vastgelegd.
 - **R-02 Dudley – Richard:** Dudley ziet hem als 'mijn beste aanwinst' (hfst. 2). Hij is vriendelijk vanuit gezag: 'Gij groeit nog' (proef12). In hfst. 18 kiest hij hem.
-- **R-03 Brooks – Richard:** maten. Brooks noemt hem 'jong' en heeft plannen met hem in Sydney (proef12).
+- **R-03 Brooks – Richard:** maten. Brooks houdt hem in de regen bij de nek vast tot het lachen stopt (ch09). De vis en de 'piano' met de ellebogen op de sloep (ch10). Brooks noemt hem 'jong' en heeft plannen met hem in Sydney (proef12).
 - **R-04 Stephens – Richard:** Richard is de enige die hem iets vraagt (proef12): 'Het is goed brood, Stephens.'
 - **R-05 graaf – Dudley:** wederzijds wantrouwen. De graaf herkent zichzelf in hem (hfst. 9).
 - **R-06 graaf – Poe:** hij vertelt (hfst. 20), confronteert en bekent (hfst. 21).
@@ -140,6 +144,8 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
   - Poe weet het nooit.
 - **K-09** Richard heeft om 15 uur zijn zak doorzocht omdat de graaf hem had gedragen; Brooks zag het ('Ik zei: mijn knoop'). ch06
 - **K-10** Dudley, Stephens en Brooks weten vanaf ch06 dat de graaf meevaart 'omdat de jongen het gevraagd heeft'. Ze weten niets van de waarschuwing.
+- **K-11** Wat Richard weet vóór het dagboek (ch03-ch11): de voorspelde ondergang (5 juli, tegen de avond, binnen vijf minuten, één sloep), dat de graaf gelooft dat hij zal sterven, en dat de graaf het uur niet kent. Hij telt af: sinds ±23 juni vraagt hij Stephens elke ochtend de datum (ch11). Hij weet niets van Dudley, Stephens, het mes of het gebed tot 4 juli 17.10 uur.
+- **K-12** De graaf heeft Richard bewust niets verteld over wat er in de sloep gebeurt (ch11: 'een uitvlucht met goede manieren').
 - **K-08** Wie de graaf is.
   - Brooks vraagt het in hfst. 14. De graaf zegt de waarheid, en Brooks gelooft hem niet.
 
@@ -159,7 +165,8 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
   - hfst. 14: overboord;
   - hfst. 22: herinnerd.
 - **O-02 Het dagboek:**
-  - onder het kussen, met de rug naar de wand (proef12);
+  - aan boord onder de opgevouwen jas van Brooks die de graaf als kussen gebruikt, op de vloer van de kajuit, met de rug naar het schot (ch11, ch12). De vermelding 'kooi/kussen/wand' uit proef12 is vervallen;
+  - Richard keek ernaar op de ochtend van 1 juli (ch11). De graaf liet het liggen;
   - het procesverslag zit vooraan (proef12);
   - in het Engels geschreven, weergegeven in het Nederlands (ASSUMPTIONS).
 - **O-03 Pym (1838):** eerste band van de Londense uitgave, rug van groen linnen; altijd in zijn binnenzak. Herlezen in de Dolphin, ch05. In het dagboek staat een bladzijde 'Richard Parker' uit december; de regels 'driest … zal zelf het lot voorstellen' zijn doorgestreept, met één rechte lijn, leesbaar. Daaronder: 'Ik heb het zelf gekozen, mevrouw Coombs. Het is het eerste wat ik zelf gekozen heb.' ch05
@@ -175,6 +182,8 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
   - Het is hetzelfde mes [H: pennenmes].
 - **O-07 Twee blikken rapen.** [H] hfst. 13.
 - **O-08 De brief aan de havenpolitie:** hfst. 5 geschreven, hfst. 6 verscheurd. [V]
+- **O-19 De sloep als klankkast:** het dunste hout aan boord; 'als een kerk' (ch08, Richard); Brooks' ellebogenpiano (ch10). Bindend voor hfst. 13-19.
+- **O-20 Loon en viool:** Richard verdient 12 shilling per maand; vier pond = 'mijn loon van zeven maanden' (ch12; 80 / 12 ≈ 6,7). De graaf noemt de prijs pas in ch12; in ch08 weigerde hij.
 - **O-09 Vijf pond:** in hfst. 4 aangeboden en teruggelegd. Niet te verwarren met de vier pond voor de viool (hfst. 8 en proef12).
 - **O-10 Zakhorloge uit 1761:** van Pierre Le Roy; de initialen in de deksel zijn niet die van de graaf. ch05, ch06 [V] proef12
 - **O-11 De drukproef van Pym:** hfst. 21 meegegeven. [V]
@@ -195,9 +204,9 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 | T-03 | 2 (terugblik) | 1838 – begin mei 1884 | 46 jaar (1884 − 1838 = 46) | lineair geleefd; knipsels |
 | T-04 | 2 (terugblik) | vrijdag 9 mei 1884: krantenbericht (Southampton) → sprong naar december 1884, leeskamer in de Strand, sneeuwregen; nacht in een hotel aan de Strand | — | procesverslag; vonnis in december 1884 [H?] |
 | T-05 | 1-6 | maandag 19 mei 1884: hfst. 1 vanaf 5.52 uur; hfst. 2 vanaf 7.10; hfst. 3 vanaf 9 uur; hfst. 4 vanaf 12.25 (kroeg); hfst. 5 vanaf 13.15 (Itchen, om 15 uur aan boord, 16.10 Dolphin); hfst. 6 vanaf 18.40; tij om 20.30; vertrek om 20.37, wind licht uit het noordoosten [V] | één dag | vertrekdatum [H]; uur van vertrek [V]. Weekdag: maandag (berekend) |
-| T-06 | 7-10 | 20 mei – eind juni 1884 | ~6 weken | 'donderdag, denk ik' in hfst. 9; hfst. 10 zonder datum |
-| T-07 | 11 | eind juni – vrijdag 4 juli, 17.10 uur | | de datering keert terug. 4 juli 1884 = vrijdag (berekend) |
-| T-08 | 12 | vrijdag 4 juli, avond, tot ongeveer 20.45 uur | dezelfde dag | proef12 'Kwart voor negen … Ongeveer' |
+| T-06 | 7-10 | ch07: di 20 mei 6.12 uur (St. Catherine's Point) – wo 28 mei 4.45 uur (dag 9, Golf van Biskaje); ch08: do 5 juni 2.40-5.06 uur (dag 17, Canarische Eilanden); ch09: 'donderdag, denk ik', half juni, boven de evenaar, regen, avond; ch10: windstilte, zonder datum, ±2 weken na ch08; om 21 uur de zuidoostpassaat | ~6 weken | |
+| T-07 | 11 | maandag 30 juni (breedte van Rio, ver uit de kust, koud) – vrijdag 4 juli, 17.10 uur | | de datering keert terug. 4 juli 1884 = vrijdag (berekend) |
+| T-08 | 12 | vrijdag 4 juli, vanaf 17.11 uur tot ongeveer 20.45 uur | dezelfde dag | proef12 'Kwart voor negen … Ongeveer' |
 | T-09 | 13 | zaterdag 5 juli 1884 | 1 dag | ondergang [H] |
 | T-10 | 14-17 | 5 – ±23 juli | dag 1-18 in de sloep | de schildpad op dag 4 [H?]; het zeewater [H?] |
 | T-11 | 18 | ±23-24 juli | | voorstel om te loten [H: Dudley stelde voor; Brooks weigerde] |
@@ -242,4 +251,5 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **X-01:** de lengte van de sloep is in de plannen 'vier meter' en in de bronnen 13 voet (≈ 3,96 m). Consistent. Open alleen als controle tegen een primaire bron.
 - **X-02:** de vertrekhaven is Southampton (meerdere bronnen) of Tollesbury (forumbericht). Oplossing: het jacht kwam uit Tollesbury en vertrok op 19 mei uit Southampton. Na te kijken. [H?]
 - **X-03:** Parker sterft op 25 juli (gedenkteken) of 24 juli (secundaire bron). Het boek volgt het gedenkteken.
+- **X-07:** proef12 liet Richard 'op mijn kooi' zitten; aan boord slaapt de graaf op de vloer (ch07). Opgelost in ch12 a1.
 - **X-04:** proef12 noemt hfst. 9 als de eerste keer dat Richard lacht van angst: 'de avond dat Dudley hem de mast in stuurde in de regen'. Plan 07-outline hfst. 9 stemt daarmee overeen. Geen conflict, wel een bindende afspraak.
