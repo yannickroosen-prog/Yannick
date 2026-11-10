@@ -1,0 +1,47 @@
+{
+  "reader": "Sofie",
+  "hoofdstukken": {
+    "01": {
+      "compare": "A",
+      "waarom": "A geeft me net meer om vast te pakken: dat hij begraven ligt op een andere plek dan waar hij stierf, de hertogin en de brandende vloot bij Texel, de laars die openklapt 'zoals een mond'. B is strakker, maar 'Ik had vaker slecht nieuws gebracht, en ik deed het goed' is een samenvatting waar A een verhaal geeft. Wel struikelde ik in A over 'de tweede keer dat hij dat vroeg', want die vraag had hij nog niet gesteld. B lost dat op.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "A", "quote": "In de stukken die ik had gelezen, stond zijn leeftijd, zijn naam, zijn functie aan boord en de plaats waar hij is begraven, wat niet de plaats is waar hij is gestorven."},
+      "zwakste": {"versie": "B", "quote": "Ik kon hem zeggen dat zijn schip zou vergaan. Ik had vaker slecht nieuws gebracht, en ik deed het goed."},
+      "gemist_in_andere_versie": "In B mis ik de koopman in Amsterdam en de vloot bij Texel. Dat zijn precies de concrete ankers die me laten geloven dat deze verteller echt eeuwen heeft geleefd."
+    },
+    "12": {
+      "compare": "A",
+      "waarom": "Dit is mijn soort hoofdstuk: vier vaten waarvan er één lekt, twaalf keer bakken, thee van het tweede vleeswater. A heeft meer van dat zout: de whisttafel met de opstaande rand, de gereedschapskist, en de kanttekening over hoe de thee smaakte. B heeft één detail beter, namelijk dat hij 'naar de lucht in het zuidwesten' keek in plaats van niet meer te weten welke dag zondag was. Dat is weer en zee, en dat de volgende dag de schipbreuk komt, maakt het spannend.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "A", "quote": "Het smaakte naar zout en een beetje naar koe, en we dronken het allemaal."},
+      "zwakste": {"versie": "A", "quote": "Ik ben aan de tafel van een kardinaal geweest die korter bad."},
+      "gemist_in_andere_versie": "In B mis ik de kanttekening over het tweede water van de thee, en hoe Stephens met één arm bij de pan kon. In A mis ik B's lucht in het zuidwesten."
+    },
+    "18": {
+      "compare": "A",
+      "waarom": "De twee versies zijn bijna gelijk. Het brok schildpad in de pet, de Ellen Ward en het vlees in vijf in plaats van vier is sterk en concreet, en voor zover ik weet klopt het met het echte verhaal: Brooks die nee zegt, Parker die zeewater dronk. A eindigt op 'Omdat ge weg kunt.' en laat dat hangen. B zet er 'Hij had gelijk.' achter en legt uit wat ik al voelde. Ik twijfelde wel aan 'op de kade had gezegd dat een vat lekte', want in hoofdstuk 12 zei hij dat aan tafel.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "A", "quote": "'Op de Ellen Ward, in achtenzeventig, hebben we het laatste vlees een dag te lang bewaard. De kok wilde het sparen. Op de derde dag was het groen. We hebben het toch gegeten. Twee man zijn eraan gestorven.'"},
+      "zwakste": {"versie": "B", "quote": "Ik heb niets gezegd. Hij had gelijk."},
+      "gemist_in_andere_versie": "null"
+    },
+    "21": {
+      "compare": "A",
+      "waarom": "A begint met wat ik wil weten: waar hij sliep, hoe hij aan schoenen kwam en wat die kostten. In B ontbreekt dat. Ook de ontdekking dat de zin uit Poe komt, is in A helderder: de naam kwam van hem, de zin van Poe, en het geloof weer van hem. B's 'En hij kwam van mij' heb ik twee keer moeten lezen, en het klopt niet echt. Ik waardeer dat de auteur hier zelf toont waar Poe het verhaal verbuigt. Dat is eerlijk tegenover mij als lezer.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "A", "quote": "Schoenen kocht ik van de waard voor drie avonden spelen; ze waren een maat te klein, en ik heb ze tot juni gedragen."},
+      "zwakste": {"versie": "B", "quote": "Ik had die zin zesenveertig jaar met me meegedragen. Ik had hem aan de echte jongen toegeschreven. En hij kwam van mij."},
+      "gemist_in_andere_versie": "In B mis ik de eerste twee nachten in het portiek en de te kleine schoenen. Zonder die twee zinnen weet ik niet hoe hij in New York belandde."
+    }
+  },
+  "flags": [
+    {"hoofdstuk": "01", "versie": "A", "flag": "continuity_doubt", "quote": "Het was de tweede keer dat hij dat vroeg."},
+    {"hoofdstuk": "12", "versie": "B", "flag": "confusing", "quote": "Uit welke richting het zou komen. Het uur niet; dat wist hij."},
+    {"hoofdstuk": "18", "versie": "A", "flag": "continuity_doubt", "quote": "Hij zei het zoals hij op de kade had gezegd dat een vat lekte."},
+    {"hoofdstuk": "18", "versie": "A", "flag": "continuity_doubt", "quote": "Ik had in zes weken op de Mignonette en vijftien dagen in de sloep"},
+    {"hoofdstuk": "18", "versie": "B", "flag": "over_explained", "quote": "Ik heb niets gezegd. Hij had gelijk."},
+    {"hoofdstuk": "21", "versie": "B", "flag": "confusing", "quote": "En hij kwam van mij."}
+  ],
+  "algemeen": "A geeft me telkens net meer zout en meer feiten: wat er gedronken werd, waar hij sliep, wat iets kostte. B schrapt die dingen en legt soms juist meer uit. Een paar continuïteitsfoutjes zitten in A (de 'tweede keer'), en een paar kleine verbeteringen in B (de lucht in het zuidwesten), maar als lezer van zeeverhalen kies ik voor A.",
+  "confidence": "medium"
+}

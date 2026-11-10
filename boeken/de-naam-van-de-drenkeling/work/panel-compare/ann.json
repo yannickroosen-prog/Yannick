@@ -1,0 +1,47 @@
+{
+  "reader": "Ann",
+  "hoofdstukken": {
+    "01": {
+      "compare": "A",
+      "waarom": "In A voel ik hoe de verteller zijn vak van slecht nieuws brengen kent. De hertogin en de koopman in Amsterdam maken zijn zwijgen op de kade veel pijnlijker. B vat dat samen in één vlakke zin, en dan blijft er minder over om mee te dragen. Wel zit er in A een haperinkje: 'de tweede keer dat hij dat vroeg' klopt niet, want de eerste vraag was 'Wat zijt ge dan?'. B lost dat netjes op.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "A", "quote": "met een klein geluid, zoals een mond die iets wil zeggen en het niet doet"},
+      "zwakste": {"versie": "B", "quote": "Ik kon hem zeggen dat zijn schip zou vergaan. Ik had vaker slecht nieuws gebracht, en ik deed het goed."},
+      "gemist_in_andere_versie": "In A mis ik B's 'Brabants linnen,' zei ik, tegen niemand. Dat is een mooi klein moment van iemand die tegen zichzelf praat."
+    },
+    "12": {
+      "compare": "A",
+      "waarom": "De twee versies liggen dicht bij elkaar. Het brood en het 'een uur waarvóór' raken me in allebei. A geeft net meer ruimte aan de verteller: zijn stiltes aan koningstafels, zijn kanttekening dat 'nog nooit' te sterk is. Daardoor geloof ik zijn schuldgevoel meer. De kardinaal in A wringt wel, want de volgende zin zegt dat Dudley niet lang bad.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "A", "quote": "Het was een plaats in de lucht waar dingen terechtkwamen."},
+      "zwakste": {"versie": "A", "quote": "Ik ben aan de tafel van een kardinaal geweest die korter bad. Dudley bad niet lang."},
+      "gemist_in_andere_versie": "In B mis ik A's kanttekening 'Ik had ernaar gekeken zoals je naar een naam in een procesverslag kijkt. Het is hetzelfde niet.' Dat is precies het verschil tussen geschiedenis als decor en een mens."
+    },
+    "18": {
+      "compare": "A",
+      "waarom": "A eindigt op Richards zin en zijn gesloten ogen. Die zin heb ik dagen in mijn hoofd. B voegt 'Hij had gelijk' toe en vertelt me zo wat ik al voelde. Daarmee dooft het. Ook de uitleg in B dat Dudley hem koos omdat hij niemand had, heb ik niet nodig. 'Ik had die zin eerder gehoord' is genoeg.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "A", "quote": "'Omdat ge weg kunt.'"},
+      "zwakste": {"versie": "B", "quote": "Ik heb niets gezegd. Hij had gelijk."},
+      "gemist_in_andere_versie": null
+    },
+    "21": {
+      "compare": "A",
+      "waarom": "In het kernmoment staan beide versies even sterk: 'Ge wilt dat ik zeg dat ge moogt gaan' en de knoop die niemand verklaart. Het verschil zit in de cirkel van de zin. A laat het in drie korte zinnen heen en weer gaan, en ik moet het zelf voelen. B legt het uit en dat smaakt naar 'zo werkt de tijdlus'. De portiek en de te kleine schoenen aan het begin van A geven me ook een lijf in New York.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "A", "quote": "De zin kwam van hem. En dat ik die zin had geloofd, kwam weer van mij."},
+      "zwakste": {"versie": "B", "quote": "hem een stem had gegeven die niet de zijne was"},
+      "gemist_in_andere_versie": null
+    }
+  },
+  "flags": [
+    {"hoofdstuk": "01", "versie": "A", "flag": "continuity_doubt", "quote": "Het was de tweede keer dat hij dat vroeg."},
+    {"hoofdstuk": "01", "versie": "B", "flag": "flat_voice", "quote": "Ik had vaker slecht nieuws gebracht, en ik deed het goed."},
+    {"hoofdstuk": "12", "versie": "A", "flag": "continuity_doubt", "quote": "Ik ben aan de tafel van een kardinaal geweest die korter bad."},
+    {"hoofdstuk": "18", "versie": "B", "flag": "over_explained", "quote": "Ik heb niets gezegd. Hij had gelijk."},
+    {"hoofdstuk": "18", "versie": "B", "flag": "over_explained", "quote": "als een van de redenen waarom Dudley hem had gekozen"},
+    {"hoofdstuk": "21", "versie": "B", "flag": "over_explained", "quote": "Ik had hem aan de echte jongen toegeschreven. En hij kwam van mij."}
+  ],
+  "algemeen": "A laat de verteller meer zijn wie hij is: een man met hoven en slechte tijdingen achter zich, die juist daardoor tekortschiet tegenover Richard. Daardoor laat Richard me niet meer los. B is strakker en repareert hier en daar een logisch foutje, maar knipt ook beelden weg en legt op de belangrijkste momenten net één zin te veel uit.",
+  "confidence": "medium"
+}

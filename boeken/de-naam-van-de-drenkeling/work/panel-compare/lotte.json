@@ -1,0 +1,47 @@
+{
+  "reader": "Lotte",
+  "hoofdstukken": {
+    "01": {
+      "compare": "B",
+      "waarom": "Het begin pakt me in allebei meteen: hij weet dat de jongen gaat sterven, en dan zegt hij iets over een veter. B loopt net iets vlotter, vooral in het stuk waar hij twijfelt of hij de waarschuwing moet geven. In A struikelde ik over Brooks, een naam die ik nog niet ken. B lost dat slimmer op.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "B", "quote": "Ik liet het liggen. Dat is de enige waarschuwing die ik die ochtend heb gegeven: ik heb haar laten liggen."},
+      "zwakste": {"versie": "A", "quote": "Hij zei het met iets in zijn stem wat ik later bij hem alleen nog heb gehoord als hij over Brooks sprak, of over brood."},
+      "gemist_in_andere_versie": "Het lijstje met de hertogin en de koopman in Amsterdam uit A. Dat was eigenlijk leuk en vertelt snel wie die man is."
+    },
+    "12": {
+      "compare": "B",
+      "waarom": "De opstelling van de kajuit in A deed me haken: wie zit waar, de kardinaal, het strijkkwartet. In B ben ik sneller aan tafel, en de scène met het brood is in allebei de kern en gewoon spannend. Het hoofdstuk blijft wel lang voor mij. Het afwassen en de viool trekken het nog uit, maar die laatste zin over het uur zit goed.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "B", "quote": "Hij had niet gezegd een uur waarvóór."},
+      "zwakste": {"versie": "A", "quote": "Ik ben aan de tafel van een kardinaal geweest die korter bad. Dudley bad niet lang. Hij bad met nadruk"},
+      "gemist_in_andere_versie": null
+    },
+    "18": {
+      "compare": "A",
+      "waarom": "Het eerste deel is identiek, en dat is meteen het sterkste stuk van de vier: vlees in een pet, 'Ik was de kok.' Het verschil zit in kleine toevoegingen in B die uitleggen wat ik al begreep. Het slot van A, waar hij gewoon zijn ogen sluit, komt harder binnen dan B's 'Hij had gelijk.'",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "A", "quote": "'Omdat ge weg kunt.'\n\nHij sloot zijn ogen weer."},
+      "zwakste": {"versie": "B", "quote": "Ik heb niets gezegd. Hij had gelijk."},
+      "gemist_in_andere_versie": null
+    },
+    "21": {
+      "compare": "B",
+      "waarom": "Bijna hetzelfde, maar A begint met extra gedoe over een portiek en schoenen die te klein zijn. Dat sla ik over. Bij de belangrijke alinea over wie de zin bedacht had, moest ik A twee keer lezen. In B snapte ik het meteen. Het slot met de knoop is in allebei prachtig, en daar ben ik echt van geschrokken.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "B", "quote": "'Hij zei: Ge wilt dat ik zeg dat ge moogt gaan.'"},
+      "zwakste": {"versie": "A", "quote": "De naam had ik zesenveertig jaar in een tabaksdoos bewaard. Die kwam van mij. De zin kwam van hem. En dat ik die zin had geloofd, kwam weer van mij."},
+      "gemist_in_andere_versie": "De tabaksdoos uit A is een mooi detail, die mis ik een beetje."
+    }
+  },
+  "flags": [
+    {"hoofdstuk": "01", "versie": "A", "flag": "continuity_doubt", "quote": "als hij over Brooks sprak, of over brood"},
+    {"hoofdstuk": "12", "versie": "A", "flag": "slow_start", "quote": "Stephens zat rechts van hem, aan de kant van de kombuis, waar hij met één arm de pan kon bereiken. Brooks zat links."},
+    {"hoofdstuk": "12", "versie": "B", "flag": "slow_start", "quote": "Dat had hij me al gevraagd, in de derde week, en ik had hem toen een kwartier lang uitgelegd"},
+    {"hoofdstuk": "18", "versie": "B", "flag": "over_explained", "quote": "Ik had die zin eerder gehoord, op de Mignonette, op een ochtend in Southampton, als een van de redenen waarom Dudley hem had gekozen."},
+    {"hoofdstuk": "18", "versie": "B", "flag": "over_explained", "quote": "Ik heb niets gezegd. Hij had gelijk."},
+    {"hoofdstuk": "21", "versie": "A", "flag": "confusing", "quote": "De zin kwam van hem. En dat ik die zin had geloofd, kwam weer van mij."}
+  ],
+  "algemeen": "B is meestal de strakkere versie: minder anekdotes en minder 'ik schrijf dit jaren later'-notities, dus ik blijf sneller hangen. Alleen in hoofdstuk 18 legt B net te veel uit en verpest het zo het slot, daar laat A het beter open. De verschillen zijn klein. Het verhaal zelf houdt me in beide versies vast.",
+  "confidence": "medium"
+}
