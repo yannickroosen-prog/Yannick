@@ -186,3 +186,10 @@
   - de continuïteitscontroles per blok van vijf hoofdstukken;
   - leespanels op ±25% en vóór de finale (alleen hfst. 1 en hfst. 12 zijn gelezen).
   - Fase 4 (audit) moet de continuïteit volledig nalopen.
+
+## 10 november 2026 — de auteur heeft de eerste versie gelezen
+
+- Oordeel van de auteur: Richard is na hfst. 19 genoeg gekend om hem in de sloep achter te laten. Er komt geen extra scène.
+- Hfst. 1 en het slot (het doorgestreepte 'Dank u') blijven ongewijzigd.
+- Nieuw revisiepunt in `work/revisie-notities.md`: Richard doorziet de graaf aan het einde mogelijk één keer te vaak.
+- Volgende stap: fase 4, de adversariële audit, als de auteur akkoord gaat.

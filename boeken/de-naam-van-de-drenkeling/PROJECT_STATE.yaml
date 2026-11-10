@@ -17,7 +17,7 @@ project:
 collaboration:
   mode: "check-in"
   waiting_for_author: true
-  pending_checkpoint: "Eerste versie volledig (22 hfst.); de auteur leest; daarna fase 4 (audit) en revisie"
+  pending_checkpoint: "Auteur heeft de eerste versie gelezen; volgende stap fase 4 (audit), op akkoord van de auteur"
 
 independence:
   level: "isolated subagents, same model family"
@@ -80,6 +80,7 @@ decisions:
   - "Hfst. 19 eindigt zodra de graaf vertrokken is; de vraag en het antwoord van de wacht horen bij Poe (hfst. 21)."
   - "Eerste versie: 35.421 woorden; de auteur leest haar op deze lengte en beoordeelt daarna of er in de sloep iets ontbreekt."
   - "Hfst. 22 eindigt op het doorgestreepte 'Dank u' (Unicode-doorhaling, zodat het ook in EPUB werkt)."
+  - "Na lezing (auteur): geen extra sloepscène; hfst. 1 en de laatste regel blijven; nagaan of Richard aan het einde te vaak de graaf doorziet."
   - "Afwijking van de workflow op vraag van de auteur: proefhoofdstuk 12 vóór fase 2, als werkstuk (work/), niet canoniek; geen paneelronde."
 
 open_questions:

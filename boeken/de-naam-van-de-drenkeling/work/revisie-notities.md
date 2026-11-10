@@ -15,3 +15,11 @@ De auteur beoordeelt de eerste versie zoals ze er ligt. Deze punten wachten tot 
 
 - **Hfst. 14:** de kanttekening 'Hij spaarde hen.' schrappen. Richards eigen woorden ('Dan kijken ze me nu al zo aan.') geven hem meer ruimte.
 - **Algemeen:** de oudere graaf mag zijn uitleg vaker voor zich houden. Het model is hfst. 13: 'Richard had het verslag ook gelezen. Hij vulde de kruik.'
+
+## Na lezing van de eerste versie (auteur)
+
+- **Geen extra scène in de sloep.** Hfst. 19 eindigt op 'Ik ben gegaan.'
+- **Hfst. 1 blijft zoals het is.** Het tweede 'merci' (van de graaf, na het vastknopen van de laars) krijgt genoeg aandacht. Richard overweegt te lachen en laat het, en daar tast de graaf op de laatste bladzijde naar.
+- **De laatste regel blijft:** het doorgestreepte 'Dank u', met een lege plaats voor de verbetering. Hfst. 5 (doorstrepen met één lijn) draagt dat slot.
+- **Aandachtspunt:** tegen het einde doorziet Richard vaak precies wat de graaf zichzelf wijsmaakt. Hfst. 18 ('Omdat ge weg kunt') is nodig. Bij de revisie nagaan of hfst. 15 ('Maar ge liegt niet meer') of hfst. 17 ('Dat is de eerste keer dat ge dat zegt') er één te veel is.
+- **Te koesteren, niet in te korten:** de momenten waarop Richard gewoon naast de graaf zit en commentaar geeft. De kousen (hfst. 15), 'Van Doyle' (hfst. 15), 'Dick' (hfst. 1) en 'Hij kan een ei breken' (hfst. 5).
