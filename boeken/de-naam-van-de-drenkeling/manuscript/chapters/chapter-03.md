@@ -122,7 +122,7 @@ Hij keek me aan. Het was de blik van de kade, die mij in drie tellen had gewogen
 
 Ik had het hem al gezegd. Ik zei het nog eens. Ik zei dat het schip zou vergaan, en dat hij de sloep zou halen, en dat hij niet thuis zou komen.
 
-'Gij komt niet terug,' zei ik. 'Dat staat vast. Dat heb ik gelezen.'
+'U komt niet terug,' zei ik. 'Dat staat vast. Dat heb ik gelezen.'
 
 'In de krant van volgende week.'
 

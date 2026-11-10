@@ -205,3 +205,9 @@
   - T-03: een vroeg 'Gij' in hfst. 3;
   - T-04: de verdeling van de structuur en de beats.
 - Volgende stap: keuze van de auteur over de eerste revisiebatch.
+
+## 10 november 2026 — revisie, ronde 1 (feitelijk en logisch)
+
+- Zie `evaluations/revision-pass-1.md`. Twaalf hoofdstukken herzien en canoniek gemaakt.
+- T-04 is gesloten als auteurskeuze.
+- Nieuw totaal: 35.702 woorden.

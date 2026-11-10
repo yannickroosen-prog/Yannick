@@ -38,6 +38,10 @@ Het was nooit droog. Hij wist dat. Brooks wist het ook. Brooks liet hem doen.
 
 ---
 
+Op de negende ochtend telde Stephens ons, zoals elke ochtend, met zijn lippen. 'Vijf,' zei hij, half hardop.
+
+Richard lag met zijn hoofd tegen de doft en had zijn ogen dicht. 'Vijf,' zei hij. Toen deed hij zijn ogen open en keek naar mij, zoals hij op de binnenplaats bij Hutchings naar het briefje van Mr. Lyle had gekeken. Hij zei niets meer.
+
 Op de negende dag ergerde hij zich aan mij.
 
 Ik had mijn kousen uitgetrokken. Ik had ze over de rand van de sloep gelegd, aan de kant waar de zon kwam, zodat ze konden drogen. Ik had ze zo gelegd dat de ene over de andere hing en de wind erdoor kon. Dat is het systeem. Ik had het op de Mignonette bedacht, boven het fornuis, en Stephens had het drie keer afgebroken.

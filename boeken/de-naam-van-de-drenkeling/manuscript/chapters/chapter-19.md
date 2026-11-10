@@ -50,6 +50,6 @@ Ik keek naar Richard. Zijn ogen waren dicht. Hij ademde. Ik telde het niet.
 
 Ik tilde zijn hoofd van mijn knie, zo voorzichtig als ik kon, en hield het in mijn ene hand. Met de andere trok ik mijn jas naar me toe, die naast hem in de bodem lag. Ik haalde het dagboek uit de binnenzak, en Pym, en legde ze op mijn knie, waar zijn hoofd had gelegen. Ik vouwde de jas op, één keer, twee keer, en schoof haar onder zijn hoofd. Hij werd niet wakker. Of hij deed alsof. Ik heb het nooit geweten.
 
-Ik nam het dagboek en Pym van mijn knie en stak ze onder mijn broeksband, tegen mijn blote buik. Ik had de knoop in mijn hand. Ik had niets anders.
+Ik nam het dagboek en Pym van mijn knie en stak ze onder mijn broeksband, tegen mijn blote buik. Ik had de knoop in mijn hand en mijn horloge in mijn broekzak. Mijn vest en mijn schoenen lagen op de bodem van de oceaan, met de Mignonette. Ik had niets anders.
 
 Ik ben gegaan.

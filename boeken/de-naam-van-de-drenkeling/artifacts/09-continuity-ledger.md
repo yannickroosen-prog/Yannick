@@ -200,6 +200,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **O-19 De sloep als klankkast:** het dunste hout aan boord; 'als een kerk' (ch08, Richard); Brooks' ellebogenpiano (ch10). Bindend voor hfst. 13-19.
 - **O-20 Loon en viool:** Richard verdient 12 shilling per maand; vier pond = 'mijn loon van zeven maanden' (ch12; 80 / 12 ≈ 6,7). De graaf noemt de prijs pas in ch12; in ch08 weigerde hij.
 - **O-09 Vijf pond:** in hfst. 4 aangeboden en teruggelegd. Niet te verwarren met de vier pond voor de viool (hfst. 8 en proef12).
+- **O-10a (ch19-20):** het horloge gaat mee in de broekzak en staat stil bij aankomst. Vest en schoenen zonken met de Mignonette. In New York koopt hij schoenen die een maat te klein zijn (ch21).
 - **O-10 Zakhorloge uit 1761:** van Pierre Le Roy; de initialen in de deksel zijn niet die van de graaf. ch05, ch06 [V] proef12
 - **O-11 De drukproef van Pym:** lange stroken van Harper, in mei gezet; de inkt geeft af. Poe geeft ze mee: 'Ik heb er nog een.' (ch21) Liggen dubbelgevouwen naast de knoop (ch22). [V]
 - **O-22 Hemd en sjaal:** het hemd van Poe en de sjaal van Virginia, gewassen bij een vrouw in Greenwich Lane en in papier teruggebracht (ch21).
@@ -218,7 +219,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 | T-01 | 2 (terugblik) | 27 feb 1784, Eckernförde → sprong | — | einde van het geleefde deel tot 1784 |
 | T-02 | 2 (terugblik) | 1838, Engeland; juli 1838 Pym | — | de naam noteren; het bijgeloof begint (I-01) |
 | T-03 | 2 (terugblik) | 1838 – begin mei 1884 | 46 jaar (1884 − 1838 = 46) | lineair geleefd; knipsels |
-| T-04 | 2 (terugblik) | vrijdag 9 mei 1884: krantenbericht (Southampton) → sprong naar december 1884, leeskamer in de Strand, sneeuwregen; nacht in een hotel aan de Strand | — | procesverslag; vonnis in december 1884 [H?] |
+| T-04 | 2 (terugblik) | vrijdag 9 mei 1884: krantenbericht (Southampton); negen dagen twijfel, geleefd; nacht van 18 mei → sprong naar december 1884, leeskamer in de Strand, sneeuwregen; nacht in een hotel aan de Strand | — | procesverslag; vonnis in december 1884 [H?] |
 | T-05 | 1-6 | maandag 19 mei 1884: hfst. 1 vanaf 5.52 uur; hfst. 2 vanaf 7.10; hfst. 3 vanaf 9 uur; hfst. 4 vanaf 12.25 (kroeg); hfst. 5 vanaf 13.15 (Itchen, om 15 uur aan boord, 16.10 Dolphin); hfst. 6 vanaf 18.40; tij om 20.30; vertrek om 20.37, wind licht uit het noordoosten [V] | één dag | vertrekdatum [H]; uur van vertrek [V]. Weekdag: maandag (berekend) |
 | T-06 | 7-10 | ch07: di 20 mei 6.12 uur (St. Catherine's Point) – wo 28 mei 4.45 uur (dag 9, Golf van Biskaje); ch08: do 5 juni 2.40-5.06 uur (dag 17, Canarische Eilanden); ch09: 'donderdag, denk ik', half juni, boven de evenaar, regen, avond; ch10: windstilte, zonder datum, ±2 weken na ch08; om 21 uur de zuidoostpassaat | ~6 weken | |
 | T-07 | 11 | maandag 30 juni (breedte van Rio, ver uit de kust, koud) – vrijdag 4 juli, 17.10 uur | | de datering keert terug. 4 juli 1884 = vrijdag (berekend) |
@@ -247,7 +248,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 | W-04 | De geschiedenis verandert niet | — | wat er verandert, is wat mensen wisten, zeiden en kozen | geen | hfst. 2 (hij staat niet in de stukken) en hfst. 13 (het uur klopt) |
 | W-05 | Hij staat nergens in de stukken | hij gaat aan boord zonder papieren en springt weg vóór 25 juli | de overlevenden zwijgen over hem | geen | hfst. 6 (Dudley neemt contant geld aan) en hfst. 19 |
 
-**Geblokkeerde dagen voor sprongen:** tot 27 februari 1784; van 1838 tot begin mei 1884; de dag in december 1884; van 19 mei tot 25 juli 1884; de dagen bij Poe in 1837. Elke latere sprong (hfst. 20-22, boek II) moet buiten deze periodes vallen.
+**Geblokkeerde dagen voor sprongen:** tot 27 februari 1784; van 1838 tot en met 18 mei 1884; de dag in december 1884; van 19 mei tot 25 juli 1884; de dagen bij Poe in 1837. Elke latere sprong (hfst. 20-22, boek II) moet buiten deze periodes vallen.
 
 ## Draden
 
@@ -259,6 +260,13 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **TH-06 (detail):** het lekkende vat dat Stephens niet aanwijst. Proef12. Afloop: niet nodig. Kan in hfst. 13 terugkomen als het vat dat ze niet meenemen.
 - **TH-07 (detail):** 'een uur ervoor' — waarvoor? Proef12, gesloten in hfst. 13: de strofe én het water.
 - **TH-08 (zijplot):** water in de sloep. Geopend in proef12 (Richards vraag aan tafel), gesloten in hfst. 13 (de kruik verloren voor Brooks). Bindend: de graaf haalt zelf geen water.
+
+## Gesloten audittickets (fase 4 → revisie, ronde 1)
+
+- **T-04 (structuur, beats): gesloten als bewuste keuze van de auteur.** 'In de haven krijgt de lezer de tijd om Richard te leren kennen. Dat geeft zijn dagen in de sloep hun gewicht. De sloep heeft bij lezing de gewenste duur en intensiteit.'
+- **T-05:** het zwijgen van de overlevenden. Motief in hfst. 2, als zin van de auteur: 'Ik zou ook gezwegen hebben over een vijfde man als ik al moest uitleggen wat er met de vierde was gebeurd.'
+- **T-01:** de graaf leeft tot en met 18 mei 1884. 19 mei is de eerste niet-geleefde dag. Kanttekening: 'Ik had er tien kunnen hebben. Ik heb er negen laten liggen omdat ik niet wilde weten hoe het afliep.'
+- **T-21:** 'Ik heb hem nog' in hfst. 3 blijft staan. Hfst. 3 is geschreven op de avond van 19 mei, vóór de ondergang.
 
 ## Conflicten
 

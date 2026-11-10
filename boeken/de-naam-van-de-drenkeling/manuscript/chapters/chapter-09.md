@@ -42,7 +42,7 @@ Ik heb dat gezegd. Het staat hier. Ik, die een paalsteek op de negende dag niet 
 
 Richard klom.
 
-Hij klom snel, de eerste meters. Hij greep de ringen en trok zich op en zette zijn voeten tegen het hout, en zijn laarzen, waar hij een week eerder de reep zeildoek in had geregen, gleden weg en vonden weer houvast. Halverwege bleef hij hangen. Het schip helde over naar stuurboord en de mast helde mee, en hij hing een tel boven het water in plaats van boven het dek. Toen kwam het schip terug.
+Hij klom snel, de eerste meters. Hij greep de ringen en trok zich op en zette zijn voeten tegen het hout, en zijn laarzen, waar hij weken eerder de reep zeildoek in had geregen, gleden weg en vonden weer houvast. Halverwege bleef hij hangen. Het schip helde over naar stuurboord en de mast helde mee, en hij hing een tel boven het water in plaats van boven het dek. Toen kwam het schip terug.
 
 Toen hoorde ik hem lachen.
 

@@ -2,7 +2,7 @@
 
 *New York. Juni 1837.*
 
-Ik heb veertien weken in een kamer boven een taveerne in Hudson Street gewoond, vlak bij de kapel van St. John, waarvan ik de klok elk kwartier hoorde slaan. Ik betaalde de kamer door 's avonds in de gelagzaal viool te spelen op een instrument dat de waard van een matroos had gekocht en dat een scheve kam had. Ik speelde wat ze wilden horen. Ik speelde het lied van het meisje uit Portsea niet. Ze kenden het daar niet, en niemand vroeg erom.
+Ik heb veertien weken in een kamer boven een taveerne in Hudson Street gewoond, vlak bij de kapel van St. John, waarvan ik de klok elk kwartier hoorde slaan. De eerste twee nachten sliep ik in een portiek van de kapel, in het hemd van een ander. Schoenen kocht ik van de waard voor drie avonden spelen; ze waren een maat te klein, en ik heb ze tot juni gedragen. Ik betaalde de kamer door 's avonds in de gelagzaal viool te spelen op een instrument dat de waard van een matroos had gekocht en dat een scheve kam had. Ik speelde wat ze wilden horen. Ik speelde het lied van het meisje uit Portsea niet. Ze kenden het daar niet, en niemand vroeg erom.
 
 Overdag schreef ik. Ik schreef de sloep. Ik schreef van de golf tot de laatste nacht, aan een tafel die niet bewoog, onder een lamp die stil brandde, en ik heb het opgeschreven zoals het hierboven staat, met wat erin staat en zonder wat er niet in staat. Ik heb mijn horloge weer opgewonden. Ik heb het gelijkgezet met de klok van St. John.
 
@@ -46,9 +46,9 @@ Hij legde zijn potlood neer. Hij dacht na, zoals hij in maart had nagedacht over
 
 Ik had geen antwoord.
 
-Ik had geen antwoord omdat ik het zelf had gedaan. In een hotel aan de Strand, in een nacht in december, had ik een bladzijde volgeschreven met wat ik over hem meende te weten, en ik had geschreven: zal zelf het lot voorstellen. Ik had het daar geschreven omdat ik het in dit boek had gelezen. En het stond in dit boek omdat ik het in deze keuken had verteld, en omdat de man tegenover mij de stilte van een jongen niet kon verdragen en hem een stem had gegeven die niet de zijne was.
+Ik had geen antwoord, omdat ik het zelf ook had gedaan. In een hotel aan de Strand, in een nacht in december, had ik een bladzijde volgeschreven met wat ik over hem meende te weten, en ik had geschreven: zal zelf het lot voorstellen. Ik had het geschreven omdat ik het in dit boek had gelezen. Het stond in dit boek omdat ik hier, in deze keuken, had verteld dat hij niets had gezegd, en omdat de man tegenover mij die stilte niet kon verdragen.
 
-Ik had die zin zesenveertig jaar met me meegedragen. Ik had hem aan de echte jongen toegeschreven. En hij kwam van mij.
+De naam had ik zesenveertig jaar in een tabaksdoos bewaard. Die kwam van mij. De zin kwam van hem. En dat ik die zin had geloofd, kwam weer van mij.
 
 ---
 

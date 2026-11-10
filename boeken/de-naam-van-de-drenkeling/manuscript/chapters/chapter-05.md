@@ -28,7 +28,9 @@ Ze draaide zich om. Ze keek me aan met de ogen van een vrouw die veel jongens he
 
 'Nee,' zei ik.
 
-Ze knikte, alsof ze dat had gedacht. Ze schonk de thee in, in een kopje met een barst aan het oor, en zette het voor me neer. Toen haalde ze uit een kast een brood, een rond donker brood met een kruis in de korst, en ze wikkelde het in een doek en legde het op tafel.
+Ze knikte, alsof ze dat had gedacht. Op het fornuis stond een strijkijzer te warmen, en over de stoel ernaast hing een laken dat ze al had gestreken. Ik rook het. Ik was midden in een zin, iets beleefds over haar keuken, en ik maakte hem niet af. Ze keek me aan. Ik weet niet meer wat ik toen zei.
+
+Ze schonk de thee in, in een kopje met een barst aan het oor, en zette het voor me neer. Toen haalde ze uit een kast een brood, een rond donker brood met een kruis in de korst, en ze wikkelde het in een doek en legde het op tafel.
 
 'Dat is voor de eerste dag,' zei ze. 'Daarna moeten ze hem maar eten geven.'
 

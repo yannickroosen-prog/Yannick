@@ -114,7 +114,7 @@ Brooks kwam van het voordek, zag mij, zag het geld in Dudleys hand en begon zo h
 
 ---
 
-Hutchings had een gereedschapskist die hij me verkocht voor zeven shilling. Ze was van grenen, met ijzeren hoeken en een slot zonder sleutel. Ik zette er de plaathandschoen in die ik die middag bij hem had gekocht, en mijn tweede hemd niet, want dat had ik niet. Ik droeg haar zelf terug naar de kade. Ze was leeg en toch zwaar. Mijn kousen waren nat, voor de derde keer die dag.
+Hutchings had een gereedschapskist die hij me verkocht voor zeven shilling. Ze was van grenen, met ijzeren hoeken en een slot zonder sleutel. Ik zette er de plaathandschoen in die ik die ochtend bij hem had gekocht, en mijn tweede hemd niet, want dat had ik niet. Ik droeg haar zelf terug naar de kade. Ze was leeg en toch zwaar. Mijn kousen waren nat, voor de derde keer die dag.
 
 Om acht uur stonden we klaar. Om half negen keerde het tij, zoals ik had gelezen, en de Mignonette trok aan haar trossen alsof ze het ook wist. Brooks gooide de achtertros los. Richard stond op het voordek bij de boegtros en wachtte op Dudleys teken.
 

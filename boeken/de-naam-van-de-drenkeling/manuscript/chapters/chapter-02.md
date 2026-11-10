@@ -42,7 +42,7 @@ Ik ben geen bijgelovig man. Dat schrijf ik op omdat het niet waar is. Ik ben een
 
 Op vrijdag 9 mei 1884 las ik in een krant uit Southampton, die ik las omdat er een kamer in stond die ik misschien wilde huren, een bericht in de rubriek van de haven. Het jacht Mignonette, negentien ton, kapitein T. Dudley, gekocht door een heer te Sydney, zou in de loop van de maand vanuit deze haven naar Australië vertrekken. Bemanning: vier. Daaronder, in kleinere letter: scheepsjongen R. Parker.
 
-Ik heb het bericht niet uitgeknipt. Ik heb de krant meegenomen naar mijn kamer en het hele blad op tafel gelegd, en ik heb er een uur naar gekeken. Toen heb ik iets gedaan wat ik in zesenveertig jaar niet had gedaan. Ik ben vooruit gesprongen om te kijken.
+Ik heb het bericht niet uitgeknipt. Ik heb de krant meegenomen naar mijn kamer en het hele blad op tafel gelegd, en ik heb er een uur naar gekeken. Daarna heb ik negen dagen niets gedaan. Ik ben de kamer gaan bekijken die ik wilde huren, en ik heb haar niet genomen. Ik heb gegeten en gewandeld en de krant van de volgende dag gelezen, en die van de dag daarna. Ik wist niet of ik wilde weten hoe het afliep. In de nacht van 18 mei heb ik iets gedaan wat ik in zesenveertig jaar niet had gedaan. Ik ben vooruit gesprongen om te kijken.
 
 Ik koos december. Ik koos die maand omdat ik dacht dat een schip dat in mei vertrekt, in december aangekomen moet zijn, of vergaan, en dat je dat dan in de kranten kunt lezen. Ik had gelijk. Ik vond het in de eerste krant die ik in mijn hand kreeg, in een leeskamer in de Strand, op een grijze middag met sneeuwregen tegen het raam.
 
@@ -50,11 +50,11 @@ Het was een procesverslag. Twee mannen, Thomas Dudley en Edwin Stephens, stonden
 
 Ik las het twee keer. Daarna las ik het een derde keer, en die keer zocht ik iets anders. Ik zocht mijzelf. Ik wist niet of ik er zou staan. Ik wist niet eens of ik wilde dat ik er zou staan. Ik las elk woord, ook de namen van de rechters en de kosten van het proces.
 
-Ik stond er niet in. Vier mannen in de sloep. Drie kwamen terug.
+Ik stond er niet in. Vier mannen in de sloep. Drie kwamen terug. Ik zou ook gezwegen hebben over een vijfde man als ik al moest uitleggen wat er met de vierde was gebeurd.
 
-Ik heb de nacht daarna doorgebracht in een hotel aan de Strand, in een kamer met een spiegel, en ik heb geschreven wat ik tegen hem zou zeggen. Toen het licht werd, ben ik teruggesprongen naar 19 mei, de dag van vertrek. Ik had alle dagen tussen 9 mei en december overgeslagen. Ik had er één nodig.
+Ik heb de nacht daarna doorgebracht in een hotel aan de Strand, in een kamer met een spiegel, en ik heb geschreven wat ik tegen hem zou zeggen. Toen het licht werd, ben ik teruggesprongen naar 19 mei, de dag van vertrek. Het was de eerste dag die ik nog niet had geleefd. Ik had er één nodig.
 
-*Hier staat 'ik had er één nodig'. Ik schreef dat met trots, omdat het zuinig klonk. Ik weet nu dat het de enige dag was die ik hem gaf, en dat ik er niet over heb nagedacht of het genoeg was.*
+*Hier staat 'ik had er één nodig'. Ik schreef dat met trots, omdat het zuinig klonk. Ik had er tien kunnen hebben. Ik heb er negen laten liggen omdat ik niet wilde weten hoe het afliep.*
 
 ---
 

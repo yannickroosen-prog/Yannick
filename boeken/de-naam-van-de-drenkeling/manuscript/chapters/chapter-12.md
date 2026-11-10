@@ -204,7 +204,7 @@ Hij knikte. Hij keek naar de haak, naar de doek. Ik zag dat hij iets aan het uit
 
 'Zeg,' zei hij. 'Hoe laat is het?'
 
-Ik haalde mijn horloge uit mijn vest. Ik heb dat horloge sinds 1761. Het loopt twee minuten voor per week, en ik zet het elke zondag gelijk. Die zondag had ik dat niet gedaan, omdat ik niet meer wist welke dag zondag was.
+Ik haalde mijn horloge uit mijn vest. Ik heb dat horloge sinds 1761. Het loopt twee minuten voor per week, en ik zet het elke zondag gelijk. Die zondag had ik dat niet gedaan. Ik had de hele dag naar de lucht in het zuidwesten staan kijken en was het vergeten.
 
 'Kwart voor negen,' zei ik. 'Ongeveer.'
 

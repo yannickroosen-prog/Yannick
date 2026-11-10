@@ -36,7 +36,7 @@ Ik stond op en liep naar de oude man bij de haard. Ik vroeg hem of ik zijn viool
 
 Toen speelde ik.
 
-Ik speelde geen sonate. Ik ben niet gek. Ik speelde wat ze in die kroeg kenden, of wat ik dacht dat ze kenden, een lied over een meisje dat op een schip wacht, en ik speelde het zoals ik het aan een hof zou hebben gespeeld: langzaam, met de versieringen op de plaatsen waar je ze niet verwacht. Ik speelde het tweede couplet een terts hoger. Ik liet de laatste noot hangen tot de kroeg dacht dat ze afgelopen was, en toen nam ik haar nog één keer op.
+Ik speelde geen sonate. Ik ben niet gek. Ik speelde wat ze in die kroeg kenden, of wat ik dacht dat ze kenden, een lied over een meisje dat op een schip wacht, dat Brooks aan tafel half had gezongen terwijl ik buiten stond, en ik speelde het zoals ik het aan een hof zou hebben gespeeld: langzaam, met de versieringen op de plaatsen waar je ze niet verwacht. Ik speelde het tweede couplet een terts hoger. Ik liet de laatste noot hangen tot de kroeg dacht dat ze afgelopen was, en toen nam ik haar nog één keer op.
 
 Het werkte. Ik zeg dat zonder trots en zonder verbazing. Het werkt altijd. De mannen bij de tap hadden hun kroezen neergezet. Een vrouw achter de toonbank stond met een doek in haar hand en veegde niet. De oude man bij de haard had zijn ogen gesloten. Toen ik ophield, was het stil, op de manier van de kamer in Versailles. Daarna sloeg iemand met zijn kroes op het hout, en nog iemand, en Brooks riep 'Nog een!', en de vrouw achter de toonbank zette een kroes voor me neer die ik niet had besteld.
 
@@ -76,7 +76,7 @@ Ik haalde de munt uit mijn vestzak. Het was een gouden sovereign met de jonge ko
 
 'Vijf pond,' zei ik.
 
-Hij keek naar de munten. Hij keek er lang naar. Ik weet niet wat hij dacht. Ik weet wat ik dacht. Ik dacht dat vijf pond vijf maanden loon was voor hem, en een viool in Sydney, en dat hij een jongen was die nog nooit vijf pond tegelijk had gezien.
+Hij keek naar de munten. Hij keek er lang naar. Ik weet niet wat hij dacht. Ik weet wat ik dacht. Ik dacht dat vijf pond acht maanden loon was voor hem, en een viool in Sydney, en dat hij een jongen was die nog nooit vijf pond tegelijk had gezien.
 
 'Waarvoor?' zei hij.
 

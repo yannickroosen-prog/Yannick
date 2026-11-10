@@ -134,7 +134,7 @@ Toen hij stond, zag ik dat het touw te kort was. Ik had het al gezegd, en ik zag
 
 Ik haalde mijn zakdoek uit mijn borstzak. Het blad uit het hotel in de Strand kwam mee en viel op de kade, met de beschreven kant naar beneden, in een plas. Ik liet het liggen. Dat is de enige waarschuwing die ik die ochtend heb gegeven: ik heb haar laten liggen.
 
-Ik knielde. Mijn knie werd nat. Ik scheurde de zakdoek in de lengte in twee, wat met Brabants linnen moeite kost, en ik reeg de ene helft door de onderste gaten van zijn laars, en ik knoopte haar vast aan het reepje lijn dat hij er zelf door had gehaald. Ik deed het met de knoop die hij me een half uur eerder over mijn vinger had gelegd. Ik deed het verkeerd. Hij keek naar beneden, zag het, en zei niets. Hij liet me doen.
+Ik knielde. Mijn knie werd nat. Ik scheurde de zakdoek in de lengte in twee. Het ging moeilijk. 'Brabants linnen,' zei ik, tegen niemand, en ik reeg de ene helft door de onderste gaten van zijn laars, en ik knoopte haar vast aan het reepje lijn dat hij er zelf door had gehaald. Ik deed het met de knoop die hij me een half uur eerder over mijn vinger had gelegd. Ik deed het verkeerd. Hij keek naar beneden, zag het, en zei niets. Hij liet me doen.
 
 Toen ik opstond, deed hij een stap. De laars bleef dicht.
 

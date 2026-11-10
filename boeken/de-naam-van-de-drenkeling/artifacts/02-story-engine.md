@@ -36,8 +36,8 @@ Regels die het boek nooit mag breken. De auditor toetst ze in fase 4.
 2. **Tijdlijn van de graaf.**
    - tot 27 februari 1784: leven aan de hoven; 'dood' in Eckernförde
    - sprong naar 1838 (Engeland); leest Pym (juli 1838), noteert de naam Richard Parker als merkwaardigheid
-   - 1838 – begin mei 1884: lineair geleefd in Engeland
-   - sprong naar december 1884: leest het procesverslag van R. v. Dudley and Stephens, herkent de naam, ziet dat hij zelf niet in de stukken staat
+   - 1838 – 18 mei 1884: lineair geleefd in Engeland; op 9 mei leest hij het krantenbericht en twijfelt negen dagen
+   - in de nacht van 18 mei sprong naar december 1884: leest het procesverslag van R. v. Dudley and Stephens, herkent de naam, ziet dat hij zelf niet in de stukken staat
    - sprong terug naar 19 mei 1884 (overgeslagen dag): de kade van Southampton
    - 19 mei – 24/25 juli 1884: de reis en de sloep; springt weg in de nacht van 24 op 25 juli
    - sprong naar 1837, New York: Poe
@@ -46,7 +46,7 @@ Regels die het boek nooit mag breken. De auditor toetst ze in fase 4.
 3. **Het opnieuw-proberen-probleem.** 'Waarom probeer je het morgen niet opnieuw?' wordt beantwoord door regel 1: elke ontmoeting met Richard is eenmalig. Een mislukte poging is definitief verbruikt.
 4. **Onzichtbaarheid in de bronnen.** De archieven noemen vier opvarenden. De graaf staat niet op de bemanningslijst (passagier zonder papieren, door Dudley aangenomen voor geld) en springt weg uit de sloep in de nacht vóór Richards dood. De drie overlevenden zwijgen over hem. Hij weet vóór vertrek al dat hij niet in de stukken zal staan.
 5. **De geschiedenis verandert niet.** Richard sterft zoals de bronnen zeggen. Wat verandert, is wat hij wist, zei en koos.
-6. **Kennisgrenzen.** Richard kent de namen en de datum pas vanaf het middenpunt (4 juli). Poe kent de naam pas vanaf de graaf. Niemand aan boord weet van de sprongregel.
+6. **Kennisgrenzen.** Richard kent de datum en het ongeveer-uur van de ondergang sinds de kade (hfst. 3). De namen en zijn eigen sterfdatum kent hij pas vanaf het middenpunt (4 juli). Poe kent de naam pas vanaf de graaf. Niemand aan boord weet van de sprongregel.
 
 ## Reeks
 
