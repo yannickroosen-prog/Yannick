@@ -193,3 +193,15 @@
 - Hfst. 1 en het slot (het doorgestreepte 'Dank u') blijven ongewijzigd.
 - Nieuw revisiepunt in `work/revisie-notities.md`: Richard doorziet de graaf aan het einde mogelijk één keer te vaak.
 - Volgende stap: fase 4, de adversariële audit, als de auteur akkoord gaat.
+
+## 10 november 2026 — fase 4: adversariële audit
+
+- Auditor: één geïsoleerde subagent, dezelfde modelfamilie (graad B). Pakket: `work/audit-packet/`, met het manuscript, het plan zonder brief-check-register, de normen en de beslissingen van de auteur na de outline. Geen panelverdicten, scores of revisienotities.
+- Rapport letterlijk bewaard in `artifacts/10-adversarial-audit.md`. **audit_status: revise.**
+- Tickets: 28 in totaal, waarvan 4 hoog, 12 middel en 12 laag.
+- Hoge tickets:
+  - T-01: de sprongregel laat 10-18 mei 1884 open;
+  - T-02: de herkenningszin in hfst. 21;
+  - T-03: een vroeg 'Gij' in hfst. 3;
+  - T-04: de verdeling van de structuur en de beats.
+- Volgende stap: keuze van de auteur over de eerste revisiebatch.

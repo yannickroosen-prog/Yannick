@@ -17,7 +17,7 @@ project:
 collaboration:
   mode: "check-in"
   waiting_for_author: true
-  pending_checkpoint: "Auteur heeft de eerste versie gelezen; volgende stap fase 4 (audit), op akkoord van de auteur"
+  pending_checkpoint: "Fase 4 klaar (audit_status: revise, 4 hoog / 12 middel / 12 laag); keuze van de auteur over de revisie"
 
 independence:
   level: "isolated subagents, same model family"
@@ -28,8 +28,8 @@ independence:
   notes: "Geen tweede modelfamilie geïnstalleerd in deze sessie. Lezers draaien als aparte subagents zonder toegang tot plan of scores."
 
 pipeline:
-  current_phase: "Phase 3: Drafting"
-  current_gate: "drafting"
+  current_phase: "Phase 4: Adversarial Audit"
+  current_gate: "adversarial_audit"
   status: "awaiting_author"
   panel_passes: 0
   rubric_passes: 0
@@ -47,7 +47,7 @@ gates:
   foundation: "passed"
   architecture: "passed"
   drafting: "first_draft_complete"
-  adversarial_audit: "pending"
+  adversarial_audit: "revise"
   revision_loop: "pending"
   final_score: "pending"
   editorial_package: "pending"
