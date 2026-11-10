@@ -64,7 +64,7 @@ Richard kon niet antwoorden. Hij lag op zijn rug en lachte naar de witte lucht.
 
 Ik lachte.
 
-Ik schrijf het op omdat het waar is. Ik zat op mijn kist met een boek op mijn knie en ik lachte, zo dat het boek van mijn knie viel en ik het niet opraapte. Ik weet niet wanneer ik daarvoor zo gelachen had. Aan het hof lachte je om wat iemand zei, of om wie iemand belachelijk maakte, en je lachte altijd een beetje minder dan je wilde, voor het geval dat. Ik lachte om een matroos die met zijn ellebogen op een sloep sloeg en een jongen die op zijn rug lag. Ik lachte zonder voor het geval dat.
+Ik zat op mijn kist met een boek op mijn knie en ik lachte, zo dat het boek van mijn knie viel en ik het niet opraapte. Ik weet niet wanneer ik daarvoor zo gelachen had. Aan het hof lachte je om wat iemand zei, of om wie iemand belachelijk maakte, en je lachte altijd een beetje minder dan je wilde, voor het geval dat. Ik lachte om een matroos die met zijn ellebogen op een sloep sloeg en een jongen die op zijn rug lag. Ik lachte zonder voor het geval dat.
 
 Stephens, in de schaduw van het zeil, keek naar ons alle drie. Hij schreef niets op.
 

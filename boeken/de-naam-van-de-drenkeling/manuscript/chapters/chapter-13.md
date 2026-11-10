@@ -100,7 +100,7 @@ Brooks was gevallen. Hij lag bij de mast, op het natte hout, met een been onder 
 
 Richard stond twee meter van hem. Hij had de kruik tegen zijn borst. Hij keek naar Brooks.
 
-Ik weet niet hoe lang hij keek. Het was niet lang. Het was lang genoeg om te kiezen. Hij hield de kruik in zijn linkerarm en stak zijn rechterhand naar Brooks uit, en Brooks greep die hand niet, omdat hij met beide handen moest steunen, en Richard zag dat. Hij liet de kruik los. Hij liet haar gewoon los, zoals je iets loslaat wat je niet meer nodig hebt. Ze viel op het dek en rolde weg met de helling, naar de reling, en over de reling. Ik zag haar niet meer.
+Ik weet niet hoe lang hij keek. Het was lang genoeg om te kiezen. Hij hield de kruik in zijn linkerarm en stak zijn rechterhand naar Brooks uit, en Brooks greep die hand niet, omdat hij met beide handen moest steunen, en Richard zag dat. Hij liet de kruik los. Hij liet haar gewoon los, zoals je iets loslaat wat je niet meer nodig hebt. Ze viel op het dek en rolde weg met de helling, naar de reling, en over de reling. Ik zag haar niet meer.
 
 Richard greep Brooks onder zijn oksels en trok. Brooks kwam los. Het been kwam onder de lijn vandaan. Ze stonden allebei rechtop, tot hun middel in het water, en ze keken elkaar niet aan. Ze liepen naar de sloep.
 
@@ -116,7 +116,7 @@ Wij zaten in de sloep. Ze was vier meter lang en we zaten er met vijf in, tot op
 
 Ik had kunnen gaan.
 
-Ik schrijf het op omdat het waar was, op dat moment, en daarna nog twintig dagen. Ik had alleen maar op te staan. Niemand had het gezien. In het water had een man kunnen verdwijnen en niemand had zich afgevraagd waar.
+Dat was waar, op dat moment, en daarna nog twintig dagen. Ik had alleen maar op te staan. Niemand had het gezien. In het water had een man kunnen verdwijnen en niemand had zich afgevraagd waar.
 
 Ik bleef zitten.
 

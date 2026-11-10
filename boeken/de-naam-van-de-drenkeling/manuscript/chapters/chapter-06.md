@@ -66,7 +66,7 @@ Toen keek hij me aan, met de brief onder zijn hand op zijn knie, en hij zei het.
 
 ---
 
-Hij zei het niet kwaad. Dat moet hier staan, omdat ik het later kwaad heb verteld, en omdat ik het kwaad heb onthouden, en omdat het niet kwaad was. Hij zei het zoals je iemand iets voorstelt wat zo voor de hand ligt dat je je afvraagt waarom hij er zelf niet op gekomen is. Wie zegt dat een viool vals staat, mag ze zelf stemmen.
+Hij zei het niet kwaad. Dat moet hier staan, omdat ik het later kwaad heb verteld, en omdat ik het kwaad heb onthouden, en omdat het niet kwaad was. Hij zei het zoals je iemand iets voorstelt wat zo voor de hand ligt dat je je afvraagt waarom hij er zelf niet op gekomen is.
 
 Ik heb in mijn leven veel vragen gekregen die ik niet wilde beantwoorden. Ik heb de meeste ontweken. Ik heb er een paar beantwoord met een leugen, en een paar met een grap, en één met een sprong naar een andere eeuw. Op deze vraag had ik geen van die drie. Ik had zesenveertig jaar zijn naam in een tabaksdoos bewaard, ik had in december zijn dood gelezen, en ik had geen moment bedacht dat ik zelf in die sloep zou kunnen zitten. Ik had me altijd ergens anders voorgesteld. Op de kade. In de leeskamer. Op een veilige afstand, met een blad papier.
 

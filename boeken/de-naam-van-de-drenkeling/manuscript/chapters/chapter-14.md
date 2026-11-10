@@ -82,8 +82,6 @@ Ik zei niets.
 
 Ik weet niet hoe lang we zo hebben gezeten. Ik weet dat ik op een gegeven moment mijn hand op zijn haar heb gelegd, en dat hij het liet gebeuren, en dat ik mijn hand er heb laten liggen tot hij sliep. Zijn haar was stijf van het zout. Het voelde als het touw dat hij op de kade over mijn vinger had gelegd.
 
-*Ik heb jarenlang gedacht dat hij zweeg om zichzelf te sparen. Hier staat wat hij zei. Hij spaarde hen.*
-
 ---
 
 Op de vijfde dag vroeg Brooks me wie ik was.
@@ -92,16 +90,14 @@ Hij vroeg het in de middag, toen de zon recht boven ons stond en niemand nog de 
 
 'Gij,' zei hij. 'Wie zijt ge eigenlijk?'
 
-Ik heb in mijn leven op die vraag veel antwoorden gegeven. Ik gaf hem dat ene dat ik nog nooit had gegeven.
+Ik gaf hem het ene antwoord dat ik nog nooit had gegeven.
 
 'Ik ben de graaf van Saint-Germain,' zei ik. 'Ik ben in 1784 in Eckernförde gestorven. Ik heb de vijfde juli in de krant van december gelezen. Ik ben gekomen om de jongen van boord te houden, en dat is me niet gelukt.'
 
-Brooks keek me aan. Zijn lippen waren gebarsten en zijn ogen waren rood van het zout. Hij keek een hele tijd. Toen begon hij te lachen. Het was niet de lach van de kroeg, die door de hele ruimte was gerold. Het was een droge, korte lach, die pijn deed aan zijn lippen, en hij lachte toch.
+Brooks keek me aan. Zijn lippen waren gebarsten en zijn ogen waren rood van het zout. Hij keek een hele tijd. Toen begon hij te lachen. Het was een droge, korte lach, die pijn deed aan zijn lippen, en hij lachte toch.
 
 'De rare,' zei hij. 'Gij zijt echt een rare.'
 
 Hij draaide zich weer om. Hij lachte nog een keer, zacht, tegen het water.
 
 Dudley keek op van zijn riem. Stephens keek op van zijn boekje. Richard, naast me, keek niet op. Hij had zijn ogen dicht. Ik zag zijn mond. Ik geloof dat hij glimlachte.
-
-*Het was de laatste keer dat ik Brooks heb horen lachen. Ik heb het niet geteld. Ik weet het omdat ik daarna heb gewacht op een volgende keer.*

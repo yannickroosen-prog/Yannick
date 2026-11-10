@@ -2,7 +2,7 @@
 
 *Dezelfde dag, kwart over één.*
 
-Om naar Itchen te gaan, neem je de drijvende brug. Het is geen brug. Het is een platte boot die aan twee kettingen over de rivier wordt getrokken, met een stoommachine in het midden die rookt en hijgt, en op het dek staan karren, paarden, vrouwen met manden en mannen die niet willen betalen. Het kost een halve penny. Richard betaalde voor zichzelf. Ik betaalde voor mezelf. Hij keek niet of ik betaalde.
+Om naar Itchen te gaan, neem je de drijvende brug. Dat is een platte boot die aan twee kettingen over de rivier wordt getrokken, met een stoommachine in het midden die rookt en hijgt, en op het dek staan karren, paarden, vrouwen met manden en mannen die niet willen betalen. Het kost een halve penny. Richard betaalde voor zichzelf. Ik betaalde voor mezelf. Hij keek niet of ik betaalde.
 
 We stonden aan de reling. Het water van de Itchen was bruin en draaide in kolken rond de kettingen. Hij keek ernaar, en ik keek naar hem, en ik weet nog dat ik dacht dat hij misschien zou zeggen dat hij niet kon zwemmen. Dat had ik gelezen in een van de knipsels, over een andere Richard Parker, en ik had het jaren met deze verward. Hij zei niets over zwemmen. Hij zei dat het paard naast ons hoefijzers had van twee verschillende smeden, en dat je dat kon horen.
 
@@ -112,7 +112,7 @@ Ik schreef hem aan de inspecteur van de havenpolitie, op papier van de Dolphin, 
 
 Het horloge zat in mijn vestzak. Ik voelde het tikken tegen mijn ribben, twee minuten per week voor.
 
-Ik schreef de brief zonder doorhalingen. Dat is me in mijn leven zelden gelukt. Een leugen schrijft altijd gemakkelijker dan een waarschuwing, omdat je bij een leugen weet wat de ander moet geloven, en bij een waarschuwing niet.
+Ik schreef de brief zonder doorhalingen. Dat is me in mijn leven zelden gelukt.
 
 Ik vouwde hem, verzegelde hem met de was van de schrijftafel van de Dolphin, en legde hem op het bed naast het boek. Een jongen in een cel vaart niet uit. Een jongen in een cel wordt na drie dagen vrijgelaten omdat het horloge in zijn zak niet te vinden is, en de heer die de klacht indiende, is vertrokken zonder adres. Een jongen in een cel is een week later boos, en in september nog in leven.
 

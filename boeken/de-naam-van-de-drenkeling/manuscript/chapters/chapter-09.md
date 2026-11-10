@@ -46,7 +46,7 @@ Hij klom snel, de eerste meters. Hij greep de ringen en trok zich op en zette zi
 
 Toen hoorde ik hem lachen.
 
-Ik dacht eerst dat het Brooks was. Het was niet Brooks. Het kwam van boven, uit de regen, van een jongen die met zijn armen om een mast hing. Het was niet de lach van de binnenplaats en niet de lach van het roer. Het was een hoge, korte lach die steeds opnieuw begon, zoals een ketting die van een windas loopt en niet meer te stoppen is. Hij klom verder. Hij lachte. Hij bereikte het blok en zette zijn knie op de klampen en wrikte met beide handen aan de val, en lachte, en ik zag zijn schouders schokken en ik dacht: hij gaat vallen omdat hij lacht.
+Ik dacht eerst dat het Brooks was. Het was niet Brooks. Het kwam van boven, uit de regen, van een jongen die met zijn armen om een mast hing. Het was een hoge, korte lach die steeds opnieuw begon, zoals een ketting die van een windas loopt en niet meer te stoppen is. Hij klom verder. Hij lachte. Hij bereikte het blok en zette zijn knie op de klampen en wrikte met beide handen aan de val, en lachte, en ik zag zijn schouders schokken en ik dacht: hij gaat vallen omdat hij lacht.
 
 De val schoot los. Het zeil kwam met een klap recht. Brooks juichte.
 
@@ -54,7 +54,7 @@ Richard kwam naar beneden. Hij kwam trager dan hij naar boven was gegaan, voet n
 
 Brooks liep naar hem toe. Hij zei niets. Hij legde zijn grote hand op Richards nek en hield hem daar, zoals je een paard vasthoudt dat geschrokken is, tot het lachen ophield. Het duurde lang. Het hield op. Richard veegde zijn gezicht af met zijn mouw, wat niets hielp, en raapte zijn emmer op.
 
-'Goed gedaan, jongen,' zei Dudley van achter het roer. Hij meende het. Ik hoorde dat hij het meende. Hij was trots op hem.
+'Goed gedaan, jongen,' zei Dudley van achter het roer.
 
 *Hier heb ik oorspronkelijk geschreven dat Richard lachte omdat hij het een avontuur vond. Ik heb dat die nacht nog doorgestreept. Ik wist het al toen ik het schreef. Ik wilde alleen dat het waar was.*
 
@@ -64,11 +64,9 @@ Ik ging naar beneden. Ik ging aan de tafel in de kajuit zitten, alleen, met de l
 
 Voor zijn bestwil.
 
-Ik had die woorden niet gebruikt. Niet hardop. Maar ik had ze geschreven, op papier van de Dolphin, in een brief die nu in stukken in de haven van Southampton lag. Een jongen in een cel vaart niet uit. Een jongen in een cel is boos en in september nog in leven. Ik had over zijn leven beslist zoals Dudley die avond over de mast had beslist: met de zekerheid van een man die weet wat goed is voor een jongen en die het niet hoeft te vragen.
+Ik had die woorden niet gebruikt. Niet hardop. Maar ik had ze geschreven, op papier van de Dolphin, in een brief die nu in stukken in de haven van Southampton lag. Een jongen in een cel vaart niet uit. Een jongen in een cel is boos en in september nog in leven.
 
 In Southampton, toen Dudley Richard zijn beste aanwinst had genoemd, had ik een stem herkend en niet geweten waarvan. Ik wist het nu. Het was de stem waarin ik die brief had geschreven. Hij klonk hetzelfde, ook al had ik hem nooit hardop horen klinken.
-
-Er is een verschil. Dudley stuurde Richard de mast in en wachtte onderaan. Ik had hem in een cel willen stoppen en in een rijtuig willen zitten wanneer het gebeurde. Ik weet niet of dat verschil in mijn voordeel is.
 
 ---
 

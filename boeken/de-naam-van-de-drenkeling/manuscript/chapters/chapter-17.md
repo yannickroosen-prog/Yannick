@@ -2,7 +2,7 @@
 
 De nachten werden koud. Overdag stond de zon op ons zonder dat er iets tussen zat, en we lagen in de bodem van de sloep met onze jassen over ons hoofd. 's Nachts kwam de kou uit het water omhoog, door het dunne hout, en ging in onze botten zitten, en niemand sliep meer dan een uur aan één stuk.
 
-Richard had het het koudst. Hij was het magerst, en hij was ziek geweest, en hij was nog altijd ziek, op een stillere manier: hij lag meer dan hij zat, en als hij praatte, deed hij het zacht, en hij at niet meer wat Dudley hem gaf, maar gaf het door aan Brooks, die het teruggaf, en dan at hij het toch. Hij rilde. Ik voelde het door mijn knie, waar zijn hoofd lag. Het was geen rillen zoals bij koorts. Het was een rillen van iemand die het niet meer warm kan krijgen.
+Richard had het het koudst. Hij was het magerst, en hij was ziek geweest, en hij was nog altijd ziek, op een stillere manier: hij lag meer dan hij zat, en als hij praatte, deed hij het zacht, en hij at niet meer wat Dudley hem gaf, maar gaf het door aan Brooks, die het teruggaf, en dan at hij het toch. Hij rilde. Ik voelde het door mijn knie, waar zijn hoofd lag. Hij rilde als iemand die het niet meer warm kan krijgen.
 
 Ik trok mijn jas uit en legde ze over hem. Ze was nat. Het hielp niet.
 
@@ -18,7 +18,7 @@ Toen het hemd over zijn schouders viel, rook ik het.
 
 ---
 
-Het was de geur van warm linnen. Niet van mijn hemd, dat naar zout rook en naar mij. Het was de geur die opstijgt van linnen dat lang bij een vuur heeft gehangen, en dat iemand van de stoel neemt en uitschudt en over je schouders legt. Het is een droge, lichte geur, een beetje als brood en een beetje als zon op een muur.
+Het was de geur die opstijgt van linnen dat lang bij een vuur heeft gehangen, en dat iemand van de stoel neemt en uitschudt en over je schouders legt. Het is een droge, lichte geur, een beetje als brood en een beetje als zon op een muur.
 
 Ik zat in een keuken.
 
@@ -50,6 +50,4 @@ Hij keek me aan. Het was donker, en ik kon zijn gezicht niet zien, alleen het wi
 
 Hij leek erover na te denken. Toen legde hij zijn hoofd weer op mijn knie.
 
-'Dat is de eerste keer,' zei hij, 'dat ge dat zegt.'
-
-Ik zat de hele nacht zonder hemd. Ik heb het niet koud gehad. Dat is niet waar. Ik heb het de hele nacht koud gehad, en het kon me niet schelen.
+Ik zat de hele nacht zonder hemd. Ik heb het niet koud gehad. Dat is niet waar.

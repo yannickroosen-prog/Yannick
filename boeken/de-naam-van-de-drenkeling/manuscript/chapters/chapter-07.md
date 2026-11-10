@@ -24,7 +24,7 @@ Dat moet hier staan. Op de kade had hij me gevraagd mee te komen, en aan boord d
 
 Ik had verwacht dat hij me iets zou vragen. Over de golf. Over de vijfde juli. Over hoe ik het wist. Hij vroeg niets. Hij had het me op de binnenplaats bij Hutchings gevraagd, en hij had mijn antwoord gekregen, en hij had besloten wat hij ervan dacht, en daarmee was het voor hem afgedaan.
 
-*Ik heb dat jarenlang uitgelegd als koppigheid. Ik weet nu niet meer of het dat was. Hij had me meegenomen. Hij had geen enkele reden om er daarna nog over te praten. Hij had zijn vraag gesteld en ik had haar beantwoord door aan boord te gaan.*
+*Ik heb dat lang koppigheid genoemd. Ik weet nu niet meer of het dat was. Hij had me meegenomen. Hij had geen enkele reden om er daarna nog over te praten. Hij had zijn vraag gesteld en ik had haar beantwoord door aan boord te gaan.*
 
 ---
 

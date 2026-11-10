@@ -71,7 +71,7 @@ Vergelijkingsmateriaal: er is nog geen comp-bewijs. Ik heb geen leesfragmenten g
 - *Als hij liegt:* hij wordt preciezer, met meer getallen.
 
 **Zegt nooit**
-- 'Ik weet het niet'. Hij zegt het voor het eerst hardop in hfst. 17, tegen Richard ('Dat is de eerste keer dat ge dat zegt'), en schrijft het op in hfst. 22. In hfst. 13 ontwijkt hij de vraag ('Het is drie uur').
+- 'Ik weet het niet'. Hij zegt het voor het eerst hardop in hfst. 17, tegen Richard ('Ge weet het niet,' zegt Richard, en laat het liggen), en schrijft het op in hfst. 22. In hfst. 13 ontwijkt hij de vraag ('Het is drie uur').
 - Vloeken. Die zijn voor hem vulgair.
 - 'Vertrouw me'. Hij weet wat dat waard is.
 - Richards naam tegen anderen, behalve tegen Poe.

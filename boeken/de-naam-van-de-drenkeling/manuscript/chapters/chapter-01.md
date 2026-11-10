@@ -46,9 +46,9 @@ Het was een eenvoudige knoop, een halve steek, die hij over mijn vinger heen aan
 
 'Waarom vanavond?'
 
-Hij keek me opnieuw aan, nu met iets dat geen oordeel meer was maar nieuwsgierigheid, en ik zag dat het de vraag was die hem nieuwsgierig maakte en niet ik.
+Hij keek me opnieuw aan, nu nieuwsgierig. Ik zag dat het de vraag was die hem nieuwsgierig maakte.
 
-'Ge zijt geen zeeman.'
+'Dat weet iedereen hier,' zei hij. 'Ge zijt geen zeeman.'
 
 'Nee.'
 
@@ -78,9 +78,9 @@ Hij heette Richard. Hij zei dat hij Dick heette voor wie het mocht zeggen, en da
 
 Hij keek me aan alsof dat het vreemdste was wat ik tot dan toe gezegd had. Ik denk dat het dat ook was. Niemand op die kade had die ochtend de tijd. Achter ons werd een kolenschip gelost, met een lier die bij elke draai een kreet gaf alsof iemand hem pijn deed, en mannen met zwarte gezichten liepen met manden over een plank die doorboog. Een vrouw riep vanuit een raam een naam die niemand beantwoordde. Een jongen van een jaar of tien liep langs met een emmer paling en bood ons er een aan, en Richard schudde zijn hoofd, en ik schudde mijn hoofd, en de jongen met de paling keek van de een naar de ander alsof hij niet begreep wat wij met elkaar te maken hadden.
 
-Dat begreep ik ook niet. Ik wist het, maar ik begreep het niet.
+Dat begreep ik ook niet.
 
-*Hier staat 'ik wist het'. Ik schrijf deze kanttekening jaren later en wil eraan toevoegen wat ik toen wist: een naam, een leeftijd, een datum, en de naam van het mes. Wat ik niet wist: dat hij misselijk werd bij een deining van achteren. Ik heb dat zinnetje later vaker teruggelezen dan het verslag van zijn dood.*
+*Wat ik toen wist: een naam, een leeftijd, een datum, en de naam van het mes. Wat ik niet wist: dat hij misselijk werd bij een deining van achteren. Ik heb dat zinnetje later vaker teruggelezen dan het verslag van zijn dood.*
 
 ---
 
@@ -100,15 +100,15 @@ Ik keek. Ik had haar al gezien, toen ik over de kade kwam, en ik had niet gekeke
 
 'Alles.'
 
-Hij zei het met iets in zijn stem wat ik later bij hem alleen nog heb gehoord als hij over een matroos sprak die ik die ochtend nog niet kende, of over brood. Ik weet geen woord voor dat iets. Het was trots, maar trots op een ander. Ik schreef het die avond op als bewondering. Ik heb het daarna doorgestreept en er niets voor in de plaats geschreven.
+Hij zei het met iets in zijn stem wat ik later bij hem alleen nog heb gehoord als hij over een matroos sprak die ik die ochtend nog niet kende, of over brood. Ik weet geen woord voor dat iets. Ik schreef het die avond op als bewondering. Ik heb het daarna doorgestreept en er niets voor in de plaats geschreven.
 
 ---
 
 Om zeven uur moest hij gaan. Hij zei het drie keer, en drie keer bleef hij zitten.
 
-Ik had nog niets gezegd. Ik merkte dat op, ergens rond half zeven, zoals je merkt dat je de hele tijd op je adem hebt gelet en daardoor vergeten bent te ademen. De waarschuwing zat in mijn borstzak, opgeschreven op een blad uit een hotel in de Strand, met drie doorhalingen en een verbetering in de marge. Ik had haar uit het hoofd geleerd. Ik voelde haar tegen mijn ribben als een kaart die je niet durft uit te spelen, omdat je weet dat het de enige troef is die je nog hebt.
+Ik had nog niets gezegd. Ik merkte dat op, ergens rond half zeven, zoals je merkt dat je de hele tijd op je adem hebt gelet en daardoor vergeten bent te ademen. De waarschuwing zat in mijn borstzak, opgeschreven op een blad uit een hotel in de Strand, met drie doorhalingen en een verbetering in de marge. Ik had haar uit het hoofd geleerd. Ik voelde haar tegen mijn ribben.
 
-Het is niet zo dat ik hem niet kon zeggen dat zijn schip zou vergaan. Ik heb in mijn leven aan mensen dingen gezegd die erger waren. Ik heb een hertogin verteld dat haar zoon niet van haar man was, met de man in de kamer. Ik heb een koopman in Amsterdam gezegd dat zijn vloot op de rede van Texel lag te branden, en dat was waar, en ik zei het met een glimlach omdat hij mij geld schuldig was. Ik kan slechte tijding brengen. Het is een vak.
+Ik kon hem zeggen dat zijn schip zou vergaan. Ik had vaker slecht nieuws gebracht, en ik deed het goed.
 
 Maar die jongen zat op een meerpaal met een laars die tot vanavond moest houden. Hij had me een knoop gegeven om vast te houden. Hij had me gezegd dat de vrouw in Itchen slecht kookte en goed voor hem was. Hij had me alles gezegd wat er in zijn zak zat, en ik had nog niets uit de mijne gehaald.
 
@@ -130,7 +130,7 @@ Ik zei ja. Hij wachtte of er meer kwam. Er kwam niet meer. Hij haalde zijn schou
 
 ---
 
-Toen hij stond, zag ik dat het touw te kort was. Ik had het al gezegd, en ik zag het nu pas echt: het reepje lijn liep door de bovenste drie gaten en was daar in een halve steek vastgezet, maar de onderste gaten waren leeg, en bij elke stap opende de laars zich een vingerbreed aan de neus en sloot zich weer, met een klein geluid, zoals een mond die iets wil zeggen en het niet doet.
+Toen hij stond, zag ik dat het touw te kort was. Ik had het al gezegd, en ik zag het nu pas echt: het reepje lijn liep door de bovenste drie gaten en was daar in een halve steek vastgezet, maar de onderste gaten waren leeg, en bij elke stap opende de laars zich een vingerbreed aan de neus en sloot zich weer, met een klein geluid.
 
 Ik haalde mijn zakdoek uit mijn borstzak. Het blad uit het hotel in de Strand kwam mee en viel op de kade, met de beschreven kant naar beneden, in een plas. Ik liet het liggen. Dat is de enige waarschuwing die ik die ochtend heb gegeven: ik heb haar laten liggen.
 

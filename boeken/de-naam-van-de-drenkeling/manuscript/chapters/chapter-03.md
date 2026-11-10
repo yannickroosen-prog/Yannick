@@ -70,7 +70,7 @@ Hij zei het met zo'n onschuldig gezicht dat ik even dacht dat hij het meende. To
 
 'Als het zinkt,' zei hij, 'wil ik tenminste twee goede laarzen.'
 
-*Hier staat dat hij lachte. Ik heb dit jarenlang verteld als het moment dat hij mij niet geloofde. Ik weet nu niet meer zeker of hij mij niet geloofde. Hij heeft die zool die ochtend met eenentwintig steken vastgezet. Ik heb ze geteld. Een jongen die niet gelooft dat hij gaat zwemmen, zet er twaalf.*
+*Ik heb dit vaak verteld als het moment dat hij mij niet geloofde. Ik ben er niet meer zeker van. Hij heeft die zool die ochtend met eenentwintig steken vastgezet. Ik heb ze geteld. Een jongen die niet gelooft dat hij gaat zwemmen, zet er twaalf.*
 
 ---
 

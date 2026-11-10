@@ -26,7 +26,7 @@ In de eerste week van augustus 1838 kocht ik bij een boekhandelaar in Paternoste
 
 In het boek kapseist een schip. Vier mannen blijven over op het wrak. Er is geen eten. Een van hen, Richard Parker, stelt voor dat ze loten trekken over wie van hen de anderen in leven zal houden. Ze trekken loten. Parker trekt het kortste strootje. Ze eten hem.
 
-Ik heb in mijn leven veel boeken gelezen waarin mensen elkaar dingen aandoen, en dit was niet het ergste. Wat me bijbleef, was iets kleins. Het was dat de man die het voorstelde, ook de man was die het lot trof. De schrijver had dat zo laten gebeuren, en hij had er geen woord over gezegd. Hij liet het liggen, zoals je een munt op een tafel laat liggen om te zien wie hem oppakt.
+Ik heb veel boeken gelezen waarin mensen elkaar dingen aandoen, en dit was niet het ergste. Wat me bijbleef, was iets kleins. Het was dat de man die het voorstelde, ook de man was die het lot trof. De schrijver had dat zo laten gebeuren, en hij had er geen woord over gezegd. Hij liet het liggen, zoals je een munt op een tafel laat liggen om te zien wie hem oppakt.
 
 Ik schreef de naam in mijn notitieboek. Richard Parker. Merkwaardig. Ik weet nog dat ik dat woord eronder zette, en dat ik het daarna onderstreepte, en dat ik niet wist waarom.
 
@@ -68,7 +68,7 @@ De kapitein kwam uit de kajuit. Hij was kleiner dan ik had gedacht en breder. Hi
 
 'Kan ik u helpen?' riep hij.
 
-Ik heb in mijn leven geleerd dat je nooit moet aarzelen wanneer iemand je dat vraagt. Wie aarzelt, krijgt de deur te zien.
+Ik aarzelde niet.
 
 'Ik bewonder uw schip,' zei ik.
 

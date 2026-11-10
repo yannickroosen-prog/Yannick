@@ -211,3 +211,8 @@
 - Zie `evaluations/revision-pass-1.md`. Twaalf hoofdstukken herzien en canoniek gemaakt.
 - T-04 is gesloten als auteurskeuze.
 - Nieuw totaal: 35.702 woorden.
+
+## 10 november 2026 — revisie, ronde 2 (stijl)
+
+- Zie `evaluations/revision-pass-2.md`. 16 hoofdstukken herzien; nieuw totaal 34.945 woorden.
+- Hfst. 17: 'Dat is de eerste keer dat ge dat zegt' geschrapt; dat was de keuze tussen hfst. 15 en 17.

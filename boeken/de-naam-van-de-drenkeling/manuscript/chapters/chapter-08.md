@@ -44,7 +44,7 @@ Hij haalde zijn schouders op in het donker. Ik zag het aan de vorm van zijn jas.
 
 Hij zweeg zo lang dat ik dacht dat hij terug naar het roer zou gaan. Toen zei hij: 'Mijn vader zong. In de werf. Hij zei dat hij een viool zou kopen als hij ooit geld had. Hij had nooit geld.' Hij keek nog altijd naar bakboord. 'Dat is het niet. Dat is wat Brooks zou zeggen. Ik wil er gewoon een.'
 
-Ik heb dat zinnetje onthouden. Ik wil er gewoon een. Het is het eerlijkste wat ik iemand ooit heb horen zeggen over iets wat hij wilde.
+Ik heb dat zinnetje onthouden. Ik wil er gewoon een.
 
 'Ga zitten,' zei ik.
 

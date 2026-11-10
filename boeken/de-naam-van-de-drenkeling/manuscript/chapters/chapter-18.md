@@ -86,7 +86,7 @@ Dudley keek naar Brooks. Toen keek hij naar Stephens. Toen keek hij naar Richard
 
 'De jongen gaat toch dood,' zei hij. 'Kijk naar hem. Hij heeft van de zee gedronken. Hij haalt de week niet.' Hij keek weer naar zijn handen. 'Wij hebben vrouwen. Kinderen. Hij heeft niemand.'
 
-Hij heeft niemand. Ik had die zin eerder gehoord, op de Mignonette, op een ochtend in Southampton, als een van de redenen waarom Dudley hem had gekozen.
+Hij heeft niemand. Ik had die zin eerder gehoord.
 
 Ik sprak.
 
@@ -96,7 +96,7 @@ Ik zei het luid genoeg. Ik zei het zo dat iedereen het hoorde. Dudley keek op. S
 
 'Ik heb niemand,' zei ik. 'Ik heb geen vrouw, geen kinderen, geen huis. Ik sta op geen enkele lijst. Als ik er niet meer ben, mist niemand mij. Neem mij.'
 
-Dudley keek me aan. Hij keek lang. Ik zag iets in zijn gezicht wat ik niet had verwacht. Het was geen opluchting. Het was schaamte, denk ik, maar ik ben er niet zeker van.
+Dudley keek me aan. Hij keek lang. Ik zag iets in zijn gezicht wat ik niet had verwacht. Het was schaamte, denk ik, maar ik ben er niet zeker van.
 
 'Nee,' zei hij.
 
@@ -121,5 +121,3 @@ Hij zei het zacht. Ik denk niet dat de anderen het hoorden. Ik denk dat het alle
 'Omdat ge weg kunt.'
 
 Hij sloot zijn ogen weer.
-
-Ik heb niets gezegd. Hij had gelijk.

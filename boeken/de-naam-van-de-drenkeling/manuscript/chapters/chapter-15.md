@@ -84,9 +84,13 @@ Brooks zei niets.
 
 Brooks dacht na. Ik zag hem nadenken. Ik weet niet of er een winkel was. Ik weet niet of Brooks ooit in Sydney was geweest. Hij heeft het me nooit gezegd, en ik heb het hem nooit gevraagd.
 
-'Van Doyle,' zei Brooks.
+'Van Doyle,' zei Brooks. 'Er is ook een postkantoor. Daar ga ik niet in.'
 
-'Van Doyle.' Richard draaide zijn hoofd op mijn knie. 'Hebt ge dat gehoord? Van Doyle.'
+'Waarom niet?'
+
+'Er ligt toch niks.'
+
+'Van Doyle.' Richard draaide zijn hoofd op mijn knie. 'Hebt ge dat gehoord, meneer? Van Doyle.'
 
 'Ik heb het gehoord.'
 

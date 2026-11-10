@@ -92,7 +92,7 @@ Het brood lag naast mijn soep. Ik had het niet aangeraakt. De vrouw keek ernaar.
 
 Ik keek hem aan.
 
-'Ik schrijf aan een verhaal,' zei hij. 'Over een jongen die naar zee gaat. Er komt een schipbreuk in. Ik had nog geen naam voor de man die...' Hij maakte zijn zin niet af. Hij keek naar zijn schoonmoeder, en naar het meisje bij het vuur. 'Ik had nog geen naam.'
+'Ik schrijf, meneer, al langer dan mij lief is, aan een verhaal over een jongen die naar zee gaat en daar meer vindt dan hij zocht, en er komt, zoals u misschien al vermoedt, een schipbreuk in,' zei hij. 'Ik had nog geen naam voor de man die...' Hij maakte zijn zin niet af. Hij keek naar zijn schoonmoeder, en naar het meisje bij het vuur. 'Ik had nog geen naam.'
 
 Ik had gelezen hoe zijn boek eindigde. Ik droeg het onder het hemd dat hij me had geleend, tegen mijn buik. Ik wist wat hij met die naam zou doen. Ik wist het al zesenveertig jaar.
 
