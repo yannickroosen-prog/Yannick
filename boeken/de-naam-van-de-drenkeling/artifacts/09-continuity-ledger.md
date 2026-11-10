@@ -1,6 +1,6 @@
 # Continuïteitsregister: De naam van de drenkeling
 
-Bijgewerkt na: hoofdstuk 3 (canoniek: hfst. 1-3). De enige tekst die al bestaat, is de proefversie van hoofdstuk 12 (`work/proef-hoofdstuk-12.md`). Die wordt hieronder aangeduid als `proef12`.
+Bijgewerkt na: hoofdstuk 6 (canoniek: hfst. 1-6). De enige tekst die al bestaat, is de proefversie van hoofdstuk 12 (`work/proef-hoofdstuk-12.md`). Die wordt hieronder aangeduid als `proef12`.
 
 Bronnotatie: `plan: <artefact>` geeft aan dat iets alleen gepland is. `proef12 "…"` verwijst naar de proeftekst. `bron: <url>` verwijst naar een historische bron.
 
@@ -70,6 +70,9 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **Locatielog:** hfst. 7-19.
 
 ### C-05 Edmund Brooks, matroos (1846-1919)
+- Uiterlijk: sproeten, rood haar dat al wijkt, handen zo groot dat zijn kroes erin verdwijnt; droge, warme handdruk. ch04 [V]
+- Eerste ontmoeting met de graaf: kroeg aan Town Quay, 19 mei, ±12.25 uur. ch04
+- Belofte: 'Om drie uur aan boord, jong. En leer die tweede strofe.' ch04
 - **Leeftijd:** 38 in 1884 (1884 − 1846 = 38). [H] bron: R v Dudley and Stephens
 - **Zingt het lied van het meisje uit Portsea, benedendeks en zacht.** [V] proef12
 - **Belofte aan Richard:** in Sydney naar de plaats met de vrouw die met haar ellebogen piano speelt, op voorwaarde dat Richard de tweede strofe kent. [V] proef12
@@ -87,6 +90,8 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 ### C-09 De vrouw met het warme hemd
 - Ze heeft geen naam en geen gezicht. 'Ze warmde mijn hemd altijd even bij het vuur. Ook in de zomer.' Ze komt alleen voor in hfst. 17. [V] plan: 02-story-engine
 
+### C-13 Mevrouw Coombs, hospita van Richard in Itchen, achter de werf. Klein en breed, uitgewassen schort; kookt naar ui. Geeft Richard een rond donker brood met karwij en een kruis in de korst. Verkocht de jas van zijn moeder voor 4 shilling. ch05 [V]
+### C-14 Oude vioolspeler in de kroeg aan Town Quay; Duits fabrieksinstrument, scheve kam. ch04 [V]
 ### C-10 Mr. Lyle, agent van een stoomvaartlijn, Canute Road. ch03 [V]
 ### C-11 Hutchings, scheepsleverancier op de hoek van Canute Road. ch03 [V]
 ### C-12 Karel van Hessen, landgraaf, beschermheer in Eckernförde. ch02 [H]
@@ -123,8 +128,8 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **K-04** De graaf staat niet in de stukken.
   - De graaf weet het vóór vertrek (procesverslag).
   - Richard weet het mogelijk uit het dagboek. Open.
-- **K-04a** Richard weet sinds ch03 wat de graaf beweert: ondergang op 5 juli, tegen vijf uur 's morgens, binnen vijf minuten, één sloep. Hij gelooft het niet, of zegt dat hij het niet gelooft.
-- **K-05** Het uur van de golf: tegen vijf uur 's morgens. ch03 [V]. Proef12 en hfst. 13 moeten daarbij passen: 'een uur ervoor' = rond vier uur 's morgens. Richard handelt ernaar (de kruik), dus hij kent het uur ongeveer uit het dagboek.
+- **K-04a** Richard weet sinds ch03 wat de graaf beweert: ondergang op 5 juli, tegen de avond, binnen vijf minuten, één sloep. De graaf kent het uur niet, en Richard betrapt hem daarop: 'Ge zijt een slechte waarzegger.' Hij gelooft het niet, of zegt dat hij het niet gelooft.
+- **K-05** Het uur van de golf: late namiddag of tegen de avond van 5 juli (reconstructies bij Brandeis en University of California Press, aangeleverd door de auteur; nog zelf na te kijken) [H?]. De graaf kent het exacte uur niet (ch03). Proef12 en hfst. 13: Richard gaat op 5 juli na zijn wacht slapen; 'een uur ervoor' = een uur vóór de golf, in de namiddag. Richard handelt ernaar (de kruik), dus hij kent het uur ongeveer uit het dagboek.
   - De graaf weet het. Richard weet het mogelijk; 'een uur ervoor' laat dat open in proef12. In hfst. 13 moet duidelijk worden welk uur de graaf koos.
 - **K-06** Wat er in de wacht gezegd werd.
   - De graaf en Richard weten het.
@@ -133,6 +138,8 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
   - Richard laat hem zien in hfst. 5 en geeft hem in hfst. 19.
   - De lezer krijgt hem te zien in hfst. 21.
   - Poe weet het nooit.
+- **K-09** Richard heeft om 15 uur zijn zak doorzocht omdat de graaf hem had gedragen; Brooks zag het ('Ik zei: mijn knoop'). ch06
+- **K-10** Dudley, Stephens en Brooks weten vanaf ch06 dat de graaf meevaart 'omdat de jongen het gevraagd heeft'. Ze weten niets van de waarschuwing.
 - **K-08** Wie de graaf is.
   - Brooks vraagt het in hfst. 14. De graaf zegt de waarheid, en Brooks gelooft hem niet.
 
@@ -155,13 +162,13 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
   - onder het kussen, met de rug naar de wand (proef12);
   - het procesverslag zit vooraan (proef12);
   - in het Engels geschreven, weergegeven in het Nederlands (ASSUMPTIONS).
-- **O-03 Pym (1838):** de graaf draagt het boek bij zich. In hfst. 5 herleest hij het.
+- **O-03 Pym (1838):** eerste band van de Londense uitgave, rug van groen linnen; altijd in zijn binnenzak. Herlezen in de Dolphin, ch05. In het dagboek staat een bladzijde 'Richard Parker' uit december; de regels 'driest … zal zelf het lot voorstellen' zijn doorgestreept, met één rechte lijn, leesbaar. Daaronder: 'Ik heb het zelf gekozen, mevrouw Coombs. Het is het eerste wat ik zelf gekozen heb.' ch05
 - **O-04 Het brood van Stephens:**
   - hfst. 7: eerste keer;
   - hfst. 12: het laatste stuk wordt toegeschoven;
   - hfst. 14: geen brood meer;
   - hfst. 20: echo bij Maria Clemm.
-- **O-05 De knoop van moeders jas:** hfst. 5 getoond, hfst. 19 gegeven, hfst. 21 verteld. Hoe de graaf de knoop meeneemt bij de sprong: hij draagt hem (W-02).
+- **O-05 De knoop van moeders jas:** groot, zwart, van gedraaid been, vier gaten, een stukje grijze draad. Was de bovenste knoop; zijn moeder naaide hem elke winter opnieuw aan. Richard sneed hem eraf na haar dood. Draagt hem in zijn broekzak. ch05. hfst. 5 getoond, hfst. 19 gegeven, hfst. 21 verteld. Hoe de graaf de knoop meeneemt bij de sprong: hij draagt hem (W-02).
 - **O-06 Dudleys mes:**
   - het maakt nagels schoon (proef12);
   - in de rouwpassage van 05-voice staat 'een mes dat later een ander werk deed'.
@@ -169,12 +176,14 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **O-07 Twee blikken rapen.** [H] hfst. 13.
 - **O-08 De brief aan de havenpolitie:** hfst. 5 geschreven, hfst. 6 verscheurd. [V]
 - **O-09 Vijf pond:** in hfst. 4 aangeboden en teruggelegd. Niet te verwarren met de vier pond voor de viool (hfst. 8 en proef12).
-- **O-10 Zakhorloge uit 1761.** [V] proef12
+- **O-10 Zakhorloge uit 1761:** van Pierre Le Roy; de initialen in de deksel zijn niet die van de graaf. ch05, ch06 [V] proef12
 - **O-11 De drukproef van Pym:** hfst. 21 meegegeven. [V]
+- **O-17 De valse brief (O-08):** op papier van de Dolphin, verzegeld; beschuldigt Richard van diefstal van het horloge; ondertekend 'Jermyn'. Richard leest hem op de meerpaal (ch06). In achten verscheurd boven het water tussen kade en romp; het wapen van de Dolphin dreef het langst. ch06
+- **O-18 Twintig pond:** vijf sovereigns (1871) en drie biljetten van vijf pond, aan Dudley voor de overtocht. ch06
 - **O-14 Het blad met de waarschuwing:** in een plas op de kade achtergelaten, ochtend 19 mei. ch01. Nooit teruggevonden.
 - **O-15 Het briefje van Mr. Lyle:** een plaats als hutjongen naar Lissabon voor woensdag, 18 shilling per maand; de graaf betaalde 5 pond plus 5 pond 8 shilling. Richard geeft het terug. ch03
 - **O-16 De blikken tabaksdoos met knipsels.** ch02
-- **O-12 De kist van zeven shilling.** [V] proef12
+- **O-12 De kist van zeven shilling:** gereedschapskist van Hutchings, grenen, ijzeren hoeken, slot zonder sleutel. Inhoud bij vertrek: de plaathandschoen. ch06 [V] proef12
 - **O-13 De kruik:** klein, van steengoed. Richard vult haar in het uur vóór de golf uit het vat dat niet lekt, en zingt daarbij de strofe. Hij verliest haar wanneer hij een hand vrijmaakt om Brooks overeind te trekken. [V] plan: 07-outline hfst. 13. Gevolg van proef12: 'Hoeveel water past er dan in?'
 
 ## Tijdlijn
@@ -185,7 +194,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 | T-02 | 2 (terugblik) | 1838, Engeland; juli 1838 Pym | — | de naam noteren; het bijgeloof begint (I-01) |
 | T-03 | 2 (terugblik) | 1838 – begin mei 1884 | 46 jaar (1884 − 1838 = 46) | lineair geleefd; knipsels |
 | T-04 | 2 (terugblik) | vrijdag 9 mei 1884: krantenbericht (Southampton) → sprong naar december 1884, leeskamer in de Strand, sneeuwregen; nacht in een hotel aan de Strand | — | procesverslag; vonnis in december 1884 [H?] |
-| T-05 | 1-6 | maandag 19 mei 1884, 5.52 uur tot het avondtij; hfst. 1 tot ±7 uur, hfst. 2 vanaf 7.10, hfst. 3 vanaf 9 uur tot na 12 uur | één dag | vertrekdatum [H]; uur van vertrek [V]. Weekdag: maandag (berekend) |
+| T-05 | 1-6 | maandag 19 mei 1884: hfst. 1 vanaf 5.52 uur; hfst. 2 vanaf 7.10; hfst. 3 vanaf 9 uur; hfst. 4 vanaf 12.25 (kroeg); hfst. 5 vanaf 13.15 (Itchen, om 15 uur aan boord, 16.10 Dolphin); hfst. 6 vanaf 18.40; tij om 20.30; vertrek om 20.37, wind licht uit het noordoosten [V] | één dag | vertrekdatum [H]; uur van vertrek [V]. Weekdag: maandag (berekend) |
 | T-06 | 7-10 | 20 mei – eind juni 1884 | ~6 weken | 'donderdag, denk ik' in hfst. 9; hfst. 10 zonder datum |
 | T-07 | 11 | eind juni – vrijdag 4 juli, 17.10 uur | | de datering keert terug. 4 juli 1884 = vrijdag (berekend) |
 | T-08 | 12 | vrijdag 4 juli, avond, tot ongeveer 20.45 uur | dezelfde dag | proef12 'Kwart voor negen … Ongeveer' |
@@ -219,7 +228,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **TH-01 (groot):** wat vroeg de graaf in de wacht? Geopend in hfst. 1, druk in hfst. 16, gesloten in hfst. 21.
 - **TH-02 (groot):** kan hij Richard redden? Geopend in hfst. 1. Beantwoord met nee in hfst. 12-13 (valse nederlaag).
 - **TH-03 (zijplot):** de viool van vier pond. Hfst. 8 en 12; geen afloop. Bewust: de viool wordt nooit gekocht. In hfst. 22 kan er een echo komen.
-- **TH-04 (zijplot):** de tweede strofe voor Brooks. Hfst. 10 en 12-13. Gesloten in hfst. 13: Richard leert ze in het uur ervoor.
+- **TH-04 (zijplot):** de tweede strofe voor Brooks. Geopend in ch04. Hfst. 10 en 12-13. Gesloten in hfst. 13: Richard zingt ze één keer, met de kruik in zijn handen (ch04: 'op een namiddag in juli, met een kruik in zijn handen'). Bindend.
 - **TH-05 (reeks):** de vrouw met het warme hemd. Geopend in hfst. 17, bewust open.
 - **TH-06 (detail):** het lekkende vat dat Stephens niet aanwijst. Proef12. Afloop: niet nodig. Kan in hfst. 13 terugkomen als het vat dat ze niet meenemen.
 - **TH-07 (detail):** 'een uur ervoor' — waarvoor? Proef12, gesloten in hfst. 13: de strofe én het water.

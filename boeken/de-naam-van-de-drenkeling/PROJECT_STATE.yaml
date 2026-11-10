@@ -7,17 +7,17 @@ project:
   language: "nl-BE"
   genre: "literaire historische roman met tijdreiselement"
   audience: "volwassen lezers van literaire en historische fictie"
-  positioning: "volwaardige roman, boek I van een reeks"
+  positioning: "roman, boek I van een reeks; richtpunt 65.000 woorden"
   series: true
-  target_range_words: "75000-88000"
-  target_floor_words: 75000
-  target_ceiling_words: 88000
+  target_range_words: "richtpunt 65000, geen vloer"
+  target_floor_words: 0
+  target_ceiling_words: 80000
   quality_target: 8.5
 
 collaboration:
   mode: "check-in"
   waiting_for_author: true
-  pending_checkpoint: "Phase 3: na hfst. 3, lengteprojectie en leespanel"
+  pending_checkpoint: "Phase 3: na hfst. 6 (einde deel I) en leespanel hfst. 1"
 
 independence:
   level: "isolated subagents, same model family"
@@ -37,8 +37,8 @@ pipeline:
 manuscript:
   chapter_count_planned: 22
   average_words_per_chapter_planned: 3650
-  completed_chapters: [1, 2, 3]
-  word_count_actual: 6888
+  completed_chapters: [1, 2, 3, 4, 5, 6]
+  word_count_actual: 12456
   length_gate: "pending"
   status: "in_progress"
 
@@ -69,11 +69,14 @@ decisions:
   - "I-01 en I-02 bevestigd; nieuwe openingszin van de auteur."
   - "Hfst. 13: Richard vult een kruik en verliest ze om Brooks te helpen."
   - "Hfst. 19: de knoop is geen toestemming en geen vergeving."
+  - "Lengte (auteur): optie 3, richtpunt 65.000, vloer van 75.000 geschrapt; extra scènes alleen uit keuzes van personages, geen extra storm."
+  - "Golfuur: tegen de avond van 5 juli (auteur, met bronnen); hfst. 3 aangepast."
+  - "Hfst. 2 en 3 eindigen eerder (auteur)."
+  - "Leespanel hfst. 1: vier geïsoleerde subagents, met drie extra vragen van de auteur."
   - "Afwijking van de workflow op vraag van de auteur: proefhoofdstuk 12 vóór fase 2, als werkstuk (work/), niet canoniek; geen paneelronde."
 
 open_questions:
-  - "Lengteprojectie: hfst. 1-3 = 6.888 woorden tegen 10.700 gepland (64%). Bij dit tempo ~50.000 woorden, onder de vloer van 75.000. Herplannen of positioneren als korte roman?"
-  - "Leespanel op hfst. 1 nog niet uitgevoerd (vereist subagents; auteur beslist)."
+  - "Lengte opnieuw bekijken na de eerste dagen in de sloep (hfst. 13-14)."
   - "Lengte staven met paginatellingen van Nederlandstalige comps."
   - "Ritmebewijs uit minstens één Nederlandstalige comp (05-voice.md heeft nog geen comp-bewijs)."
   - "Bronnen nakijken in fase 2: vertrekhaven, data, Montezuma, Peartree Green, Poe Carmine Street."

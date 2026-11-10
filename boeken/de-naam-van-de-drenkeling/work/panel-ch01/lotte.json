@@ -1,0 +1,34 @@
+{
+  "reader": "Lotte, 29",
+  "turn_page": "yes",
+  "stopped_at": {"quote": "Er hing mist op het water, het soort dat 's morgens vroeg uit de Test opstijgt en tegen achten weer wordt teruggezogen, zodat de schepen aan de overkant eerst als ruggen verschijnen en pas later als schepen."},
+  "why_stopped": {"reason": "Na die sterke opening met de sterfdatum kreeg ik ineens mist, natte kousen en een alinea vol mogelijkheden; ik ben gaan scannen tot 'Hij zat op een meerpaal', maar weggelegd had ik het niet."},
+  "remember_tomorrow": [
+    {"quote": "Ik wist het. Ik wist zelfs het uur ongeveer.", "reason": "Daarom koop ik het boek: hij weet dat de jongen doodgaat en zegt niks."},
+    {"quote": "Dat is de enige waarschuwing die ik die ochtend heb gegeven: ik heb haar laten liggen.", "reason": "Het briefje in de plas is het beeld dat blijft hangen."},
+    {"quote": "Ik word misselijk bij een deining van achteren, maar alleen de eerste dag.", "reason": "Klein, droog en meteen echt."}
+  ],
+  "confused_by": [
+    {"quote": "behalve één wacht", "reason": "Ik las eerst 'wachten' en snapte pas later dat het om een scheepswacht gaat, en nog niet welke."},
+    {"quote": "'Zeg,' zei hij, 'als ge toch niks te doen hebt, houd uw vinger efkes op die knoop.'", "reason": "Een Engelse scheepsjongen in Southampton die Vlaams praat haalde me even uit het verhaal."},
+    {"quote": "Hij zei het met iets in zijn stem wat ik later bij hem alleen nog heb gehoord als hij over Brooks sprak, of over brood.", "reason": "Wie is Brooks? Komt uit het niets."}
+  ],
+  "flags": [
+    {"flag": "slow_start", "quote": "Ik had al die mogelijkheden overwogen, zoals je de openingen van een partij overweegt waarvan je het slot al kent."},
+    {"flag": "continuity_doubt", "quote": "'Ge zijt geen zeeman.'"}
+  ],
+  "strongest_passage": {"quote": "Ik herkende hem niet. Dat moet ik eerlijk opschrijven. Ik had zijn naam vaker gelezen dan de namen van mijn eigen vrienden, en ik liep hem voorbij.", "reason": "Hier begint het echt; snel, eerlijk, en je voelt de schok van het omkeren."},
+  "weakest_passage": {"quote": "Ik keek. Ik had haar al gezien, toen ik over de kade kwam, en ik had niet gekeken, omdat ik hem zocht en niet haar.", "reason": "Een hele alinea over hoe klein een boot is, met nog een Versailles-uitstapje; daar sla ik over."},
+  "machine_tells": [
+    {"tell": "contrast door ontkenning", "quote": "Het was trots, maar trots op een ander."},
+    {"tell": "moraal aan het slot van een alinea", "quote": "Ik kan slechte tijding brengen. Het is een vak."},
+    {"tell": "reflexmatig drietal", "quote": "Hij zag mijn jas, die van fluweel was"}
+  ],
+  "felt": {"emotion": "spanning met een knoop in mijn maag", "reason": "Ik wist dat hij doodgaat en zag hem zijn laars repareren 'tot vanavond'."},
+  "auteursvragen": {
+    "wat_wil_richard": {"antwoord": "Zijn laars heel krijgen en op tijd aan boord zijn om naar Sydney te varen voor loon en een goede brief.", "quote": "en dan was Dick in Sydney en had Dick vier maanden loon en een brief van een kapitein waarin stond wat hij kon."},
+    "vertrouwen_graaf": {"richting": "beide", "quote": "Ik heb in mijn leven vier koningen de hand gekust en een paus de voet", "reason": "Hij is eerlijk over zijn falen, maar hij liegt voor de kost en houdt bewust zijn mond."},
+    "vraag_voor_hoofdstuk_2": {"vraag": "Gaat hij vanavond mee kijken en zegt hij het dan alsnog?", "waarom_doorlezen": "de verzwegen wacht", "quote": "Ge kunt meekomen kijken, als ge toch niks te doen hebt."}
+  },
+  "confidence": "medium"
+}

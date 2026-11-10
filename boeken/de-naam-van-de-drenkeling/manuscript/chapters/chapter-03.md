@@ -28,7 +28,7 @@ Ik zei het toen.
 
 Hij keek niet op. Hij duwde de naald door. Het leer gaf een droog geluid.
 
-'De Mignonette,' zei ik. 'Ze kapseist op vijf juli, in de Zuid-Atlantische Oceaan, tegen vijf uur 's morgens. Er komt één golf. Ze zinkt in vijf minuten. Er blijft een sloep over.'
+'De Mignonette,' zei ik. 'Ze kapseist op vijf juli, in de Zuid-Atlantische Oceaan, tegen de avond. Er komt één golf. Ze zinkt in vijf minuten. Er blijft een sloep over.'
 
 Hij trok het pikdraad aan. Hij trok het zo strak dat de zool kreunde. Toen pas keek hij op.
 
@@ -36,15 +36,19 @@ Hij trok het pikdraad aan. Hij trok het zo strak dat de zool kreunde. Toen pas k
 
 'Ja.'
 
-'Tegen vijf uur.'
+'Tegen de avond.'
 
 'Ja.'
 
-'Vijf, vijf en vijf.' Hij lachte, kort, door zijn neus. 'Dat is een goed getal om te onthouden. Hebt ge dat zo gekozen?'
+'Hoe laat?'
 
-'Ik heb het niet gekozen.'
+Ik wist het niet. Ik wist de dag, de golf en de vijf minuten, en ik wist niet hoe laat het was geweest, omdat de mannen die het hadden overleefd het niet hadden geweten.
 
-'Wie dan?'
+'Ge weet de dag, en hoe lang het duurt, en ge weet het uur niet.' Hij lachte, kort, door zijn neus. 'Ge zijt een slechte waarzegger.'
+
+'Ik ben geen waarzegger.'
+
+'Hoe weet ge het dan?'
 
 Ik had daar een antwoord op. Ik had het in het hotel in de Strand voor de spiegel gezegd, en het was het zwakste deel van mijn waarschuwing geweest, en ik had het drie keer doorgestreept en drie keer teruggeschreven. Ik zei het toch.
 
@@ -155,5 +159,3 @@ Hij pakte de plaathandschoen, de zeilnaald en wat er over was van het pikdraad, 
 Hij liep de binnenplaats af, door de winkel, naar Hutchings, om de plaathandschoen terug te brengen voor twaalf uur. Ik hoorde de bel van de deur. Daarna hoorde ik niets meer.
 
 Ik bleef op het natte zeil zitten. Ik had het briefje van Mr. Lyle nog in mijn hand. Het had tien pond en acht shilling gekost. Hutchings kwam een kwartier later naar buiten om te kijken wat ik daar deed, en ik vroeg hem wat een plaathandschoen kostte, en hij zei vier shilling, en ik kocht er een. Ik weet niet waarom. Ik heb hem nog. Ik heb er nooit een steek mee gezet.
-
-*Daniel. Ik had de naam in de stukken kunnen vinden, als ik had gezocht. Ik heb niet gezocht. Ik had alles gelezen over hoe hij stierf en niets over waar hij vandaan kwam. Ik dacht dat dat het belangrijkste was.*

@@ -9,7 +9,7 @@ Elke regel is een afleiding uit het idee. Verbeter wat niet klopt; één antwoor
 - **Herkomst:** oorspronkelijk Nederlandstalig werk, geen vertaling.
 - **Genre:** literaire historische roman met één tijdreiselement (geen sciencefiction, geen fantasy). Afgeleid uit 'literaire tijdreisroman' in het idee.
 - **Segment:** lokaal geschreven literaire fictie, met één zijstap naar vertaalde 'speculatieve literaire' fictie voor de comps.
-- **Lengte (beslist door de auteur, 10-11-2026):** ongeveer 80.000 woorden; contract 75.000 – 88.000. Wijkt bewust af van de Engelse rij (80.000 – 100.000) omdat Nederlandstalige literaire romans korter zijn; nog te staven met paginatellingen van comps.
+- **Lengte (beslist door de auteur):** voorlopig richtpunt 65.000 woorden; de vloer van 75.000 is geschrapt. Extra scènes ontstaan alleen uit keuzes van de personages; geen extra storm. Opnieuw bekijken na de eerste dagen in de sloep.
 - **Hoofdstukken:** 22 hoofdstukken van gemiddeld ongeveer 3.650 woorden. Poe krijgt geen vijfde van het boek maar ongeveer 12%.
 - **Reeks:** ja, boek I van een reeks. Het idee spreekt over 'boek één' en 'zijn uiteindelijke doel in de reeks'.
 

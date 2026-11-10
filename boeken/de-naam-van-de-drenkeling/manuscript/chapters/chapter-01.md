@@ -10,7 +10,7 @@ De naam Richard Parker knipte ik al zesenveertig jaar uit de krant. De jongen ze
 
 Er hing mist op het water, het soort dat 's morgens vroeg uit de Test opstijgt en tegen achten weer wordt teruggezogen, zodat de schepen aan de overkant eerst als ruggen verschijnen en pas later als schepen. De kade was nat. Ik droeg schoenen die ik in Londen had gekocht voor een heel andere gelegenheid, met een dunne zool, en na tien passen voelde ik het water aan mijn kousen. Dat schrijf ik op omdat het de eerste gewaarwording van die dag was die niets met hem te maken had, en omdat er daarna nog maar weinig van die soort zijn gekomen.
 
-Ik wist waar het jacht lag. Ik wist niet waar hij zou zijn. In de stukken die ik had gelezen, stond zijn leeftijd, zijn naam, zijn functie aan boord en de plaats waar hij is begraven, wat niet de plaats is waar hij is gestorven. Er stond niet in waar een scheepsjongen om vijf uur 's morgens zit op de dag dat zijn schip vertrekt. Ik had gedacht: aan boord. Of in een herberg. Of in bed, bij een hospita, met een moeder die niet meer leefde en een kamer die hij met iemand deelde. Ik had al die mogelijkheden overwogen, zoals je de openingen van een partij overweegt waarvan je het slot al kent.
+Ik wist waar het jacht lag. Ik wist niet waar hij zou zijn. In de stukken die ik had gelezen, stond zijn leeftijd, zijn naam en zijn functie aan boord. Er stond niet in waar een scheepsjongen om vijf uur 's morgens zit op de dag dat zijn schip vertrekt. Ik had gedacht: aan boord. Of in een herberg. Of in bed, bij een hospita, met een moeder die niet meer leefde en een kamer die hij met iemand deelde. Ik had al die mogelijkheden overwogen, zoals je de openingen van een partij overweegt waarvan je het slot al kent.
 
 Hij zat op een meerpaal, twintig passen voorbij de ligplaats, met zijn rug naar het water.
 
@@ -100,7 +100,7 @@ Ik keek. Ik had haar al gezien, toen ik over de kade kwam, en ik had niet gekeke
 
 'Alles.'
 
-Hij zei het met iets in zijn stem wat ik later bij hem alleen nog heb gehoord als hij over Brooks sprak, of over brood. Ik weet geen woord voor dat iets. Het was trots, maar trots op een ander. Ik schreef het die avond op als bewondering. Ik heb het daarna doorgestreept en er niets voor in de plaats geschreven.
+Hij zei het met iets in zijn stem wat ik later bij hem alleen nog heb gehoord als hij over een matroos sprak die ik die ochtend nog niet kende, of over brood. Ik weet geen woord voor dat iets. Het was trots, maar trots op een ander. Ik schreef het die avond op als bewondering. Ik heb het daarna doorgestreept en er niets voor in de plaats geschreven.
 
 ---
 
@@ -114,7 +114,7 @@ Maar die jongen zat op een meerpaal met een laars die tot vanavond moest houden.
 
 'Wat doet ge hier eigenlijk?' vroeg hij.
 
-Het was de tweede keer dat hij dat vroeg. De eerste keer had ik geantwoord met een grap. Ik zag aan zijn gezicht dat hij geen tweede grap zou nemen.
+Hij had me al eens gevraagd wat ik was. Toen had ik geantwoord met een grap. Ik zag aan zijn gezicht dat hij geen tweede grap zou nemen.
 
 'Ik zocht iemand,' zei ik.
 

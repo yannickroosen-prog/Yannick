@@ -28,12 +28,12 @@ Druk wordt aangeduid met: rust · komedie · dreiging · actie · rouw · uitleg
 ### 2 · Twee bronnen — 3.900 w — uitleg → dreiging
 - **Functie:** hoe hij hier komt, verteld via kanttekeningen en korte terugblikken, nooit als blok. Eckernförde 1784, Pym 1838, zesenveertig jaar uitgeknipte Richard Parkers, het krantenbericht van mei 1884 en het procesverslag van december met de namen Dudley, Stephens en Brooks. Hijzelf staat er niet in. In het heden: de Mignonette aan de kade, zestien meter lang (52 voet, na te kijken), met een sloep van dun hout. Hij ontmoet Dudley.
 - **Waardeverschuiving:** zekerheid wordt onrust. Het jacht is kleiner dan hij zich had voorgesteld.
-- **Eindwending:** Dudley noemt Richard 'mijn beste aanwinst' en de graaf herkent de stem van een man die een jongen bezit.
+- **Eindwending:** Dudley noemt Richard 'mijn beste aanwinst'. Richard kijkt naar de graaf en wil dat hij het ook gehoord heeft. Dat ogenblik van trots verklaart waarom hij koste wat het kost mee wil. (Op vraag van de auteur eindigt het hoofdstuk hier; de herkenning van Dudleys stem verschuift naar hfst. 9.)
 
 ### 3 · De vader — 3.500 w — dreiging → ongemak — *catalysator*
 - **Functie:** de eerste openlijke waarschuwing. 'Dat schip zinkt.' Richard lacht hem uit. De graaf regelt ander werk, een kooi op een stoomboot naar Lissabon, en Richard weigert. Dan de leugen: 'Ik heb uw vader gekend.'
 - **Waardeverschuiving:** van gelachen naar doorzien.
-- **Eindwending:** 'Ge liegt al over mijn vader. Hoe kunt ge dan iets weten over mijn dood?'
+- **Eindwending:** 'Ge liegt al over mijn vader. Hoe kunt ge dan iets weten over mijn dood?' Het hoofdstuk eindigt op de plaathandschoen van vier shilling die de graaf koopt en nooit gebruikt (keuze van de auteur).
 
 ### 4 · Versailles — 2.400 w — komedie → rust
 - **Functie:** het hof, 1758. Een viool en een goed gekozen leugen winnen een hele kamer, en die terugblik staat tegenover het middaguur in een kroeg aan de kade. De graaf biedt vijf pond. Richard legt de munt terug, één vinger op de rand.
@@ -81,7 +81,7 @@ Druk wordt aangeduid met: rust · komedie · dreiging · actie · rouw · uitleg
 - **Eindwending:** 'Hij had niet gezegd een uur waarvóór.'
 
 ### 13 · Vijf juli — 4.600 w — actie → rouw
-- **Functie:** hij wekt Richard. In dat uur vult Richard zelf een kleine kruik met water uit het vat dat niet lekt, en zingt ondertussen de strofe. Dat is het gevolg van zijn vraag aan tafel. Dan de golf, op het uur dat de graaf kende. Het jacht zinkt in minuten. Richard heeft de kruik vast, maar maakt een hand vrij om Brooks overeind te trekken, en verliest ze. Vijf mannen in een sloep van vier meter, met twee blikken rapen en geen water. De graaf kan springen. Hij blijft.
+- **Functie:** op 5 juli gaat Richard na zijn wacht slapen; de graaf wekt hem een uur vóór de golf, in de namiddag. In dat uur vult Richard zelf een kleine kruik met water uit het vat dat niet lekt, en zingt ondertussen de strofe. Dat is het gevolg van zijn vraag aan tafel. Dan de golf, op het uur dat de graaf kende. Het jacht zinkt in minuten. Richard heeft de kruik vast, maar maakt een hand vrij om Brooks overeind te trekken, en verliest ze. Vijf mannen in een sloep van vier meter, met twee blikken rapen en geen water. De graaf kan springen. Hij blijft.
 - **Waardeverschuiving:** van weten naar meemaken. De feiten kloppen, en toch kende hij niets ervan. De graaf, die het uur kende, heeft zelf geen water gehaald.
 - **Eindwending:** Stephens telt hardop: 'Vijf.' Hij kijkt naar de graaf.
 

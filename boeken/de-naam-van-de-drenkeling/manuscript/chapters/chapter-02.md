@@ -109,7 +109,3 @@ Richard stond bij de mast een lijn op te schieten. Hij deed het snel en zonder t
 'Parker.' Dudley zei het met iets in zijn stem wat ik eerst voor genegenheid hield. 'Ik heb er twaalf gezien. Ik heb hem gekozen. Hij kan lezen en hij kan knopen en hij heeft niemand.' Hij zei het laatste niet als een tekort. Hij zei het als een van de redenen. 'Hij is mijn beste aanwinst.'
 
 Richard keek op. Hij had het gehoord. Hij keek naar de kapitein met die trots op een ander die ik op de kade al had gezien, en toen keek hij naar mij, en ik zag dat hij wilde dat ik het ook had gehoord.
-
-Ik heb die stem herkend. Ik wist toen nog niet waarvan.
-
-*Ik weet het nu. Ik zal het hier niet opschrijven. Het hoort niet op deze bladzijde. Het hoort op een bladzijde die ik nog niet heb geschreven en die ik pas zal schrijven als ik het niet langer kan ontkennen.*

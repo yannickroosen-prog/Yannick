@@ -1,0 +1,34 @@
+{
+  "reader": "Ann",
+  "turn_page": "yes",
+  "stopped_at": {"quote": "Ik heb een hertogin verteld dat haar zoon niet van haar man was, met de man in de kamer."},
+  "why_stopped": {"reason": "Hier gaat het even om de verteller en zijn indrukwekkende levensloop in plaats van om de jongen, maar weggelegd had ik het boek niet."},
+  "remember_tomorrow": [
+    {"quote": "Wat ik niet wist: dat hij misselijk werd bij een deining van achteren. Ik heb dat zinnetje later vaker teruggelezen dan het verslag van zijn dood.", "reason": "Dit is het detail dat ik dagen meedraag: een klein ongemak dat zwaarder weegt dan de dood."},
+    {"quote": "Ik hoop dat hij het heeft weggegooid. Ik vrees dat hij het heeft bewaard.", "reason": "Het briefje in de plas blijft rondspoken."},
+    {"quote": "en een linkerlaars op zijn rechterknie", "reason": "Richard zit meteen helemaal in mijn hoofd, met die laars."}
+  ],
+  "confused_by": [
+    {"quote": "De naam Richard Parker knipte ik al zesenveertig jaar uit de krant.", "reason": "Hoe knip je zesenveertig jaar een naam uit de krant voor iemand die pas in 1884 sterft? Ik vermoed een bedoeld raadsel, maar ik twijfelde."},
+    {"quote": "als hij over Brooks sprak, of over brood", "reason": "Wie Brooks is, weet ik niet."},
+    {"quote": "'Zeg,' zei hij, 'als ge toch niks te doen hebt, houd uw vinger efkes op die knoop.'", "reason": "Een Engelse scheepsjongen die Gents klinkt: als Gentse lezer was ik even uit Southampton weg."}
+  ],
+  "flags": [
+    {"flag": "continuity_doubt", "quote": "'Ge zijt geen zeeman.'"},
+    {"flag": "machine_prose", "quote": "Het was trots, maar trots op een ander."}
+  ],
+  "strongest_passage": {"quote": "Ik haalde mijn zakdoek uit mijn borstzak. Het blad uit het hotel in de Strand kwam mee en viel op de kade, met de beschreven kant naar beneden, in een plas. Ik liet het liggen.", "reason": "De hele tragedie zit in één gebaar: hij herstelt een laars in plaats van een leven te redden, en het wordt niet uitgelegd."},
+  "weakest_passage": {"quote": "Ik voelde haar tegen mijn ribben als een kaart die je niet durft uit te spelen, omdat je weet dat het de enige troef is die je nog hebt.", "reason": "Een beeld dat meteen wordt uitgelegd, en vrij gangbaar."},
+  "machine_tells": [
+    {"tell": "contrast door ontkenning", "quote": "nu met iets dat geen oordeel meer was maar nieuwsgierigheid"},
+    {"tell": "moraal aan het slot van een alinea", "quote": "Dat is de enige waarschuwing die ik die ochtend heb gegeven: ik heb haar laten liggen."},
+    {"tell": "aforistisch slotzinnetje", "quote": "Ik kan slechte tijding brengen. Het is een vak."}
+  ],
+  "felt": {"emotion": "tederheid met een knoop in mijn maag", "reason": "Ik weet vanaf de eerste bladzijde dat hij sterft en toch hoopte ik bij elke 'om zeven uur moest hij gaan' dat de man iets zou zeggen."},
+  "auteursvragen": {
+    "wat_wil_richard": {"antwoord": "Zijn laars tot vanavond laten houden en in Sydney aankomen met loon en een brief die zegt wat hij kan.", "quote": "'Het houdt tot vanavond,' zei hij. 'Vanavond moet ik er iets beters aan doen.'"},
+    "vertrouwen_graaf": {"richting": "beide", "quote": "Ik vroeg het omdat ik wilde horen hoe hij het zou zeggen.", "reason": "Hij is eerlijk tegenover mij, maar hij speelt met de jongen en zwijgt, en dat neem ik hem kwalijk."},
+    "vraag_voor_hoofdstuk_2": {"vraag": "Gaat hij mee kijken bij het vertrek, en zegt hij het dan alsnog?", "waarom_doorlezen": "Richard", "quote": "Ge kunt meekomen kijken, als ge toch niks te doen hebt."}
+  },
+  "confidence": "high"
+}

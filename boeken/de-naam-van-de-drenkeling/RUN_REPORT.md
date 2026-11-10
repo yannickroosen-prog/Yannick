@@ -63,3 +63,28 @@
   - de vader Daniel, ketelmaker;
   - de alias Jermyn;
   - Lyle, Hutchings en de knipsels.
+
+## 10 november 2026 — leespanel hfst. 1, hoofdstukken 4-6 (einde deel I)
+
+- **Beslissingen van de auteur:**
+  - lengte volgens optie 3: richtpunt 65.000 woorden, de vloer van 75.000 geschrapt; opnieuw bekijken na de eerste dagen in de sloep;
+  - het golfuur wordt 'tegen de avond' (bronnen bij Brandeis en University of California Press, aangeleverd door de auteur; nog zelf na te kijken);
+  - hfst. 2 eindigt op Richards blik, hfst. 3 op de plaathandschoen.
+- **Hoofdstuk 2 en 3:** herzien als nieuwe pogingen (a2), gestaged en canoniek gemaakt.
+- **Leespanel hfst. 1:** vier geïsoleerde subagents (Ann, Pieter, Sofie, Lotte). Alle vier slaan de bladzijde om. Verzameld in `evaluations/panel-chapter-01.md`. Hoog ticket P1-01: de alinea met de hofanekdotes. Defecten P1-03 tot P1-07 staan open voor revisie.
+- **Feitelijke herstelling in hfst. 1 (a2):**
+  - P1-02: Brooks werd genoemd vóór hij geïntroduceerd was;
+  - 'begraven': Parker heeft geen graf;
+  - 'tweede keer dat hij vroeg' klopte niet.
+  - Stilistische tickets blijven voor fase 5.
+- **Woordtelling:** de 6.888 uit het vorige verslag is geen optelfout. `check_progress.py` telt alleen proza, zonder koppen en opmaak, terwijl `wc` 6.909 telde.
+- **Geschreven en canoniek gemaakt:**
+
+  | Hoofdstuk | Woorden |
+  |---|---|
+  | hfst. 4 | 1.704 (a2: strofe-kanttekening in lijn met hfst. 13) |
+  | hfst. 5 | 1.952 |
+  | hfst. 6 | 1.980 |
+
+  Deel I komt daarmee op 12.456 woorden, tegenover 20.300 gepland.
+- **Volgende stap:** deel II (hfst. 7-12) en de herziening van het proefhoofdstuk tot hfst. 12.
