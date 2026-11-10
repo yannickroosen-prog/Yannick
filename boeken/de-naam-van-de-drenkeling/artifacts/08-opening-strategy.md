@@ -13,12 +13,12 @@ Op de eerste bladzijde komt geen uitleg over tijdreizen. Het woord 'springen' va
 
 ## Kandidaat-openingszinnen
 
-1. *Southampton, 19 mei 1884, vijf uur tweeënvijftig. Ik had zesenveertig jaar de tijd gehad om te bedenken wat ik tegen Richard Parker zou zeggen. Toen ik hem vond, zei ik dat zijn veter te kort was.* (aanbevolen, uit het idee van de auteur)
+1. *Southampton, 19 mei 1884, vijf uur tweeënvijftig. De naam Richard Parker knipte ik al zesenveertig jaar uit de krant. De jongen zelf vroeg of ik mijn vinger even op de knoop wilde houden.* (gekozen door de auteur; vervangt 'Ik had zesenveertig jaar de tijd gehad …', dat niet meer klopt met de tijdlijn)
 2. *Richard Parker sterft op 25 juli 1884 in een sloep van vier meter, en op 19 mei, om vijf uur tweeënvijftig, zat hij op een meerpaal zijn laars te herstellen.*
 3. *Ik heb in dit boek alles opgeschreven, behalve één wacht.*
 4. *Hij vroeg of ik mijn vinger op een knoop wilde houden, en ik deed het, en zo begon het.*
 
-**Aanbeveling:** zin 1 als opening, met zin 3 aan het einde van de eerste alinea en zin 2 verwerkt als kanttekening van de oudere graaf. Zo valt de afloop in de stem van later, en blijft de scène in het heden.
+**Keuze:** zin 1 als opening, met zin 3 aan het einde van de eerste alinea en zin 2 verwerkt als kanttekening van de oudere graaf. Zo valt de afloop in de stem van later, en blijft de scène in het heden.
 
 ## Wat de eerste bladzijde belooft
 

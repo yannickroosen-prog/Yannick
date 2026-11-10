@@ -4,10 +4,10 @@
 
 Druk wordt aangeduid met: rust · komedie · dreiging · actie · rouw · uitleg.
 
-## Twee bouwbeslissingen in deze fase (graag bevestigen)
+## Twee bouwbeslissingen in deze fase (bevestigd door de auteur, 10-11-2026)
 
-1. **De haven duurt één dag.** Deel I speelt helemaal op 19 mei 1884, van 5.52 uur tot het avondtij. Dat volgt het idee ('Open op de ochtend van het vertrek', 'op de dag van vertrek een pijnlijke keuze') en maakt de sprongregel scherp: de graaf heeft maar één dag, en die komt nooit terug. De zin 'tussen de dagen in de haven' uit het eerste idee wordt 'tussen de uren in de haven'. De notities over het hof vullen de tijd tussen de pogingen.
-2. **Waarom hij 'zesenveertig jaar' had.** Met de nieuwe tijdlijn kent hij Richard pas sinds december 1884. De openingszin ('Ik had zesenveertig jaar de tijd gehad om te bedenken wat ik tegen Richard Parker zou zeggen') klopt alleen als de naam hem al die jaren bezighield. Daarom deze herstelling: na Pym (1838) wordt de naam voor hem een bijgeloof. Zesenveertig jaar lang knipt hij elke Richard Parker uit de scheepvaartberichten, en voor elk van hen bedenkt hij wat hij zou zeggen. Begin mei 1884 leest hij in een krant uit Southampton dat het jacht Mignonette een scheepsjongen R. Parker aanmonstert voor Sydney. Dat bericht is verzonnen. Het bijgeloof doet hem naar december springen, en daar blijkt het waar. Zo komt er geen nieuwe bovennatuurlijke regel bij, en blijft 'Poe als voorspelling' een menselijke vergissing. Zie ticket I-01.
+1. **De haven duurt één dag.** Deel I speelt helemaal op 19 mei 1884, van 5.52 uur tot het avondtij. Dat volgt het idee ('Open op de ochtend van het vertrek', 'op de dag van vertrek een pijnlijke keuze') en maakt de sprongregel scherp: de graaf heeft maar één dag, en die komt nooit terug. De zin 'tussen de dagen in de haven' uit het eerste idee wordt 'tussen de uren in de haven'. De notities over het hof vullen de tijd tussen de pogingen. Het avondtij geeft Richard een reden om door te werken terwijl de graaf wil praten: hij herstelt zijn laars tijdens een waarschuwing, omdat hij er straks op moet lopen. **Lengte van deel I:** de 20.300 woorden zijn een richtwaarde. Elk hoofdstuk krijgt de lengte van wat er die dag tussen hen verandert.
+2. **Waarom hij 'zesenveertig jaar' had.** Met de nieuwe tijdlijn kent hij Richard pas sinds december 1884. De openingszin ('Ik had zesenveertig jaar de tijd gehad om te bedenken wat ik tegen Richard Parker zou zeggen') klopt alleen als de naam hem al die jaren bezighield. Daarom deze herstelling: na Pym (1838) wordt de naam voor hem een bijgeloof. Zesenveertig jaar lang knipt hij elke Richard Parker uit de scheepvaartberichten. Hij bedenkt niet wat hij tegen hen zou zeggen. De openingszin verandert in plaats daarvan (keuze van de auteur): 'De naam Richard Parker knipte ik al zesenveertig jaar uit de krant. De jongen zelf vroeg of ik mijn vinger even op de knoop wilde houden.' Begin mei 1884 leest hij in een krant uit Southampton dat het jacht Mignonette een scheepsjongen R. Parker aanmonstert voor Sydney. Dat bericht is verzonnen. Het bijgeloof doet hem naar december springen, en daar blijkt het waar. Zo komt er geen nieuwe bovennatuurlijke regel bij, en blijft 'Poe als voorspelling' een menselijke vergissing. Zie ticket I-01.
 
 ## Macrostructuur
 
@@ -21,7 +21,7 @@ Druk wordt aangeduid met: rust · komedie · dreiging · actie · rouw · uitleg
 ## Hoofdstukken
 
 ### 1 · Vijf uur tweeënvijftig — 3.300 w — rust → komedie
-- **Functie:** de belofte. Eerste dagboekregel. De laars, de veter en 'Houd die efkes vast'. Op de eerste bladzijde staat ook wat de lezer moet weten: Richard Parker sterft op 25 juli in een sloep, en de graaf vertelt in dit dagboek alles behalve één wacht.
+- **Functie:** de belofte. Eerste dagboekregel: 'De naam Richard Parker knipte ik al zesenveertig jaar uit de krant. De jongen zelf vroeg of ik mijn vinger even op de knoop wilde houden.' De laars, de veter en 'Houd die efkes vast'. Op de eerste bladzijde staat ook wat de lezer moet weten: Richard Parker sterft op 25 juli in een sloep, en de graaf vertelt in dit dagboek alles behalve één wacht.
 - **Waardeverschuiving:** de graaf gaat van voorbereid naar ontwapend.
 - **Eindwending:** Richard zegt dat hij vanavond met het tij vertrekt op de Mignonette. 'Ge kunt meekomen kijken.' De graaf heeft niets gezegd van wat hij had voorbereid.
 
@@ -81,8 +81,8 @@ Druk wordt aangeduid met: rust · komedie · dreiging · actie · rouw · uitleg
 - **Eindwending:** 'Hij had niet gezegd een uur waarvóór.'
 
 ### 13 · Vijf juli — 4.600 w — actie → rouw
-- **Functie:** hij wekt Richard. Een uur strofe. Dan de golf, op het uur dat de graaf kende. Het jacht zinkt in minuten. Vijf mannen in een sloep van vier meter, met twee blikken rapen en geen water. De graaf kan springen. Hij blijft.
-- **Waardeverschuiving:** van weten naar meemaken. De feiten kloppen, en toch kende hij niets ervan.
+- **Functie:** hij wekt Richard. In dat uur vult Richard zelf een kleine kruik met water uit het vat dat niet lekt, en zingt ondertussen de strofe. Dat is het gevolg van zijn vraag aan tafel. Dan de golf, op het uur dat de graaf kende. Het jacht zinkt in minuten. Richard heeft de kruik vast, maar maakt een hand vrij om Brooks overeind te trekken, en verliest ze. Vijf mannen in een sloep van vier meter, met twee blikken rapen en geen water. De graaf kan springen. Hij blijft.
+- **Waardeverschuiving:** van weten naar meemaken. De feiten kloppen, en toch kende hij niets ervan. De graaf, die het uur kende, heeft zelf geen water gehaald.
 - **Eindwending:** Stephens telt hardop: 'Vijf.' Hij kijkt naar de graaf.
 
 ### 14 · Laarzen — 3.800 w — ongemak → nieuwsgierigheid
@@ -111,8 +111,8 @@ Druk wordt aangeduid met: rust · komedie · dreiging · actie · rouw · uitleg
 - **Eindwending:** het laagste punt. Hij weet dat Richard gelijk heeft.
 
 ### 19 · De laatste nacht — 4.200 w — rouw → catharsis
-- **Functie:** de nacht van 24 op 25 juli, verteld zonder de vraag. Eén keer zegt hij 'ge'. Richard geeft hem de knoop. Hoe dat gaat, blijft vaag tot hfst. 21. Voor de dag aanbreekt, springt hij.
-- **Waardeverschuiving:** van blijven naar vertrekken.
+- **Functie:** de nacht van 24 op 25 juli, verteld zonder de vraag. Eén keer zegt hij 'ge'. Richard geeft hem de knoop. Dat is geen toestemming en geen vergeving, alleen een gebaar. Voor de dag aanbreekt, springt hij. De oudere graaf probeert in een kanttekening eerlijk op te schrijven wat hij uit dat gebaar mocht besluiten, en komt er niet uit.
+- **Waardeverschuiving:** van blijven naar vertrekken, zonder vrijspraak.
 - **Eindwending:** de sloep onder de sterren, gezien van nergens. Daarna een witte bladzijde.
 
 ### 20 · Brood dat hij niet eet — 3.800 w — rust → dreiging — *deel IV*
@@ -121,7 +121,7 @@ Druk wordt aangeduid met: rust · komedie · dreiging · actie · rouw · uitleg
 - **Eindwending:** Poe vraagt: 'En waar was u, toen het gebeurde?' De graaf antwoordt niet.
 
 ### 21 · De drukproef — 4.300 w — ongemak → catharsis
-- **Functie:** weken later, in juni 1837. In de drukproef stelt Parker zelf voor iemand op te offeren. De graaf herkent de zin die hij zesenveertig jaar aan Richard heeft toegeschreven. Hij confronteert Poe. Poe: 'U hebt mij een jongen gegeven zonder einde. Ik heb hem er een gegeven.' Dan vertelt de graaf eindelijk de wacht. 'Wilt ge dat ik blijf?' 'Ge wilt dat ik zeg dat ge moogt gaan.' En de knoop.
+- **Functie:** weken later, in juni 1837. In de drukproef stelt Parker zelf voor iemand op te offeren. De graaf herkent de zin die hij zesenveertig jaar aan Richard heeft toegeschreven. Hij confronteert Poe. Poe: 'U hebt mij een jongen gegeven zonder einde. Ik heb hem er een gegeven.' Dan vertelt de graaf eindelijk de wacht. 'Wilt ge dat ik blijf?' 'Ge wilt dat ik zeg dat ge moogt gaan.' En de knoop: hij vertelt Poe dat hij hem kreeg, niet wat hij betekende.
 - **Waardeverschuiving:** van aanklager naar bron.
 - **Eindwending:** hij krijgt de drukproef mee.
 
@@ -176,7 +176,7 @@ Er staan nergens drie actiehoofdstukken na elkaar en nergens twee reflectiehoofd
 
 ## Reeks
 
-- **Afsluiting van dit deel:** hfst. 21-22. Richards verhaal is volledig verteld: de wacht, de knoop, de toestemming en het doorstrepen.
+- **Afsluiting van dit deel:** hfst. 21-22. Richards verhaal is volledig verteld: de wacht, de knoop (zonder uitleg) en het doorstrepen.
 - **Haak naar deel 2:** het warme hemd in hfst. 17, rond 74%. Dat valt vóór de laatste 20%, zoals de regel vraagt. In hfst. 22 volgt een echo van één regel: hij vraagt zich af wie hij nog meer in een verhaal heeft veranderd.
 - **Bewust open mysteries:**
   - de vrouw met het warme hemd;
@@ -185,7 +185,7 @@ Er staan nergens drie actiehoofdstukken na elkaar en nergens twee reflectiehoofd
 
 ## Brief-contractcheck
 
-Status: **PASS met één open ticket uit het idee (I-01), dat wacht op bevestiging van de auteur.** Verificatie: **degraded (niet onafhankelijk)**. In deze sessie zijn geen subagents gestart zonder uitdrukkelijke vraag van de auteur, dus de orchestrator heeft zelf vergeleken.
+Status: **PASS. Geen open tickets.** Verificatie: **degraded (niet onafhankelijk)**. In deze sessie zijn geen subagents gestart zonder uitdrukkelijke vraag van de auteur, dus de orchestrator heeft zelf vergeleken.
 
 Citaten uit `00-brief.md`:
 - **Premisse:** 'Saint Germain, die door de tijd kan reizen, belooft een zeventienjarige jongen te redden: Richard Parker, de scheepsjongen van het jacht Mignonette (1884).' en 'waarom vertelt de graaf … uiteindelijk zelf aan een schrijver hoe de jongen sterft?' → *exact* voor jaar en personen.
@@ -208,5 +208,5 @@ Citaten uit `00-brief.md`:
 
 | ID | Citaat | Soort | Getroffen | Status |
 |---|---|---|---|---|
-| I-01 | 'Ik had zesenveertig jaar de tijd gehad om te bedenken wat ik tegen Richard Parker zou zeggen.' tegenover de tijdlijn 'Hij leest Pym en noteert de naam als merkwaardigheid' | exact (46 = 1838 → 1884) | hfst. 1, 2, 5; K-01, K-02; T-02, T-03 | **OPEN**: herstelling voorgesteld (bijgeloof en knipsels, zie bouwbeslissing 2) en verwerkt in het register; wacht op akkoord |
-| I-02 | 'Tussen de dagen in de haven' tegenover 'Open op de ochtend van het vertrek' | benaderend | hfst. 1-6; T-04 | **CLOSED** als voorstel: één dag (bouwbeslissing 1); wacht op akkoord |
+| I-01 | 'Ik had zesenveertig jaar de tijd gehad om te bedenken wat ik tegen Richard Parker zou zeggen.' tegenover de tijdlijn 'Hij leest Pym en noteert de naam als merkwaardigheid' | exact (46 = 1838 → 1884) | hfst. 1, 2, 5; K-01, K-02; T-02, T-03 | **CLOSED**: bijgeloof en knipsels; de openingszin is vervangen door de keuze van de auteur (08-opening-strategy, zin 1) |
+| I-02 | 'Tussen de dagen in de haven' tegenover 'Open op de ochtend van het vertrek' | benaderend | hfst. 1-6; T-04 | **CLOSED**: één dag, bevestigd door de auteur |

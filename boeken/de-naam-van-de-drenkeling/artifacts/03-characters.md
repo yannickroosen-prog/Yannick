@@ -8,7 +8,7 @@ Vier van de vijf opvarenden en Poe hebben echt bestaan. Per historisch personage
 
 **Wonde.** Hij weet niet meer wie hem als eerste liefhad. In zijn oudste dagboek staat het warme hemd, en de bladzijde ervoor ontbreekt. Sindsdien vertrekt hij altijd als eerste. Zo hoeft hij nooit meer achtergelaten te worden.
 
-**Leugen.** 'Wie alles opschrijft, verliest niemand.' In boek I verschijnt die leugen als: 'Ik ken deze jongen. Ik heb hem zesenveertig jaar bestudeerd.'
+**Leugen.** 'Wie alles opschrijft, verliest niemand.' In boek I verschijnt die leugen als: 'Ik ken deze jongen. Ik heb zijn naam zesenveertig jaar bewaard en zijn dood een winter lang bestudeerd.'
 
 **Bewust verlangen.** Richard Parker van boord houden en zijn dood ongedaan maken.
 
@@ -56,7 +56,7 @@ Vier van de vijf opvarenden en Poe hebben echt bestaan. Per historisch personage
 3. Hij spot met bijgeloof, maar draagt een knoop van zijn moeders jas in zijn zak.
 4. Hij is snel met woorden en traag met lezen.
 
-**Boog.** Positief en tragisch tegelijk. Richard sterft, maar hij sterft als iemand die zelf heeft gekozen wat hij met zijn kennis doet. Aan het einde geeft hij de graaf toestemming om te gaan, en hij weet heel goed wat hij daarmee geeft.
+**Boog.** Positief en tragisch tegelijk. Richard sterft, maar hij sterft als iemand die zelf heeft gekozen wat hij met zijn kennis doet. Aan het einde geeft hij de graaf de knoop, en wat dat gebaar betekent, mag de graaf niet beslissen. Hij begrijpt wat de graaf van hem vraagt. Of hij hem vergeeft, blijft open.
 
 **Ruisprofiel.**
 - *Irrelevante preoccupatie:* knopen, zowel aan kleren als in touw. Hij oefent ze ook wanneer niemand kijkt.

@@ -1,6 +1,6 @@
 # Continuïteitsregister: De naam van de drenkeling
 
-Bijgewerkt na: fase 2 (er zijn nog geen canonieke hoofdstukken). De enige tekst die al bestaat, is de proefversie van hoofdstuk 12 (`work/proef-hoofdstuk-12.md`). Die wordt hieronder aangeduid als `proef12`.
+Bijgewerkt na: hoofdstuk 3 (canoniek: hfst. 1-3). De enige tekst die al bestaat, is de proefversie van hoofdstuk 12 (`work/proef-hoofdstuk-12.md`). Die wordt hieronder aangeduid als `proef12`.
 
 Bronnotatie: `plan: <artefact>` geeft aan dat iets alleen gepland is. `proef12 "…"` verwijst naar de proeftekst. `bron: <url>` verwijst naar een historische bron.
 
@@ -8,7 +8,11 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 
 ## Personages
 
-### C-01 Saint Germain (ook: 'de graaf', 'meneer de graaf' wanneer Richard spot, 'meneer' wanneer hij het meent)
+### C-01 Saint Germain (ook: 'de graaf', 'meneer de graaf' wanneer Richard spot, 'meneer' wanneer hij het meent; bij Dudley 'meneer Jermyn': ch02 "Hij verstond Jermyn, zoals de straat in Londen")
+- Draagt een fluwelen jas, zes jaar uit de mode; handen zonder eelt; dunne Londense schoenen. ch01
+- Woonde 1838-1884 in Londen en Bath, in zes kamers. ch02
+- Ooit in zijn jeugd geprobeerd terug te gaan naar een beleefde dag; wat er gebeurde, wordt niet verteld. ch02 "Ik heb het één keer geprobeerd, in mijn jeugd" [V]
+- Bezit sinds ch03: een plaathandschoen (4 shilling, gekocht bij Hutchings), nooit gebruikt. De halve zakdoek (Brabants linnen) kreeg hij terug, vuil. ch03
 - **Vast:** zijn geboortejaar is onbekend. [H] De bronnen spreken van 1691 tot 1712, en in het boek wordt dat nooit opgelost.
 - **Vast:** officieel 'overleden' op 27 februari 1784 in Eckernförde. [H] bron: Britannica.
 - **Uiterlijk:** nog niet vastgelegd. Te bepalen bij hfst. 1. Het register houdt het eerste zinsdeel bij dat erover gaat.
@@ -37,11 +41,19 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **Bezit:**
   - de linkerlaars met een losse zool aan de neus en een veter van touw [V] plan: 08-opening;
   - de knoop van zijn moeders jas [V] plan: 03-characters.
+- **Familie:** moeder dood; vader Daniel Parker, ketelmaker bij Day en Summers, 'langer' dood, nooit verder gevaren dan het veer naar Hythe. ch03 [V]. Logeert bij een vrouw in Itchen die slecht kookt en goed voor hem is. ch01 [V]
+- Noemt zichzelf Dick 'voor wie het mag zeggen'; de graaf mag het niet. ch01
+- Misselijk bij een deining van achteren, alleen de eerste dag; 'Dat van die deining heb ik van hem' (zijn vader). ch01, ch03
+- Zegt 'Merci' ('mursee'), geleerd van een Franse matroos. ch01. De graaf hoort het daarna nooit meer: bindend.
+- Laars: zool aan de neus met eenentwintig steken pikdraad vastgenaaid op 19 mei, ochtend. ch03
 - **Bewust verlangen:** in Sydney een viool van vier pond kopen. [V] proef12 "Vier pond … Dat is mijn loon van drie maanden"
 - **Overleden op 25 juli 1884, 'after nineteen days dreadful suffering in an open boat'.** [H] gedenkteken. Ander bericht: 24 juli. [H?]
 - **Locatielog:** hfst. 1-6 Southampton; hfst. 7-12 Mignonette; hfst. 13-19 sloep.
 
-### C-03 Tom Dudley, kapitein
+### C-03 Tom Dudley, kapitein (stelt zich voor als Thomas Dudley, ch02)
+- Klein en breed, gezicht door de wind één kleur, baard scheef geknipt aan de linkerkant, laarzen die glimmen. ch02
+- Heeft Richard 'gekozen uit twaalf': 'Hij is mijn beste aanwinst.' ch02
+- Betaalt Richard minder dan 18 shilling per maand; de lijn naar Lissabon biedt zes meer, dus 12 shilling. ch03 (18 − 6 = 12) [V]
 - **Bidt elke avond een zelfgemaakt gebed en noemt zijn vrouw 'zij die op mij wacht'.** [V] proef12
 - **Litteken over de knokkel van zijn rechterwijsvinger, van een zeilnaald.** [V] proef12
 - **Maakt zijn nagels schoon met de punt van zijn mes.** [V] proef12. Het is hetzelfde mes als in de sloep: zie O-06.
@@ -51,7 +63,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 
 ### C-04 Edwin Stephens, stuurman
 - **Bakt om de twee dagen sodabrood in een ijzeren pan met deksel.** [V] proef12
-- **Telt alles: het meel, de vaten, de beschuiten.** [V] proef12
+- **Telt alles: het meel, de vaten, de beschuiten.** [V] proef12. Klopt met zijn knokkel op vaten om ze te keuren en schrijft in een boekje. ch02
 - **Zijn handen trillen altijd een beetje, ook als hij slaapt.** [V] proef12
 - **Snijdt het brood altijd in vieren**, neemt zelf een half stuk en geeft de graaf het andere half. [V] proef12
 - **Stond klaar om de jongen vast te houden.** [H]
@@ -75,6 +87,10 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 ### C-09 De vrouw met het warme hemd
 - Ze heeft geen naam en geen gezicht. 'Ze warmde mijn hemd altijd even bij het vuur. Ook in de zomer.' Ze komt alleen voor in hfst. 17. [V] plan: 02-story-engine
 
+### C-10 Mr. Lyle, agent van een stoomvaartlijn, Canute Road. ch03 [V]
+### C-11 Hutchings, scheepsleverancier op de hoek van Canute Road. ch03 [V]
+### C-12 Karel van Hessen, landgraaf, beschermheer in Eckernförde. ch02 [H]
+
 ## Relaties
 
 - **R-01 graaf – Richard:**
@@ -84,7 +100,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
   - hfst. 8-10: vriendschap;
   - hfst. 12: Richard stuurt;
   - hfst. 18: Richard doorziet het aanbod van de graaf;
-  - hfst. 19: toestemming.
+  - hfst. 19: de knoop. Wat dat gebaar betekent, blijft onbeslist; geen toestemming, geen vergeving vastgelegd.
 - **R-02 Dudley – Richard:** Dudley ziet hem als 'mijn beste aanwinst' (hfst. 2). Hij is vriendelijk vanuit gezag: 'Gij groeit nog' (proef12). In hfst. 18 kiest hij hem.
 - **R-03 Brooks – Richard:** maten. Brooks noemt hem 'jong' en heeft plannen met hem in Sydney (proef12).
 - **R-04 Stephens – Richard:** Richard is de enige die hem iets vraagt (proef12): 'Het is goed brood, Stephens.'
@@ -96,6 +112,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **K-01** Poes Parker stelt het offer zelf voor en trekt het kortste strootje. [H]
   - De graaf weet het sinds 1838 maar 'ziet' het pas in hfst. 5.
   - Richard weet het nooit.
+- **K-02a** De knipsels: 31 Richard Parkers tussen herfst 1838 en 1884 in een blikken tabaksdoos; het eerste uit de Morning Chronicle (kruidenier, Bermondsey). ch02 [V]
 - **K-02** Er bestaat een echte Mignonette met een scheepsjongen R. Parker.
   - De graaf leest het begin mei 1884 in een krantenbericht [V] en krijgt bevestiging uit het procesverslag van december 1884.
   - Plan: hfst. 2.
@@ -106,7 +123,8 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **K-04** De graaf staat niet in de stukken.
   - De graaf weet het vóór vertrek (procesverslag).
   - Richard weet het mogelijk uit het dagboek. Open.
-- **K-05** Het uur van de golf.
+- **K-04a** Richard weet sinds ch03 wat de graaf beweert: ondergang op 5 juli, tegen vijf uur 's morgens, binnen vijf minuten, één sloep. Hij gelooft het niet, of zegt dat hij het niet gelooft.
+- **K-05** Het uur van de golf: tegen vijf uur 's morgens. ch03 [V]. Proef12 en hfst. 13 moeten daarbij passen: 'een uur ervoor' = rond vier uur 's morgens. Richard handelt ernaar (de kruik), dus hij kent het uur ongeveer uit het dagboek.
   - De graaf weet het. Richard weet het mogelijk; 'een uur ervoor' laat dat open in proef12. In hfst. 13 moet duidelijk worden welk uur de graaf koos.
 - **K-06** Wat er in de wacht gezegd werd.
   - De graaf en Richard weten het.
@@ -153,7 +171,11 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **O-09 Vijf pond:** in hfst. 4 aangeboden en teruggelegd. Niet te verwarren met de vier pond voor de viool (hfst. 8 en proef12).
 - **O-10 Zakhorloge uit 1761.** [V] proef12
 - **O-11 De drukproef van Pym:** hfst. 21 meegegeven. [V]
+- **O-14 Het blad met de waarschuwing:** in een plas op de kade achtergelaten, ochtend 19 mei. ch01. Nooit teruggevonden.
+- **O-15 Het briefje van Mr. Lyle:** een plaats als hutjongen naar Lissabon voor woensdag, 18 shilling per maand; de graaf betaalde 5 pond plus 5 pond 8 shilling. Richard geeft het terug. ch03
+- **O-16 De blikken tabaksdoos met knipsels.** ch02
 - **O-12 De kist van zeven shilling.** [V] proef12
+- **O-13 De kruik:** klein, van steengoed. Richard vult haar in het uur vóór de golf uit het vat dat niet lekt, en zingt daarbij de strofe. Hij verliest haar wanneer hij een hand vrijmaakt om Brooks overeind te trekken. [V] plan: 07-outline hfst. 13. Gevolg van proef12: 'Hoeveel water past er dan in?'
 
 ## Tijdlijn
 
@@ -162,8 +184,8 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 | T-01 | 2 (terugblik) | 27 feb 1784, Eckernförde → sprong | — | einde van het geleefde deel tot 1784 |
 | T-02 | 2 (terugblik) | 1838, Engeland; juli 1838 Pym | — | de naam noteren; het bijgeloof begint (I-01) |
 | T-03 | 2 (terugblik) | 1838 – begin mei 1884 | 46 jaar (1884 − 1838 = 46) | lineair geleefd; knipsels |
-| T-04 | 2 (terugblik) | begin mei 1884: krantenbericht → sprong naar december 1884 | — | procesverslag; vonnis in december 1884 [H?] |
-| T-05 | 1-6 | maandag 19 mei 1884, 5.52 uur tot het avondtij | één dag | vertrekdatum [H]; uur van vertrek [V]. Weekdag: maandag (berekend) |
+| T-04 | 2 (terugblik) | vrijdag 9 mei 1884: krantenbericht (Southampton) → sprong naar december 1884, leeskamer in de Strand, sneeuwregen; nacht in een hotel aan de Strand | — | procesverslag; vonnis in december 1884 [H?] |
+| T-05 | 1-6 | maandag 19 mei 1884, 5.52 uur tot het avondtij; hfst. 1 tot ±7 uur, hfst. 2 vanaf 7.10, hfst. 3 vanaf 9 uur tot na 12 uur | één dag | vertrekdatum [H]; uur van vertrek [V]. Weekdag: maandag (berekend) |
 | T-06 | 7-10 | 20 mei – eind juni 1884 | ~6 weken | 'donderdag, denk ik' in hfst. 9; hfst. 10 zonder datum |
 | T-07 | 11 | eind juni – vrijdag 4 juli, 17.10 uur | | de datering keert terug. 4 juli 1884 = vrijdag (berekend) |
 | T-08 | 12 | vrijdag 4 juli, avond, tot ongeveer 20.45 uur | dezelfde dag | proef12 'Kwart voor negen … Ongeveer' |
@@ -200,9 +222,13 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **TH-04 (zijplot):** de tweede strofe voor Brooks. Hfst. 10 en 12-13. Gesloten in hfst. 13: Richard leert ze in het uur ervoor.
 - **TH-05 (reeks):** de vrouw met het warme hemd. Geopend in hfst. 17, bewust open.
 - **TH-06 (detail):** het lekkende vat dat Stephens niet aanwijst. Proef12. Afloop: niet nodig. Kan in hfst. 13 terugkomen als het vat dat ze niet meenemen.
-- **TH-07 (detail):** 'een uur ervoor' — waarvoor? Proef12, gesloten in hfst. 13.
+- **TH-07 (detail):** 'een uur ervoor' — waarvoor? Proef12, gesloten in hfst. 13: de strofe én het water.
+- **TH-08 (zijplot):** water in de sloep. Geopend in proef12 (Richards vraag aan tafel), gesloten in hfst. 13 (de kruik verloren voor Brooks). Bindend: de graaf haalt zelf geen water.
 
 ## Conflicten
+
+- **X-05:** in hfst. 2 staat dat de Londense uitgave van Pym in de eerste week van augustus 1838 te koop was in Paternoster Row. Nog na te kijken. [H?]
+- **X-06:** Day en Summers was een echte werf in Southampton. Dat Richards vader er werkte, is verzonnen. Vermelden in het nawoord.
 
 - **X-01:** de lengte van de sloep is in de plannen 'vier meter' en in de bronnen 13 voet (≈ 3,96 m). Consistent. Open alleen als controle tegen een primaire bron.
 - **X-02:** de vertrekhaven is Southampton (meerdere bronnen) of Tollesbury (forumbericht). Oplossing: het jacht kwam uit Tollesbury en vertrok op 19 mei uit Southampton. Na te kijken. [H?]

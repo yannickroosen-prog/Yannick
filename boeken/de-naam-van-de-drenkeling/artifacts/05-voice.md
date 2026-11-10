@@ -169,7 +169,7 @@ Elk paar verschilt op minstens drie merktekens, en geen twee personages delen hu
 
 **A. Basis, rust.**
 > Southampton, 19 mei 1884, vijf uur tweeënvijftig.
-> Ik had zesenveertig jaar de tijd gehad om te bedenken wat ik tegen Richard Parker zou zeggen. Toen ik hem vond, zei ik dat zijn veter te kort was. Hij zat op een meerpaal met zijn linkerlaars op zijn knie, de zool los aan de neus, en hij had er een stuk touw doorheen geregen dat beter in een tuigage paste dan in een schoen. Ik heb in mijn leven vier koningen de hand gekust. Geen van hen heeft mij zo snel en zo volledig beoordeeld als die jongen, die opkeek, mijn jas zag, mijn handen zag, en besloot dat ik niets nuttigs te bieden had behalve een vinger.
+> De naam Richard Parker knipte ik al zesenveertig jaar uit de krant. De jongen zelf vroeg of ik mijn vinger even op de knoop wilde houden. Toen ik hem vond, zei ik dat zijn veter te kort was. Hij zat op een meerpaal met zijn linkerlaars op zijn knie, de zool los aan de neus, en hij had er een stuk touw doorheen geregen dat beter in een tuigage paste dan in een schoen. Ik heb in mijn leven vier koningen de hand gekust. Geen van hen heeft mij zo snel en zo volledig beoordeeld als die jongen, die opkeek, mijn jas zag, mijn handen zag, en besloot dat ik niets nuttigs te bieden had behalve een vinger.
 > 'Houd die efkes vast,' zei hij.
 > Ik hield hem vast.
 

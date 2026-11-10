@@ -39,3 +39,27 @@
 - Twee beats vallen bewust buiten de tolerantie van 5 punten: de overgang naar deel 2 (+5,9, op vraag van de auteur rond 25%) en de overgang naar deel 3 (+6,7).
 - Brief-contractcheck: PASS. Verificatie: degraded (niet onafhankelijk); er is geen subagent gestart.
 - Volgende stap: akkoord van de auteur op I-01 en I-02, daarna fase 3 (schrijven, te beginnen met hoofdstuk 1 en een leespanel).
+
+## 10 november 2026 — fase 3: hoofdstukken 1-3
+
+- Beslissingen van de auteur verwerkt:
+  - I-01: nieuwe openingszin;
+  - I-02: de haven in één dag, lengte volgt de inhoud;
+  - hfst. 13: de kruik;
+  - hfst. 19: de knoop is geen toestemming.
+- Geschreven, gestaged met `stage_chapter.py` en canoniek gemaakt. Voor elk hoofdstuk zijn de hashes van bron, gestagede tekst en canonieke tekst identiek.
+
+  | Hoofdstuk | Woorden | Gepland |
+  |---|---|---|
+  | hfst. 1 | 2.608 | 3.300 |
+  | hfst. 2 | 2.279 | 3.900 |
+  | hfst. 3 | 2.022 | 3.500 |
+
+  `check_progress.py`: 6.888 woorden proza.
+- **Lengteprojectie:** 64% van het plan. Bij dit tempo komt het boek op ongeveer 50.000 woorden, onder de vloer van 75.000. Volgens de orchestratorregel wordt er niet verder geschreven voor er herpland is. Er wordt niet opgevuld.
+- **Leespanel:** het panel op hfst. 1 is nog niet uitgevoerd. Het vereist geïsoleerde subagents, en die starten we alleen op vraag van de auteur.
+- Vastgelegde nieuwe feiten staan in het register:
+  - het golfuur, tegen 5 uur 's morgens;
+  - de vader Daniel, ketelmaker;
+  - de alias Jermyn;
+  - Lyle, Hutchings en de knipsels.

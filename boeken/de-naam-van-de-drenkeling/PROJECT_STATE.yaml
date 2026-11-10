@@ -17,7 +17,7 @@ project:
 collaboration:
   mode: "check-in"
   waiting_for_author: true
-  pending_checkpoint: "Phase 2: Architecture (I-01, I-02 ter bevestiging)"
+  pending_checkpoint: "Phase 3: na hfst. 3, lengteprojectie en leespanel"
 
 independence:
   level: "isolated subagents, same model family"
@@ -28,8 +28,8 @@ independence:
   notes: "Geen tweede modelfamilie geïnstalleerd in deze sessie. Lezers draaien als aparte subagents zonder toegang tot plan of scores."
 
 pipeline:
-  current_phase: "Phase 2: Architecture"
-  current_gate: "architecture"
+  current_phase: "Phase 3: Drafting"
+  current_gate: "drafting"
   status: "awaiting_author"
   panel_passes: 0
   rubric_passes: 0
@@ -37,16 +37,16 @@ pipeline:
 manuscript:
   chapter_count_planned: 22
   average_words_per_chapter_planned: 3650
-  completed_chapters: []
-  word_count_actual: 0
+  completed_chapters: [1, 2, 3]
+  word_count_actual: 6888
   length_gate: "pending"
-  status: "not_started"
+  status: "in_progress"
 
 gates:
   intake: "passed"
   foundation: "passed"
-  architecture: "awaiting_author"
-  drafting: "pending"
+  architecture: "passed"
+  drafting: "in_progress"
   adversarial_audit: "pending"
   revision_loop: "pending"
   final_score: "pending"
@@ -66,9 +66,14 @@ decisions:
   - "46 jaar: de naam wordt een bijgeloof met knipsels; krantenbericht mei 1884 (verzonnen); voorstel, ter bevestiging (I-01)."
   - "Proefhoofdstuk 12 herzien na feedback auteur (sloep-zin, dankbaarheid, thee, kanttekeningen, zeshonderd jaar)."
   - "Brief-contractcheck: PASS; verificatie degraded (niet onafhankelijk)."
+  - "I-01 en I-02 bevestigd; nieuwe openingszin van de auteur."
+  - "Hfst. 13: Richard vult een kruik en verliest ze om Brooks te helpen."
+  - "Hfst. 19: de knoop is geen toestemming en geen vergeving."
   - "Afwijking van de workflow op vraag van de auteur: proefhoofdstuk 12 vóór fase 2, als werkstuk (work/), niet canoniek; geen paneelronde."
 
 open_questions:
+  - "Lengteprojectie: hfst. 1-3 = 6.888 woorden tegen 10.700 gepland (64%). Bij dit tempo ~50.000 woorden, onder de vloer van 75.000. Herplannen of positioneren als korte roman?"
+  - "Leespanel op hfst. 1 nog niet uitgevoerd (vereist subagents; auteur beslist)."
   - "Lengte staven met paginatellingen van Nederlandstalige comps."
   - "Ritmebewijs uit minstens één Nederlandstalige comp (05-voice.md heeft nog geen comp-bewijs)."
   - "Bronnen nakijken in fase 2: vertrekhaven, data, Montezuma, Peartree Green, Poe Carmine Street."
