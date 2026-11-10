@@ -22,7 +22,7 @@ Ik legde mijn hand op zijn schouder. Hij werd meteen wakker, zoals jongens dat d
 
 'Is het een uur ervoor?'
 
-'Ik weet het niet,' zei ik. 'Het is drie uur.'
+'Het is drie uur,' zei ik.
 
 Hij lag stil. Ik dacht dat hij kwaad zou worden. Hij had de reden. Hij had me gevraagd hem een uur ervoor te wekken en ik had hem gewekt op een uur dat ik zelf had gekozen, zonder te weten of het het goede was.
 
@@ -70,7 +70,9 @@ Ik stond bij het luik met mijn handen leeg, en ik zag Richard een kruik vullen, 
 
 Richard had het verslag ook gelezen. Hij vulde de kruik.
 
-Wat ik wel deed: ik ging naar de sloep. Ze lag nog altijd omgekeerd midscheeps, vastgesjord aan vier ringbouten in het dek met touw dat in zes weken zeewater zo hard was geworden als hout. Ik had in die zes weken van Richard en van Brooks knopen geleerd. Ik kende de paalsteek, de mastworp en de schootsteek. Ik kende ook de slipsteek, die je met één ruk losmaakt. Ik heb de vier sjorringen losgemaakt, een voor een, met mijn vingers die het koud hadden, en ik heb ze opnieuw vastgemaakt met een slipsteek, zodat een man ze met één hand kon lossen. Het kostte me drie kwartier. Bij de derde ringbout kwam Stephens kijken wat ik deed. Hij keek naar de knoop, toen naar mij.
+Wat ik wel deed: ik ging naar beneden, haalde het dagboek onder de jas van Brooks vandaan en stak het in mijn binnenzak, bij Pym. Dat is het enige wat ik in dat uur voor mezelf heb gedaan.
+
+Daarna ging ik naar de sloep. Ze lag nog altijd omgekeerd midscheeps, vastgesjord aan vier ringbouten in het dek met touw dat in zes weken zeewater zo hard was geworden als hout. Ik had in die zes weken van Richard en van Brooks knopen geleerd. Ik kende de paalsteek, de mastworp en de schootsteek. Ik kende ook de slipsteek, die je met één ruk losmaakt. Ik heb de vier sjorringen losgemaakt, een voor een, met mijn vingers die het koud hadden, en ik heb ze opnieuw vastgemaakt met een slipsteek, zodat een man ze met één hand kon lossen. Het kostte me drie kwartier. Bij de derde ringbout kwam Stephens kijken wat ik deed. Hij keek naar de knoop, toen naar mij.
 
 'Waarom?' zei hij.
 

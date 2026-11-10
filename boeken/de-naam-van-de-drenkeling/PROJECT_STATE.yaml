@@ -7,17 +7,17 @@ project:
   language: "nl-BE"
   genre: "literaire historische roman met tijdreiselement"
   audience: "volwassen lezers van literaire en historische fictie"
-  positioning: "roman, boek I van een reeks; richtpunt 65.000 woorden"
+  positioning: "korte roman, boek I van een reeks; richtpunt ~50.000 woorden"
   series: true
-  target_range_words: "richtpunt 65000, geen vloer"
+  target_range_words: "richtpunt ~50000 (korte roman); beoordelen zoals ze ligt als het verhaal bij ~45000 rond is"
   target_floor_words: 0
-  target_ceiling_words: 80000
+  target_ceiling_words: 60000
   quality_target: 8.5
 
 collaboration:
   mode: "check-in"
   waiting_for_author: true
-  pending_checkpoint: "Phase 3: na hfst. 14; lengtebeslissing van de auteur"
+  pending_checkpoint: "Phase 3: na hfst. 19 (graaf verlaat de sloep); deel IV (Poe) volgt"
 
 independence:
   level: "isolated subagents, same model family"
@@ -37,8 +37,8 @@ pipeline:
 manuscript:
   chapter_count_planned: 22
   average_words_per_chapter_planned: 3650
-  completed_chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
-  word_count_actual: 26824
+  completed_chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+  word_count_actual: 31799
   length_gate: "pending"
   status: "in_progress"
 
@@ -76,6 +76,8 @@ decisions:
   - "Hfst. 4: kanttekening over de tweede strofe geschrapt (auteur): de kruik blijft voor hfst. 13."
   - "Nawoord: 'De gesprekken aan boord zijn in Vlaamse spreektaal weergegeven.' (work/nawoord-notities.md)."
   - "Hfst. 12 vervangt de proefversie; opent met 'Stephens bakt'; het slot van hfst. 11 is de vinger op de naam."
+  - "Lengte (auteur, na hfst. 14): korte roman, richtpunt ~50.000 woorden. Stilistische revisie pas na de volledige eerste versie (work/revisie-notities.md)."
+  - "Hfst. 19 eindigt zodra de graaf vertrokken is; de vraag en het antwoord van de wacht horen bij Poe (hfst. 21)."
   - "Afwijking van de workflow op vraag van de auteur: proefhoofdstuk 12 vóór fase 2, als werkstuk (work/), niet canoniek; geen paneelronde."
 
 open_questions:

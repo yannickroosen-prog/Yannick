@@ -16,3 +16,6 @@ Volledige lijst: zie `artifacts/03-characters.md` en de markeringen [H], [V] en 
 - **Het gedenkteken in Peartree Green:** Richard Parker heeft geen graf.
 - **Het uur van de golf** volgt de reconstructies die 'tegen de avond' zeggen. Het exacte uur is onbekend.
 - **De vijfde man in de sloep** is verzonnen. De bronnen spreken van vier opvarenden.
+- **Verzonnen over Stephens:** het vorige schip, de Ellen Ward (1878), en zijn rol als kok daar.
+- **Dudleys vrouw Philippa:** de naam staat in het boek. Nog na te kijken tegen een bron.
+- **Het lot:** historisch stelde Dudley loten voor en weigerde Brooks. Het aanbod van de graaf is verzonnen.

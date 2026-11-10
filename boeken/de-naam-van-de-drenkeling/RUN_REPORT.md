@@ -140,3 +140,26 @@
   | de kade, één dag (hfst. 1-6) | 12.456 |
   | zes weken aan boord (hfst. 7-12) | 10.693 |
   | eerste vijf dagen in de sloep (hfst. 13-14) | 3.675 |
+
+## 10 november 2026 — hoofdstukken 15-19 (de sloep)
+
+- **Beslissingen van de auteur:**
+  - korte roman, richtpunt ongeveer 50.000 woorden;
+  - stilistische revisie pas na de volledige eerste versie (`work/revisie-notities.md`, met 'Hij spaarde hen' te schrappen);
+  - hfst. 19 eindigt bij het vertrek van de graaf.
+- **Continuïteitsherstellingen:**
+  - hfst. 13 (a2): de graaf steekt het dagboek in zijn binnenzak. Anders kon het de ondergang niet overleven;
+  - hfst. 13 (a2): 'Ik weet het niet' vervangen door 'Het is drie uur'. Daardoor klopt 'Dat is de eerste keer dat ge dat zegt' in hfst. 17;
+  - de stemkaart is daarop aangepast.
+- **Geschreven en canoniek gemaakt:**
+
+  | Hoofdstuk | Woorden | Inhoud |
+  |---|---|---|
+  | hfst. 15 | 1.561 | Richard verbetert Stephens, ergert zich aan de kousen, vraagt de riem, drinkt zeewater: 'Gij zijt een slechte waarzegger. Maar ge liegt niet meer.' |
+  | hfst. 16 | 599 | het dagboek weigert; onthult dat de sloephoofdstukken later zijn geschreven |
+  | hfst. 17 | 841 | het warme hemd |
+  | hfst. 18 | 1.262 | het laatste vlees van Stephens, het lot, het aanbod |
+  | hfst. 19 | 706 | de wacht zonder de vraag, de knoop, het vertrek |
+
+- **Totaal:** 31.799 woorden in 19 hoofdstukken.
+- **Projectie:** met deel IV komt het boek uit op ongeveer 37.000 à 39.000 woorden, onder het richtpunt van de auteur (~45.000 tot 50.000). Dit is gemeld aan de auteur. Er is niet opgevuld.

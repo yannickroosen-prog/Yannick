@@ -1,6 +1,6 @@
 # Continuïteitsregister: De naam van de drenkeling
 
-Bijgewerkt na: hoofdstuk 14 (canoniek: hfst. 1-14). De enige tekst die al bestaat, is de proefversie van hoofdstuk 12 (`work/proef-hoofdstuk-12.md`). Die wordt hieronder aangeduid als `proef12`.
+Bijgewerkt na: hoofdstuk 19 (canoniek: hfst. 1-19). De enige tekst die al bestaat, is de proefversie van hoofdstuk 12 (`work/proef-hoofdstuk-12.md`). Die wordt hieronder aangeduid als `proef12`.
 
 Bronnotatie: `plan: <artefact>` geeft aan dat iets alleen gepland is. `proef12 "…"` verwijst naar de proeftekst. `bron: <url>` verwijst naar een historische bron.
 
@@ -50,7 +50,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **Overleden op 25 juli 1884, 'after nineteen days dreadful suffering in an open boat'.** [H] gedenkteken. Ander bericht: 24 juli. [H?]
 - **Locatielog:** hfst. 1-6 Southampton; hfst. 7-12 Mignonette; hfst. 13-19 sloep.
 
-### C-03 Tom Dudley, kapitein (stelt zich voor als Thomas Dudley, ch02)
+### C-03 Tom Dudley, kapitein (vrouw: Philippa [H?], door hem bij naam genoemd vanaf dag 15, ch16) (stelt zich voor als Thomas Dudley, ch02)
 - Klein en breed, gezicht door de wind één kleur, baard scheef geknipt aan de linkerkant, laarzen die glimmen. ch02
 - Heeft Richard 'gekozen uit twaalf': 'Hij is mijn beste aanwinst.' ch02
 - Betaalt Richard minder dan 18 shilling per maand; de lijn naar Lissabon biedt zes meer, dus 12 shilling. ch03 (18 − 6 = 12) [V]
@@ -61,7 +61,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **Doodde Parker met een pennenmes, na een gebed.** [H] bron: R v Dudley and Stephens. De graaf is daar niet bij (W-05).
 - **Locatielog:** hfst. 2-19.
 
-### C-04 Edwin Stephens, stuurman
+### C-04 Edwin Stephens, stuurman (houdt de dagen bij in zijn boekje met strepen; potlood in zijn haar, ch15-16)
 - **Bakt om de twee dagen sodabrood in een ijzeren pan met deksel.** [V] proef12
 - **Telt alles: het meel, de vaten, de beschuiten.** [V] proef12. Klopt met zijn knokkel op vaten om ze te keuren en schrijft in een boekje. ch02
 - **Zijn handen trillen altijd een beetje, ook als hij slaapt.** [V] proef12
@@ -149,6 +149,10 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 - **K-13** De graaf koos zelf het uur om Richard te wekken: 15.00 uur op 5 juli (ch13). Richard: 'Ongeveer.' / 'Dan heb ik tijd.'
 - **K-14** De graaf maakte de sjorringen van de sloep los en legde slipsteken; Stephens hielp en sneed de laatste (ch13). Hij haalde zelf geen water, omdat het verslag 'geen water' zei (ch13).
 - **K-15** Richard heeft de mannen niets verteld: 'Wat zou het veranderen? Dan kijken ze me nu al zo aan.' (ch14, nacht van dag 4)
+- **K-16 Hoe de sloepdagen zijn opgeschreven (ch16):** in de sloep schreef de graaf maar één regel ('Richard heeft vannacht geslapen'), met Stephens' potlood op de binnenkant van de kaft. Hfst. 13-19 zijn later uit het hoofd geschreven, aan 'een tafel die niet beweegt', met een stilstaande lamp, een kerkklok in de straat en een opgewonden horloge. Bindend: hfst. 20 moet passen bij die kamer.
+- **K-17** Stephens was de kok op de Ellen Ward (1878). Hij bewaarde het laatste vlees een dag te lang; twee man stierven (ch18) [V]. Dudley wist het niet.
+- **K-18** Dudley weigerde het aanbod van de graaf: 'U hebt betaald. U bent een heer. U bent onze gast. Dat doen we niet.' Richard tegen de graaf: 'Ge kunt het aanbieden. Omdat ge weg kunt.' (ch18, dag 19, ochtend)
+- **K-19** De wacht (ch19): de graaf vroeg Richard iets en sprak hem daarbij één keer met 'ge' aan; Richard antwoordde. De inhoud volgt pas in hfst. 21. Daarna gaf Richard hem de knoop. Er werd niets bij gezegd.
 - **K-08** Wie de graaf is. Brooks vroeg het op dag 5; de graaf zei de waarheid ('graaf van Saint-Germain … in 1784 in Eckernförde gestorven … de vijfde juli in de krant van december gelezen'). Brooks lachte, voor het laatst. Dudley en Stephens hoorden het; Richard glimlachte met zijn ogen dicht (ch14).
   - Brooks vraagt het in hfst. 14. De graaf zegt de waarheid, en Brooks gelooft hem niet.
 
@@ -180,6 +184,8 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
   - hfst. 12: het laatste stuk wordt toegeschoven;
   - hfst. 14: geen brood meer;
   - hfst. 20: echo bij Maria Clemm.
+- **O-05b (ch19):** Richard haalt de knoop uit zijn broekzak en legt hem in de hand van de graaf. De graaf neemt hem mee. De reep zeildoek blijft in Richards zak.
+- **O-21 De jas en het hemd van de graaf:** het hemd gewarmd en aan Richard gegeven (ch17); de jas onder Richards hoofd achtergelaten (ch19). De graaf vertrekt zonder hemd en zonder jas, met het dagboek en Pym onder zijn broeksband en de knoop in zijn hand.
 - **O-05 De knoop van moeders jas:** groot, zwart, van gedraaid been, vier gaten, een stukje grijze draad. Was de bovenste knoop; zijn moeder naaide hem elke winter opnieuw aan. Richard sneed hem eraf na haar dood. Draagt hem in zijn broekzak. ch05. hfst. 5 getoond, hfst. 19 gegeven, hfst. 21 verteld. Hoe de graaf de knoop meeneemt bij de sprong: hij draagt hem (W-02).
 - **O-06 Dudleys mes:**
   - het maakt nagels schoon (proef12);
@@ -213,6 +219,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 | T-07 | 11 | maandag 30 juni (breedte van Rio, ver uit de kust, koud) – vrijdag 4 juli, 17.10 uur | | de datering keert terug. 4 juli 1884 = vrijdag (berekend) |
 | T-08 | 12 | vrijdag 4 juli, vanaf 17.11 uur tot ongeveer 20.45 uur | dezelfde dag | proef12 'Kwart voor negen … Ongeveer' |
 | T-09 | 13 | zaterdag 5 juli 1884: Richard slaapt van 12 uur tot hij om 15 uur gewekt wordt; de golf 'tegen de avond'; het uur is niet gemeten (de graaf keek bewust niet op zijn horloge); zinkt in vijf minuten | 1 dag | ondergang [H]; Dudley gooit twee blikken in de sloep |
+| T-10a | 15-19 | ch15: dag 6 de rechterlaars overboord; dag 8 de dubbele streep van Stephens; regen twee keer; dag 9 de kousen; dag 10 'Van Doyle'; dag 11 Richard aan de riem, 'we drijven af naar het noorden'; dag 12 de schildpad 'op' (Dudley), het zeewater, die nacht ziek, bij dageraad regen. ch17: koude nacht, het hemd. ch18: dag 15 's avonds het laatste vlees ('vandaag'); dag 19 (24 juli) 's ochtends het lot. ch19: nacht van 24 op 25 juli, de wacht, de knoop; vóór dageraad vertrekt de graaf | | |
 | T-10 | 14-17 | ch14: zondag 6 juli = dag 1; dag 1 eerste blik rapen; dag 2 hozen met handen en pet; dag 3 hozen met laarzen; dag 4 (9 juli) schildpad, bloed gedronken uit het lege blik; dag 5 Brooks' vraag. Verder tot ±23 juli | dag 1-18 in de sloep | de schildpad op dag 4 [H?]; het zeewater [H?] |
 | T-11 | 18 | ±23-24 juli | | voorstel om te loten [H: Dudley stelde voor; Brooks weigerde] |
 | T-12 | 19 | nacht van 24 op 25 juli 1884 | | de sprong vóór dageraad; Richard sterft 25 juli [H] |
