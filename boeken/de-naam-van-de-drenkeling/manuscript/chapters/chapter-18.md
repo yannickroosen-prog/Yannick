@@ -22,7 +22,7 @@ Stephens keek naar het vlees.
 
 'Het houdt niet.' Stephens legde zijn hand naast het vlees, niet erop. 'Op de Ellen Ward, in achtenzeventig, hebben we het laatste vlees een dag te lang bewaard. De kok wilde het sparen. Op de derde dag was het groen. We hebben het toch gegeten. Twee man zijn eraan gestorven.' Hij zei het in één adem, zonder iemand aan te kijken, en hij keek daarna ook niemand aan. 'Ik was de kok.'
 
-Het bleef stil. Ik had in zes weken op de Mignonette en vijftien dagen in de sloep nooit gehoord dat Stephens op een ander schip had gevaren. Hij had het niemand verteld. Dudley keek hem aan, en ik zag dat Dudley het ook niet had geweten.
+Het bleef stil. Ik had in zeven weken op de Mignonette en vijftien dagen in de sloep nooit gehoord dat Stephens op een ander schip had gevaren. Hij had het niemand verteld. Dudley keek hem aan, en ik zag dat Dudley het ook niet had geweten.
 
 'Vandaag,' zei Dudley.
 
@@ -36,7 +36,7 @@ Dudley hield het mes stil.
 
 'De jongen houdt niks binnen,' zei Stephens. 'Het is zonde.'
 
-Hij zei het zonder kwaadheid. Hij zei het zoals hij op de kade had gezegd dat een vat lekte. Het was een feit over de verdeling. Ik zag Dudley naar Richard kijken, in de bodem, in mijn hemd, en ik zag hem nadenken, en ik zag dat hij het mes niet verplaatste. Hij wachtte. Hij wachtte op iets.
+Hij zei het zonder kwaadheid. Hij zei het zoals hij aan tafel had gezegd dat een vat lekte. Het was een feit over de verdeling. Ik zag Dudley naar Richard kijken, in de bodem, in mijn hemd, en ik zag hem nadenken, en ik zag dat hij het mes niet verplaatste. Hij wachtte. Hij wachtte op iets.
 
 Hij wachtte op Brooks.
 

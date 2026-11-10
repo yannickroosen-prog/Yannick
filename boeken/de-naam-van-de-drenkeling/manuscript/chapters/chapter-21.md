@@ -34,7 +34,7 @@ Ik las het een tweede keer. Ik las het zoals Richard las, met mijn vinger onder 
 
 Poe keek me aan.
 
-'Hij heeft niets voorgesteld. Niemand heeft hem iets gevraagd. Hij lag in de bodem van de sloep, ziek van het zeewater, en de kapitein heeft het voorgesteld, en een van de anderen heeft nee gezegd, en er zijn geen strootjes geweest.' Ik hoorde mijn stem. Ze was luider dan ik wilde. 'Dat heb ik u verteld. In deze keuken. Hier.'
+'Hij heeft niets voorgesteld. Niemand heeft hem gevraagd of hij het lot wilde. Hij lag in de bodem van de sloep, ziek van het zeewater, en de kapitein heeft het voorgesteld, en een van de anderen heeft nee gezegd, en er zijn geen strootjes geweest.' Ik hoorde mijn stem. Ze was luider dan ik wilde. 'Dat heb ik u verteld. In deze keuken. Hier.'
 
 'Dat weet ik,' zei Poe.
 

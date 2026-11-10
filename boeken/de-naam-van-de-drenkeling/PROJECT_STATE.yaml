@@ -17,7 +17,7 @@ project:
 collaboration:
   mode: "check-in"
   waiting_for_author: true
-  pending_checkpoint: "Revisie ronde 2 klaar (stijl); vergelijkend leespanel (A/B) volgt"
+  pending_checkpoint: "Panel A/B ronde 1: hfst. 1, 18 en 21 aanvaard; hfst. 12 verworpen; voorstel aan de auteur"
 
 independence:
   level: "isolated subagents, same model family"
@@ -31,7 +31,7 @@ pipeline:
   current_phase: "Phase 5: Revision Loop"
   current_gate: "revision_loop"
   status: "awaiting_author"
-  panel_passes: 0
+  panel_passes: 1
   rubric_passes: 0
 
 manuscript:
