@@ -14,8 +14,9 @@ De volledige uitwerking van de auteur (vijf bewegingen, de herziening van het mi
 | Genre | literaire historische roman met één tijdreiselement |
 | Lezer | volwassen lezers van literaire en historische fictie, 30+, boekhandel en bibliotheek |
 | Positionering | volwaardige roman, boek I van een reeks |
-| Lengte | 80.000 – 100.000 woorden (doel 90.000) |
-| Hoofdstukken | 24, gemiddeld 3.750 woorden |
+| Lengte | 75.000 – 88.000 woorden (doel 80.000) |
+| Hoofdstukken | 22, gemiddeld ongeveer 3.650 woorden |
+| Auteur | [auteursnaam] |
 | Perspectief | ik-verteller (Saint Germain), dagboek met latere kanttekeningen |
 | Tijd | verleden tijd; kanttekeningen in de tegenwoordige tijd |
 

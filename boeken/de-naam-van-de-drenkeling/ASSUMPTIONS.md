@@ -9,8 +9,8 @@ Elke regel is een afleiding uit het idee. Verbeter wat niet klopt; één antwoor
 - **Herkomst:** oorspronkelijk Nederlandstalig werk, geen vertaling.
 - **Genre:** literaire historische roman met één tijdreiselement (geen sciencefiction, geen fantasy). Afgeleid uit 'literaire tijdreisroman' in het idee.
 - **Segment:** lokaal geschreven literaire fictie, met één zijstap naar vertaalde 'speculatieve literaire' fictie voor de comps.
-- **Lengte:** 80.000 tot 100.000 woorden, gepland op 90.000 (rij 'Literary fiction' uit de patronenbibliotheek). Nog niet getoetst aan Nederlandstalige comps; die liggen vaak lager. Zie open vraag 1.
-- **Hoofdstukken:** 24 hoofdstukken van gemiddeld 3.750 woorden. Afgeleid uit de lengte en de vijf grote bewegingen in het idee.
+- **Lengte (beslist door de auteur, 10-11-2026):** ongeveer 80.000 woorden; contract 75.000 – 88.000. Wijkt bewust af van de Engelse rij (80.000 – 100.000) omdat Nederlandstalige literaire romans korter zijn; nog te staven met paginatellingen van comps.
+- **Hoofdstukken:** 22 hoofdstukken van gemiddeld ongeveer 3.650 woorden. Poe krijgt geen vijfde van het boek maar ongeveer 12%.
 - **Reeks:** ja, boek I van een reeks. Het idee spreekt over 'boek één' en 'zijn uiteindelijke doel in de reeks'.
 
 ## Vertelling
@@ -29,8 +29,12 @@ Elke regel is een afleiding uit het idee. Verbeter wat niet klopt; één antwoor
 - **De vrouw met het warme hemd** wordt in boek I hooguit één keer aangeraakt.
 - **Slot:** het gesprek met Poe in 1837, de drukproef, het doorgestreepte woord.
 
-## Door mij toegevoegd om een gat in de logica te dichten (graag bevestigen)
+## Beslissingen na de intake (10 november 2026)
 
-- **Waarom Poe in 1837 bereikbaar is:** de graaf 'sterft' officieel in februari 1784 in Eckernförde en springt dan naar 1838. Daar leest hij Poes boek en leeft hij zesenveertig jaar door tot 1884. De jaren 1785-1837 heeft hij dus nooit beleefd. Daardoor mag hij volgens zijn eigen regel terug naar 1837. Zonder deze ingreep breekt het slot de regel. Zie `artifacts/02-story-engine.md`, 'Causaal contract'.
-- **Waarom de geschiedenis hem niet vermeldt:** de bronnen spreken van vier opvarenden. De graaf gaat aan boord als onbetaalde extra hand die niet op de bemanningslijst staat, en hij springt weg uit de sloep vóór de redding. De drie overlevenden zwijgen over hem omdat hun verhaal anders ongeloofwaardig wordt.
-- **Auteursnaam op de titelpagina:** 'Anoniem' tot je een naam opgeeft.
+- **Tijdlijn (bevestigd en aangevuld door de auteur):** de graaf 'sterft' in februari 1784 in Eckernförde en springt naar 1838. Hij leest Pym en noteert de naam als merkwaardigheid. Hij leeft door tot mei 1884. Kort vóór het vertrek springt hij naar december 1884, leest het procesverslag en herkent de naam. Dan springt hij terug naar de vertrekdag die hij heeft overgeslagen. Uit het proces kent hij de feiten; uit Poe meent hij Richards karakter te kennen.
+- **Geen prijs voor een sprong (beslist):** geen verloren herinnering per sprong. Zijn twijfel over wat hij zich herinnert heeft geen bovennatuurlijke verklaring.
+- **De wacht (voorstel auteur, overgenomen):** de graaf vroeg Richard: 'Wilt ge dat ik blijf?' Richard: 'Ge wilt dat ik zeg dat ge moogt gaan.' Hij vroeg een stervende jongen toestemming om hem alleen te laten, en sprong weg vóór Richard gedood werd.
+- **Life of Pi (beslist):** alleen een korte erkenning in het nawoord.
+- **Waarom de geschiedenis hem niet vermeldt:** de bronnen spreken van vier opvarenden. De graaf gaat aan boord als passagier zonder papieren, niet op de bemanningslijst, en springt weg uit de sloep in de nacht vóór Richards dood. De drie overlevenden zwijgen over hem omdat hun verhaal anders ongeloofwaardig wordt. Hij weet dit al vóór vertrek: in het procesverslag staat hij niet.
+- **Taal van het dagboek:** de graaf schrijft in de taal van het land waar hij woont; dit dagboek is dus Engels, weergegeven in het Nederlands. Daarom kan Richard het lezen (traag, met zijn vinger).
+- **Auteursnaam (beslist):** werkveld `[auteursnaam]`. Niet 'Anoniem', omdat dat bij een fictief dagboek als onderdeel van het verhaal leest.

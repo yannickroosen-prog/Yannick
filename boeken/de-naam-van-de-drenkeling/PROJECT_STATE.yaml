@@ -9,15 +9,15 @@ project:
   audience: "volwassen lezers van literaire en historische fictie"
   positioning: "volwaardige roman, boek I van een reeks"
   series: true
-  target_range_words: "80000-100000"
-  target_floor_words: 80000
-  target_ceiling_words: 100000
+  target_range_words: "75000-88000"
+  target_floor_words: 75000
+  target_ceiling_words: 88000
   quality_target: 8.5
 
 collaboration:
   mode: "check-in"
   waiting_for_author: true
-  pending_checkpoint: "Phase 0: Intake"
+  pending_checkpoint: "Phase 1: Foundation + proefhoofdstuk 12"
 
 independence:
   level: "isolated subagents, same model family"
@@ -28,23 +28,23 @@ independence:
   notes: "Geen tweede modelfamilie geïnstalleerd in deze sessie. Lezers draaien als aparte subagents zonder toegang tot plan of scores."
 
 pipeline:
-  current_phase: "Phase 0: Intake"
-  current_gate: "intake"
+  current_phase: "Phase 1: Foundation"
+  current_gate: "foundation"
   status: "awaiting_author"
   panel_passes: 0
   rubric_passes: 0
 
 manuscript:
-  chapter_count_planned: 24
-  average_words_per_chapter_planned: 3750
+  chapter_count_planned: 22
+  average_words_per_chapter_planned: 3650
   completed_chapters: []
   word_count_actual: 0
   length_gate: "pending"
   status: "not_started"
 
 gates:
-  intake: "awaiting_author"
-  foundation: "pending"
+  intake: "passed"
+  foundation: "awaiting_author"
   architecture: "pending"
   drafting: "pending"
   adversarial_audit: "pending"
@@ -54,16 +54,20 @@ gates:
   market: "unverified"
 
 decisions:
-  - "Sprongregel: geen terugkeer naar een dag die de graaf al beleefde (uit idee auteur)."
-  - "Kantelpunt 'Waarom komt ge zelf niet mee?' rond 25% (uit idee auteur)."
-  - "Voorstel, wacht op bevestiging: graaf springt van februari 1784 naar 1838, zodat 1837 bereikbaar blijft."
+  - "Sprongregel: geen terugkeer naar een dag die de graaf al beleefde."
+  - "Kantelpunt 'Waarom komt ge zelf niet mee?' in hfst. 6 (~25%)."
+  - "Tijdlijn: 1784 -> 1838 (Pym) -> mei 1884 -> december 1884 (procesverslag) -> 19 mei 1884 (kade) -> 1837 (Poe)."
+  - "Geen prijs per sprong; geen verloren herinneringen."
+  - "Lengte ~80.000 woorden (75.000-88.000), 22 hoofdstukken; Poe ~12%."
+  - "Life of Pi: alleen korte erkenning in het nawoord."
+  - "Auteur: werkveld [auteursnaam]."
+  - "De wacht: 'Wilt ge dat ik blijf?' / 'Ge wilt dat ik zeg dat ge moogt gaan.'"
+  - "Afwijking van de workflow op vraag van de auteur: proefhoofdstuk 12 vóór fase 2, als werkstuk (work/), niet canoniek; geen paneelronde."
 
 open_questions:
-  - "Lengte: 90.000 woorden (Engelse richtlijn) of korter volgens Nederlandstalige comps?"
-  - "Bevestigt de auteur de tijdlijn 1784 -> 1838?"
-  - "Hoe gaat het boek om met de associatie Richard Parker / Life of Pi?"
-  - "Auteursnaam op de titelpagina."
-  - "Kosten van een sprong (fase 1)."
+  - "Lengte staven met paginatellingen van Nederlandstalige comps."
+  - "Ritmebewijs uit minstens één Nederlandstalige comp (05-voice.md heeft nog geen comp-bewijs)."
+  - "Bronnen nakijken in fase 2: vertrekhaven, data, Montezuma, Peartree Green, Poe Carmine Street."
 
 delivery:
   status: "pending"
