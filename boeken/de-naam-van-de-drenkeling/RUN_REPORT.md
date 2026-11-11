@@ -227,3 +227,54 @@
 - Hfst. 1 (3–1) en hfst. 12 (4–0) aanvaard. De panelpoort is gehaald.
 - Hercontrole: T-01, T-02 en T-03 gesloten; audit_status: pass. Kleine nieuwe tickets hersteld.
 - Leesexemplaar opnieuw geëxporteerd.
+
+## 11 november 2026 — fase 6 en 7, eindinventaris
+
+**Keuze zonder tussenstop** ('werk af tot het einde'): in hfst. 1 is 'Het was trots, maar trots op een ander' teruggezet. Drie van de vier lezers misten de zin in de vergelijking.
+
+### Inventaris
+
+**Manuscript:**
+- 22 hoofdstukken, `manuscript/chapters/chapter-01.md` tot en met `chapter-22.md`;
+- 35.260 woorden proza volgens het exportbewijs (`word_count.total`);
+- plan: 22 hoofdstukken, richtpunt ongeveer 50.000 woorden, geen ondergrens (beslist door de auteur), plafond 60.000.
+
+**Levering:** `delivery/manuscript.md`, `delivery/de-naam-van-de-drenkeling.epub`, `export-receipt.json`, `EXPORT.md` en `STATUS.json`.
+- Status: delivered, scope complete_pipeline.
+- EPUB gevalideerd; `verify_book.py --check delivery` zonder fouten.
+- Het nawoord staat apart in `delivery/nawoord.md`, omdat de exporter geen nawerk opneemt.
+
+**Artefacten:**
+- 00 tot en met 09: plan;
+- 10: audit; 10b: hercontrole;
+- 11: eindrapport;
+- 12: redactioneel pakket;
+- 13: positionering en hooktest;
+- 14: nawoord.
+
+**Audits en panels die uitgevoerd zijn:**
+- leespanel op hfst. 1 en hfst. 12;
+- volledige audit (revise), daarna hercontrole (pass);
+- twee vergelijkende panelrondes (hfst. 1, 12, 18 en 21 aanvaard);
+- proeflezing (15 correcties);
+- drie rubriclezingen (gevalideerd);
+- hooktest (4 lezers, 4 pakketten).
+
+**Onafhankelijkheid:** graad B (geïsoleerde subagents, één modelfamilie). Geen menselijke lezers.
+
+**Poorten:**
+- gehaald: audit, panel (steekproef), volledigheid;
+- **niet gehaald: rubric** (laagste dimensie 6,2, gewogen 7,4, streefwaarde 8,5);
+- markt niet geverifieerd;
+- panel op de huidige tekst gedeeltelijk: kleine wijzigingen na de laatste lezing.
+
+**Open punten:**
+- Nawoord: de Londense uitgave van Pym (1838) en de naam Philippa zijn niet geverifieerd.
+- Prozatics (contrast door ontkenning in hfst. 2, 3, 4, 6, 7 en 12; 'zoals je …').
+- Reeksdraad zichtbaar maken voor 'boek I'.
+- Auteursnaam (`[auteursnaam]`).
+
+**Drie aparte toestanden:**
+- manuscript geschreven: **ja**;
+- redactionele review afgerond: **ja**, met een niet-gehaalde rubricpoort;
+- publicatie goedgekeurd door een mens: **nee, nog te beslissen door de auteur**.

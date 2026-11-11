@@ -4,7 +4,7 @@ Author: [auteursnaam]. Language: nl. Chapters: chapter-01.md to chapter-22.md (2
 ## Status
 - manuscript.md: created and validated
 - de-naam-van-de-drenkeling.epub: created and validated
-- word count: 35253 prose words (receipt method: whitespace_split_prose_v2)
+- word count: 35260 prose words (receipt method: whitespace_split_prose_v2)
 - export-receipt.json: created with source and output hashes
 - quality gates: not assessed by this helper; no publication-readiness claim
 

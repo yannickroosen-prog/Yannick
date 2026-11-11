@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "book_dir": "/home/user/Yannick/boeken/de-naam-van-de-drenkeling",
+  "canonical": {
+    "chapter_count": 22,
+    "word_count": {
+      "method": "whitespace_split_prose_v2",
+      "excludes": [
+        "level-one headings",
+        "frontmatter",
+        "blank lines",
+        "standalone scene/formatting separators",
+        "standalone HTML comments"
+      ],
+      "chapters": [
+        {
+          "number": 1,
+          "words": 2514
+        },
+        {
+          "number": 2,
+          "words": 2266
+        },
+        {
+          "number": 3,
+          "words": 2007
+        },
+        {
+          "number": 4,
+          "words": 1666
+        },
+        {
+          "number": 5,
+          "words": 1972
+        },
+        {
+          "number": 6,
+          "words": 1963
+        },
+        {
+          "number": 7,
+          "words": 1661
+        },
+        {
+          "number": 8,
+          "words": 1564
+        },
+        {
+          "number": 9,
+          "words": 1336
+        },
+        {
+          "number": 10,
+          "words": 1519
+        },
+        {
+          "number": 11,
+          "words": 1338
+        },
+        {
+          "number": 12,
+          "words": 3174
+        },
+        {
+          "number": 13,
+          "words": 2026
+        },
+        {
+          "number": 14,
+          "words": 1598
+        },
+        {
+          "number": 15,
+          "words": 1635
+        },
+        {
+          "number": 16,
+          "words": 594
+        },
+        {
+          "number": 17,
+          "words": 785
+        },
+        {
+          "number": 18,
+          "words": 1227
+        },
+        {
+          "number": 19,
+          "words": 759
+        },
+        {
+          "number": 20,
+          "words": 1621
+        },
+        {
+          "number": 21,
+          "words": 1391
+        },
+        {
+          "number": 22,
+          "words": 644
+        }
+      ],
+      "total": 35260
+    }
+  },
+  "delivery": {
+    "status": "delivered",
+    "scope": "complete_pipeline",
+    "formats": [
+      "epub",
+      "md"
+    ],
+    "receipt_sha256": "abb3ed71a7c56dd4f684d7879c62e03a539b75de0413abd701769c243c80ae8b",
+    "errors": []
+  },
+  "reviews": {
+    "status": "not_run",
+    "scopes": [],
+    "errors": [
+      "no current-text review index supplied"
+    ]
+  },
+  "literary_quality": "not_assessed_by_this_tool",
+  "publication_approval": "not_assessed"
+}

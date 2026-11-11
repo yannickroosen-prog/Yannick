@@ -98,7 +98,7 @@ Ik vroeg hem of hij nog familie had in Southampton. Ik wist het antwoord. Ik vro
 
 'Heel de kade weet dat.' Hij stak zijn kin naar de ligplaats, twintig passen verder, waar een jacht lag met een zwarte romp en een mast die korter was dan de masten om haar heen. 'Dat is ze. De Mignonette.'
 
-Ik keek. Ik had haar al gezien, toen ik over de kade kwam, en ik had niet gekeken, omdat ik hem zocht en niet haar. Nu keek ik wel. Ze was klein. Dat is het eerste wat ik over haar opschrijf, en het is ook het laatste wat ik over haar wil weten. Ze was zo klein dat ik dacht dat er een vergissing in het spel moest zijn, dat het grotere schip erachter het hare was, en dat dit de bijboot was. Ik heb aan het hof van Versailles in een sloep op het grote kanaal gevaren die langer was. Ze lag stil, met haar zeilen nog gestreken, en er liep een man over haar dek die iets aan de railing deed met een doek.
+Ik keek. Ik had haar al gezien, toen ik over de kade kwam, en ik had niet gekeken, omdat ik hem zocht en niet haar. Nu keek ik wel. Ze was klein. Dat is het eerste wat ik over haar opschrijf, en het is ook het laatste wat ik over haar wil weten. Ze was zo klein dat ik dacht dat er een vergissing in het spel moest zijn, dat het grotere schip erachter het hare was, en dat dit de bijboot was. Ik heb aan het hof van Versailles in een sloep op het grote kanaal gevaren die langer was. Ze lag stil, met haar zeilen nog gestreken, en er liep een man over haar dek die iets aan de reling deed met een doek.
 
 'Dat is de kapitein,' zei Richard. 'Hij poetst.'
 
@@ -106,7 +106,7 @@ Ik keek. Ik had haar al gezien, toen ik over de kade kwam, en ik had niet gekeke
 
 'Alles.'
 
-Hij zei het met iets in zijn stem wat ik later bij hem alleen nog heb gehoord als hij over een matroos sprak die ik die ochtend nog niet kende, of over brood. Ik weet geen woord voor dat iets. Ik schreef het die avond op als bewondering. Ik heb het daarna doorgestreept en er niets voor in de plaats geschreven.
+Hij zei het met iets in zijn stem wat ik later bij hem alleen nog heb gehoord als hij over een matroos sprak die ik die ochtend nog niet kende, of over brood. Ik weet geen woord voor dat iets. Het was trots, maar trots op een ander. Ik schreef het die avond op als bewondering. Ik heb het daarna doorgestreept en er niets voor in de plaats geschreven.
 
 ---
 
@@ -216,7 +216,7 @@ Ik heb de nacht daarna doorgebracht in een hotel aan de Strand, in een kamer met
 
 Hij liep de loopplank op zonder om te kijken. Ik bleef op de kade staan.
 
-Van dichtbij was de Mignonette nog kleiner. Ik schat haar op zestien meter, misschien minder. Haar romp was zwart en pas geteerd, en de geur ervan hing in de mist. Ze had een enkele mast met een gaffeltuig en een boegspriet die wel lang genoeg leek voor een groter schip, alsof iemand haar had willen laten wijzen naar plaatsen waar ze niet heen kon. Midscheeps, op het dek, lag de sloep, omgekeerd, met haar kiel naar boven. Ze was van een hout zo dun dat ik de plankenranden er van op de kade door kon zien schemeren. Ik schat haar op vier meter. Ik heb haar nooit gemeten. Ik heb er later in gezeten.
+Van dichtbij was de Mignonette nog kleiner. Ik schat haar op zestien meter, misschien minder. Haar romp was zwart en pas geteerd, en de geur ervan hing in de mist. Ze had een enkele mast met een gaffeltuig en een boegspriet die wel lang genoeg leek voor een groter schip, alsof iemand haar had willen laten wijzen naar plaatsen waar ze niet heen kon. Midscheeps, op het dek, lag de sloep, omgekeerd, met haar kiel naar boven. Ze was van een hout zo dun dat ik de plankenranden ervan op de kade door kon zien schemeren. Ik schat haar op vier meter. Ik heb haar nooit gemeten. Ik heb er later in gezeten.
 
 Er stond een man aan dek die met zijn rug naar me toe een vat tegen de reling zette. Hij klopte er met zijn knokkel op, drie keer, op drie verschillende plaatsen, en luisterde, zoals ik op het bovenblad van een viool klop. Toen schreef hij iets in een boekje dat hij uit zijn borstzak haalde, en klopte op het volgende vat. Dat was Stephens. Ik wist het voor iemand het me zei. Ik wist het aan zijn handen.
 
@@ -484,7 +484,7 @@ Dat was waar. Het was het eerste ware wat ik in die kroeg had gezegd.
 
 ---
 
-Brooks moest weg. Hij moest naar Dudley, die hem een lijst had gegeven, en de lijst was lang, en Dudley vergeef je niets wat niet op de lijst staat. Hij stond op, legde zijn hand op Richards hoofd en drukte het een duim naar beneden, zoals je een hond begroet die je goed kent.
+Brooks moest weg. Hij moest naar Dudley, die hem een lijst had gegeven, en de lijst was lang, en Dudley vergeeft je niets wat niet op de lijst staat. Hij stond op, legde zijn hand op Richards hoofd en drukte het een duim naar beneden, zoals je een hond begroet die je goed kent.
 
 'Om drie uur aan boord, jong,' zei hij. 'En leer die tweede strofe. In Sydney neem ik je mee naar een plaats met een piano.' Hij keek naar mij. 'Hij moet leren zingen voor hij mee mag. Ge kunt hem helpen. Ge kent het lied.'
 
@@ -528,7 +528,7 @@ Ik zei niets.
 
 'Op de kade zei ge dat uw zakdoek Brabants linnen was. Bij Hutchings wist ge wat pikdraad kost. Gij weet wat de kapitein mij betaalt.' Hij zei het niet kwaad. Hij zei het zoals je iemand op een vlek op zijn jas wijst. 'Waarom zegt ge altijd wat iets kost?'
 
-Ik had geen antwoord. Dat is niet waar. Ik had er tien, en ze waren allemaal geestig, en ik heb er geen enkel van gezegd.
+Ik had geen antwoord. Dat is niet waar. Ik had er tien, en ze waren allemaal geestig, en ik heb er geen enkele van gezegd.
 
 'Omdat ik het weet,' zei ik.
 
@@ -590,7 +590,7 @@ Hij kwam naar beneden met een zak van zeildoek over zijn schouder, dichtgebonden
 
 'Neem het mee, Dick.'
 
-Hij nam het mee. Hij legde het bovenop de zak en bond het vast onder de lijn. Toen stak hij zijn hand in de zak van zijn broek en haalde er iets uit wat hij in zijn vuist hield. Hij keek naar mevrouw Coombs. Hij keek naar mij. Hij leek te beslissen dat het niet uitmaakte dat ik erbij was, of dat het juist goed was.
+Hij nam het mee. Hij legde het boven op de zak en bond het vast onder de lijn. Toen stak hij zijn hand in de zak van zijn broek en haalde er iets uit wat hij in zijn vuist hield. Hij keek naar mevrouw Coombs. Hij keek naar mij. Hij leek te beslissen dat het niet uitmaakte dat ik erbij was, of dat het juist goed was.
 
 Hij opende zijn hand. Er lag een knoop in. Een grote zwarte knoop van gedraaid been, met vier gaten en een stukje draad dat er nog in zat, grijs geworden.
 
@@ -832,7 +832,7 @@ Hij deed het in een ijzeren pan met een deksel, op het fornuis in de kombuis. Ik
 
 Toen het klaar was, zette hij de pan op het dek naast mijn kist om af te koelen, omdat het de enige plek was waar ze niet in de weg stond. Ik keek naar de pan. Ik heb niet vaak naar iets gekeken zoals ik die middag naar dat brood keek.
 
-Hij sneed het in vieren. Hij nam zelf een half stuk, en gaf mij het andere half. Dudley kreeg een vierde, Brooks een vierde, Richard een vierde. Ik heb die verdeling toen niet begrepen. Ik heb haar die eerste keer zelfs niet opgemerkt. Ik zag alleen dat Richard zijn stuk aanpakte, ernaar keek, en de korst eraf begon te eten, rondom, met zijn voortanden, zoals hij op de meerpaal het brood van mevrouw Coombs had gegeten. Het binnenste at hij in drie happen.
+Hij sneed het in vieren. Hij nam zelf een half stuk, en gaf mij de andere helft. Dudley kreeg een vierde, Brooks een vierde, Richard een vierde. Ik heb die verdeling toen niet begrepen. Ik heb haar die eerste keer zelfs niet opgemerkt. Ik zag alleen dat Richard zijn stuk aanpakte, ernaar keek, en de korst eraf begon te eten, rondom, met zijn voortanden, zoals hij op de meerpaal het brood van mevrouw Coombs had gegeten. Het binnenste at hij in drie happen.
 
 Toen keek hij voor het eerst sinds Southampton naar mij. Hij zag me naar hem kijken. Hij likte zijn duim af.
 
@@ -878,7 +878,7 @@ Richard zei niets. Ik hoorde hem niet bewegen. Ik hoorde hem ook niet ademen. To
 
 'Zomaar,' zei Richard.
 
-Brooks draaide zich weer om. Na een tijd begon hij te snurken, met een geluid als een lier die wordt opgedraaid. Richard bleef wakker. Ik weet het, omdat ik ook wakker bleef, en omdat ik hem tot de wacht van middernacht hoorde draaien in zijn kooi, en omdat hij toen hij opstond voor de wacht, over me heen stapte en niet op mijn hand trapte, wat in het donker moeite moet hebben gekost.
+Brooks draaide zich weer om. Na een tijd begon hij te snurken, met een geluid als een lier die wordt opgedraaid. Richard bleef wakker. Ik weet het, omdat ik ook wakker bleef, en omdat ik hem tot de wacht van middernacht hoorde draaien in zijn kooi, en omdat hij, toen hij opstond voor de wacht, over me heen stapte en niet op mijn hand trapte, wat in het donker moeite moet hebben gekost.
 
 *Ik heb die naam opgeschreven. Jimmy Hale, veertien, Northam. Ik heb hem in 1885 gezocht. Ik heb hem gevonden: hij werkte bij de gasfabriek in Northam en had een vrouw en een kind. Ik heb niet met hem gesproken. Wat had ik moeten zeggen?*
 
@@ -1158,7 +1158,7 @@ Stephens zat in de schaduw van het zeil met zijn boekje op zijn knie en telde. I
 
 Brooks ving een vis.
 
-Hij had een lijn uitgegooid met een haak waaraan een stukje rode lap zat, en hij had er een uur lang naast gezeten zonder iets te doen, met zijn pet over zijn ogen, en toen er een ruk aan de lijn kwam, schoot hij overeind alsof hij niet had geslapen. Het was een grote vis, blauw en groen en goud, met een kop als een stierenkop, die op het dek sprong en sloeg en met elke slag een andere kleur kreeg. Richard sprong er bovenop. De vis sloeg hem in zijn gezicht. Hij liet niet los.
+Hij had een lijn uitgegooid met een haak waaraan een stukje rode lap zat, en hij had er een uur lang naast gezeten zonder iets te doen, met zijn pet over zijn ogen, en toen er een ruk aan de lijn kwam, schoot hij overeind alsof hij niet had geslapen. Het was een grote vis, blauw en groen en goud, met een kop als een stierenkop, die op het dek sprong en sloeg en met elke slag een andere kleur kreeg. Richard sprong erbovenop. De vis sloeg hem in zijn gezicht. Hij liet niet los.
 
 'Hou hem vast, jong!' riep Brooks.
 
@@ -1172,7 +1172,7 @@ Ze hielden hem samen vast, Brooks aan de staart en Richard met beide armen om he
 
 'Hij is lekkerder nu hij dood is,' zei Brooks.
 
-Richard keek op. Hij keek naar Brooks met een gezicht waarop vis-slijm zat, en schubben, en een rode streep waar de staart hem had geraakt, en hij begon te lachen. Het was een andere lach dan in de regen. Het was een lach die uit zijn buik kwam, zoals een jongen lacht die gewoon iets grappig vindt.
+Richard keek op. Hij keek naar Brooks met een gezicht waarop visslijm zat, en schubben, en een rode streep waar de staart hem had geraakt, en hij begon te lachen. Het was een andere lach dan in de regen. Het was een lach die uit zijn buik kwam, zoals een jongen lacht die gewoon iets grappig vindt.
 
 Stephens noteerde iets in zijn boekje.
 
@@ -1292,7 +1292,7 @@ Het was koud geworden. Niemand had me gezegd dat het in juni koud kon zijn, en t
 
 We aten minder. Stephens zei het niet. Ik zag het. De stukken vlees waren kleiner, en hij bakte het brood nog altijd om de twee dagen, maar de pan was minder vol. Hij telde het meel nu twee keer, voor en na.
 
-Dudley stond langer aan het roer dan vroeger. Soms gaf hij zijn wacht niet over aan Brooks. Hij keek naar de lucht in het zuidwesten met zijn hand boven zijn ogen, ook als er geen zon is om tegen te schermen.
+Dudley stond langer aan het roer dan vroeger. Soms gaf hij zijn wacht niet over aan Brooks. Hij keek naar de lucht in het zuidwesten met zijn hand boven zijn ogen, ook als er geen zon was om tegen te schermen.
 
 ---
 
@@ -1374,7 +1374,7 @@ Het brood was nog altijd het beste wat we aan boord hadden. Stephens bakte het o
 
 'Twaalf keer bakken,' zei Stephens. 'Elf, als de jong blijft groeien.'
 
-Brooks lachte. Richard niet. Ik hield de pan vast, zoals hem was gezegd.
+Brooks lachte. Richard niet. Ik hield de pan vast, zoals mij was gezegd.
 
 Dudley vouwde zijn handen. Dat deed hij elke avond. Dudley bad niet lang. Hij bad met nadruk, en het was een gebed dat hij zelf had gemaakt en elke avond licht veranderde, zoals een zeilmaker een naad bijwerkt die het nog doet. Hij dankte voor het vlees. Hij dankte voor de wind, die er te veel was, maar hij dankte ervoor. Hij vroeg om bescherming voor wie thuis was. Hij noemde zijn vrouw niet bij naam, nooit, maar hij zei 'zij die op mij wacht', en Stephens keek dan altijd naar zijn bord.
 
@@ -1434,7 +1434,7 @@ Richard keek naar zijn haar, dat sinds Southampton geen kam meer had gezien, en 
 
 Ik moet nu over het brood schrijven.
 
-Stephens had het in vieren gesneden. Hij sneed het altijd in vieren, ook toen we met vijf waren, en dan nam hij zelf een half stuk en gaf mij het andere half. Over die verdeling heeft niemand ooit iets gezegd, omdat ik niet bestond. Ik had betaald voor mijn plaats, maar niet voor een plaats in zijn rekening. De tweede week, toen ik het eindelijk opmerkte, had het me beledigd. In de derde week vond ik het juist. In de zevende week, die avond, begreep ik dat het juist was op een manier die Stephens niet bedoelde.
+Stephens had het in vieren gesneden. Hij sneed het altijd in vieren, ook toen we met vijf waren, en dan nam hij zelf een half stuk en gaf mij de andere helft. Over die verdeling heeft niemand ooit iets gezegd, omdat ik niet bestond. Ik had betaald voor mijn plaats, maar niet voor een plaats in zijn rekening. De tweede week, toen ik het eindelijk opmerkte, had het me beledigd. In de derde week vond ik het juist. In de zevende week, die avond, begreep ik dat het juist was op een manier die Stephens niet bedoelde.
 
 Er waren drie stukken gegeten. Het vierde lag op de plank naast de pan. Het was het stuk met de meeste korst, omdat het van de rand kwam, en het lag dichter bij Richard dan bij iemand anders.
 
@@ -1746,7 +1746,7 @@ Richard trok zijn rechterlaars uit en schepte daarmee verder. De reep zeildoek l
 
 Op de vierde dag ving Brooks een schildpad.
 
-Ze dreef naast de sloep te slapen, op haar rug in de zon, zo groot als een wasteil, en Brooks zag haar het eerst en zei niets. Hij legde zijn vinger op zijn lippen. Hij boog zich langzaam over de rand, zo langzaam dat de sloep niet bewoog, en greep haar met beide handen bij haar achterpoten en trok, en Stephens greep zijn riem, en Dudley greep Stephens, en met zijn vieren kregen ze haar over de rand. Ik zat in de boeg en deed niets. Mijn hulp zou de sloep hebben doen omslaan.
+Ze dreef naast de sloep te slapen, op haar rug in de zon, zo groot als een wasteil, en Brooks zag haar het eerst en zei niets. Hij legde zijn vinger op zijn lippen. Hij boog zich langzaam over de rand, zo langzaam dat de sloep niet bewoog, en greep haar met beide handen bij haar achterpoten en trok, en Stephens greep zijn riem, en Dudley greep Stephens, en met zijn drieën kregen ze haar over de rand. Ik zat in de boeg en deed niets. Mijn hulp zou de sloep hebben doen omslaan.
 
 Ze lag op haar rug op de bodem van de sloep, met haar poten in de lucht, en ze zwaaide met haar kop. Stephens keek naar haar. Zijn lippen bewogen.
 
@@ -1786,7 +1786,7 @@ Ik weet niet hoe lang we zo hebben gezeten. Ik weet dat ik op een gegeven moment
 
 Op de vijfde dag vroeg Brooks me wie ik was.
 
-Hij vroeg het in de middag, toen de zon recht boven ons stond en niemand nog de kracht had om te scheppen, en de sloep langzaam vol liep tot iemand zich ertoe zette. Hij zat met zijn rug naar me toe, en hij draaide zijn hoofd half om, zodat ik zijn sproeten zag, die in vijf dagen donker waren geworden.
+Hij vroeg het in de middag, toen de zon recht boven ons stond en niemand nog de kracht had om te scheppen, en de sloep langzaam volliep tot iemand zich ertoe zette. Hij zat met zijn rug naar me toe, en hij draaide zijn hoofd half om, zodat ik zijn sproeten zag, die in vijf dagen donker waren geworden.
 
 'Gij,' zei hij. 'Wie zijt ge eigenlijk?'
 
@@ -1828,7 +1828,7 @@ Hij zei het op de toon waarop hij op de binnenplaats bij Hutchings 'tegen de avo
 
 De schildpad hield langer dan Stephens had gezegd. Dudley sneed er elke ochtend een stuk af met zijn mes en verdeelde het in vijf, en we aten het rauw, langzaam, in de zon die het vlees op de bodem van de sloep binnen een uur zwart deed worden. Stephens wikkelde wat over was in Brooks' pet en hield de pet tussen zijn voeten, in de schaduw van zijn eigen benen.
 
-Er viel twee keer regen. De eerste keer kwam er een bui uit het niets, zoals in de windstilte, en we hielden onze handen op en onze monden open, en Brooks hield zijn oliejas uitgespreid boven zijn hoofd tot er een plas in stond, en die plas gingen we rond, een slok per man. De tweede keer was het niet meer dan een miezering, die nat maakte zonder iets te geven. Brooks wrong zijn hemd uit boven zijn mond. Het water smaakte naar zout en naar Brooks.
+Er viel twee keer regen. De eerste keer kwam er een bui uit het niets, zoals in de windstilte, en we hielden onze handen op en onze monden open, en Brooks hield zijn oliejas uitgespreid boven zijn hoofd tot er een plas in stond, en met die plas gingen we rond, een slok per man. De tweede keer was het niet meer dan een miezering, die nat maakte zonder iets te geven. Brooks wrong zijn hemd uit boven zijn mond. Het water smaakte naar zout en naar Brooks.
 
 Richard schepte. Hij had geen laarzen meer, want na de linker was ook de rechter overboord gegaan, op de zesde dag, en Dudley had gezegd dat het niet uitmaakte. Hij schepte met zijn handen. Hij deed het als iemand die het werk voor zijn rekening neemt om te tonen dat hij het kan. Toen Brooks hem wilde aflossen, schudde hij zijn hoofd.
 
@@ -2324,7 +2324,7 @@ Ik heb hem verteld over de jongen.
 
 Ik weet niet waarom. Ik was gekomen om iets te vragen, en hij had mijn vraag beantwoord, en het antwoord was nee. Ik had kunnen opstaan. Ik heb het hem verteld omdat hij erom vroeg, en omdat het vuur brandde, en omdat zijn schoonmoeder een kom soep voor me neerzette en een stuk brood ernaast en zich daarna tegenover me aan tafel zette met haar handen gevouwen. Omdat het meisje bij het vuur naar me keek. Omdat ik in twintig dagen met niemand anders had gesproken dan met mannen die zouden doen wat ze zouden doen.
 
-Ik vertelde over de kade, en de laars, en de veter die te kort was. Ik vertelde over de knoop over mijn vinger. Ik vertelde over de vijf munten op tafel, een voor een teruggeschoven, en over de brief die hij met zijn wijsvinger onder de regel had gelezen. Over 'Waarom komt ge zelf niet mee?'. Over het brood van Stephens, en de mast in de regen, en de vis, en de vrouw die met haar ellebogen piano speelde. Over de vioolwinkel van Doyle in Sydney, die misschien niet bestond. Over de kruik.
+Ik vertelde over de kade, en de laars, en de veter die te kort was. Ik vertelde over de knoop over mijn vinger. Ik vertelde over de vijf munten op tafel, een voor een teruggeschoven, en over de brief die hij met zijn wijsvinger onder de regel had gelezen. Over 'Waarom komt ge zelf niet mee?' Over het brood van Stephens, en de mast in de regen, en de vis, en de vrouw die met haar ellebogen piano speelde. Over de vioolwinkel van Doyle in Sydney, die misschien niet bestond. Over de kruik.
 
 Toen vertelde ik over de sloep. Ik vertelde wat er gebeurd was en wat er nog zou gebeuren. Ik vertelde het allemaal in de verleden tijd, omdat ik niet wist hoe ik het anders moest vertellen. Ik vertelde over het lot dat Dudley voorstelde en over Brooks die nee zei. Ik vertelde over het gebed en het mes. Ik vertelde dat de jongen niet was gevraagd. Ik vertelde dat er vier dagen later een Duits schip kwam.
 
@@ -2364,7 +2364,7 @@ Toen het licht werd, ben ik opgestaan en heb ik het brood opgegeten dat de vrouw
 
 *New York. Juni 1837.*
 
-Ik heb veertien weken in een kamer boven een taveerne in Hudson Street gewoond, vlak bij de kapel van St. John, waarvan ik de klok elk kwartier hoorde slaan. De eerste twee nachten sliep ik in een portiek van de kapel, in het hemd van een ander. Schoenen kocht ik van de waard voor drie avonden spelen; ze waren een maat te klein, en ik heb ze tot juni gedragen. Ik betaalde de kamer door 's avonds in de gelagzaal viool te spelen op een instrument dat de waard van een matroos had gekocht en dat een scheve kam had. Ik speelde wat ze wilden horen. Ik speelde het lied van het meisje uit Portsea niet. Ze kenden het daar niet, en niemand vroeg erom.
+Ik heb veertien weken in een kamer boven een taveerne in Hudson Street gewoond, vlak bij de kapel van St. John, waarvan ik de klok elk kwartier hoorde slaan. De twee nachten daarna sliep ik in een portiek van de kapel, in het hemd van een ander. Schoenen kocht ik van de waard voor drie avonden spelen; ze waren een maat te klein, en ik heb ze tot juni gedragen. Ik betaalde de kamer door 's avonds in de gelagzaal viool te spelen op een instrument dat de waard van een matroos had gekocht en dat een scheve kam had. Ik speelde wat ze wilden horen. Ik speelde het lied van het meisje uit Portsea niet. Ze kenden het daar niet, en niemand vroeg erom.
 
 Overdag schreef ik. Ik schreef de sloep. Ik schreef van de golf tot de laatste nacht, aan een tafel die niet bewoog, onder een lamp die stil brandde, en ik heb het opgeschreven zoals het hierboven staat, met wat erin staat en zonder wat er niet in staat. Ik heb mijn horloge weer opgewonden. Ik heb het gelijkgezet met de klok van St. John.
 

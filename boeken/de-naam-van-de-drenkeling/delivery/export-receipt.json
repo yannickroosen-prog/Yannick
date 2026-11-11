@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "delivery_scope": "draft",
+  "delivery_scope": "complete_pipeline",
   "title": "De naam van de drenkeling",
   "author": "[auteursnaam]",
   "language": "nl",
@@ -18,11 +18,11 @@
     "chapters": [
       {
         "number": 1,
-        "words": 2506
+        "words": 2514
       },
       {
         "number": 2,
-        "words": 2267
+        "words": 2266
       },
       {
         "number": 3,
@@ -34,7 +34,7 @@
       },
       {
         "number": 5,
-        "words": 1971
+        "words": 1972
       },
       {
         "number": 6,
@@ -54,7 +54,7 @@
       },
       {
         "number": 10,
-        "words": 1520
+        "words": 1519
       },
       {
         "number": 11,
@@ -70,11 +70,11 @@
       },
       {
         "number": 14,
-        "words": 1599
+        "words": 1598
       },
       {
         "number": 15,
-        "words": 1634
+        "words": 1635
       },
       {
         "number": 16,
@@ -105,20 +105,20 @@
         "words": 644
       }
     ],
-    "total": 35253
+    "total": 35260
   },
   "source_chapters": [
     {
       "number": 1,
       "path": "chapter-01.md",
       "title": "1",
-      "sha256": "f714c6758bd007e63c81c46e2a06bea1be62ce20ff717787a95d30bd61b167ec"
+      "sha256": "84ff61541bced3b5a9153fb9a672e3c4811d4cde17551991ae24d4f08b83d781"
     },
     {
       "number": 2,
       "path": "chapter-02.md",
       "title": "2",
-      "sha256": "fd9989f99bda5951e58f51edace2eda35388124039052d639ce7be6008cd07d1"
+      "sha256": "39f23cec128d07bbe334a8d66f3045ba8bffe752c1e5c4df776999f3dc78f616"
     },
     {
       "number": 3,
@@ -130,13 +130,13 @@
       "number": 4,
       "path": "chapter-04.md",
       "title": "4",
-      "sha256": "23b25cac3fce89d06970b76f7f4eb5ea44f646439de813cd73103d63825ba7de"
+      "sha256": "8a616647012e4a8e14b7892768de86208b878528d2987d6fdbf61ea85b784f8f"
     },
     {
       "number": 5,
       "path": "chapter-05.md",
       "title": "5",
-      "sha256": "d88211729b24ddb683e1bea5a4b3132ca8460780c26f5a93865c734e3d5b3be8"
+      "sha256": "363991395b20c36ac0afe8c58fcd9446dde916327db8391280ca0249b263a090"
     },
     {
       "number": 6,
@@ -148,7 +148,7 @@
       "number": 7,
       "path": "chapter-07.md",
       "title": "7",
-      "sha256": "80b1f46d2ba6a6c4ff89e846a56c3454ca373304a976b3c1ae6cd293176ce4c4"
+      "sha256": "7cbd96f551b9e4186e34d3fb8cff12e3b7cf79f25a70f88ccd6bed91048529f1"
     },
     {
       "number": 8,
@@ -166,19 +166,19 @@
       "number": 10,
       "path": "chapter-10.md",
       "title": "10",
-      "sha256": "34b994b064604cf83d1f80421c43b5ae811024bd2e043e0533420d7e67dcf051"
+      "sha256": "ca946d76a48abfaaf90d07044394eb75942a3a311f2295439b5d0929c2e9042c"
     },
     {
       "number": 11,
       "path": "chapter-11.md",
       "title": "11",
-      "sha256": "5cff2480e823bf99b5e1529fb216ae5d96af681f3483c982d5f8423f732f8201"
+      "sha256": "e7e65aca4781c554b8d84a651dcff0a0d779c99e43f65cea33fe96ec30a7fe60"
     },
     {
       "number": 12,
       "path": "chapter-12.md",
       "title": "12",
-      "sha256": "0df56d82f4487dff9bc8de9b3f2af1a7c7640a35074ddefb918023452e8b28a0"
+      "sha256": "34a2e53079989fc066bd701601b9ac1feb6ab5f7c86a3c5fa86ecb0b6bd65736"
     },
     {
       "number": 13,
@@ -190,13 +190,13 @@
       "number": 14,
       "path": "chapter-14.md",
       "title": "14",
-      "sha256": "bce3a8d9b9e5e0bd7fe54ba836160e12ebe3a7fd5077b955c66889709d426215"
+      "sha256": "2589dcf373ee13f8cc6b31978e30d60041c555075e619fca59fd5f836427f951"
     },
     {
       "number": 15,
       "path": "chapter-15.md",
       "title": "15",
-      "sha256": "c0e8377658bfb1387fd55ac2f924158724d199e3c9911f3ac2615b521445324b"
+      "sha256": "c2ef376827270495389c39c2065248f4e9efb4aad8bd06cdef4576e2903b1ac1"
     },
     {
       "number": 16,
@@ -226,13 +226,13 @@
       "number": 20,
       "path": "chapter-20.md",
       "title": "20",
-      "sha256": "d57c1b3b31aa0e9a528d7eab7d4368456c6b08dcc9e491e6af0070d7b409ecb7"
+      "sha256": "f965fb9fc5a77f0eaf2f9255459d25bc837c1f56ca761c73e45a0a71473296f6"
     },
     {
       "number": 21,
       "path": "chapter-21.md",
       "title": "21",
-      "sha256": "e0269524ece3e44837e1ae7f20506f4a5b1ba5d0b2daffd0542c2d00eaa4eabf"
+      "sha256": "268dfb1ad907ca5a51d9912a3f4dab3070ae0f088a62f69d03d38fb4c92cb056"
     },
     {
       "number": 22,
@@ -243,10 +243,10 @@
   ],
   "outputs": {
     "manuscript.md": {
-      "sha256": "467fab3c1442ffad58b19f62451869c186d1074bcb6cf7f3dc889be4e3e2313a"
+      "sha256": "8ea78b7842313da0ee3caf7929e5bc4c90a425f4ee90af1814569b813f02c066"
     },
     "de-naam-van-de-drenkeling.epub": {
-      "sha256": "d1856cf28c427a78325e103ea73b5f7c9b6fa5ce997633f4de63498b1e5b2b08"
+      "sha256": "01a741c3343c9d7346c05395b9b355a44661340c26ebb3e9b34bd156ea46f85d"
     }
   },
   "validation": {
