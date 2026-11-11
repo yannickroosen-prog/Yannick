@@ -100,7 +100,7 @@ Ik keek. Ik had haar al gezien, toen ik over de kade kwam, en ik had niet gekeke
 
 'Alles.'
 
-Hij zei het met iets in zijn stem wat ik later bij hem alleen nog heb gehoord als hij over een matroos sprak die ik die ochtend nog niet kende, of over brood. Ik weet geen woord voor dat iets. Ik schreef het die avond op als bewondering. Ik heb het daarna doorgestreept en er niets voor in de plaats geschreven.
+Hij zei het met iets in zijn stem wat ik later bij hem alleen nog heb gehoord als hij over een matroos sprak die ik die ochtend nog niet kende, of over brood. Ik weet geen woord voor dat iets. Het was trots, maar trots op een ander. Ik schreef het die avond op als bewondering. Ik heb het daarna doorgestreept en er niets voor in de plaats geschreven.
 
 ---
 
