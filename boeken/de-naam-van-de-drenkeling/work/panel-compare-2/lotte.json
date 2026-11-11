@@ -1,0 +1,30 @@
+{
+  "reader": "Lotte",
+  "hoofdstukken": {
+    "01": {
+      "compare": "B",
+      "waarom": "Het begin is in beide versies hetzelfde, en dat begin pakt me meteen: hij gaat dood en de verteller weet het. Daarna is B net iets sneller. A blijft vaker hangen om zichzelf uit te leggen, zoals met de kaart die hij niet durft uit te spelen, 'Het is een vak' en een extra kanttekening die uitlegt wat 'ik wist het' betekent. In B loopt de scène met de jongen gewoon door, en dat wil ik op een luchthaven.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "B", "quote": "Ik liet het liggen. Dat is de enige waarschuwing die ik die ochtend heb gegeven: ik heb haar laten liggen."},
+      "zwakste": {"versie": "A", "quote": "Ik voelde haar tegen mijn ribben als een kaart die je niet durft uit te spelen, omdat je weet dat het de enige troef is die je nog hebt."},
+      "gemist_in_andere_versie": "In A staat de zin dat hij begraven is op een andere plek dan waar hij stierf. Dat is een klein extra haakje, en in B mis ik het."
+    },
+    "12": {
+      "compare": "A",
+      "waarom": "De twee versies verschillen bijna niet. B voegt nog een paar opmerkingen over hoven en kardinalen toe. Die zinnen klinken mooi, maar ze halen me uit de kajuit, net op het moment dat de spanning rond het brood en de volgende dag oploopt. In A telt de verteller de dagen tot het einde en vergeet daardoor zijn horloge gelijk te zetten. Dat raakt me meer dan het excuus in B.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "A", "quote": "Hij had niet gezegd een uur waarvóór."},
+      "zwakste": {"versie": "B", "quote": "Ik ben altijd beter geweest in antwoorden geven dan in vragen stellen. Dat is een eigenschap die je aan hoven ver brengt."},
+      "gemist_in_andere_versie": null
+    }
+  },
+  "flags": [
+    {"hoofdstuk": "01", "versie": "A", "flag": "over_explained", "quote": "Hier staat 'ik wist het'. Ik schrijf deze kanttekening jaren later en wil eraan toevoegen wat ik toen wist"},
+    {"hoofdstuk": "12", "versie": "A", "flag": "slow_start", "quote": "De kajuit van de Mignonette was gebouwd om er whist te spelen, zoals Dudley me in Southampton met trots had laten zien."},
+    {"hoofdstuk": "12", "versie": "B", "flag": "slow_start", "quote": "De kajuit van de Mignonette was gebouwd om er whist te spelen, zoals Dudley me in Southampton met trots had laten zien."},
+    {"hoofdstuk": "12", "versie": "B", "flag": "over_explained", "quote": "Ik ben aan de tafel van een kardinaal geweest die korter bad."},
+    {"hoofdstuk": "01", "versie": "B", "flag": "confusing", "quote": "als hij over een matroos sprak die ik die ochtend nog niet kende, of over brood"}
+  ],
+  "algemeen": "Voor mij wint telkens de versie met het minste commentaar van de verteller. In hoofdstuk 1 is dat B, in hoofdstuk 12 A. De verschillen zijn klein, maar ze voelen als drempeltjes: de verteller die nog eens laat weten hoe wijs en oud hij is, terwijl ik gewoon wil zien wat er met de jongen gebeurt. In beide hoofdstukken duurt het even voor het op gang komt, het hoofdstuk aan tafel nog het langst, maar de haak van de dood die je al kent houdt me erbij.",
+  "confidence": "medium"
+}

@@ -1,0 +1,31 @@
+{
+  "reader": "Pieter",
+  "hoofdstukken": {
+    "01": {
+      "compare": "B",
+      "waarom": "Ik zocht de fout waarmee ik het boek kon dichtslaan, en A geeft me er een: 'Het was de tweede keer dat hij dat vroeg', terwijl hij de eerste keer iets anders vroeg. Een verteller die zijn eigen notities zo slordig bijhoudt, laat zijn hele concept zakken. A legt ook alles uit wat het net heeft getoond, met een kanttekening die aankondigt dat ze een kanttekening is en mooie vergelijkingen achter elk gebaar. B is kaler, de verteller heeft minder vaak gelijk, en daardoor werkt de plas met het briefje beter.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "B", "quote": "Ik liet het liggen. Dat is de enige waarschuwing die ik die ochtend heb gegeven: ik heb haar laten liggen."},
+      "zwakste": {"versie": "A", "quote": "Het was de tweede keer dat hij dat vroeg. De eerste keer had ik geantwoord met een grap."},
+      "gemist_in_andere_versie": "'Het was trots, maar trots op een ander.' uit A is de enige versiering die echt iets doet, en die zou ik in B terug willen. Verder valt in B op dat 'Dat weet iedereen hier' kort daarna nog eens terugkomt als 'Iedereen weet dat.'"
+    },
+    "12": {
+      "compare": "A",
+      "waarom": "Hier draait het om. B voegt precies de wijze oneliners toe waar ik allergisch voor ben: de kardinaal die korter bad en de spreuk over antwoorden geven aan hoven. Dat is de onsterfelijke die met zijn levens pronkt, juist in een scène waarin hij moet zwijgen. A houdt zich aan de regel die het boek zelf stelt: de verteller corrigeert zichzelf in de marge ('Dat is te sterk') en de jongen doet wat de verteller niet voorspelt. Hij eet het brood op. Hij is geen slachtoffer zonder eigen wil, en het kannibalisme blijft buiten beeld als dreiging in een broodverdeling. Dat vind ik verdiend.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "A", "quote": "Hij at het op."},
+      "zwakste": {"versie": "B", "quote": "Ik ben altijd beter geweest in antwoorden geven dan in vragen stellen. Dat is een eigenschap die je aan hoven ver brengt."},
+      "gemist_in_andere_versie": "Bij het horloge vind ik B's 'omdat ik niet meer wist welke dag zondag was' vreemder en beter dan A's verklaring met het aftellen. Een man die alle data kent en de dag kwijt is: dat is de enige toevoeging van B die ik zou houden."
+    }
+  },
+  "flags": [
+    {"hoofdstuk": "01", "versie": "A", "flag": "continuity_doubt", "quote": "Het was de tweede keer dat hij dat vroeg."},
+    {"hoofdstuk": "01", "versie": "A", "flag": "over_explained", "quote": "Hier staat 'ik wist het'. Ik schrijf deze kanttekening jaren later en wil eraan toevoegen wat ik toen wist"},
+    {"hoofdstuk": "01", "versie": "A", "flag": "cliche", "quote": "zoals een mond die iets wil zeggen en het niet doet"},
+    {"hoofdstuk": "01", "versie": "B", "flag": "cliche", "quote": "Ik heb in mijn leven vier koningen de hand gekust en een paus de voet"},
+    {"hoofdstuk": "12", "versie": "B", "flag": "cliche", "quote": "Ik ben aan de tafel van een kardinaal geweest die korter bad."},
+    {"hoofdstuk": "12", "versie": "B", "flag": "over_explained", "quote": "Dat is een eigenschap die je aan hoven ver brengt."}
+  ],
+  "algemeen": "Over beide hoofdstukken heen wint telkens de versie waarin de verteller zichzelf minder belangrijk maakt. In hoofdstuk 1 is dat B, omdat A uitlegt en een slordige fout maakt. In hoofdstuk 12 is dat A, omdat B daar juist de pronkende levenswijsheid weer binnenhaalt. Het boek overtuigt me waar de jongen de verteller verrast, en verliest me waar de verteller vertelt hoeveel hoven hij gezien heeft.",
+  "confidence": "medium"
+}

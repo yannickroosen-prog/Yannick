@@ -1,0 +1,29 @@
+{
+  "reader": "Ann",
+  "hoofdstukken": {
+    "01": {
+      "compare": "A",
+      "waarom": "Beide versies zijn grotendeels gelijk, maar A gunt de verteller net die kleine bekentenissen waardoor ik hem ga geloven: de trots die geen naam krijgt, de kaart die hij niet durft uit te spelen. In B voelt hij vlakker, alsof iemand de randjes heeft weggeveild. Wel struikelde ik in A over 'de tweede keer dat hij dat vroeg', want dat had hij niet gevraagd. B lost dat netjes op.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "A", "quote": "Het was trots, maar trots op een ander."},
+      "zwakste": {"versie": "A", "quote": "Hier staat 'ik wist het'. Ik schrijf deze kanttekening jaren later en wil eraan toevoegen wat ik toen wist"},
+      "gemist_in_andere_versie": "In B mis ik de laars die opengaat 'zoals een mond die iets wil zeggen en het niet doet'. Dat beeld neem ik mee, want het is precies wat de verteller zelf doet. Ik mis er ook de zin 'Ik wist het, maar ik begreep het niet.'"
+    },
+    "12": {
+      "compare": "A",
+      "waarom": "Het brood, de borden en de viool van vier pond: dit hoofdstuk zal ik dagen meedragen, in beide versies. B voegt hofanekdotes toe, de kardinaal en 'aan hoven ver brengt', en voor mij zijn dat kleine stukjes decor die de jongen even uit beeld duwen. In A zit het horloge zwaarder: hij vergat het gelijk te zetten omdat hij de dagen telde. Dat raakte me meer dan B's 'niet meer wist welke dag zondag was'.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "A", "quote": "Ik had de hele dag zitten tellen hoeveel dagen er nog waren, en ik was het vergeten."},
+      "zwakste": {"versie": "B", "quote": "Ik ben aan de tafel van een kardinaal geweest die korter bad."},
+      "gemist_in_andere_versie": "B's zin 'Ik ben altijd beter geweest in antwoorden geven dan in vragen stellen' is wel een mooie zelfkennis. Die mis ik een beetje in A, al is hij daar ook overbodig, want de scène toont het al."
+    }
+  },
+  "flags": [
+    {"hoofdstuk": "01", "versie": "A", "flag": "continuity_doubt", "quote": "Het was de tweede keer dat hij dat vroeg."},
+    {"hoofdstuk": "01", "versie": "A", "flag": "over_explained", "quote": "Ik schrijf deze kanttekening jaren later en wil eraan toevoegen wat ik toen wist"},
+    {"hoofdstuk": "01", "versie": "B", "flag": "flat_voice", "quote": "Hij keek me opnieuw aan, nu nieuwsgierig. Ik zag dat het de vraag was die hem nieuwsgierig maakte."},
+    {"hoofdstuk": "12", "versie": "B", "flag": "cliche", "quote": "Dat is een eigenschap die je aan hoven ver brengt."}
+  ],
+  "algemeen": "In hoofdstuk 1 is A warmer en dwalender en is B strakker maar armer aan beelden. In hoofdstuk 12 draait het om: daar voegt B juist toe, vooral hofverleden, en dat haalt de aandacht weg van Richard. Ik kies telkens A, omdat de kleine details daar over hem gaan en niet over de verteller.",
+  "confidence": "medium"
+}
