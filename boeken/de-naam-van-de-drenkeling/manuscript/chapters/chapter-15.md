@@ -24,7 +24,7 @@ Hij zei het op de toon waarop hij op de binnenplaats bij Hutchings 'tegen de avo
 
 De schildpad hield langer dan Stephens had gezegd. Dudley sneed er elke ochtend een stuk af met zijn mes en verdeelde het in vijf, en we aten het rauw, langzaam, in de zon die het vlees op de bodem van de sloep binnen een uur zwart deed worden. Stephens wikkelde wat over was in Brooks' pet en hield de pet tussen zijn voeten, in de schaduw van zijn eigen benen.
 
-Er viel twee keer regen. De eerste keer kwam er een bui uit het niets, zoals in de windstilte, en we hielden onze handen op en onze monden open, en Brooks hield zijn oliejas uitgespreid boven zijn hoofd tot er een plas in stond, en die plas gingen we rond, een slok per man. De tweede keer was het niet meer dan een miezering, die nat maakte zonder iets te geven. Brooks wrong zijn hemd uit boven zijn mond. Het water smaakte naar zout en naar Brooks.
+Er viel twee keer regen. De eerste keer kwam er een bui uit het niets, zoals in de windstilte, en we hielden onze handen op en onze monden open, en Brooks hield zijn oliejas uitgespreid boven zijn hoofd tot er een plas in stond, en met die plas gingen we rond, een slok per man. De tweede keer was het niet meer dan een miezering, die nat maakte zonder iets te geven. Brooks wrong zijn hemd uit boven zijn mond. Het water smaakte naar zout en naar Brooks.
 
 Richard schepte. Hij had geen laarzen meer, want na de linker was ook de rechter overboord gegaan, op de zesde dag, en Dudley had gezegd dat het niet uitmaakte. Hij schepte met zijn handen. Hij deed het als iemand die het werk voor zijn rekening neemt om te tonen dat hij het kan. Toen Brooks hem wilde aflossen, schudde hij zijn hoofd.
 

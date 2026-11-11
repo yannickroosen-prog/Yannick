@@ -36,7 +36,7 @@ Hij deed het in een ijzeren pan met een deksel, op het fornuis in de kombuis. Ik
 
 Toen het klaar was, zette hij de pan op het dek naast mijn kist om af te koelen, omdat het de enige plek was waar ze niet in de weg stond. Ik keek naar de pan. Ik heb niet vaak naar iets gekeken zoals ik die middag naar dat brood keek.
 
-Hij sneed het in vieren. Hij nam zelf een half stuk, en gaf mij het andere half. Dudley kreeg een vierde, Brooks een vierde, Richard een vierde. Ik heb die verdeling toen niet begrepen. Ik heb haar die eerste keer zelfs niet opgemerkt. Ik zag alleen dat Richard zijn stuk aanpakte, ernaar keek, en de korst eraf begon te eten, rondom, met zijn voortanden, zoals hij op de meerpaal het brood van mevrouw Coombs had gegeten. Het binnenste at hij in drie happen.
+Hij sneed het in vieren. Hij nam zelf een half stuk, en gaf mij de andere helft. Dudley kreeg een vierde, Brooks een vierde, Richard een vierde. Ik heb die verdeling toen niet begrepen. Ik heb haar die eerste keer zelfs niet opgemerkt. Ik zag alleen dat Richard zijn stuk aanpakte, ernaar keek, en de korst eraf begon te eten, rondom, met zijn voortanden, zoals hij op de meerpaal het brood van mevrouw Coombs had gegeten. Het binnenste at hij in drie happen.
 
 Toen keek hij voor het eerst sinds Southampton naar mij. Hij zag me naar hem kijken. Hij likte zijn duim af.
 
@@ -82,7 +82,7 @@ Richard zei niets. Ik hoorde hem niet bewegen. Ik hoorde hem ook niet ademen. To
 
 'Zomaar,' zei Richard.
 
-Brooks draaide zich weer om. Na een tijd begon hij te snurken, met een geluid als een lier die wordt opgedraaid. Richard bleef wakker. Ik weet het, omdat ik ook wakker bleef, en omdat ik hem tot de wacht van middernacht hoorde draaien in zijn kooi, en omdat hij toen hij opstond voor de wacht, over me heen stapte en niet op mijn hand trapte, wat in het donker moeite moet hebben gekost.
+Brooks draaide zich weer om. Na een tijd begon hij te snurken, met een geluid als een lier die wordt opgedraaid. Richard bleef wakker. Ik weet het, omdat ik ook wakker bleef, en omdat ik hem tot de wacht van middernacht hoorde draaien in zijn kooi, en omdat hij, toen hij opstond voor de wacht, over me heen stapte en niet op mijn hand trapte, wat in het donker moeite moet hebben gekost.
 
 *Ik heb die naam opgeschreven. Jimmy Hale, veertien, Northam. Ik heb hem in 1885 gezocht. Ik heb hem gevonden: hij werkte bij de gasfabriek in Northam en had een vrouw en een kind. Ik heb niet met hem gesproken. Wat had ik moeten zeggen?*
 

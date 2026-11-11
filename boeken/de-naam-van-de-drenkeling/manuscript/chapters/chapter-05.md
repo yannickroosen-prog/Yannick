@@ -48,7 +48,7 @@ Hij kwam naar beneden met een zak van zeildoek over zijn schouder, dichtgebonden
 
 'Neem het mee, Dick.'
 
-Hij nam het mee. Hij legde het bovenop de zak en bond het vast onder de lijn. Toen stak hij zijn hand in de zak van zijn broek en haalde er iets uit wat hij in zijn vuist hield. Hij keek naar mevrouw Coombs. Hij keek naar mij. Hij leek te beslissen dat het niet uitmaakte dat ik erbij was, of dat het juist goed was.
+Hij nam het mee. Hij legde het boven op de zak en bond het vast onder de lijn. Toen stak hij zijn hand in de zak van zijn broek en haalde er iets uit wat hij in zijn vuist hield. Hij keek naar mevrouw Coombs. Hij keek naar mij. Hij leek te beslissen dat het niet uitmaakte dat ik erbij was, of dat het juist goed was.
 
 Hij opende zijn hand. Er lag een knoop in. Een grote zwarte knoop van gedraaid been, met vier gaten en een stukje draad dat er nog in zat, grijs geworden.
 

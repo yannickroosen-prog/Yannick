@@ -24,7 +24,7 @@ Het brood was nog altijd het beste wat we aan boord hadden. Stephens bakte het o
 
 'Twaalf keer bakken,' zei Stephens. 'Elf, als de jong blijft groeien.'
 
-Brooks lachte. Richard niet. Ik hield de pan vast, zoals hem was gezegd.
+Brooks lachte. Richard niet. Ik hield de pan vast, zoals mij was gezegd.
 
 Dudley vouwde zijn handen. Dat deed hij elke avond. Dudley bad niet lang. Hij bad met nadruk, en het was een gebed dat hij zelf had gemaakt en elke avond licht veranderde, zoals een zeilmaker een naad bijwerkt die het nog doet. Hij dankte voor het vlees. Hij dankte voor de wind, die er te veel was, maar hij dankte ervoor. Hij vroeg om bescherming voor wie thuis was. Hij noemde zijn vrouw niet bij naam, nooit, maar hij zei 'zij die op mij wacht', en Stephens keek dan altijd naar zijn bord.
 
@@ -84,7 +84,7 @@ Richard keek naar zijn haar, dat sinds Southampton geen kam meer had gezien, en 
 
 Ik moet nu over het brood schrijven.
 
-Stephens had het in vieren gesneden. Hij sneed het altijd in vieren, ook toen we met vijf waren, en dan nam hij zelf een half stuk en gaf mij het andere half. Over die verdeling heeft niemand ooit iets gezegd, omdat ik niet bestond. Ik had betaald voor mijn plaats, maar niet voor een plaats in zijn rekening. De tweede week, toen ik het eindelijk opmerkte, had het me beledigd. In de derde week vond ik het juist. In de zevende week, die avond, begreep ik dat het juist was op een manier die Stephens niet bedoelde.
+Stephens had het in vieren gesneden. Hij sneed het altijd in vieren, ook toen we met vijf waren, en dan nam hij zelf een half stuk en gaf mij de andere helft. Over die verdeling heeft niemand ooit iets gezegd, omdat ik niet bestond. Ik had betaald voor mijn plaats, maar niet voor een plaats in zijn rekening. De tweede week, toen ik het eindelijk opmerkte, had het me beledigd. In de derde week vond ik het juist. In de zevende week, die avond, begreep ik dat het juist was op een manier die Stephens niet bedoelde.
 
 Er waren drie stukken gegeten. Het vierde lag op de plank naast de pan. Het was het stuk met de meeste korst, omdat het van de rand kwam, en het lag dichter bij Richard dan bij iemand anders.
 

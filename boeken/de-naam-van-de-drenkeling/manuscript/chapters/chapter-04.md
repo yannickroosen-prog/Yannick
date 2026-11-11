@@ -54,7 +54,7 @@ Dat was waar. Het was het eerste ware wat ik in die kroeg had gezegd.
 
 ---
 
-Brooks moest weg. Hij moest naar Dudley, die hem een lijst had gegeven, en de lijst was lang, en Dudley vergeef je niets wat niet op de lijst staat. Hij stond op, legde zijn hand op Richards hoofd en drukte het een duim naar beneden, zoals je een hond begroet die je goed kent.
+Brooks moest weg. Hij moest naar Dudley, die hem een lijst had gegeven, en de lijst was lang, en Dudley vergeeft je niets wat niet op de lijst staat. Hij stond op, legde zijn hand op Richards hoofd en drukte het een duim naar beneden, zoals je een hond begroet die je goed kent.
 
 'Om drie uur aan boord, jong,' zei hij. 'En leer die tweede strofe. In Sydney neem ik je mee naar een plaats met een piano.' Hij keek naar mij. 'Hij moet leren zingen voor hij mee mag. Ge kunt hem helpen. Ge kent het lied.'
 
@@ -98,7 +98,7 @@ Ik zei niets.
 
 'Op de kade zei ge dat uw zakdoek Brabants linnen was. Bij Hutchings wist ge wat pikdraad kost. Gij weet wat de kapitein mij betaalt.' Hij zei het niet kwaad. Hij zei het zoals je iemand op een vlek op zijn jas wijst. 'Waarom zegt ge altijd wat iets kost?'
 
-Ik had geen antwoord. Dat is niet waar. Ik had er tien, en ze waren allemaal geestig, en ik heb er geen enkel van gezegd.
+Ik had geen antwoord. Dat is niet waar. Ik had er tien, en ze waren allemaal geestig, en ik heb er geen enkele van gezegd.
 
 'Omdat ik het weet,' zei ik.
 

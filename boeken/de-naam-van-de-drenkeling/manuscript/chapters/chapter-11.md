@@ -22,7 +22,7 @@ Het was koud geworden. Niemand had me gezegd dat het in juni koud kon zijn, en t
 
 We aten minder. Stephens zei het niet. Ik zag het. De stukken vlees waren kleiner, en hij bakte het brood nog altijd om de twee dagen, maar de pan was minder vol. Hij telde het meel nu twee keer, voor en na.
 
-Dudley stond langer aan het roer dan vroeger. Soms gaf hij zijn wacht niet over aan Brooks. Hij keek naar de lucht in het zuidwesten met zijn hand boven zijn ogen, ook als er geen zon is om tegen te schermen.
+Dudley stond langer aan het roer dan vroeger. Soms gaf hij zijn wacht niet over aan Brooks. Hij keek naar de lucht in het zuidwesten met zijn hand boven zijn ogen, ook als er geen zon was om tegen te schermen.
 
 ---
 

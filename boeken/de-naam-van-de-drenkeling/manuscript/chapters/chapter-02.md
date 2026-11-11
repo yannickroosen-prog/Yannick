@@ -60,7 +60,7 @@ Ik heb de nacht daarna doorgebracht in een hotel aan de Strand, in een kamer met
 
 Hij liep de loopplank op zonder om te kijken. Ik bleef op de kade staan.
 
-Van dichtbij was de Mignonette nog kleiner. Ik schat haar op zestien meter, misschien minder. Haar romp was zwart en pas geteerd, en de geur ervan hing in de mist. Ze had een enkele mast met een gaffeltuig en een boegspriet die wel lang genoeg leek voor een groter schip, alsof iemand haar had willen laten wijzen naar plaatsen waar ze niet heen kon. Midscheeps, op het dek, lag de sloep, omgekeerd, met haar kiel naar boven. Ze was van een hout zo dun dat ik de plankenranden er van op de kade door kon zien schemeren. Ik schat haar op vier meter. Ik heb haar nooit gemeten. Ik heb er later in gezeten.
+Van dichtbij was de Mignonette nog kleiner. Ik schat haar op zestien meter, misschien minder. Haar romp was zwart en pas geteerd, en de geur ervan hing in de mist. Ze had een enkele mast met een gaffeltuig en een boegspriet die wel lang genoeg leek voor een groter schip, alsof iemand haar had willen laten wijzen naar plaatsen waar ze niet heen kon. Midscheeps, op het dek, lag de sloep, omgekeerd, met haar kiel naar boven. Ze was van een hout zo dun dat ik de plankenranden ervan op de kade door kon zien schemeren. Ik schat haar op vier meter. Ik heb haar nooit gemeten. Ik heb er later in gezeten.
 
 Er stond een man aan dek die met zijn rug naar me toe een vat tegen de reling zette. Hij klopte er met zijn knokkel op, drie keer, op drie verschillende plaatsen, en luisterde, zoals ik op het bovenblad van een viool klop. Toen schreef hij iets in een boekje dat hij uit zijn borstzak haalde, en klopte op het volgende vat. Dat was Stephens. Ik wist het voor iemand het me zei. Ik wist het aan zijn handen.
 

@@ -12,7 +12,7 @@ Stephens zat in de schaduw van het zeil met zijn boekje op zijn knie en telde. I
 
 Brooks ving een vis.
 
-Hij had een lijn uitgegooid met een haak waaraan een stukje rode lap zat, en hij had er een uur lang naast gezeten zonder iets te doen, met zijn pet over zijn ogen, en toen er een ruk aan de lijn kwam, schoot hij overeind alsof hij niet had geslapen. Het was een grote vis, blauw en groen en goud, met een kop als een stierenkop, die op het dek sprong en sloeg en met elke slag een andere kleur kreeg. Richard sprong er bovenop. De vis sloeg hem in zijn gezicht. Hij liet niet los.
+Hij had een lijn uitgegooid met een haak waaraan een stukje rode lap zat, en hij had er een uur lang naast gezeten zonder iets te doen, met zijn pet over zijn ogen, en toen er een ruk aan de lijn kwam, schoot hij overeind alsof hij niet had geslapen. Het was een grote vis, blauw en groen en goud, met een kop als een stierenkop, die op het dek sprong en sloeg en met elke slag een andere kleur kreeg. Richard sprong erbovenop. De vis sloeg hem in zijn gezicht. Hij liet niet los.
 
 'Hou hem vast, jong!' riep Brooks.
 
@@ -26,7 +26,7 @@ Ze hielden hem samen vast, Brooks aan de staart en Richard met beide armen om he
 
 'Hij is lekkerder nu hij dood is,' zei Brooks.
 
-Richard keek op. Hij keek naar Brooks met een gezicht waarop vis-slijm zat, en schubben, en een rode streep waar de staart hem had geraakt, en hij begon te lachen. Het was een andere lach dan in de regen. Het was een lach die uit zijn buik kwam, zoals een jongen lacht die gewoon iets grappig vindt.
+Richard keek op. Hij keek naar Brooks met een gezicht waarop visslijm zat, en schubben, en een rode streep waar de staart hem had geraakt, en hij begon te lachen. Het was een andere lach dan in de regen. Het was een lach die uit zijn buik kwam, zoals een jongen lacht die gewoon iets grappig vindt.
 
 Stephens noteerde iets in zijn boekje.
 

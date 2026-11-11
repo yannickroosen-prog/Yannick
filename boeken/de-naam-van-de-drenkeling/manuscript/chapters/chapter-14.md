@@ -46,7 +46,7 @@ Richard trok zijn rechterlaars uit en schepte daarmee verder. De reep zeildoek l
 
 Op de vierde dag ving Brooks een schildpad.
 
-Ze dreef naast de sloep te slapen, op haar rug in de zon, zo groot als een wasteil, en Brooks zag haar het eerst en zei niets. Hij legde zijn vinger op zijn lippen. Hij boog zich langzaam over de rand, zo langzaam dat de sloep niet bewoog, en greep haar met beide handen bij haar achterpoten en trok, en Stephens greep zijn riem, en Dudley greep Stephens, en met zijn vieren kregen ze haar over de rand. Ik zat in de boeg en deed niets. Mijn hulp zou de sloep hebben doen omslaan.
+Ze dreef naast de sloep te slapen, op haar rug in de zon, zo groot als een wasteil, en Brooks zag haar het eerst en zei niets. Hij legde zijn vinger op zijn lippen. Hij boog zich langzaam over de rand, zo langzaam dat de sloep niet bewoog, en greep haar met beide handen bij haar achterpoten en trok, en Stephens greep zijn riem, en Dudley greep Stephens, en met zijn drieën kregen ze haar over de rand. Ik zat in de boeg en deed niets. Mijn hulp zou de sloep hebben doen omslaan.
 
 Ze lag op haar rug op de bodem van de sloep, met haar poten in de lucht, en ze zwaaide met haar kop. Stephens keek naar haar. Zijn lippen bewogen.
 
@@ -86,7 +86,7 @@ Ik weet niet hoe lang we zo hebben gezeten. Ik weet dat ik op een gegeven moment
 
 Op de vijfde dag vroeg Brooks me wie ik was.
 
-Hij vroeg het in de middag, toen de zon recht boven ons stond en niemand nog de kracht had om te scheppen, en de sloep langzaam vol liep tot iemand zich ertoe zette. Hij zat met zijn rug naar me toe, en hij draaide zijn hoofd half om, zodat ik zijn sproeten zag, die in vijf dagen donker waren geworden.
+Hij vroeg het in de middag, toen de zon recht boven ons stond en niemand nog de kracht had om te scheppen, en de sloep langzaam volliep tot iemand zich ertoe zette. Hij zat met zijn rug naar me toe, en hij draaide zijn hoofd half om, zodat ik zijn sproeten zag, die in vijf dagen donker waren geworden.
 
 'Gij,' zei hij. 'Wie zijt ge eigenlijk?'
 

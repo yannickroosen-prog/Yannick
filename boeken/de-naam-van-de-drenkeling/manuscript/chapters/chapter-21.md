@@ -2,7 +2,7 @@
 
 *New York. Juni 1837.*
 
-Ik heb veertien weken in een kamer boven een taveerne in Hudson Street gewoond, vlak bij de kapel van St. John, waarvan ik de klok elk kwartier hoorde slaan. De eerste twee nachten sliep ik in een portiek van de kapel, in het hemd van een ander. Schoenen kocht ik van de waard voor drie avonden spelen; ze waren een maat te klein, en ik heb ze tot juni gedragen. Ik betaalde de kamer door 's avonds in de gelagzaal viool te spelen op een instrument dat de waard van een matroos had gekocht en dat een scheve kam had. Ik speelde wat ze wilden horen. Ik speelde het lied van het meisje uit Portsea niet. Ze kenden het daar niet, en niemand vroeg erom.
+Ik heb veertien weken in een kamer boven een taveerne in Hudson Street gewoond, vlak bij de kapel van St. John, waarvan ik de klok elk kwartier hoorde slaan. De twee nachten daarna sliep ik in een portiek van de kapel, in het hemd van een ander. Schoenen kocht ik van de waard voor drie avonden spelen; ze waren een maat te klein, en ik heb ze tot juni gedragen. Ik betaalde de kamer door 's avonds in de gelagzaal viool te spelen op een instrument dat de waard van een matroos had gekocht en dat een scheve kam had. Ik speelde wat ze wilden horen. Ik speelde het lied van het meisje uit Portsea niet. Ze kenden het daar niet, en niemand vroeg erom.
 
 Overdag schreef ik. Ik schreef de sloep. Ik schreef van de golf tot de laatste nacht, aan een tafel die niet bewoog, onder een lamp die stil brandde, en ik heb het opgeschreven zoals het hierboven staat, met wat erin staat en zonder wat er niet in staat. Ik heb mijn horloge weer opgewonden. Ik heb het gelijkgezet met de klok van St. John.
 
