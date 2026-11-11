@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "coverage": {
+    "scope": "full_manuscript",
+    "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+  },
+  "dimensions": [
+    {
+      "name": "Originality",
+      "score": 8.8,
+      "evidence": [
+        {
+          "chapter": 21,
+          "quote": "De naam had ik zesenveertig jaar in een tabaksdoos bewaard. Die kwam van mij. De zin kwam van hem. En dat ik die zin had geloofd, kwam weer van mij.",
+          "reason": "Het bekende toeval Pym/Mignonette wordt niet als curiositeit opgevoerd maar omgebouwd tot een gesloten causale lus waarin de verteller zelf de vervalsing veroorzaakt die hem misleidde. Dat is een eigen, niet geleende oplossing."
+        },
+        {
+          "chapter": 2,
+          "quote": "Ik kan gaan waarheen ik wil, behalve naar een dag die ik al geleefd heb. Daar is de deur dicht.",
+          "reason": "Het speculatieve element is klein, met één heldere regel, en dient volledig het morele probleem (wie kan vertrekken en wie niet) in plaats van het plot te dragen."
+        }
+      ],
+      "reason": "Sterk origineel in uitvoering: Saint-Germain als verteller, de Mignonette-zaak en Poe worden tot één morele constructie verweven, met het dagboek met leesbare doorhalingen als vormprincipe. Het uitgangstoeval zelf is bekend (en Life of Pi leunt er al op), wat net onder de top houdt."
+    },
+    {
+      "name": "Theme",
+      "score": 9.0,
+      "evidence": [
+        {
+          "chapter": 21,
+          "quote": "'Omdat u mij een jongen hebt gegeven die niets te zeggen had over zijn eigen dood,' zei hij. 'Dat verdraagt een lezer niet. Dat verdraagt ik niet.",
+          "reason": "PLACEHOLDER"
+        }
+      ],
+      "reason": "PLACEHOLDER"
+    }
+  ],
+  "strongest_passage": {"chapter": 1, "quote": "x", "reason": "x"},
+  "weakest_passage": {"chapter": 1, "quote": "x", "reason": "x"},
+  "confidence": {"level": "medium", "reason": "x"},
+  "limitations": "x"
+}
