@@ -76,7 +76,7 @@ Hij zei niets. Hij wachtte.
 
 'Ik had de wacht. De anderen sliepen. Hij lag met zijn hoofd op mijn knie, en hij was wakker. Ik wist welke dag het zou worden.' Ik keek naar de drukproeven, naar de naam, Parker, in de kleine letter van de zetterij. 'Ik vroeg hem: Wilt ge dat ik blijf?'
 
-Ik had 'ge' gezegd. In die keuken. Ik had het nooit tegen iemand anders gezegd dan tegen hem.
+Ik had 'ge' gezegd. In die keuken. Ik had nog nooit iemand anders zo aangesproken.
 
 'Hij zei: Ge wilt dat ik zeg dat ge moogt gaan.'
 

@@ -221,3 +221,9 @@
 
 - Hfst. 1 (a5) en hfst. 12 (a4) herzien op akkoord van de auteur. Zie `evaluations/panel-gate-pass-1.md`.
 - Leesexemplaar opnieuw geëxporteerd (`delivery/`).
+
+## 11 november 2026 — tweede A/B-ronde en hercontrole van de audit
+
+- Hfst. 1 (3–1) en hfst. 12 (4–0) aanvaard. De panelpoort is gehaald.
+- Hercontrole: T-01, T-02 en T-03 gesloten; audit_status: pass. Kleine nieuwe tickets hersteld.
+- Leesexemplaar opnieuw geëxporteerd.

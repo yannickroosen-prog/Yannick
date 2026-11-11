@@ -8,7 +8,7 @@ Vier van de vijf opvarenden en Poe hebben echt bestaan. Per historisch personage
 
 **Wonde.** Hij weet niet meer wie hem als eerste liefhad. In zijn oudste dagboek staat het warme hemd, en de bladzijde ervoor ontbreekt. Sindsdien vertrekt hij altijd als eerste. Zo hoeft hij nooit meer achtergelaten te worden.
 
-**Leugen.** 'Wie alles opschrijft, verliest niemand.' In boek I verschijnt die leugen als: 'Ik ken deze jongen. Ik heb zijn naam zesenveertig jaar bewaard en zijn dood een winter lang bestudeerd.'
+**Leugen.** 'Wie alles opschrijft, verliest niemand.' In boek I verschijnt die leugen als: 'Ik ken deze jongen. Ik heb zijn naam zesenveertig jaar bewaard en zijn dood in één nacht in december gelezen.'
 
 **Bewust verlangen.** Richard Parker van boord houden en zijn dood ongedaan maken.
 

@@ -90,7 +90,7 @@ Ik vroeg hem of hij nog familie had in Southampton. Ik wist het antwoord. Ik vro
 
 'Weet zij dat u vanavond vertrekt?'
 
-'Iedereen weet dat.' Hij stak zijn kin naar de ligplaats, twintig passen verder, waar een jacht lag met een zwarte romp en een mast die korter was dan de masten om haar heen. 'Dat is ze. De Mignonette.'
+'Heel de kade weet dat.' Hij stak zijn kin naar de ligplaats, twintig passen verder, waar een jacht lag met een zwarte romp en een mast die korter was dan de masten om haar heen. 'Dat is ze. De Mignonette.'
 
 Ik keek. Ik had haar al gezien, toen ik over de kade kwam, en ik had niet gekeken, omdat ik hem zocht en niet haar. Nu keek ik wel. Ze was klein. Dat is het eerste wat ik over haar opschrijf, en het is ook het laatste wat ik over haar wil weten. Ze was zo klein dat ik dacht dat er een vergissing in het spel moest zijn, dat het grotere schip erachter het hare was, en dat dit de bijboot was. Ik heb aan het hof van Versailles in een sloep op het grote kanaal gevaren die langer was. Ze lag stil, met haar zeilen nog gestreken, en er liep een man over haar dek die iets aan de railing deed met een doek.
 

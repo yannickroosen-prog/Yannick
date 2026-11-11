@@ -96,7 +96,7 @@ Ik vroeg hem of hij nog familie had in Southampton. Ik wist het antwoord. Ik vro
 
 'Weet zij dat u vanavond vertrekt?'
 
-'Iedereen weet dat.' Hij stak zijn kin naar de ligplaats, twintig passen verder, waar een jacht lag met een zwarte romp en een mast die korter was dan de masten om haar heen. 'Dat is ze. De Mignonette.'
+'Heel de kade weet dat.' Hij stak zijn kin naar de ligplaats, twintig passen verder, waar een jacht lag met een zwarte romp en een mast die korter was dan de masten om haar heen. 'Dat is ze. De Mignonette.'
 
 Ik keek. Ik had haar al gezien, toen ik over de kade kwam, en ik had niet gekeken, omdat ik hem zocht en niet haar. Nu keek ik wel. Ze was klein. Dat is het eerste wat ik over haar opschrijf, en het is ook het laatste wat ik over haar wil weten. Ze was zo klein dat ik dacht dat er een vergissing in het spel moest zijn, dat het grotere schip erachter het hare was, en dat dit de bijboot was. Ik heb aan het hof van Versailles in een sloep op het grote kanaal gevaren die langer was. Ze lag stil, met haar zeilen nog gestreken, en er liep een man over haar dek die iets aan de railing deed met een doek.
 
@@ -190,7 +190,7 @@ Ik schreef de naam in mijn notitieboek. Richard Parker. Merkwaardig. Ik weet nog
 
 Drie maanden later stond er in de Morning Chronicle een Richard Parker, kruidenier te Bermondsey, die failliet was verklaard. Ik knipte het uit. Ik weet niet waarom ik dat deed. Ik legde het knipsel in een tabaksdoos van blik, waar ik verder niets in bewaarde, en zette de doos op de schoorsteenmantel.
 
-In de zesenveertig jaar daarna zijn er eenendertig bij gekomen. Een Richard Parker die bij Lord's een honderdtal sloeg. Een Richard Parker die in Leeds tien shilling boete kreeg voor dronkenschap op de openbare weg, en een week later opnieuw. Een Richard Parker, weduwnaar, die in de Times een vrouw zocht met een eigen inkomen en een goed humeur, in die volgorde. Een Richard Parker, zeilmaker, verdronken in de Theems bij Wapping, oud tweeënzestig jaar. Dat was het enige knipsel met water erin, tot mei 1884.
+In de zesenveertig jaar daarna zijn er eenendertig bij gekomen. Een Richard Parker die bij Lord's een honderdtal sloeg. Een Richard Parker die in Leeds tien shilling boete kreeg voor dronkenschap op de openbare weg, en een week later opnieuw. Een Richard Parker, weduwnaar, die in de Times een vrouw zocht met een eigen inkomen en een goed humeur, in die volgorde. Een Richard Parker, zeilmaker, verdronken in de Theems bij Wapping, oud tweeënzestig jaar. Dat was het enige knipsel met water erin.
 
 Ik ben geen bijgelovig man. Dat schrijf ik op omdat het niet waar is. Ik ben een man die in voortekens gelooft wanneer het hem uitkomt, en die ze vergeet wanneer het hem niet uitkomt, zoals de meeste mensen die zichzelf niet bijgelovig noemen. Die tabaksdoos was mijn bijgeloof. Ik heb haar meegenomen naar zes verschillende kamers in Londen en Bath. Ik heb haar nooit aan iemand laten zien.
 
@@ -240,7 +240,7 @@ Hij lachte niet, maar zijn schouders gingen een duim omhoog, op de manier van ee
 
 'En u bent?'
 
-Ik zei mijn naam. Ik zeg mijn naam in Engeland zo dat hij niet als een naam klinkt. Hij verstond Jermyn, zoals de straat in Londen, en ik verbeterde hem niet. Meneer Jermyn. Zo heeft hij me tot het einde genoemd. Het is de enige naam die ik in mijn leven heb gehad die door niemand werd opgeschreven.
+Ik zei mijn naam. Ik zeg mijn naam in Engeland zo dat hij niet als een naam klinkt. Hij verstond Jermyn, zoals de straat in Londen, en ik verbeterde hem niet. Meneer Jermyn. Zo heeft hij me tot het einde genoemd. Ik heb die naam zelf maar één keer opgeschreven, onder een brief die ik later verscheurde.
 
 ---
 
@@ -2204,7 +2204,7 @@ Hij was wakker. Ik weet niet hoe ik het wist. Ik wist het.
 
 Ik heb hem iets gevraagd, die nacht.
 
-Ik heb hem die nacht één keer aangesproken zoals hij mij aansprak, op de kade, in de kroeg, in de sloep. Ik had het nooit eerder gedaan. Ik had zes weken en twintig dagen 'u' gezegd, zoals ik dat aan het hof had geleerd, tegen iedereen, ook tegen kinderen. Die nacht niet.
+Ik heb hem die nacht één keer aangesproken zoals hij mij aansprak, op de kade, in de kroeg, in de sloep. Ik had het nooit eerder gedaan. Ik had zeven weken en twintig dagen 'u' gezegd, zoals ik dat aan het hof had geleerd, tegen iedereen, ook tegen kinderen. Die nacht niet.
 
 Hij heeft geantwoord.
 
@@ -2248,7 +2248,7 @@ Ik ben gegaan.
 
 Het was nacht en het vroor. Dat was het eerste. Ik stond op een stoep van baksteen, in een straat met lage huizen van hout en steen door elkaar, en de stoep was glad van het ijs. Ik had geen hemd aan. Ik had geen jas. Ik had een broek aan die stijf stond van het zout, en geen schoenen, en tegen mijn buik twee boeken, en in mijn broekzak een horloge dat stilstond, en in mijn hand een knoop.
 
-Ik had niet gekozen hoe ik aankwam. Dat schrijf ik op omdat het me later werd gevraagd en omdat ik het mezelf heb gevraagd. Ik wist waar ik heen wilde. Ik wist het al jaren: Carmine Street, New York, in het voorjaar van 1837, waar de schrijver van de roman in mijn binnenzak toen woonde, in een huis dat zijn schoonmoeder openhield voor kostgangers. Ik had het in zijn levensbeschrijvingen gelezen, na zijn dood. Ik wist het nummer. Ik wist niet hoe koud het in maart kan zijn in New York, en ik had niet nagedacht over wat ik aan had. Ik had over niets nagedacht. Ik was gegaan.
+Ik had niet gekozen hoe ik aankwam. Dat schrijf ik op omdat het me later werd gevraagd en omdat ik het mezelf heb gevraagd. Ik wist waar ik heen wilde. Ik wist het al jaren: Carmine Street, New York, in het voorjaar van 1837, waar de schrijver van de roman tegen mijn buik toen woonde, in een huis dat zijn schoonmoeder openhield voor kostgangers. Ik had het in zijn levensbeschrijvingen gelezen, na zijn dood. Ik wist het nummer. Ik wist niet hoe koud het in maart kan zijn in New York, en ik had niet nagedacht over wat ik aan had. Ik had over niets nagedacht. Ik was gegaan.
 
 Ik wilde hem één ding vragen. Ik wilde hem vragen waar hij die naam vandaan had.
 
@@ -2438,7 +2438,7 @@ Hij zei niets. Hij wachtte.
 
 'Ik had de wacht. De anderen sliepen. Hij lag met zijn hoofd op mijn knie, en hij was wakker. Ik wist welke dag het zou worden.' Ik keek naar de drukproeven, naar de naam, Parker, in de kleine letter van de zetterij. 'Ik vroeg hem: Wilt ge dat ik blijf?'
 
-Ik had 'ge' gezegd. In die keuken. Ik had het nooit tegen iemand anders gezegd dan tegen hem.
+Ik had 'ge' gezegd. In die keuken. Ik had nog nooit iemand anders zo aangesproken.
 
 'Hij zei: Ge wilt dat ik zeg dat ge moogt gaan.'
 

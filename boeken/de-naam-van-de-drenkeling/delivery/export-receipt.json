@@ -18,11 +18,11 @@
     "chapters": [
       {
         "number": 1,
-        "words": 2504
+        "words": 2506
       },
       {
         "number": 2,
-        "words": 2271
+        "words": 2267
       },
       {
         "number": 3,
@@ -98,27 +98,27 @@
       },
       {
         "number": 21,
-        "words": 1394
+        "words": 1391
       },
       {
         "number": 22,
         "words": 644
       }
     ],
-    "total": 35258
+    "total": 35253
   },
   "source_chapters": [
     {
       "number": 1,
       "path": "chapter-01.md",
       "title": "1",
-      "sha256": "5a6aadafe8961aee2bb2e4c84b0d2edc41653a2372914c6b9f603b6cd5cc735b"
+      "sha256": "f714c6758bd007e63c81c46e2a06bea1be62ce20ff717787a95d30bd61b167ec"
     },
     {
       "number": 2,
       "path": "chapter-02.md",
       "title": "2",
-      "sha256": "3dea1dab0a070aaa68c10461342255b9191631ea8b804cfcdda65aff4d73ccca"
+      "sha256": "fd9989f99bda5951e58f51edace2eda35388124039052d639ce7be6008cd07d1"
     },
     {
       "number": 3,
@@ -220,19 +220,19 @@
       "number": 19,
       "path": "chapter-19.md",
       "title": "19",
-      "sha256": "e1e4a597ad780e1c20169c7a2ee578bd03f00323b3d379e81989044738445565"
+      "sha256": "4608c9bc91899bffdafee6cc77af08af8c51dd21f5ba06d7b6f84bf2f3735783"
     },
     {
       "number": 20,
       "path": "chapter-20.md",
       "title": "20",
-      "sha256": "cdf08a20210fae7819cd8737ab5d83e3d2be910555eead23bd017565d0e3441f"
+      "sha256": "d57c1b3b31aa0e9a528d7eab7d4368456c6b08dcc9e491e6af0070d7b409ecb7"
     },
     {
       "number": 21,
       "path": "chapter-21.md",
       "title": "21",
-      "sha256": "6481ac33d3db8e113d9b4fdea62c6d6ab705e22700f8ccea7db589d86a8b1060"
+      "sha256": "e0269524ece3e44837e1ae7f20506f4a5b1ba5d0b2daffd0542c2d00eaa4eabf"
     },
     {
       "number": 22,
@@ -243,10 +243,10 @@
   ],
   "outputs": {
     "manuscript.md": {
-      "sha256": "535e0f79c0c775dc6a6e8267c69f79fe3d1049f8021a3e5cbdfa660ca607be66"
+      "sha256": "467fab3c1442ffad58b19f62451869c186d1074bcb6cf7f3dc889be4e3e2313a"
     },
     "de-naam-van-de-drenkeling.epub": {
-      "sha256": "c120b2de82c0b783d5e5f6a55be477d188276b4cb95f369bce16316275712e6a"
+      "sha256": "d1856cf28c427a78325e103ea73b5f7c9b6fa5ce997633f4de63498b1e5b2b08"
     }
   },
   "validation": {

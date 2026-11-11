@@ -123,7 +123,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
   - Richard weet het nooit.
 - **K-02a** De knipsels: 31 Richard Parkers tussen herfst 1838 en 1884 in een blikken tabaksdoos; het eerste uit de Morning Chronicle (kruidenier, Bermondsey). ch02 [V]
 - **K-02** Er bestaat een echte Mignonette met een scheepsjongen R. Parker.
-  - De graaf leest het begin mei 1884 in een krantenbericht [V] en krijgt bevestiging uit het procesverslag van december 1884.
+  - De graaf leest het op vrijdag 9 mei 1884 in een krantenbericht [V], twijfelt negen dagen, en krijgt bevestiging uit het procesverslag van december 1884.
   - Plan: hfst. 2.
 - **K-03** De datum van de ondergang (5 juli), de sterfdatum (25 juli) en de namen Dudley en Stephens als daders.
   - De graaf weet het uit het procesverslag (december 1884).
@@ -218,7 +218,7 @@ Legende voor de herkomst: **[H]** komt uit de bronnen, **[V]** is verzonnen, **[
 |---|---|---|---|---|
 | T-01 | 2 (terugblik) | 27 feb 1784, Eckernförde → sprong | — | einde van het geleefde deel tot 1784 |
 | T-02 | 2 (terugblik) | 1838, Engeland; juli 1838 Pym | — | de naam noteren; het bijgeloof begint (I-01) |
-| T-03 | 2 (terugblik) | 1838 – begin mei 1884 | 46 jaar (1884 − 1838 = 46) | lineair geleefd; knipsels |
+| T-03 | 2 (terugblik) | 1838 – 18 mei 1884 | 46 jaar (1884 − 1838 = 46) | lineair geleefd; knipsels |
 | T-04 | 2 (terugblik) | vrijdag 9 mei 1884: krantenbericht (Southampton); negen dagen twijfel, geleefd; nacht van 18 mei → sprong naar december 1884, leeskamer in de Strand, sneeuwregen; nacht in een hotel aan de Strand | — | procesverslag; vonnis in december 1884 [H?] |
 | T-05 | 1-6 | maandag 19 mei 1884: hfst. 1 vanaf 5.52 uur; hfst. 2 vanaf 7.10; hfst. 3 vanaf 9 uur; hfst. 4 vanaf 12.25 (kroeg); hfst. 5 vanaf 13.15 (Itchen, om 15 uur aan boord, 16.10 Dolphin); hfst. 6 vanaf 18.40; tij om 20.30; vertrek om 20.37, wind licht uit het noordoosten [V] | één dag | vertrekdatum [H]; uur van vertrek [V]. Weekdag: maandag (berekend) |
 | T-06 | 7-10 | ch07: di 20 mei 6.12 uur (St. Catherine's Point) – wo 28 mei 4.45 uur (dag 9, Golf van Biskaje); ch08: do 5 juni 2.40-5.06 uur (dag 17, Canarische Eilanden); ch09: 'donderdag, denk ik', half juni, boven de evenaar, regen, avond; ch10: windstilte, zonder datum, ±2 weken na ch08; om 21 uur de zuidoostpassaat | ~6 weken | |

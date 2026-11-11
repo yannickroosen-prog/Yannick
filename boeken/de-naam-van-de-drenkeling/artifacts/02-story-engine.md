@@ -16,7 +16,7 @@ Saint Germain las in 1838 een roman van Poe waarin een schipbreukeling Richard P
 2. **Op zee (25-50%, hfst. 7-11).** Het dagboek verliest zijn minuten. Viool, natte kousen, ouderwetse grappen. Een scène waarin ze allebei vergeten waarom de graaf er is. Richard plant van zijn eerste loon een tweedehands viool.
 3. **Middenpunt (50%, hfst. 12, 4 juli 1884, de avond vóór de ondergang).** Richard vindt het dagboek. Hij leest zijn sterfdatum en de namen. Die avond eet hij met Dudley, Stephens en Brooks. Iemand schuift hem het laatste stuk brood toe. Niemand benoemt het dagboek. **Vanaf hier stuurt Richard het verhaal.**
 4. **Ondergang en sloep (55-88%, hfst. 13-19).** Wat Richard doet met wat hij weet, verandert de verhoudingen aan boord, maar niet de afloop. De graaf kan nog wegspringen; elke minuut die hij blijft, kiest hij. De wacht waarover hij niets schrijft: drie keer begint hij met 'Ik vroeg Richard …'. In die nacht vraagt hij: 'Wilt ge dat ik blijf?' Richard antwoordt: 'Ge wilt dat ik zeg dat ge moogt gaan.' De graaf springt weg vóór de ochtend van 25 juli.
-5. **Poe (88-100%, hfst. 20-22).** De graaf springt naar 1837 en vertelt Poe over de jongen met de laars. Poe vraagt de naam. De graaf zegt ja. De drukproef: Poe heeft Richard woorden in de mond gelegd. De graaf begrijpt dat hij zelf de bron is van wat hij zesenveertig jaar voor waar hield. Hij vertelt eindelijk wat er in die wacht gebeurde. Hij schrijft het gesprek op de kade uit zijn hoofd op en moet halverwege een woord doorstrepen.
+5. **Poe (88-100%, hfst. 20-22).** De graaf springt naar 1837 en vertelt Poe over de jongen met de laars. Poe vraagt de naam. De graaf zegt ja. De drukproef: Poe heeft Richard woorden in de mond gelegd. De graaf begrijpt dat hij zelf de bron is van wat hij in december aan Richard toeschreef. De naam kwam van hem; de zin kwam van Poe. Hij vertelt eindelijk wat er in die wacht gebeurde. Hij schrijft het gesprek op de kade uit zijn hoofd op en moet halverwege een woord doorstrepen.
 
 ## Wat dit boek anders maakt dan de comps
 
@@ -41,7 +41,7 @@ Regels die het boek nooit mag breken. De auditor toetst ze in fase 4.
    - sprong terug naar 19 mei 1884 (overgeslagen dag): de kade van Southampton
    - 19 mei – 24/25 juli 1884: de reis en de sloep; springt weg in de nacht van 24 op 25 juli
    - sprong naar 1837, New York: Poe
-   Nooit beleefd: 1785-1837, de dagen tussen begin mei en december 1884 buiten de reis. **Zonder deze tijdlijn is het slot onmogelijk.**
+   Nooit beleefd: 1785-1837; 19 mei 1884 en later, behalve de reis (19 mei – 24 juli) en één dag in december 1884; de weken in New York in 1837 (maart – juni) leeft hij na de sloep. **Zonder deze tijdlijn is het slot onmogelijk.**
    Gevolg voor de vertelling: de graaf kent de feiten (uit het proces) en meent het karakter te kennen (uit Poe). Twee bronnen, één vergissing.
 3. **Het opnieuw-proberen-probleem.** 'Waarom probeer je het morgen niet opnieuw?' wordt beantwoord door regel 1: elke ontmoeting met Richard is eenmalig. Een mislukte poging is definitief verbruikt.
 4. **Onzichtbaarheid in de bronnen.** De archieven noemen vier opvarenden. De graaf staat niet op de bemanningslijst (passagier zonder papieren, door Dudley aangenomen voor geld) en springt weg uit de sloep in de nacht vóór Richards dood. De drie overlevenden zwijgen over hem. Hij weet vóór vertrek al dat hij niet in de stukken zal staan.

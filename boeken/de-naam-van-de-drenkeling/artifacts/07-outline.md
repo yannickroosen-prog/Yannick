@@ -41,7 +41,7 @@ Druk wordt aangeduid met: rust · komedie · dreiging · actie · rouw · uitleg
 - **Eindwending:** Richard vraagt waarom hij altijd de prijs van dingen noemt.
 
 ### 5 · Wat Parker zei — 3.700 w — rust → rouw
-- **Functie:** de kleine grote ontdekking. 's Middags neemt Richard hem mee naar de kamer waar hij logeert, in Itchen. Hij laat de knoop van zijn moeders jas zien. Alleen in een gehuurde kamer herleest de graaf Pym en ziet het: bij Poe stelt Parker zélf het offer voor. Die zin heeft hij zesenveertig jaar aan de echte jongen toegeschreven. Voor het eerst schrijft hij iets op wat Richard werkelijk zei.
+- **Functie:** de kleine grote ontdekking. 's Middags neemt Richard hem mee naar de kamer waar hij logeert, in Itchen. Hij laat de knoop van zijn moeders jas zien. Alleen in een gehuurde kamer herleest de graaf Pym en ziet het: bij Poe stelt Parker zélf het offer voor. Die zin heeft hij in december aan de echte jongen toegeschreven. Voor het eerst schrijft hij iets op wat Richard werkelijk zei.
 - **Waardeverschuiving:** hij meende Richard te kennen en weet nu dat hij hem niet kent.
 - **Eindwending:** hij schrijft de brief aan de havenpolitie.
 
@@ -121,7 +121,7 @@ Druk wordt aangeduid met: rust · komedie · dreiging · actie · rouw · uitleg
 - **Eindwending:** Poe vraagt: 'En waar was u, toen het gebeurde?' De graaf antwoordt niet.
 
 ### 21 · De drukproef — 4.300 w — ongemak → catharsis
-- **Functie:** weken later, in juni 1837. In de drukproef stelt Parker zelf voor iemand op te offeren. De graaf herkent de zin die hij zesenveertig jaar aan Richard heeft toegeschreven. Hij confronteert Poe. Poe: 'U hebt mij een jongen gegeven zonder einde. Ik heb hem er een gegeven.' Dan vertelt de graaf eindelijk de wacht. 'Wilt ge dat ik blijf?' 'Ge wilt dat ik zeg dat ge moogt gaan.' En de knoop: hij vertelt Poe dat hij hem kreeg, niet wat hij betekende.
+- **Functie:** weken later, in juni 1837. In de drukproef stelt Parker zelf voor iemand op te offeren. De graaf herkent de zin die hij in december aan Richard toeschreef: de naam kwam van hem, de zin van Poe, het geloof erin weer van hem. Hij confronteert Poe. Poe: 'U hebt mij een jongen gegeven zonder einde. Ik heb hem er een gegeven.' Dan vertelt de graaf eindelijk de wacht. 'Wilt ge dat ik blijf?' 'Ge wilt dat ik zeg dat ge moogt gaan.' En de knoop: hij vertelt Poe dat hij hem kreeg, niet wat hij betekende.
 - **Waardeverschuiving:** van aanklager naar bron.
 - **Eindwending:** hij krijgt de drukproef mee.
 

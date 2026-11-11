@@ -4,7 +4,7 @@
 
 Het was nacht en het vroor. Dat was het eerste. Ik stond op een stoep van baksteen, in een straat met lage huizen van hout en steen door elkaar, en de stoep was glad van het ijs. Ik had geen hemd aan. Ik had geen jas. Ik had een broek aan die stijf stond van het zout, en geen schoenen, en tegen mijn buik twee boeken, en in mijn broekzak een horloge dat stilstond, en in mijn hand een knoop.
 
-Ik had niet gekozen hoe ik aankwam. Dat schrijf ik op omdat het me later werd gevraagd en omdat ik het mezelf heb gevraagd. Ik wist waar ik heen wilde. Ik wist het al jaren: Carmine Street, New York, in het voorjaar van 1837, waar de schrijver van de roman in mijn binnenzak toen woonde, in een huis dat zijn schoonmoeder openhield voor kostgangers. Ik had het in zijn levensbeschrijvingen gelezen, na zijn dood. Ik wist het nummer. Ik wist niet hoe koud het in maart kan zijn in New York, en ik had niet nagedacht over wat ik aan had. Ik had over niets nagedacht. Ik was gegaan.
+Ik had niet gekozen hoe ik aankwam. Dat schrijf ik op omdat het me later werd gevraagd en omdat ik het mezelf heb gevraagd. Ik wist waar ik heen wilde. Ik wist het al jaren: Carmine Street, New York, in het voorjaar van 1837, waar de schrijver van de roman tegen mijn buik toen woonde, in een huis dat zijn schoonmoeder openhield voor kostgangers. Ik had het in zijn levensbeschrijvingen gelezen, na zijn dood. Ik wist het nummer. Ik wist niet hoe koud het in maart kan zijn in New York, en ik had niet nagedacht over wat ik aan had. Ik had over niets nagedacht. Ik was gegaan.
 
 Ik wilde hem één ding vragen. Ik wilde hem vragen waar hij die naam vandaan had.
 

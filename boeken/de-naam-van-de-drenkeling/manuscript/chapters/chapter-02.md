@@ -34,7 +34,7 @@ Ik schreef de naam in mijn notitieboek. Richard Parker. Merkwaardig. Ik weet nog
 
 Drie maanden later stond er in de Morning Chronicle een Richard Parker, kruidenier te Bermondsey, die failliet was verklaard. Ik knipte het uit. Ik weet niet waarom ik dat deed. Ik legde het knipsel in een tabaksdoos van blik, waar ik verder niets in bewaarde, en zette de doos op de schoorsteenmantel.
 
-In de zesenveertig jaar daarna zijn er eenendertig bij gekomen. Een Richard Parker die bij Lord's een honderdtal sloeg. Een Richard Parker die in Leeds tien shilling boete kreeg voor dronkenschap op de openbare weg, en een week later opnieuw. Een Richard Parker, weduwnaar, die in de Times een vrouw zocht met een eigen inkomen en een goed humeur, in die volgorde. Een Richard Parker, zeilmaker, verdronken in de Theems bij Wapping, oud tweeënzestig jaar. Dat was het enige knipsel met water erin, tot mei 1884.
+In de zesenveertig jaar daarna zijn er eenendertig bij gekomen. Een Richard Parker die bij Lord's een honderdtal sloeg. Een Richard Parker die in Leeds tien shilling boete kreeg voor dronkenschap op de openbare weg, en een week later opnieuw. Een Richard Parker, weduwnaar, die in de Times een vrouw zocht met een eigen inkomen en een goed humeur, in die volgorde. Een Richard Parker, zeilmaker, verdronken in de Theems bij Wapping, oud tweeënzestig jaar. Dat was het enige knipsel met water erin.
 
 Ik ben geen bijgelovig man. Dat schrijf ik op omdat het niet waar is. Ik ben een man die in voortekens gelooft wanneer het hem uitkomt, en die ze vergeet wanneer het hem niet uitkomt, zoals de meeste mensen die zichzelf niet bijgelovig noemen. Die tabaksdoos was mijn bijgeloof. Ik heb haar meegenomen naar zes verschillende kamers in Londen en Bath. Ik heb haar nooit aan iemand laten zien.
 
@@ -84,7 +84,7 @@ Hij lachte niet, maar zijn schouders gingen een duim omhoog, op de manier van ee
 
 'En u bent?'
 
-Ik zei mijn naam. Ik zeg mijn naam in Engeland zo dat hij niet als een naam klinkt. Hij verstond Jermyn, zoals de straat in Londen, en ik verbeterde hem niet. Meneer Jermyn. Zo heeft hij me tot het einde genoemd. Het is de enige naam die ik in mijn leven heb gehad die door niemand werd opgeschreven.
+Ik zei mijn naam. Ik zeg mijn naam in Engeland zo dat hij niet als een naam klinkt. Hij verstond Jermyn, zoals de straat in Londen, en ik verbeterde hem niet. Meneer Jermyn. Zo heeft hij me tot het einde genoemd. Ik heb die naam zelf maar één keer opgeschreven, onder een brief die ik later verscheurde.
 
 ---
 

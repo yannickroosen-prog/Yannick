@@ -16,7 +16,7 @@ Hij was wakker. Ik weet niet hoe ik het wist. Ik wist het.
 
 Ik heb hem iets gevraagd, die nacht.
 
-Ik heb hem die nacht één keer aangesproken zoals hij mij aansprak, op de kade, in de kroeg, in de sloep. Ik had het nooit eerder gedaan. Ik had zes weken en twintig dagen 'u' gezegd, zoals ik dat aan het hof had geleerd, tegen iedereen, ook tegen kinderen. Die nacht niet.
+Ik heb hem die nacht één keer aangesproken zoals hij mij aansprak, op de kade, in de kroeg, in de sloep. Ik had het nooit eerder gedaan. Ik had zeven weken en twintig dagen 'u' gezegd, zoals ik dat aan het hof had geleerd, tegen iedereen, ook tegen kinderen. Die nacht niet.
 
 Hij heeft geantwoord.
 

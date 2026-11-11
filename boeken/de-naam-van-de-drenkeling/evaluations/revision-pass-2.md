@@ -38,3 +38,13 @@ Er zijn 16 hoofdstukken herzien als nieuwe pogingen, gestaged en canoniek gemaak
 - hfst. 1 'vier koningen' (de lezers onthielden het); de slotzinnen van hfst. 1, 4 en 12;
 - de bijzinnen in de vertelling van hfst. 22;
 - T-20 restpunten, T-23 (nawoord).
+
+## Hercontrole van de audit (`artifacts/10b-audit-recheck.md`)
+
+- T-01, T-02 en T-03 zijn gesloten met nieuw auditbewijs. **audit_status: pass.**
+- Nieuwe kleine tickets, allemaal hersteld:
+  - hfst. 20: 'roman tegen mijn buik';
+  - hfst. 19: 'zeven weken en twintig dagen';
+  - hfst. 21: 'nog nooit iemand anders zo aangesproken';
+  - hfst. 2: Jermyn één keer opgeschreven, en het knipsel met water;
+  - planbestanden bijgewerkt.
