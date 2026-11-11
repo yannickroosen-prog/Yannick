@@ -1,0 +1,35 @@
+{
+  "reader": "Sofie",
+  "leeservaring": "Laatste avondmaal aan boord van de Mignonette, de avond voor het schip zinkt, en ik ken die zaak: ik wist meteen wie Richard is en wat er met hem gebeurt. Wat me vasthield waren de dingen op tafel. Het theewater is het tweede kookwater van het pekelvlees, er staat een pot rapen, er zijn vier vaten en één lekt, en Stephens telt zijn meel 'zoals een boer zijn schapen telt'. Dan de vraag hoeveel water er in de sloep past, en daar kreeg ik kippenvel, want ik weet hoe die sloep er straks bij ligt. Het moment met het brood is spannend zonder dat er iets gebeurt. De verteller, een man met een horloge uit 1761 die aan hoven heeft gezeten, vond ik soms te veel aanwezig. Elke keer als hij over koningen en kardinalen begon, zakte het zoute water even weg. Het slot, 'een uur waarvóór', kwam hard aan.",
+  "turn_page": "yes",
+  "stopped_at": {"quote": "Ik heb aan tafels gezeten waar een koning zweeg omdat iedereen wachtte tot hij zou spreken, en aan tafels waar een man zweeg omdat hij net had gehoord dat zijn zoon was gesneuveld."},
+  "why_stopped": {"reason": "Hier gaat het even over de verteller en zijn salonleven, niet over de kajuit. Ik wilde terug naar de handen en de borden."},
+  "remember_tomorrow": [
+    {"quote": "Het water van de thee was het tweede water van het vlees.", "reason": "Een klein, smerig, waar detail. Precies wat ik wil weten."},
+    {"quote": "'Als we de sloep nodig hebben,' zei Richard. 'Hoeveel water past er dan in?'", "reason": "Wie de zaak kent, weet dat ze straks bijna zonder water in die sloep zitten."},
+    {"quote": "Hij had niet gezegd een uur waarvóór.", "reason": "Sterke laatste zin."}
+  ],
+  "confused_by": [
+    {"quote": "'Ge moet de pan vasthouden, zegt hij. Ze slingert.'", "reason": "Engelse zeelui die Vlaams spreken. Ik raakte eraan gewend, maar eerst stoorde het me."},
+    {"quote": "Ik heb dat horloge sinds 1761.", "reason": "Ik ken alleen dit fragment en weet niet hoe die tijdreis werkt. Het komt zomaar uit de vest."}
+  ],
+  "flags": [
+    {"flag": "machine_prose", "quote": "Dudley bad niet lang. Hij bad met nadruk"},
+    {"flag": "over_explained", "quote": "Het was een gebaar dat hij zo vaak had gemaakt dat het geen gebaar meer was. Het was een plaats in de lucht waar dingen terechtkwamen."},
+    {"flag": "continuity_doubt", "quote": "Er was gezouten rundvlees, dat Stephens drie uur in twee keer zoet water had laten trekken."}
+  ],
+  "strongest_passage": {"quote": "Ik zag Richards duim over de korst gaan. Eén keer, heen en terug. Zoals je over een munt wrijft om te voelen of hij echt is.", "reason": "Het is concreet en traag, en er wordt niets uitgelegd. Ik hield mijn adem in."},
+  "weakest_passage": {"quote": "Ik ben altijd beter geweest in antwoorden geven dan in vragen stellen. Dat is een eigenschap die je aan hoven ver brengt.", "reason": "Een wijsheid aan het eind van de alinea, en de hoven hebben niets met de zee te maken."},
+  "machine_tells": [
+    {"tell": "contrast door ontkenning", "quote": "Ik bedoel niet dat hij stil werd zoals een jongen stil wordt die moe is of zich verveelt."},
+    {"tell": "beeld dat meteen wordt uitgelegd", "quote": "Het was een plaats in de lucht waar dingen terechtkwamen."},
+    {"tell": "moraal aan het slot van een alinea", "quote": "Dat is een eigenschap die je aan hoven ver brengt."}
+  ],
+  "felt": {"emotion": "beklemming", "reason": "Ik weet wat er morgen gebeurt. Iedereen aan tafel lacht, en die jongen eet zijn brood en vraagt hoe laat het is."},
+  "auteursvragen": {
+    "wat_las_richard": {"antwoord": "Het procesverslag: zijn eigen naam als slachtoffer, en wie hem doodt en opeet. Waarschijnlijk ook dat het schip morgen zinkt.", "aanwijzingen": [{"quote": "'En in de sloep?' vroeg Richard."}, {"quote": "Richard zei het te laat."}, {"quote": "Hij keek naar hun handen."}]},
+    "het_brood": {"betekenis": "Een wrange ironie. De man die hem straks het mes geeft, geeft hem nu het grootste stuk, omdat hij nog groeit. Dudley meent het goed en weet van niets.", "verwachting": "Net als de verteller dacht ik dat hij het zou weigeren of iets zou zeggen. Dat hij het gewoon opat, vond ik sterker.", "quote": "'Gij groeit nog,' zei hij."},
+    "vertel_het_nog_eens": {"lezing": "Hij wil een toekomst horen. Een prijs, een handelaar in Sydney. Of hij test of de verteller durft te doen alsof hij Sydney haalt. Dat de verteller nu wel een prijs noemt, voelt als een belofte die hij niet kan houden.", "basis": "De eerste keer weigerde de verteller een prijs te noemen. Nu noemt hij er een, en vertelt hij het 'zoals aan een leerling ... die er de rest van zijn leven iets mee moest doen'. Daarna vraagt Richard hoe laat het is.", "quote": "Ik vertelde het, merkte ik halverwege, zoals ik het aan een leerling zou vertellen die er de rest van zijn leven iets mee moest doen."}
+  },
+  "confidence": "medium"
+}

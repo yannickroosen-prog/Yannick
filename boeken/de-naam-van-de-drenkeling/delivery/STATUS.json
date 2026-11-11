@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "status": "delivered",
+  "scope": "complete_pipeline",
+  "receipt": "export-receipt.json",
+  "receipt_sha256": "abb3ed71a7c56dd4f684d7879c62e03a539b75de0413abd701769c243c80ae8b",
+  "formats": [
+    "md",
+    "epub"
+  ],
+  "literary_quality": "not_assessed_by_exporter",
+  "publication_approval": "not_assessed"
+}

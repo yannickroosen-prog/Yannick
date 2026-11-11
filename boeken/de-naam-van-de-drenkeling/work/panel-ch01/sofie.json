@@ -1,0 +1,33 @@
+{
+  "reader": "Sofie",
+  "turn_page": "yes",
+  "stopped_at": {"quote": "Ik heb een hertogin verteld dat haar zoon niet van haar man was, met de man in de kamer."},
+  "why_stopped": {"reason": "Zijn hoflijst haalt me van de natte kade weg. Ik wilde bij de laars en de Mignonette blijven, maar ik had het boek hier niet weggelegd."},
+  "remember_tomorrow": [
+    {"quote": "Ik word misselijk bij een deining van achteren, maar alleen de eerste dag.", "reason": "Een echt scheepsdetail, en de kanttekening erover raakt meer dan de vooruitgeschoven dood."},
+    {"quote": "Ik liet het liggen. Dat is de enige waarschuwing die ik die ochtend heb gegeven: ik heb haar laten liggen.", "reason": "Een concreet ding in een plas, en daarin zit het hele dilemma."},
+    {"quote": "Ik heb aan het hof van Versailles in een sloep op het grote kanaal gevaren die langer was.", "reason": "Zo zie ik meteen hoe klein dat jacht was."}
+  ],
+  "confused_by": [
+    {"quote": "'Zeg,' zei hij, 'als ge toch niks te doen hebt, houd uw vinger efkes op die knoop.'", "reason": "Een Engelse jongen uit Southampton die Vlaams praat haalt me eruit. Wordt de kadetaal zo vertaald of is dat een keuze?"},
+    {"quote": "de plaats waar hij is begraven, wat niet de plaats is waar hij is gestorven", "reason": "Voor zover ik weet heeft Parker geen graf, alleen een gedenksteen in Itchen. Weet de auteur dat, of verbuigt hij het zonder het te zeggen?"}
+  ],
+  "flags": [
+    {"flag": "continuity_doubt", "quote": "de plaats waar hij is begraven, wat niet de plaats is waar hij is gestorven"},
+    {"flag": "confusing", "quote": "'Ge zijt geen zeeman.'"}
+  ],
+  "strongest_passage": {"quote": "Ik scheurde de zakdoek in de lengte in twee, wat met Brabants linnen moeite kost, en ik reeg de ene helft door de onderste gaten van zijn laars", "reason": "Hier zit alles in handen, stof en knopen. Hij doet iets in plaats van iets te zeggen."},
+  "weakest_passage": {"quote": "Ik kan slechte tijding brengen. Het is een vak.", "reason": "Een pose waarmee een alinea vol opschepperij wordt afgerond."},
+  "machine_tells": [
+    {"tell": "contrast door ontkenning", "quote": "ik zag dat het de vraag was die hem nieuwsgierig maakte en niet ik."},
+    {"tell": "beeld dat meteen wordt uitgelegd", "quote": "zoals een mond die iets wil zeggen en het niet doet."},
+    {"tell": "moraal aan het slot van een alinea", "quote": "Ik wist het, maar ik begreep het niet."}
+  ],
+  "felt": {"emotion": "een lichte beklemming", "reason": "Ik ken de afloop van de Mignonette, en dat hij om brood en Brooks geeft, maakt het erger."},
+  "auteursvragen": {
+    "wat_wil_richard": {"antwoord": "Hij wil zijn laars heel krijgen tot de afvaart en op tijd bij de kapitein zijn, zodat hij in Sydney loon en een getuigschrift heeft.", "quote": "'Het houdt tot vanavond,' zei hij. 'Vanavond moet ik er iets beters aan doen.'"},
+    "vertrouwen_graaf": {"richting": "beide", "quote": "Ik heb in mijn leven vier koningen de hand gekust en een paus de voet", "reason": "Hij is eerlijk over zijn falen, maar hij liegt van beroep en vertelt dat met genoegen."},
+    "vraag_voor_hoofdstuk_2": {"vraag": "Gaat hij mee kijken naar de afvaart en zegt hij het dan toch, of vaart hij zelfs mee?", "waarom_doorlezen": "de verzwegen wacht", "quote": "Ik heb in dit boek alles opgeschreven wat er daarna gebeurde, behalve één wacht."}
+  },
+  "confidence": "medium"
+}

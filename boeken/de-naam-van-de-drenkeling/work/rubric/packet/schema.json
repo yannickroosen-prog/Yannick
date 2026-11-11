@@ -1,0 +1,180 @@
+{
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "enum": [
+        1
+      ]
+    },
+    "coverage": {
+      "type": "object",
+      "properties": {
+        "scope": {
+          "type": "string",
+          "enum": [
+            "full_manuscript",
+            "sample"
+          ]
+        },
+        "chapters": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          }
+        }
+      },
+      "required": [
+        "scope",
+        "chapters"
+      ],
+      "additionalProperties": false
+    },
+    "dimensions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "enum": [
+              "Originality",
+              "Theme",
+              "Characters",
+              "Prose",
+              "Pacing",
+              "Emotion",
+              "Coherence",
+              "Market",
+              "Voice",
+              "Opening"
+            ]
+          },
+          "score": {
+            "anyOf": [
+              {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 10
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "evidence": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "chapter": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "quote": {
+                  "type": "string"
+                },
+                "reason": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "chapter",
+                "quote",
+                "reason"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "score",
+          "evidence",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "strongest_passage": {
+      "type": "object",
+      "properties": {
+        "chapter": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "quote": {
+          "type": "string"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "chapter",
+        "quote",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "weakest_passage": {
+      "type": "object",
+      "properties": {
+        "chapter": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "quote": {
+          "type": "string"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "chapter",
+        "quote",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "confidence": {
+      "type": "object",
+      "properties": {
+        "level": {
+          "type": "string",
+          "enum": [
+            "low",
+            "medium",
+            "high"
+          ]
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "level",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "limitations": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "schema_version",
+    "coverage",
+    "dimensions",
+    "strongest_passage",
+    "weakest_passage",
+    "confidence",
+    "limitations"
+  ],
+  "additionalProperties": false
+}

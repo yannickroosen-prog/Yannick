@@ -1,0 +1,35 @@
+{
+  "reader": "Ann",
+  "leeservaring": "Een avondmaal in een krappe kajuit, de avond voor de schipbreuk, en die jongen, Richard, heeft net in het dagboek iets gelezen wat hij niet had mogen lezen. Niemand zegt iets en toch gebeurt alles: het brood dat hij drie tellen niet loslaat, de lach die geen lach is, het bord met de barst dat hij een tel te lang vasthoudt. Ik heb dat hoofdstuk met ingehouden adem gelezen, net als de verteller. Wat me raakte, is dat de jongen zich waardiger gedraagt dan de man die alles weet. De verteller heeft antwoorden en geen vragen, en dat schuurt. De schuingedrukte correcties van de oude verteller ('Hier staat alleen dat hij het vroeg') vind ik prachtig: ze zeggen meer over schuld dan een hele bekentenis. Het begin aan tafel, met wie waar zat, was even een kamerplan, maar daarna liet het me niet meer los. Die 'een uur waarvóór' draag ik nog dagen mee.",
+  "turn_page": "yes",
+  "stopped_at": {"quote": "Stephens zat rechts van hem, aan de kant van de kombuis, waar hij met één arm de pan kon bereiken."},
+  "why_stopped": {"reason": "De tafelschikking wordt opgesomd als een regieaanwijzing. Ik wilde terug naar Richard en wat hij gelezen had. Bij 'Hoeveel nog?' was ik er weer helemaal bij."},
+  "remember_tomorrow": [
+    {"quote": "Hij had niet gezegd een uur waarvóór.", "reason": "Eén zin die het hele hoofdstuk omkeert. Hij weet het uur."},
+    {"quote": "Ik zag Richards duim over de korst gaan. Eén keer, heen en terug. Zoals je over een munt wrijft om te voelen of hij echt is.", "reason": "Het detail dat ik zal meedragen: een jongen die het brood weegt van de man die hem gaat doden."},
+    {"quote": "Ik heb hem gewekt. Jarenlang heb ik gezegd dat ik het hem had beloofd. Hier staat alleen dat hij het vroeg.", "reason": "Het slot geeft de emotie nu, en houdt ze niet bij voor later."}
+  ],
+  "confused_by": [
+    {"quote": "'Ge moet de pan vasthouden, zegt hij. Ze slingert.'", "reason": "Engelse zeelui die Vlaams spreken (ge, gij, jong). Als Gentse vind ik het charmant, maar ik stond er even bij stil of dat een bewuste keuze is."},
+    {"quote": "Ik heb dat horloge sinds 1761.", "reason": "Ik begrijp dat de verteller niet van deze tijd is, maar uit dit fragment weet ik niet hoe of waarom. Dat vind ik niet erg, het maakt me eerder nieuwsgierig."}
+  ],
+  "flags": [
+    {"flag": "slow_start", "quote": "Vijf mannen pasten er alleen in als ze hun ellebogen bij zich hielden."},
+    {"flag": "machine_prose", "quote": "Ik ben altijd beter geweest in antwoorden geven dan in vragen stellen. Dat is een eigenschap die je aan hoven ver brengt."}
+  ],
+  "strongest_passage": {"quote": "Dudley keek naar zijn eigen hand, die leeg bleef, en wachtte zonder te weten dat hij wachtte.", "reason": "De hele tragedie zit in die drie tellen, en niemand aan tafel ziet het behalve wij en de verteller. Geen uitleg, alleen handen."},
+  "weakest_passage": {"quote": "Ik heb in mijn leven veel stiltes gehoord. Ik heb aan tafels gezeten waar een koning zweeg omdat iedereen wachtte tot hij zou spreken, en aan tafels waar een man zweeg omdat hij net had gehoord dat zijn zoon was gesneuveld.", "reason": "Hier stapt de verteller even weg om zichzelf belangrijk te maken. Richards stilte had die vergelijking niet nodig."},
+  "machine_tells": [
+    {"tell": "contrast door ontkenning", "quote": "Dudley bad niet lang. Hij bad met nadruk"},
+    {"tell": "beeld dat meteen wordt uitgelegd", "quote": "Het was een gebaar dat hij zo vaak had gemaakt dat het geen gebaar meer was. Het was een plaats in de lucht waar dingen terechtkwamen."},
+    {"tell": "moraal aan het slot van een alinea", "quote": "Dat is een eigenschap die je aan hoven ver brengt."},
+    {"tell": "veel 'zoals'-vergelijkingen achter elkaar", "quote": "zoals een verkeerde noot in een strijkkwartet te horen is, ook voor wie geen noten leest"}
+  ],
+  "felt": {"emotion": "beklemming en schaamte namens de verteller", "reason": "De jongen weet het, de verteller weet het, en de verteller wacht op een vraag in plaats van iets te zeggen. Dat stilzwijgen voelde ik in mijn eigen keel."},
+  "auteursvragen": {
+    "wat_las_richard": {"antwoord": "Zijn eigen naam in het procesverslag: dat hij de schipbreuk niet overleeft en dat de mannen aan tafel, wellicht Dudley en Stephens, hem zullen doden en opeten. Daarom kijkt hij naar hun handen.", "aanwijzingen": [{"quote": "'En in de sloep?' vroeg Richard."}, {"quote": "Hij liet niet los."}, {"quote": "Hij keek naar hun handen."}, {"quote": "Het bord van Dudley had een barst aan de rand. Hij bleef het een tel langer vasthouden, net zoals daarnet het brood"}]},
+    "het_brood": {"betekenis": "Een wrede, onbewuste ironie: de man die hem zal doden, voedt hem met zorg, als een vader. Voor Dudley is het vriendelijkheid, voor ons een voorafbeelding.", "verwachting": "Net als de verteller dacht ik dat hij het zou teruggeven of iets zou zeggen. Dat hij het gewoon opat, en Stephens bedankte, vond ik sterker: hij aanvaardt het leven dat hem nog rest.", "quote": "Hij at het op."},
+    "vertel_het_nog_eens": {"lezing": "Hij wil een toekomst horen die hij niet zal hebben, en tegelijk test hij de verteller: zal die doen alsof hij Sydney haalt? De verteller noemt nu wel een prijs, alsof hij erin gelooft. Misschien is het ook een geschenk: hij laat de man nog één keer leraar zijn.", "basis": "Het verschil met de eerste keer (de prijs die toen geweigerd werd), Richard die iets uitrekent, en meteen daarna de vraag naar het uur.", "quote": "Ik vertelde het, merkte ik halverwege, zoals ik het aan een leerling zou vertellen die er de rest van zijn leven iets mee moest doen."}
+  },
+  "confidence": "medium"
+}

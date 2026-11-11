@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "status": "staged",
+  "scope": "format_only_not_editorial_acceptance",
+  "source_sha256": "f965fb9fc5a77f0eaf2f9255459d25bc837c1f56ca761c73e45a0a71473296f6",
+  "staged_sha256": "f965fb9fc5a77f0eaf2f9255459d25bc837c1f56ca761c73e45a0a71473296f6",
+  "body_sha256": "afe4efadeb9b8a94b6328a6deb4be28ed7e178beef726033ea0a11a52658c6c3",
+  "body_unchanged": true,
+  "transform": "none",
+  "original_heading_level": 1,
+  "heading_level": 1,
+  "title": "20",
+  "visible_prose_words": 1626,
+  "source_file": "source.md",
+  "staged_file": "chapter.md"
+}

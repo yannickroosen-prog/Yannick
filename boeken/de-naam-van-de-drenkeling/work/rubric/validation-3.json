@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "valid": true,
+  "complete": true,
+  "source_chapters": [
+    {
+      "chapter": 1,
+      "path": "manuscript/chapters/chapter-01.md",
+      "sha256": "84ff61541bced3b5a9153fb9a672e3c4811d4cde17551991ae24d4f08b83d781"
+    },
+    {
+      "chapter": 2,
+      "path": "manuscript/chapters/chapter-02.md",
+      "sha256": "39f23cec128d07bbe334a8d66f3045ba8bffe752c1e5c4df776999f3dc78f616"
+    },
+    {
+      "chapter": 3,
+      "path": "manuscript/chapters/chapter-03.md",
+      "sha256": "cc9d16896b6b42f98ce053a72defe0a360eaa2aa75061ccdf1ba0d2da65586ee"
+    },
+    {
+      "chapter": 4,
+      "path": "manuscript/chapters/chapter-04.md",
+      "sha256": "8a616647012e4a8e14b7892768de86208b878528d2987d6fdbf61ea85b784f8f"
+    },
+    {
+      "chapter": 5,
+      "path": "manuscript/chapters/chapter-05.md",
+      "sha256": "363991395b20c36ac0afe8c58fcd9446dde916327db8391280ca0249b263a090"
+    },
+    {
+      "chapter": 6,
+      "path": "manuscript/chapters/chapter-06.md",
+      "sha256": "b3345df5dc78fef939c3ec4e075191eac3b7a15f49acf6af5465aa132ab5f711"
+    },
+    {
+      "chapter": 7,
+      "path": "manuscript/chapters/chapter-07.md",
+      "sha256": "7cbd96f551b9e4186e34d3fb8cff12e3b7cf79f25a70f88ccd6bed91048529f1"
+    },
+    {
+      "chapter": 8,
+      "path": "manuscript/chapters/chapter-08.md",
+      "sha256": "43989aeb356f982581a69d12d42dfac1b198fa617d6a8c19586eefc07e36df1a"
+    },
+    {
+      "chapter": 9,
+      "path": "manuscript/chapters/chapter-09.md",
+      "sha256": "dd4d2e8682db3a1871ae21b8182a1c3cca2bdd7c25da3388c50d3a9a9e596f27"
+    },
+    {
+      "chapter": 10,
+      "path": "manuscript/chapters/chapter-10.md",
+      "sha256": "ca946d76a48abfaaf90d07044394eb75942a3a311f2295439b5d0929c2e9042c"
+    },
+    {
+      "chapter": 11,
+      "path": "manuscript/chapters/chapter-11.md",
+      "sha256": "e7e65aca4781c554b8d84a651dcff0a0d779c99e43f65cea33fe96ec30a7fe60"
+    },
+    {
+      "chapter": 12,
+      "path": "manuscript/chapters/chapter-12.md",
+      "sha256": "34a2e53079989fc066bd701601b9ac1feb6ab5f7c86a3c5fa86ecb0b6bd65736"
+    },
+    {
+      "chapter": 13,
+      "path": "manuscript/chapters/chapter-13.md",
+      "sha256": "de77b569860a4fac3811f7571a98dd1f8979ed76f58d21233a1f51b2129e1090"
+    },
+    {
+      "chapter": 14,
+      "path": "manuscript/chapters/chapter-14.md",
+      "sha256": "2589dcf373ee13f8cc6b31978e30d60041c555075e619fca59fd5f836427f951"
+    },
+    {
+      "chapter": 15,
+      "path": "manuscript/chapters/chapter-15.md",
+      "sha256": "c2ef376827270495389c39c2065248f4e9efb4aad8bd06cdef4576e2903b1ac1"
+    },
+    {
+      "chapter": 16,
+      "path": "manuscript/chapters/chapter-16.md",
+      "sha256": "2c1af2a91baf3c37222689d1088de5427eee9c51d78058a68ae6bc6cbac4bed5"
+    },
+    {
+      "chapter": 17,
+      "path": "manuscript/chapters/chapter-17.md",
+      "sha256": "c74635951a2c4c682bedb2757b6778862bab6805affccbb02d32cdfacdda35b8"
+    },
+    {
+      "chapter": 18,
+      "path": "manuscript/chapters/chapter-18.md",
+      "sha256": "3eaffc39e81a8e4f472156f2d77b088007010259c2e827d85327718e72250a0c"
+    },
+    {
+      "chapter": 19,
+      "path": "manuscript/chapters/chapter-19.md",
+      "sha256": "4608c9bc91899bffdafee6cc77af08af8c51dd21f5ba06d7b6f84bf2f3735783"
+    },
+    {
+      "chapter": 20,
+      "path": "manuscript/chapters/chapter-20.md",
+      "sha256": "f965fb9fc5a77f0eaf2f9255459d25bc837c1f56ca761c73e45a0a71473296f6"
+    },
+    {
+      "chapter": 21,
+      "path": "manuscript/chapters/chapter-21.md",
+      "sha256": "268dfb1ad907ca5a51d9912a3f4dab3070ae0f088a62f69d03d38fb4c92cb056"
+    },
+    {
+      "chapter": 22,
+      "path": "manuscript/chapters/chapter-22.md",
+      "sha256": "5de0f6d5bf2cb7545f7856cd794a926b18f98b5a9bdc975359a124f2b5d4cbe8"
+    }
+  ],
+  "report_sha256": "badf5c220a21d0d95af7f2e7479ab122d6d187e40dfc1d56041d0d5ada2cb49e",
+  "unassessed": [],
+  "catalog_sha256": null,
+  "resolved_evidence": [],
+  "errors": [],
+  "literary_quality": "not_assessed_by_this_tool"
+}

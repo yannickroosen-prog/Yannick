@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "coverage": {
+    "scope": "full_manuscript",
+    "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+  },
+  "dimensions": [
+    {
+      "name": "Originality",
+      "score": 8.0,
+      "evidence": [
+        {
+          "chapter": 21,
+          "quote": "De naam had ik zesenveertig jaar in een tabaksdoos bewaard. Die kwam van mij. De zin kwam van hem. En dat ik die zin had geloofd, kwam weer van mij.",
+          "reason": "De bekende Pym/Mignonette-samenloop wordt omgebogen tot een gesloten causale lus waarin de verteller zelf de bron van naam én vertekening is; dat is een eigen, thematisch geladen uitwerking in plaats van een trivia-gimmick."
+        },
+        {
+          "chapter": 2,
+          "quote": "Ik kan gaan waarheen ik wil, behalve naar een dag die ik al geleefd heb. Daar is de deur dicht.",
+          "reason": "Eén strikte, zuinige tijdreisregel, die later de keuze voor 19 mei en de vlucht naar 1837 logisch draagt."
+        }
+      ],
+      "reason": "Saint-Germain als dagboekschrijvende tijdreiziger die de Mignonette-zaak binnenstapt is een frisse invalshoek; de dagboekvorm met latere cursieve correcties en doorhalingen maakt het boek tot een studie in hoe een getuige zijn verhaal vervalst. Aftrek: de Richard Parker-samenloop is bij lezers van Life of Pi al bekend, en zodra Pym in hoofdstuk 2 en 5 valt, is de bootstrap-onthulling voor ervaren lezers voorspelbaar."
+    },
+    {
+      "name": "Theme",
+      "score": 8.5,
+      "evidence": [
+        {
+          "chapter": 21,
+          "quote": "'Omdat u mij een jongen hebt gegeven die niets te zeggen had over zijn eigen dood,' zei hij. 'Dat verdraagt een lezer niet. Dat verdroeg ik niet. Ik heb hem iets laten zeggen.'",
+          "reason": "De centrale vraag (wie heeft zeggenschap over andermans dood en over het verhaal ervan) wordt expliciet maar dramatisch geconfronteerd, met Poe als spiegel van de verteller."
+        },
+        {
+          "chapter": 18,
+          "quote": "'Ge kunt het aanbieden,' zei hij.",
+          "reason": "Het zelfopofferingsaanbod van de verteller wordt door Richard ontmaskerd als goedkoop omdat hij kan vertrekken; het thema van de wegloper die getuige wil zijn krijgt hier een scherpe morele lading."
+        },
+        {
+          "chapter": 5,
+          "quote": "'Ik heb het zelf gekozen, mevrouw Coombs. Het is het eerste wat ik zelf gekozen heb.'",
+          "reason": "Keuze en eigenaarschap worden vroeg geplant en dragen tot de slotscène."
+        }
+      ],
+      "reason": "Het boek gaat over keuze, getuigen en het herschrijven van de ander: de verteller verwisselt de echte en de verzonnen jongen, Poe doet hetzelfde, en het slot (de doorgehaalde 'Dank u') maakt van geheugen zelf een vervalsing. Thema's resoneren voorbij de plot. Lichte aftrek omdat sommige cursieve noten de thematische conclusie net te expliciet formuleren."
+    },
+    {
+      "name": "Characters",
+      "score": 8.5,
+      "evidence": [
+        {
+          "chapter": 4,
+          "quote": "'Ge noemt altijd wat iets kost,' zei hij.",
+          "reason": "Richard doorziet de verteller met één concrete observatie; de motiefmatige karakterfout (alles in prijs uitdrukken) wordt later terugbetaald in de vioolprijs."
+        },
+        {
+          "chapter": 18,
+          "quote": "'Op de Ellen Ward, in achtenzeventig, hebben we het laatste vlees een dag te lang bewaard. De kok wilde het sparen. Op de derde dag was het groen. We hebben het toch gegeten. Twee man zijn eraan gestorven.'",
+          "reason": "Stephens, tot dan een tellende bijfiguur, krijgt in één adem een wond die zijn tellen verklaart; ook bijfiguren zijn gelaagd."
+        },
+        {
+          "chapter": 12,
+          "quote": "Ik zag Richards duim over de korst gaan. Eén keer, heen en terug. Zoals je over een munt wrijft om te voelen of hij echt is.",
+          "reason": "Richards innerlijke strijd na het lezen van het dagboek wordt volledig via gedrag getoond."
+        }
+      ],
+      "reason": "Richard is een memorabele, ongesentimentele jongen met eigen wil, humor en waarnemingsvermogen; de verteller heeft wond (ontwortelde onsterfelijkheid, de vrouw met het gewarmde hemd), verlangen (redden, gezien worden), behoefte (blijven) en een duidelijke tegenstrijdigheid. Dudley, Stephens, Brooks en mevrouw Coombs zijn elk herkenbaar met eigen gebaar. Aftrek: Dudley blijft iets eendimensionaal als vroom-berekenende kapitein; de verteller is soms te bewust van zijn eigen fouten."
+    },
+    {
+      "name": "Prose",
+      "score": 7.5,
+      "evidence": [
+        {
+          "chapter": 1,
+          "quote": "Ik zag een stuk touw dat hij door de bovenste gaten van die laars had geregen en een zool die aan de neus loszat, zodat de laars openstond als de bek van een vis.",
+          "reason": "Precieze, concrete waarneming; de kracht van het proza zit in materiële details."
+        },
+        {
+          "chapter": 18,
+          "quote": "Iedereen keek ernaar. Brooks keek ernaar. Dudley keek ernaar.",
+          "reason": "Kijk-beats als opsomming; hoofdstuk 18 bevat ongeveer 25 keer 'keek' in circa 1.200 woorden, een herkenbaar mechanisch ritme."
+        },
+        {
+          "chapter": 4,
+          "quote": "Hij zei het niet kwaad. Hij zei het zoals je iemand op een vlek op zijn jas wijst.",
+          "reason": "Contrast-door-ontkenning gevolgd door 'zoals je'-vergelijking; dit sjabloon keert in meerdere hoofdstukken terug (o.a. 2, 3, 6, 7, 9, 12)."
+        }
+      ],
+      "reason": "Doorgaans helder, ritmisch gevarieerd en vrij van clichés, met sterke concrete beelden en geen gedachtestreepjes in de narratie. Wel terugkerende tics: contrast door ontkenning ('Hij zei het niet kwaad. Hij zei het zoals...'), 'zoals je...'-vergelijkingen (11 in hoofdstuk 12), 'Ik weet niet (meer) waarom', 'Dat is niet waar' als zelfcorrectie, en reeksen kijk-beats. Bij handmatige telling overschrijdt tell 2 (contrast door ontkenning) het plafond van 1 per hoofdstuk in ongeveer vijf à zes hoofdstukken, wat op de grens van een kwart ligt; de score wordt daarom op 7,5 gehouden. Verder telt het boek meerdere reflectie-eindes in cursief (hoofdstuk 1, 4, 9, 12), meer dan de richtlijn van één per tien hoofdstukken, al voegen ze meestal informatie toe."
+    },
+    {
+      "name": "Pacing",
+      "score": 7.5,
+      "evidence": [
+        {
+          "chapter": 5,
+          "quote": "Het was tien over vier. Het tij keerde om half negen.",
+          "reason": "Sterke klokspanning in het eerste deel: elk hoofdstuk heeft een tijdstempel die naar het vertrek aftelt."
+        },
+        {
+          "chapter": 16,
+          "quote": "Nu moet ik de wacht opschrijven.",
+          "reason": "Het afgebroken hoofdstuk 16 vertraagt bewust vlak voor de climax; effectief, maar het stelt de onthulling uit tot hoofdstuk 21."
+        },
+        {
+          "chapter": 7,
+          "quote": "Ik zat er drie dagen. Ik zag de kust van Engeland verdwijnen en de kust van Frankrijk niet verschijnen.",
+          "reason": "De overtocht (hoofdstuk 7 tot 10) is episodisch en rustiger; de spanning hangt dan vooral aan de bekende datum."
+        }
+      ],
+      "reason": "Hoofdstuk 1 tot 6 beslaan één dag met strakke klokspanning en een duidelijke reeks pogingen (waarschuwing, omkoping, leugen, valse aangifte). Het middendeel is episodisch, maar elk episode verschuift de relatie en de datum trekt. De sloephoofdstukken versnellen en vertragen goed. Aftrek: hoofdstuk 7 en 10 hebben weinig externe druk, en de tijdsprongen na hoofdstuk 19 vragen even heroriëntatie."
+    },
+    {
+      "name": "Emotion",
+      "score": 8.5,
+      "evidence": [
+        {
+          "chapter": 19,
+          "quote": "Hij liet zijn hand liggen. Hij zei niets.",
+          "reason": "Het geven van de knoop landt zonder benoemde emotie; de terughoudendheid laat de lezer het gewicht dragen."
+        },
+        {
+          "chapter": 21,
+          "quote": "'Hij zei: Ge wilt dat ik zeg dat ge moogt gaan.'",
+          "reason": "De lang uitgestelde onthulling van de wacht treft hard omdat Richards antwoord de verteller opnieuw doorziet in plaats van hem vrij te spreken."
+        },
+        {
+          "chapter": 13,
+          "quote": "Toen draaide hij zich om en ging weer naar de luwte van de kajuit, en ik zag dat hij zijn hand over zijn gezicht haalde, en dat het geen regen was, want het regende niet.",
+          "reason": "Emotie via lichaam en via een derde (Brooks), niet via etiketten."
+        }
+      ],
+      "reason": "De bedoelde gevoelens (tederheid, schuld, rouw) landen grotendeels via gebaren en voorwerpen (korst, knoop, hemd, laars). Het boek vermijdt sentimentaliteit. Kleine aftrek: enkele cursieve noten verklaren achteraf wat een scène al toonde, en de verteller benoemt soms zijn gevoel ('Ik voelde me gevleid'), al is dat in hoofdstuk 8 bewust zelfanalyse."
+    },
+    {
+      "name": "Coherence",
+      "score": 7.5,
+      "evidence": [
+        {
+          "chapter": 21,
+          "quote": "Ik had 'ge' gezegd. In die keuken. Ik had nog nooit iemand anders zo aangesproken.",
+          "reason": "Het ge/u-onderscheid is een vertaalconventie voor Engelse spraak; in een Engelstalig gesprek met Poe kan 'ge' niet letterlijk gezegd zijn. Het effect is sterk, maar de interne logica van de conventie wringt hier."
+        },
+        {
+          "chapter": 12,
+          "quote": "Er waren drie stukken gegeten. Het vierde lag op de plank naast de pan.",
+          "reason": "Volgens de verdeling in hoofdstuk 7 en eerder in hoofdstuk 12 gaan alle vier de stukken weg (Stephens deelt het zijne met de verteller); onduidelijk wiens stuk dit vierde is."
+        },
+        {
+          "chapter": 13,
+          "quote": "Ik had in die zes weken van Richard en van Brooks knopen geleerd.",
+          "reason": "Hoofdstuk 12 en 18 spreken van zeven weken aan boord; kleine telling-inconsistentie in een boek dat zelf op tellen drijft."
+        }
+      ],
+      "reason": "De tijdreisregel (geen reeds geleefde dag) wordt consequent toegepast: december 1884, terug naar 19 mei, daarna naar maart 1837. De bootstrap-lus en historische details (Carmine Street, de bankencrisis van 1837, het proces) sluiten. Kleine continuïteitsfouten: zes tegenover zeven weken, de verdeling van het brood, en de ge/u-conventie die in de Poe-scène letterlijk genomen wordt. Het Vlaamse spreektaalregister voor Engelse figuren is een bewuste keuze en wordt niet als fout gerekend."
+    },
+    {
+      "name": "Market",
+      "score": 7.0,
+      "evidence": [
+        {
+          "chapter": 1,
+          "quote": "Richard Parker stierf op vrijdag 25 juli 1884 in een open sloep, op de Zuid-Atlantische Oceaan.",
+          "reason": "Heldere haak op de eerste bladzijde voor lezers van literaire historische fictie; de Mignonette-zaak en de Life of Pi-associatie maken het boek pitchbaar."
+        },
+        {
+          "chapter": 14,
+          "quote": "'Ik ben de graaf van Saint-Germain,' zei ik.",
+          "reason": "Het speculatieve element is klein en gedragen door een historische figuur, wat aansluit bij comps als Haig en Schwab en leesclubs."
+        }
+      ],
+      "reason": "Duidelijke positie als korte literaire historische roman met één speculatief element, geschikt voor leesclub en bibliotheek. Risico's: de Vlaamse spreektaal in de mond van Engelse zeelieden kan Nederlandse lezers vervreemden; 35.000 woorden is kort voor de genoemde comps; 'Boek I van een reeks' is uit de tekst nauwelijks af te leiden, want de roman sluit zich af. De comps zijn ongeverifieerd."
+    },
+    {
+      "name": "Voice",
+      "score": 8.5,
+      "evidence": [
+        {
+          "chapter": 1,
+          "quote": "Ik heb in mijn leven vier koningen de hand gekust en een paus de voet, en geen van hen heeft mij zo snel en zo volledig gewogen als die jongen op die meerpaal.",
+          "reason": "Hoffelijke, droog-ironische ouderdomsstem met historische reikwijdte."
+        },
+        {
+          "chapter": 11,
+          "quote": "Ik heb dat jarenlang een moreel inzicht genoemd. Hier staat het als wat het was: een uitvlucht met goede manieren.",
+          "reason": "De cursieve latere stem die de eerdere zelf corrigeert; een herkenbare, duurzame tweestemmigheid."
+        }
+      ],
+      "reason": "Zeer herkenbare stem: precies, zelfcorrigerend, prijsbewust, met doorhalingen als vormprincipe dat in hoofdstuk 22 typografisch wordt ingelost. Ze houdt het hele boek vol. Aftrek omdat dezelfde zelfcorrecties ('Dat is niet waar', 'Ik weet niet waarom', 'Dat moet hier staan') zo vaak terugkeren dat ze over 22 hoofdstukken naar maniertje neigen."
+    },
+    {
+      "name": "Opening",
+      "score": 8.5,
+      "evidence": [
+        {
+          "chapter": 1,
+          "quote": "Ik had de hele nacht gezeten op wat ik hem zou zeggen, en toen ik hem vond, zei ik dat zijn veter te kort was. Dat is het begin. Ik heb in dit boek alles opgeschreven wat er daarna gebeurde, behalve één wacht.",
+          "reason": "Eerste alinea opent een specifieke vraag (welke wacht?) die pas in hoofdstuk 21 wordt beantwoord."
+        },
+        {
+          "chapter": 22,
+          "quote": "Ik weet dat het over een veter ging.",
+          "reason": "Het slot keert terug naar de veter van de eerste bladzijde en betaalt de belofte van de opening uit."
+        }
+      ],
+      "reason": "De eerste pagina geeft wie, waar, de afloop en een open vraag; de kadescène is concreet en grappig, met een duidelijk falen van de verteller. Het slot spiegelt de opening en lost de 'ene wacht' in. Kleine aftrek: de tweede cursieve alinea onthult de dood meteen, wat suspense inruilt voor ironie (bewust, maar het vergt geduld van de lezer)."
+    }
+  ],
+  "strongest_passage": {
+    "chapter": 12,
+    "quote": "Hij liet niet los.",
+    "reason": "Het brood-moment aan tafel: na het lezen van het dagboek houdt Richard drie tellen het brood vast dat Dudley vraagt. Alles wat hij weet, zit in dat gebaar. Daarna eet hij het grote stuk op dat Dudley teruggeeft. Het is ingehouden, gelaagd en zonder uitleg."
+  },
+  "weakest_passage": {
+    "chapter": 18,
+    "quote": "Dudley keek naar Brooks. Toen keek hij naar Stephens. Toen keek hij naar Richard, die in de bodem lag en zijn ogen dicht had en niet sliep.",
+    "reason": "Mechanische opeenvolging van kijk-beats in een hoofdstuk dat ze al overvloedig gebruikt; op het moment van het lotvoorstel verzwakt het repetitieve patroon de spanning."
+  },
+  "confidence": {
+    "level": "medium",
+    "reason": "Het volledige manuscript is in volgorde gelezen. De tell-tellingen zijn deels handmatig gedaan op Nederlandse tekst met Engelse normen, en voor tell 2 ligt de telling rond de grens van een kwart van de hoofdstukken, wat de Prose-score gevoelig maakt."
+  },
+  "limitations": "Deze lezing voorspelt geen verkoop of publicatiegereedheid. De tells zijn ontworpen voor het Engels en hier naar hun bedoeling toegepast; tellingen van contrast door ontkenning, triaden en reflectie-eindes zijn handmatig en kunnen een of twee per hoofdstuk afwijken. Er waren geen voice-, karakter- of outline-artefacten om bewuste uitzonderingen te verifiëren, behalve de drie aandachtspunten in LEES-EERST.md. De marktbeoordeling steunt op ongeverifieerde comps zonder cijfers."
+}

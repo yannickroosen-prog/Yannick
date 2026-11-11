@@ -1,0 +1,96 @@
+schema_version: 6
+
+project:
+  id: "de-naam-van-de-drenkeling"
+  title: "De naam van de drenkeling"
+  idea: "work/idee-auteur.md"
+  language: "nl-BE"
+  genre: "literaire historische roman met tijdreiselement"
+  audience: "volwassen lezers van literaire en historische fictie"
+  positioning: "korte roman, boek I van een reeks; richtpunt ~50.000 woorden"
+  series: true
+  target_range_words: "richtpunt ~50000 (korte roman); beoordelen zoals ze ligt als het verhaal bij ~45000 rond is"
+  target_floor_words: 0
+  target_ceiling_words: 60000
+  quality_target: 8.5
+
+collaboration:
+  mode: "check-in"
+  waiting_for_author: false
+  pending_checkpoint: "Afgerond: volledige korte roman geleverd (md + epub); rubricpoort niet gehaald; publicatiebeslissing bij de auteur"
+
+independence:
+  level: "isolated subagents, same model family"
+  grade: "pending isolation check"
+  writer_model: "host model (Claude Code)"
+  reader_model: "host model in isolated subagents"
+  isolation_check: "not_run"
+  notes: "Geen tweede modelfamilie geïnstalleerd in deze sessie. Lezers draaien als aparte subagents zonder toegang tot plan of scores."
+
+pipeline:
+  current_phase: "Phase 7: Editorial Package"
+  current_gate: "editorial_package"
+  status: "awaiting_author"
+  panel_passes: 2
+  rubric_passes: 1
+
+manuscript:
+  chapter_count_planned: 22
+  average_words_per_chapter_planned: 3650
+  completed_chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+  word_count_actual: 35260
+  length_gate: "passed_author_contract"
+  status: "complete"
+
+gates:
+  intake: "passed"
+  foundation: "passed"
+  architecture: "passed"
+  drafting: "first_draft_complete"
+  adversarial_audit: "passed"
+  revision_loop: "passed"
+  final_score: "completed_gates_unmet"
+  editorial_package: "completed"
+  market: "unverified"
+
+decisions:
+  - "Sprongregel: geen terugkeer naar een dag die de graaf al beleefde."
+  - "Kantelpunt 'Waarom komt ge zelf niet mee?' in hfst. 6 (~25%)."
+  - "Tijdlijn: 1784 -> 1838 (Pym) -> mei 1884 -> december 1884 (procesverslag) -> 19 mei 1884 (kade) -> 1837 (Poe)."
+  - "Geen prijs per sprong; geen verloren herinneringen."
+  - "Lengte ~80.000 woorden (75.000-88.000), 22 hoofdstukken; Poe ~12%."
+  - "Life of Pi: alleen korte erkenning in het nawoord."
+  - "Auteur: werkveld [auteursnaam]."
+  - "De wacht: 'Wilt ge dat ik blijf?' / 'Ge wilt dat ik zeg dat ge moogt gaan.'"
+  - "Haven in één dag (19 mei 1884); voorstel, ter bevestiging (I-02)."
+  - "46 jaar: de naam wordt een bijgeloof met knipsels; krantenbericht mei 1884 (verzonnen); voorstel, ter bevestiging (I-01)."
+  - "Proefhoofdstuk 12 herzien na feedback auteur (sloep-zin, dankbaarheid, thee, kanttekeningen, zeshonderd jaar)."
+  - "Brief-contractcheck: PASS; verificatie degraded (niet onafhankelijk)."
+  - "I-01 en I-02 bevestigd; nieuwe openingszin van de auteur."
+  - "Hfst. 13: Richard vult een kruik en verliest ze om Brooks te helpen."
+  - "Hfst. 19: de knoop is geen toestemming en geen vergeving."
+  - "Lengte (auteur): optie 3, richtpunt 65.000, vloer van 75.000 geschrapt; extra scènes alleen uit keuzes van personages, geen extra storm."
+  - "Golfuur: tegen de avond van 5 juli (auteur, met bronnen); hfst. 3 aangepast."
+  - "Hfst. 2 en 3 eindigen eerder (auteur)."
+  - "Leespanel hfst. 1: vier geïsoleerde subagents, met drie extra vragen van de auteur."
+  - "Hfst. 4: kanttekening over de tweede strofe geschrapt (auteur): de kruik blijft voor hfst. 13."
+  - "Nawoord: 'De gesprekken aan boord zijn in Vlaamse spreektaal weergegeven.' (work/nawoord-notities.md)."
+  - "Hfst. 12 vervangt de proefversie; opent met 'Stephens bakt'; het slot van hfst. 11 is de vinger op de naam."
+  - "Lengte (auteur, na hfst. 14): korte roman, richtpunt ~50.000 woorden. Stilistische revisie pas na de volledige eerste versie (work/revisie-notities.md)."
+  - "Hfst. 19 eindigt zodra de graaf vertrokken is; de vraag en het antwoord van de wacht horen bij Poe (hfst. 21)."
+  - "Eerste versie: 35.421 woorden; de auteur leest haar op deze lengte en beoordeelt daarna of er in de sloep iets ontbreekt."
+  - "Hfst. 22 eindigt op het doorgestreepte 'Dank u' (Unicode-doorhaling, zodat het ook in EPUB werkt)."
+  - "Na lezing (auteur): geen extra sloepscène; hfst. 1 en de laatste regel blijven; nagaan of Richard aan het einde te vaak de graaf doorziet."
+  - "T-04 gesloten als auteurskeuze; T-05 met de zin van de auteur in hfst. 2."
+  - "Afwijking van de workflow op vraag van de auteur: proefhoofdstuk 12 vóór fase 2, als werkstuk (work/), niet canoniek; geen paneelronde."
+
+open_questions:
+  - "Lengte opnieuw bekijken na de eerste dagen in de sloep (hfst. 13-14)."
+  - "Lengte staven met paginatellingen van Nederlandstalige comps."
+  - "Ritmebewijs uit minstens één Nederlandstalige comp (05-voice.md heeft nog geen comp-bewijs)."
+  - "Bronnen nakijken in fase 2: vertrekhaven, data, Montezuma, Peartree Green, Poe Carmine Street."
+
+delivery:
+  status: "delivered"
+  scope: "complete_pipeline"
+  receipt: "delivery/export-receipt.json (sha256 abb3ed71a7c56dd4f684d7879c62e03a539b75de0413abd701769c243c80ae8b)"

@@ -1,0 +1,33 @@
+{
+  "reader": "Pieter",
+  "turn_page": "yes",
+  "stopped_at": {"quote": "Ik heb in mijn leven vier koningen de hand gekust en een paus de voet, en geen van hen heeft mij zo snel en zo volledig gewogen als die jongen op die meerpaal."},
+  "why_stopped": {"reason": "Hier pronkt de onsterfelijke voor het eerst met zijn cv, en ik dacht: daar is hij, de wijze oude man die de jongen gebruikt om zichzelf te bewonderen. Weggelegd had ik het nog niet, maar de pen ging al naar de kantlijn."},
+  "remember_tomorrow": [
+    {"quote": "Dat is de enige waarschuwing die ik die ochtend heb gegeven: ik heb haar laten liggen.", "reason": "Hier betrapt het boek me. Mijn bezwaar ('waarom zegt hij het niet gewoon?') wordt een daad die hij niet doet, en die daad zit op het blad."},
+    {"quote": "een naam, een leeftijd, een datum, en de naam van het mes.", "reason": "Koud. Het kannibalisme wordt aangekondigd zonder te knipogen."}
+  ],
+  "confused_by": [
+    {"quote": "'Zeg,' zei hij, 'als ge toch niks te doen hebt, houd uw vinger efkes op die knoop.'", "reason": "Een scheepsjongen uit Southampton die Vlaams praat. Ik snap de keuze, maar het trekt me uit Engeland."},
+    {"quote": "als hij over Brooks sprak, of over brood.", "reason": "Wie is Brooks? Een naam die pas zinvol is als je de historische zaak al kent."}
+  ],
+  "flags": [
+    {"flag": "cliche", "quote": "Ik hoop dat hij het heeft weggegooid. Ik vrees dat hij het heeft bewaard."},
+    {"flag": "continuity_doubt", "quote": "Het was de tweede keer dat hij dat vroeg. De eerste keer had ik geantwoord met een grap."},
+    {"flag": "over_explained", "quote": "zoals een mond die iets wil zeggen en het niet doet."}
+  ],
+  "strongest_passage": {"quote": "Wat ik niet wist: dat hij misselijk werd bij een deining van achteren. Ik heb dat zinnetje later vaker teruggelezen dan het verslag van zijn dood.", "reason": "Dit is de enige keer dat de verteller geen gelijk heeft en het weet. Zijn archief schiet tekort tegenover één detail."},
+  "weakest_passage": {"quote": "Ik kan slechte tijding brengen. Het is een vak.", "reason": "De hertogin, de koopman in Amsterdam en dan de oneliner: het is een anekdotenrij om te tonen hoe geslepen hij is."},
+  "machine_tells": [
+    {"tell": "contrast door ontkenning", "quote": "Het was trots, maar trots op een ander."},
+    {"tell": "moraal aan het slot van een alinea", "quote": "Dat begreep ik ook niet. Ik wist het, maar ik begreep het niet."},
+    {"tell": "beeld dat meteen wordt uitgelegd", "quote": "Ik voelde haar tegen mijn ribben als een kaart die je niet durft uit te spelen, omdat je weet dat het de enige troef is die je nog hebt."}
+  ],
+  "felt": {"emotion": "tegenzin die overging in ongemak", "reason": "De halve zakdoek, verkeerd geknoopt, en de jongen die niets zegt. Dat had ik niet verwacht, en het werkte."},
+  "auteursvragen": {
+    "wat_wil_richard": {"antwoord": "Zijn laars dicht krijgen tot vanavond en heelhuids naar de kapitein, met loon en een brief in Sydney als vooruitzicht.", "quote": "'Het houdt tot vanavond,' zei hij. 'Vanavond moet ik er iets beters aan doen.'"},
+    "vertrouwen_graaf": {"richting": "beide", "quote": "Ik had een antwoord voor die jongen klaar, omdat ik voor alles een antwoord klaar had.", "reason": "Een Saint-Germain-figuur die toegeeft dat hij liegt. Dat wantrouw ik, maar zijn kanttekeningen strepen zichzelf door, en dat maakt hem geloofwaardiger dan ik wilde."},
+    "vraag_voor_hoofdstuk_2": {"vraag": "Kan hij het lot niet veranderen, of wil hij het niet? Als het boek dat laat glijden, ben ik weg.", "waarom_doorlezen": "de verzwegen wacht", "quote": "Ik heb in dit boek alles opgeschreven wat er daarna gebeurde, behalve één wacht."}
+  },
+  "confidence": "medium"
+}

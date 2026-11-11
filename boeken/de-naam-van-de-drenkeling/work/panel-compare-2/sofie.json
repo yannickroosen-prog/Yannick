@@ -1,0 +1,29 @@
+{
+  "reader": "Sofie",
+  "hoofdstukken": {
+    "01": {
+      "compare": "B",
+      "waarom": "Bijna hetzelfde hoofdstuk, en allebei houden ze me vast met de laars, het reepje lijn en de halve zakdoek. Twee dingen in A storen me. Hij schrijft dat 'Wat doet ge hier eigenlijk?' de tweede keer gevraagd werd, maar eerst vroeg de jongen 'Wat zijt ge dan?'. En A noemt een plaats 'waar hij is begraven'. Van de Mignonette weet ik genoeg om daar te struikelen: van Parker bleef weinig over om te begraven. B laat dat weg en houdt de feiten zuiver.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "B", "quote": "Ik liet het liggen. Dat is de enige waarschuwing die ik die ochtend heb gegeven: ik heb haar laten liggen."},
+      "zwakste": {"versie": "B", "quote": "als hij over een matroos sprak die ik die ochtend nog niet kende, of over brood"},
+      "gemist_in_andere_versie": "In A staat Brooks bij naam, met 'Het was trots, maar trots op een ander.' Dat is concreter dan B's vage matroos. Ik mis ook A's laars die opengaat 'zoals een mond die iets wil zeggen en het niet doet'."
+    },
+    "12": {
+      "compare": "A",
+      "waarom": "Dit is het hoofdstuk waarvoor ik dit soort boeken lees: vier vaten waarvan er één lekt, een pot rapen, thee van het tweede vleeswater en brood dat in vieren gesneden wordt voor vijf man. Het verschil zit in kleine toevoegingen in B, zoals de kardinaal en 'aan hoven ver brengen'. Die halen me uit de kajuit en terug naar zijn salonleven. Bij B's horloge haakte ik af. Een man die de datum van de schipbreuk tot op de dag kent, weet niet meer welke dag zondag was? In A was hij het vergeten omdat hij de dagen telde, en dat klopt.",
+      "doorlezen": "yes",
+      "sterkste": {"versie": "A", "quote": "Ik had de hele dag zitten tellen hoeveel dagen er nog waren, en ik was het vergeten."},
+      "zwakste": {"versie": "B", "quote": "Ik ben altijd beter geweest in antwoorden geven dan in vragen stellen. Dat is een eigenschap die je aan hoven ver brengt."},
+      "gemist_in_andere_versie": null
+    }
+  },
+  "flags": [
+    {"hoofdstuk": "01", "versie": "A", "flag": "continuity_doubt", "quote": "Het was de tweede keer dat hij dat vroeg."},
+    {"hoofdstuk": "01", "versie": "A", "flag": "continuity_doubt", "quote": "en de plaats waar hij is begraven, wat niet de plaats is waar hij is gestorven"},
+    {"hoofdstuk": "12", "versie": "B", "flag": "continuity_doubt", "quote": "Die zondag had ik dat niet gedaan, omdat ik niet meer wist welke dag zondag was."},
+    {"hoofdstuk": "12", "versie": "B", "flag": "over_explained", "quote": "Ik ben altijd beter geweest in antwoorden geven dan in vragen stellen. Dat is een eigenschap die je aan hoven ver brengt."}
+  ],
+  "algemeen": "In hoofdstuk 1 is B de opgeruimde versie: geen telfout en geen twijfelachtig graf. Wel verliest B een paar beelden en een naam die ik graag hield. In hoofdstuk 12 is het omgekeerd: B voegt hofpraat en uitleg toe die het zout uit de kajuit halen, en A blijft bij brood, water en handen.",
+  "confidence": "medium"
+}
