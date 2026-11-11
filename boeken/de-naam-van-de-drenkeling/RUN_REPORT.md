@@ -216,3 +216,8 @@
 
 - Zie `evaluations/revision-pass-2.md`. 16 hoofdstukken herzien; nieuw totaal 34.945 woorden.
 - Hfst. 17: 'Dat is de eerste keer dat ge dat zegt' geschrapt; dat was de keuze tussen hfst. 15 en 17.
+
+## 11 november 2026 — vervolg op het vergelijkende panel
+
+- Hfst. 1 (a5) en hfst. 12 (a4) herzien op akkoord van de auteur. Zie `evaluations/panel-gate-pass-1.md`.
+- Leesexemplaar opnieuw geëxporteerd (`delivery/`).

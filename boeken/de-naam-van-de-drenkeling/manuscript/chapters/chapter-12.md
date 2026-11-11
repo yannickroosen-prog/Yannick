@@ -10,11 +10,11 @@ Hij had het boek dichtgedaan zonder op te kijken. Hij had het teruggelegd onder 
 
 Hij stond op en stapte langs me heen de trap op. Zijn schouder raakte mijn arm niet. Dat moet moeite gekost hebben, in zo'n smal gat.
 
-*Ik heb dit anders verteld. Ik vertelde dat hij bleek was. Hij noemde de pan.*
+*Ik heb dit jarenlang anders verteld. Ik vertelde dat hij bleek was. Hier staat dat hij de pan noemde.*
 
 ---
 
-De kajuit was gebouwd om er whist te spelen, onder een lamp aan een beugel die nooit stilhing. Vijf mannen pasten er alleen in als ze hun ellebogen bij zich hielden. Dudley zat aan het hoofd, met zijn rug naar het schot. Stephens zat aan de kant van de kombuis, bij de pan, Brooks tegenover hem, Richard naast Brooks, en ik op het eind, op mijn kist van zeven shilling, hoger dan de anderen. Dat werd me elke avond in alle vriendelijkheid nagedragen.
+De kajuit van de Mignonette was gebouwd om er whist te spelen, zoals Dudley me in Southampton met trots had laten zien. Er stond een tafel met een opstaande rand, zodat de kaarten niet zouden glijden, en een lamp aan een beugel die nooit stilhing. Vijf mannen pasten er alleen in als ze hun ellebogen bij zich hielden. Dudley zat aan het hoofd, met zijn rug naar het schot, omdat een kapitein in een kast ook een hoofd van de tafel heeft. Stephens zat rechts van hem, aan de kant van de kombuis, waar hij met één arm de pan kon bereiken. Brooks zat links. Richard zat naast Brooks, en ik op het eind, op een kist die ik in Southampton had gekocht voor zeven shilling en die eigenlijk voor gereedschap bedoeld was. Ik zat er hoger dan de anderen. Dat werd me elke avond in alle vriendelijkheid nagedragen.
 
 Er was gezouten rundvlees, dat Stephens drie uur in twee keer zoet water had laten trekken. Hij zei twee, maar ik had het tweede water zien hergebruiken voor de thee. Verder was er een pot rapen, een blik gecondenseerde melk dat aan de rand al bruin werd, en het brood.
 
@@ -26,13 +26,13 @@ Het brood was nog altijd het beste wat we aan boord hadden. Stephens bakte het o
 
 Brooks lachte. Richard niet. Ik hield de pan vast, zoals hem was gezegd.
 
-Dudley vouwde zijn handen. Dat deed hij elke avond. Het was een gebed dat hij zelf had gemaakt en elke avond licht veranderde, zoals een zeilmaker een naad bijwerkt die het nog doet. Hij dankte voor het vlees. Hij dankte voor de wind, die er te veel was, maar hij dankte ervoor. Hij vroeg om bescherming voor wie thuis was. Hij noemde zijn vrouw niet bij naam, nooit, maar hij zei 'zij die op mij wacht', en Stephens keek dan altijd naar zijn bord.
+Dudley vouwde zijn handen. Dat deed hij elke avond. Dudley bad niet lang. Hij bad met nadruk, en het was een gebed dat hij zelf had gemaakt en elke avond licht veranderde, zoals een zeilmaker een naad bijwerkt die het nog doet. Hij dankte voor het vlees. Hij dankte voor de wind, die er te veel was, maar hij dankte ervoor. Hij vroeg om bescherming voor wie thuis was. Hij noemde zijn vrouw niet bij naam, nooit, maar hij zei 'zij die op mij wacht', en Stephens keek dan altijd naar zijn bord.
 
 'Amen,' zei Dudley.
 
 'Amen,' zeiden Stephens en Brooks.
 
-Richard zei het te laat. Een halve tel maar, maar in die kajuit was een halve tel te horen. Brooks keek opzij. Richard pakte zijn vork.
+Richard zei het te laat. Een halve tel maar, maar in die kajuit was een halve tel te horen, zoals een verkeerde noot in een strijkkwartet te horen is, ook voor wie geen noten leest. Brooks keek opzij. Richard pakte zijn vork.
 
 ---
 
@@ -78,6 +78,8 @@ Ik zag hem het vragen. Ik zag hoe hij de vraag had gebouwd, zoals hij een knoop 
 
 Richard keek naar zijn haar, dat sinds Southampton geen kam meer had gezien, en zei niets.
 
+*Het water van de thee was het tweede water van het vlees. Ik heb dit nooit iemand verteld. Het doet er niet toe. Het smaakte naar zout en een beetje naar koe, en we dronken het allemaal.*
+
 ---
 
 Ik moet nu over het brood schrijven.
@@ -86,7 +88,7 @@ Stephens had het in vieren gesneden. Hij sneed het altijd in vieren, ook toen we
 
 Er waren drie stukken gegeten. Het vierde lag op de plank naast de pan. Het was het stuk met de meeste korst, omdat het van de rand kwam, en het lag dichter bij Richard dan bij iemand anders.
 
-Dudley stak zijn hand uit. Hij keek niet op. Hij sneed aan een draadje vlees dat tussen zijn tanden zat, met de punt van zijn mes, en stak zijn andere hand uit over de tafel met de palm naar boven.
+Dudley stak zijn hand uit. Hij keek niet op. Hij sneed aan een draadje vlees dat tussen zijn tanden zat, met de punt van zijn mes, en stak zijn andere hand uit over de tafel met de palm naar boven. Het was een gebaar dat hij zo vaak had gemaakt dat het geen gebaar meer was. Het was een plaats in de lucht waar dingen terechtkwamen.
 
 'Het brood, jongen,' zei hij.
 
@@ -102,13 +104,13 @@ Ik zag Richards duim over de korst gaan. Eén keer, heen en terug. Zoals je over
 
 Toen legde hij het brood in Dudleys hand.
 
-Dudley brak het. Hij brak het in een groot en een klein stuk. Hij legde het kleine stuk op zijn eigen bord en schoof het grote over de tafel terug, met twee vingers, zoals je een pion naar voren schuift.
+Dudley brak het. Hij brak het niet in tweeën maar in een groot en een klein stuk. Hij legde het kleine stuk op zijn eigen bord en schoof het grote over de tafel terug, met twee vingers, zoals je een pion naar voren schuift.
 
 'Gij groeit nog,' zei hij.
 
 Richard keek naar het brood.
 
-Ik weet wat ik op dat moment dacht: hij gaat het niet opeten. Hij gaat het teruggeven. Hij gaat iets zeggen. Ik wist zo zeker wat hij zou doen dat ik mijn adem al had ingehouden voor het moment waarop hij het deed.
+Ik weet wat ik op dat moment dacht. Ik schrijf het op omdat het hier hoort. Ik dacht: hij gaat het niet opeten. Hij gaat het teruggeven. Hij gaat iets zeggen. Ik wist zo zeker wat hij zou doen dat ik mijn adem al had ingehouden voor het moment waarop hij het deed.
 
 Hij at het op.
 
@@ -124,11 +126,13 @@ Stephens keek op.
 
 Daarna zei Richard niets meer.
 
-Richard zweeg zoals hij las: met aandacht, met zijn vinger onder de regel. Hij keek naar Brooks als die praatte, en naar Dudley als die praatte. Hij keek naar hun handen.
+Ik bedoel niet dat hij stil werd zoals een jongen stil wordt die moe is of zich verveelt. Ik heb in mijn leven veel stiltes gehoord. Ik heb aan tafels gezeten waar een koning zweeg omdat iedereen wachtte tot hij zou spreken, en aan tafels waar een man zweeg omdat hij net had gehoord dat zijn zoon was gesneuveld. Richard zweeg zoals hij las: met aandacht, met zijn vinger onder de regel. Hij keek naar Brooks als die praatte, en naar Dudley als die praatte. Hij keek naar hun handen.
 
 Dat zag ik, en ik deed het na. Ik keek naar Dudleys handen. Ze waren breed, met nagels die hij elke avond schoonmaakte met de punt van zijn mes, hetzelfde mes, en een litteken over de knokkel van zijn rechterwijsvinger dat van een zeilnaald kwam. Dat had hij me in de tweede week verteld, zonder dat ik ernaar had gevraagd. Ik keek naar Stephens' handen. Ze trilden een beetje, altijd, ook als hij sliep. Ik had dat gezien.
 
 Ik had die handen al zeven weken voor me. Ik had er nog nooit naar gekeken.
+
+*Hier staat 'nog nooit'. Dat is te sterk. Ik had ernaar gekeken zoals je naar een naam in een procesverslag kijkt. Het is hetzelfde niet.*
 
 Brooks merkte het als eerste. Hij had net, voor de derde keer, de eerste strofe ingezet van het lied over het meisje uit Portsea. Hij zong benedendeks altijd zacht, alsof het lied onder de vloer bleef liggen als je het te luid zong. Hij zong de eerste regel en wachtte, en Richard zong de tweede niet.
 
@@ -158,7 +162,7 @@ Ik lachte niet. Ik heb het geprobeerd. Ik wist dat ik moest lachen, omdat iemand
 
 Hij keek naar mij zoals hij die middag naar de bladzijde had gekeken. Met zijn vinger onder de regel.
 
-*Ik had hem al eens zo zien lachen, op de avond dat Dudley hem de mast in stuurde in de regen. Ik heb het die avond aan tafel niet herkend. Ik heb die blik lang uitgelegd als verstandhouding: wij tweeën wisten iets wat de anderen niet wisten. Ik weet niet meer of het dat was. Het kan ook zijn dat hij me iets verweet. Ik heb het hem niet gevraagd.*
+*Ik had hem al eens zo zien lachen, op de avond dat Dudley hem de mast in stuurde in de regen. Ik heb het die avond aan tafel niet herkend. Ik heb die blik jarenlang uitgelegd als verstandhouding: wij tweeën wisten iets wat de anderen niet wisten. Ik weet niet meer of het dat was. Het kan ook zijn dat hij me iets verweet. Ik heb het hem niet gevraagd.*
 
 ---
 
@@ -170,7 +174,7 @@ Ik droogde af. Er was één doek, die naar petroleum rook, en ik nam hem van de 
 
 We zeiden niets over het dagboek. Niets over de datum. We zeiden niets over wat er de volgende dag zou gebeuren. Hij heeft er die avond niets over gezegd en ik ook niet, en ik wil hier opschrijven waarom ik niets zei, omdat ik het later anders heb verteld.
 
-Ik zei niets omdat ik wachtte tot hij het zou vragen. Ik had antwoorden. Ik had ze al zeven weken. Uit welke richting het zou komen. Het uur niet; dat wist hij. Wie wat zou zeggen, voor zover de stukken van het proces het vermeldden. Wat er daarna kwam. Ik had alles, behalve een vraag.
+Ik zei niets omdat ik wachtte tot hij het zou vragen. Ik had antwoorden. Ik had ze al zeven weken. Uit welke richting het zou komen. Het uur had ik niet, en dat wist hij. Wie wat zou zeggen, voor zover de stukken van het proces het vermeldden. Wat er daarna kwam. Ik had alles, behalve een vraag.
 
 Hij vroeg niets.
 
@@ -200,7 +204,7 @@ Hij knikte. Hij keek naar de haak, naar de doek. Ik zag dat hij iets aan het uit
 
 'Zeg,' zei hij. 'Hoe laat is het?'
 
-Ik haalde mijn horloge uit mijn vest. Ik heb dat horloge sinds 1761. Het loopt twee minuten voor per week, en ik zet het elke zondag gelijk. Die zondag had ik dat niet gedaan. Ik had de hele dag naar de lucht in het zuidwesten staan kijken en was het vergeten.
+Ik haalde mijn horloge uit mijn vest. Ik heb dat horloge sinds 1761. Het loopt twee minuten voor per week, en ik zet het elke zondag gelijk. Die zondag had ik dat niet gedaan. Ik had de hele dag zitten tellen hoeveel dagen er nog waren, en ik was het vergeten.
 
 'Kwart voor negen,' zei ik. 'Ongeveer.'
 

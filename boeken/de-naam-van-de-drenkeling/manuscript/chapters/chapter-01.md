@@ -108,7 +108,7 @@ Om zeven uur moest hij gaan. Hij zei het drie keer, en drie keer bleef hij zitte
 
 Ik had nog niets gezegd. Ik merkte dat op, ergens rond half zeven, zoals je merkt dat je de hele tijd op je adem hebt gelet en daardoor vergeten bent te ademen. De waarschuwing zat in mijn borstzak, opgeschreven op een blad uit een hotel in de Strand, met drie doorhalingen en een verbetering in de marge. Ik had haar uit het hoofd geleerd. Ik voelde haar tegen mijn ribben.
 
-Ik kon hem zeggen dat zijn schip zou vergaan. Ik had vaker slecht nieuws gebracht, en ik deed het goed.
+Ik kon hem zeggen dat zijn schip zou vergaan. Ik heb mensen dingen gezegd die erger waren. Ik heb een hertogin verteld dat haar zoon niet van haar man was, met de man in de kamer. Ik heb een koopman in Amsterdam gezegd dat zijn vloot op de rede van Texel lag te branden, en dat was waar, en ik zei het met een glimlach omdat hij mij geld schuldig was.
 
 Maar die jongen zat op een meerpaal met een laars die tot vanavond moest houden. Hij had me een knoop gegeven om vast te houden. Hij had me gezegd dat de vrouw in Itchen slecht kookte en goed voor hem was. Hij had me alles gezegd wat er in zijn zak zat, en ik had nog niets uit de mijne gehaald.
 

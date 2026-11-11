@@ -38,3 +38,12 @@
 
 - **Hfst. 12:** nieuwe poging. Uitgangspunt is a1. Alleen de kardinaal, het bonmot over hoven en de feitelijke herstellingen worden aangepast. Hoe het uur verwoord wordt, ligt bij de auteur.
 - **Hfst. 1:** eventueel de hertogin en Amsterdam terugzetten, zonder 'Het is een vak'.
+
+## Vervolg (akkoord van de auteur)
+
+- **Hfst. 1 (a5):** de hertogin en de koopman in Amsterdam staan er weer, zonder 'Ik kan slechte tijding brengen. Het is een vak.' De openingszin is herschreven zonder ontkenning: 'Ik kon hem zeggen dat zijn schip zou vergaan. Ik heb mensen dingen gezegd die erger waren.'
+- **Hfst. 12 (a4):** opnieuw opgebouwd vanuit a1.
+  - Alleen de kardinaal en het bonmot over de hoven zijn geschrapt.
+  - De zin over het uur is beter verwoord: 'Het uur had ik niet, en dat wist hij.'
+  - De reden waarom het horloge niet gelijk staat is aangepast: 'de hele dag zitten tellen hoeveel dagen er nog waren'.
+  - Behouden: de vijf kanttekeningen, 'een plaats in de lucht' en de volledige tafelschikking.
