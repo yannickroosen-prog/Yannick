@@ -31,5 +31,6 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 21. [Integrale lezing van deel II, met voorstellen en omvang](12-integrale-lezing-deel-II.md)
 22. [Hoofdstuk 10: De gouden jaren](manuscript/hoofdstuk-10.md) en [werknotities](manuscript/hoofdstuk-10-notities.md)
 23. [Hoofdstuk 11: Mademoiselle](manuscript/hoofdstuk-11.md) en [werknotities](manuscript/hoofdstuk-11-notities.md)
+24. [Hoofdstuk 12: De lijst](manuscript/hoofdstuk-12.md) en [werknotities](manuscript/hoofdstuk-12-notities.md)
 
-Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Deel II is voltooid en herzien volgens voorstel C (vorige versies in `manuscript/versies`). Deel III volgt de richtlijnen van voorstel D. Volgende fase: hoofdstuk 12 (De lijst), het midden van het boek.
+Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Deel II is voltooid en herzien volgens voorstel C (vorige versies in `manuscript/versies`). Deel III volgt de richtlijnen van voorstel D. Volgende fase: hoofdstuk 13 (Repressie), het slot van deel III.
