@@ -1,6 +1,6 @@
 # Hoofdstuk 12: werknotities
 
-**Lengte:** zie het verslag aan de redactie. Midden van het boek.
+**Lengte:** ongeveer 2.550 woorden. Manuscript: ongeveer 35.600 woorden. Midden van het boek.
 
 ## De drie voorwaarden
 1. **Cyriels tweede keuze heeft een andere morele structuur dan in 1917.**
