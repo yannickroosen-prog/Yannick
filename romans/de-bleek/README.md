@@ -24,5 +24,6 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 15. [Integrale lezing van deel I, met revisievoorstellen](11-integrale-lezing-deel-I.md)
 
 16. [Hoofdstuk 5: Brieven uit Roubaix](manuscript/hoofdstuk-05.md) en [werknotities](manuscript/hoofdstuk-05-notities.md)
+17. [Hoofdstuk 6: Het sluiswachtershuis](manuscript/hoofdstuk-06.md) en [werknotities](manuscript/hoofdstuk-06-notities.md)
 
-Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Volgende fase: hoofdstuk 6 (Het sluiswachtershuis).
+Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Volgende fase: hoofdstuk 7 (Het afleggen).
