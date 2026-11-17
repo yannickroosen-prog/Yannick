@@ -29,5 +29,6 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 19. [Hoofdstuk 8: De meester](manuscript/hoofdstuk-08.md) en [werknotities](manuscript/hoofdstuk-08-notities.md)
 20. [Hoofdstuk 9: Etappe](manuscript/hoofdstuk-09.md) en [werknotities](manuscript/hoofdstuk-09-notities.md)
 21. [Integrale lezing van deel II, met voorstellen en omvang](12-integrale-lezing-deel-II.md)
+22. [Hoofdstuk 10: De gouden jaren](manuscript/hoofdstuk-10.md) en [werknotities](manuscript/hoofdstuk-10-notities.md)
 
-Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Deel II is voltooid en herzien volgens voorstel C (vorige versies in `manuscript/versies`). Deel III volgt de richtlijnen van voorstel D. Volgende fase: hoofdstuk 10 (De gouden jaren).
+Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Deel II is voltooid en herzien volgens voorstel C (vorige versies in `manuscript/versies`). Deel III volgt de richtlijnen van voorstel D. Volgende fase: hoofdstuk 11 (Mademoiselle).
