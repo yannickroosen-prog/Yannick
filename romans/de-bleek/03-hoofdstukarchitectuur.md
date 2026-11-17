@@ -112,17 +112,13 @@ Wat elke generatie toevoegt:
 - **Slot:** gesproken, door Medard.
 
 ### 7. Het afleggen
-**1904-1911 · Coleta · ±4.500 woorden**
-- **Oorzaak:** het huis van de man die alles zegt.
-- **Inhoud:** Medard sterft (1904) en zijn lijkwade blijft wit. Coleta breekt. Gentiel komt voor de begrafenis, met zijn kleindochter van een jaar. Door Coleta's brieven kent hij de gewoonte van het kinderlaken, zoals zij die teder heeft beschreven, en hij vraagt het laken voor het kind. **Pharaïlde, tachtig, weigert.** Gentiel vertrekt in woede, en zijn zus kan hem niets uitleggen zonder haar leugen te bekennen. Rosalie, twintig, kiest de kant van haar oom. Daarna een korte litanie van doden die Coleta aflegt. Pharaïlde sterft in 1911. Gentiel komt niet.
-- **Onomkeerbare beslissing:** de weigering van het laken. De Franse tak krijgt nooit het laken, alleen de brieven.
-- **Wat verandert:** broer en zus breken met elkaar. Rosalie richt haar blik op Roubaix.
-- **Wat het volgende hoofdstuk noodzakelijk maakt:** Coleta staat er alleen voor, met een zoon die een thuis zoekt.
-- **Slot:** Pharaïldes laatste woorden. *"Hij sliep goed."*
+**1902-1904 · Coleta · uitgewerkt (ongeveer 2.600 woorden)**
+- *Uitgewerkt:* een gewone dinsdag in 1902 ("Met hem lacht ge." / "Hij liegt niet."). Coleta stopt met brieven verfraaien en leest haar moeder de waarheid voor. Het hemd van Ivo wordt gewassen. Medard sterft (1904) en zijn lijkwade blijft wit. Coleta rouwt. Pharaïlde gaat naar Kortrijk om het huis voor Coleta te vragen. Gentiel komt het laken halen voor zijn moederloze kleindochter, Pharaïlde weigert en Coleta bekent de brieven. Gentiel zwijgt erover in Roubaix. Rosalie: "Ik kom eens."
+- **Pharaïldes dood en "Hij sliep goed."** schuiven naar h8.
 
 ### 8. De meester
 **1910-1914 · Cyriel · ±3.800 woorden**
-- **Oorzaak:** de dood van Medard. Cyriel groeit op met een moeder die de doden wast en tegen de levenden zwijgt, en zoekt een thuis in de Vlaamse beweging.
+- **Oorzaak:** de dood van Medard. Pharaïlde sterft in 1911, in het gewassen hemd van Ivo. Haar laatste woorden, "Hij sliep goed.", vallen alleen als ze ook zonder hun symbolische betekenis geloofwaardig zijn, bijvoorbeeld als antwoord op een gewone vraag. Gentiel komt niet naar de begrafenis. Cyriel groeit op met een moeder die de doden wast en tegen de levenden zwijgt, en zoekt een thuis in de Vlaamse beweging.
 - **Inhoud:** de lat voor "ik zijn". Marguerite Verhaeghe op de eerste rij bij de lezing over Gezelle. Ze stuurt hem een bundel van Gezelle met een kaartje in het Frans, en hij stuurt die terug. Hij trouwt met Leontine (1910). Agnes wordt geboren (1912) en Coleta legt haar in het kinderlaken. Rosalie, ongehuwd, werkt in de spinnerij en spreekt Frans met de nichten uit Roubaix. Ruzies tussen broer en zus over taal.
 - **Onomkeerbare beslissing:** hij stuurt Marguerites boek terug en trouwt met Leontine.
 - **Wat het volgende hoofdstuk noodzakelijk maakt:** augustus 1914.

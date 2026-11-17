@@ -62,7 +62,7 @@ Selim Aydın (1946-2019) en zijn dochter Elif (°1976).
 
 - **Verlangen:** herinnerd worden door zijn moeder.
 - **Tegenstrijdigheid:** hij predikt de broederschap van de arbeiders en laat zijn eigen moeder en zus achter. Hij schrijft zijn moeder brieven die ze niet kan lezen, in een mengtaal van Frans en West-Vlaams.
-- **Levensloop:** krijgt in 1871 bezoek van zijn vader, die hem zegt in Roubaix te blijven. Keert één keer terug, voor de begrafenis van Medard in 1904, met een kleindochter van een jaar, en vraagt het kinderlaken voor haar. Pharaïlde weigert. Hij vertrekt in woede en komt niet naar de begrafenis van zijn moeder in 1911. Hij bewaart tot zijn dood de brieven "van zijn moeder", die in werkelijkheid door Coleta werden geschreven, met een tederheid die Pharaïlde nooit uitsprak. Zijn Franse nakomelingen koesteren die brieven 150 jaar als de stem van een liefdevolle Vlaamse overgrootmoeder.
+- **Levensloop:** krijgt in 1871 bezoek van zijn vader, die hem zegt in Roubaix te blijven. Keert één keer terug, voor de begrafenis van Medard in 1904, met een kleindochter van een jaar, en vraagt het kinderlaken voor haar. Pharaïlde weigert. Coleta bekent hem dan dat zij de brieven schreef. Hij neemt de brieven mee, vertelt het in Roubaix nooit aan iemand, geeft zijn moeder geen hand meer en komt niet naar haar begrafenis in 1911. Hij bewaart tot zijn dood de brieven "van zijn moeder", die in werkelijkheid door Coleta werden geschreven, met een tederheid die Pharaïlde nooit uitsprak. Zijn Franse nakomelingen koesteren die brieven 150 jaar als de stem van een liefdevolle Vlaamse overgrootmoeder.
 - **Stem:** in brieven gezwollen, politiek, dan plots kinderlijk in een naschrift.
 
 ### Coleta Vanneste-Callewaert (1852-1938)
