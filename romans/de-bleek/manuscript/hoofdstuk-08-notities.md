@@ -1,6 +1,6 @@
 # Hoofdstuk 8: werknotities
 
-**Lengte:** zie de telling in de README.
+**Lengte:** ongeveer 2.600 woorden. Manuscript na acht hoofdstukken: ongeveer 23.300 woorden.
 
 ## De vier voorwaarden
 1. **Cyriel bestaat vóór zijn morele beproeving.**
