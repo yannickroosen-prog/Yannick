@@ -1,6 +1,6 @@
 # Hoofdstuk 5: werknotities
 
-**Lengte:** ongeveer 3.000 woorden (gepland: 3.500).
+**Lengte:** ongeveer 2.100 woorden (gepland: 3.500).
 
 ## De vier vragen
 1. **Oorzaak:** Ivo's dood en zijn omweg naar Roubaix (h4). Pharaïlde kan niet lezen, Coleta wel. Medard, de sluiswachter, brengt de brief: de Franse schippers geven hun post aan de sluis af.
