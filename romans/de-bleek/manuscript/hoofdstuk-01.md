@@ -130,7 +130,7 @@ Ze maakte geen fout, behalve dat de 4 in spiegelbeeld stond, zoals op haar merkl
 
 Toen we de datum zagen, wisten we wat we wilden weten. Een moeder die in mei een kind verliest, in een nacht dat ze in slaap viel. Een moeder die op Lijnwaadzondag niet meeloopt in de processie. Een grijs in de vorm van een kind, op een laken waarbij ze die middag alleen was geweest. We hadden het verhaal af voor zij het laken had opgevouwen.
 
-Dat de datum niet klopte, zag niemand, of het kon niemand iets schelen. Een moeder rouwt niet op de dag dat haar kind gestorven is, zeiden we. Ze rouwt op de eerste dag dat ze alleen is.
+Dat de datum niet klopte, zag niemand, of het kon niemand iets schelen. In mei had ze moeten werken, zeiden we. Op Lijnwaadzondag was ze alleen geweest. Dat was genoeg.
 
 Wat er volgens ons gebeurd was, zeiden we niet hardop, want dat doet men niet, maar we zeiden het zachtjes tegen elkaar, bij de pomp, in de rij voor de soep, en in de biechtstoel tegen pastoor Delbeke, die naar honing rook en het al wist. Mietje Lagae vertelde over de ochtend in mei en over de tweede zin, en ze vertelde het vriendelijk, en wie het hoorde, knikte. Toen Pharaïlde die winter in de kerk kwam, schoven de vrouwen in de bank een beetje op, niet veel, een hand breed, zoals men opschuift voor iemand die nat binnenkomt.
 

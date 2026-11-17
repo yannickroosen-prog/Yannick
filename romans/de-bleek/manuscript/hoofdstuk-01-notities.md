@@ -16,7 +16,7 @@
 | Het brood en de doek zijn weg op Lijnwaadzondag; Ivo vraagt er niet naar | h21: Emiel legt het verband |
 | "Iemand moet blijven" | het woord *blijf* (h21-22) |
 | Leonie Debruyne aan de pomp: "sommige mensen sliepen goed" | Pharaïldes laatste woorden in 1911, "Hij sliep goed", zijn ook een antwoord op die zin, 64 jaar later (h7) |
-| "Een moeder rouwt op de eerste dag dat ze alleen is": het dorp verklaart de foute datum weg | h21 |
+| "In mei had ze moeten werken ... Dat was genoeg.": het dorp verklaart de foute datum weg | h21 |
 | De koster Vercruysse (19) schrijft de afkorting op | hij leeft tot ver in de jaren 1890 en kan in h7 nog voorkomen |
 | Pharaïldes hand op de hand in het grijs | h19: Emiel legt zijn handen in het grijs van Agnes, en ze passen niet |
 
@@ -27,6 +27,8 @@
 - Aforistische slotzinnen: bewust verminderd. Ze staan nog bij de overgangen ("Bij haar viel dat niet op.", "Hij was negentien.").
 - Dialect: vier korte replieken (Mietje, Pharaïlde), verstaanbaar.
 
-## Open vragen voor de redactie
-- Voegt de scène met de trappers een tweede wonder toe? Ze is realistisch bedoeld: Ivo trapt in het donker op een leeg getouw. Laten we dat zo, of wordt het te veel?
-- Is "Een moeder rouwt op de eerste dag dat ze alleen is" te aforistisch voor het dorp, of past het precies bij een dorp dat zijn eigen verhaal rechtvaardigt?
+## Redactiebeslissingen (ronde 2)
+- **De trappers blijven**, zonder verduidelijking. Het verhaal laat een realistische lezing toe, en die volstaat.
+- **De rouwzin is vervangen** door: "In mei had ze moeten werken, zeiden we. Op Lijnwaadzondag was ze alleen geweest. Dat was genoeg." Die zin toont hoe weinig het dorp nodig heeft om overtuigd te raken, in plaats van een mooie gedachte te formuleren.
+- **De lengte blijft** ongeveer 3.900 woorden. Het hoofdstuk geldt als eerste manuscriptversie.
+- **Aandachtspunt voor het hele boek:** te veel geslaagde formuleringen na elkaar. Niet elke alinea mag op dezelfde manier indruk proberen te maken. De blinde lezing zoekt daar voortaan expliciet naar.
