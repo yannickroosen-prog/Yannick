@@ -27,5 +27,6 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 17. [Hoofdstuk 6: Het sluiswachtershuis](manuscript/hoofdstuk-06.md) en [werknotities](manuscript/hoofdstuk-06-notities.md)
 18. [Hoofdstuk 7: Het afleggen](manuscript/hoofdstuk-07.md) en [werknotities](manuscript/hoofdstuk-07-notities.md)
 19. [Hoofdstuk 8: De meester](manuscript/hoofdstuk-08.md) en [werknotities](manuscript/hoofdstuk-08-notities.md)
+20. [Hoofdstuk 9: Etappe](manuscript/hoofdstuk-09.md) en [werknotities](manuscript/hoofdstuk-09-notities.md)
 
-Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Volgende fase: hoofdstuk 9 (Etappe), het keerpunt van deel II.
+Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Deel II is voltooid. Volgende fase: integrale lezing van deel II, daarna herberekening van de omvang.

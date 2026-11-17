@@ -13,7 +13,7 @@ Pharaïlde Vandenbussche (1824-1911)                Adhémar Verhaeghe (1812-188
   x Ivo Callewaert (1819-1871)                       linnenhandelaar, burgemeester
   |                                                  |
   +-- Clementine (mei 1847, 9 dagen)                 Edmond Verhaeghe (1845-1914)
-  +-- Gentiel (1849-1923) -> Roubaix                   vlasspinnerij
+  +-- Gentiel (1849-1917) -> Roubaix                   vlasspinnerij
   |     ... Aurélie Callewaert (°1984), Roubaix       |
   +-- Coleta (1852-1938)                               +-- Robert (1876-1951), burgemeester 1921-1944
         x Medard Vanneste (1846-1904), sluiswachter    +-- Marguerite (1881-1970), "Mademoiselle"
@@ -57,7 +57,7 @@ Selim Aydın (1946-2019) en zijn dochter Elif (°1976).
 - **Zijn grijs:** een hemd dat in 1871 uit Frankrijk terugkomt, in een bundel, na zijn dood in een oogstongeval bij Amiens. Op de borst, links, een grijze plek, ontstaan na zijn bezoek aan Gentiel in Roubaix. Pharaïlde wast het nooit.
 - **Stem:** bondig, droog, grappig met vreemden.
 
-### Gentiel Callewaert (1849-1923)
+### Gentiel Callewaert (1849-1917)
 **Vertrekt in 1868 naar Roubaix, wordt wever, socialist, vader van Franse kinderen.**
 
 - **Verlangen:** herinnerd worden door zijn moeder.
