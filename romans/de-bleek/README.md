@@ -10,4 +10,6 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 6. [Stemkaart en ritmecontract van Emiel](06-stemkaart-emiel.md)
 7. [Blinde lezing van de opening](07-blinde-lezing.md)
 
-Volgende fase: hoofdstuk 1 volledig.
+8. [Hoofdstuk 1: Lijnwaadzondag](manuscript/hoofdstuk-01.md) en [werknotities](manuscript/hoofdstuk-01-notities.md)
+
+Volgende fase: blinde lezing van hoofdstuk 1, daarna hoofdstuk 2 (Witte vuren).
