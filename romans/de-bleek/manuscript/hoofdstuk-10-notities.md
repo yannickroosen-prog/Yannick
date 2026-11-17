@@ -1,6 +1,6 @@
 # Hoofdstuk 10: werknotities
 
-**Lengte:** ongeveer 3.400 woorden. Eén dag: zondag 9 september 1928, de tweede zondag van september, van zonsopgang tot na middernacht.
+**Lengte:** ongeveer 2.900 woorden. Manuscript: ongeveer 30.300 woorden. Eén dag: zondag 9 september 1928, de tweede zondag van september, van zonsopgang tot na middernacht.
 
 ## Richtlijnen van voorstel D
 1. **Vertragen.** Het hele hoofdstuk speelt op één kermisdag. Mensen die de lezer meent te kennen:
