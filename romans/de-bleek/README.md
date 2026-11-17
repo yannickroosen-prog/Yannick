@@ -19,4 +19,6 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 
 13. [Hoofdstuk 3: Franschmans](manuscript/hoofdstuk-03.md) en [werknotities](manuscript/hoofdstuk-03-notities.md)
 
-Hoofdstukken 1 en 2 zijn voorlopig afgesloten. Volgende fase: hoofdstuk 4 (Het hemd).
+14. [Hoofdstuk 4: Het hemd](manuscript/hoofdstuk-04.md) en [werknotities](manuscript/hoofdstuk-04-notities.md)
+
+Deel I is voltooid (ca. 12.400 woorden). Volgende fase: integrale lezing van deel I, daarna hoofdstuk 5 (Brieven uit Roubaix).
