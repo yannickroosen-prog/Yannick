@@ -69,14 +69,18 @@ Zie de lijst in de hoofdstukarchitectuur, sectie "Het leven dat gewoon gebeurt".
 | sept. 1847 | Het negende laken. Elf weken loon. *1 OGST 1847* in de zoom, gespiegelde 4 | 1 |
 | 1849 | Gentiel geboren, eerste kind in het kinderlaken | 2 |
 | 1852 | Coleta geboren | 2 |
-| 1856-1868 | Ivo gaat elk seizoen als Franschman | 3 |
+| 1858 | Pharaïlde ontslagen op het kasteel; ze weigert het geld van mijnheer. Ivo gaat voor het eerst als Franschman | 3 |
+| 1858-1868 | Ivo gaat elk seizoen | 3 |
 | 1868 | Gentiel vertrekt naar Roubaix | 3 |
 | 1871 | Ivo sterft bij Amiens. Het hemd | 4 |
-| 1877 | Coleta trouwt met Medard. Het witte laken | 5 |
+| 1872 | Gentiels eerste brief: Ivo zei "Blijf hier". Coleta leest iets anders voor | 5 |
+| 1877 | Coleta trouwt met Medard. Het witte laken | 6 |
+| 1880 | Pharaïlde trekt in het sluiswachtershuis | 6 |
+| 1885 | Ghekiere sterft; de pet gaat naar Pharaïlde: "tot aan de paal, niet verder" | 6 |
 | 1879 | Cyriel geboren | 6 |
 | 1884 | Rosalie geboren | 6 |
 | 1889 | Adhémar sterft | 5 |
-| 1904 | Medard sterft, witte lijkwade | 6 |
+| 1904 | Medard sterft, witte lijkwade. Gentiel vraagt het laken voor zijn kleindochter; Pharaïlde weigert | 7 |
 | 1910 | Cyriel trouwt met Leontine | 8 |
 | 1911 | Pharaïlde sterft: "Hij sliep goed." Gentiel komt over | 7 |
 | 1912 | Agnes geboren | 8 |

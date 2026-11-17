@@ -4,7 +4,7 @@ In de zomer van zeventig gingen de Franschmans niet. Frankrijk was in oorlog met
 
 Ivo bleef thuis.
 
-Het was de eerste zomer in veertien jaar dat hij thuis was, en het huis was er niet op gemaakt. Hij vlocht manden in de voorkamer, en de wilgentenen lagen tot in de keuken, en Pharaïlde struikelde erover als ze om vier uur opstond voor de bleek. Hij zette zijn klompen naast de deur, waar zij de hare zette, en zij zette de zijne aan de andere kant, en de volgende ochtend stonden ze weer naast de deur. Hij at op uren dat er niet gegeten werd. Hij zat op de dorpel als zij de vloer wilde dweilen. Hij maakte de kachel aan als het warm was, omdat hij het altijd zo gedaan had in november, en Coleta, die achttien was en in de spinnerij werkte, kwam 's avonds thuis in een keuken waar het te warm was om te eten.
+Het was de eerste zomer in twaalf jaar dat hij thuis was, en het huis was er niet op gemaakt. Hij vlocht manden in de voorkamer, en de wilgentenen lagen tot in de keuken, en Pharaïlde struikelde erover als ze om vier uur opstond voor de bleek. Hij zette zijn klompen naast de deur, waar zij de hare zette, en zij zette de zijne aan de andere kant, en de volgende ochtend stonden ze weer naast de deur. Hij at op uren dat er niet gegeten werd. Hij zat op de dorpel als zij de vloer wilde dweilen. Hij maakte de kachel aan als het warm was, omdat hij het altijd zo gedaan had in november, en Coleta, die achttien was en in de spinnerij werkte, kwam 's avonds thuis in een keuken waar het te warm was om te eten.
 
 “Hij is in de weg,” zei Coleta tegen haar moeder.
 
@@ -18,7 +18,7 @@ Het geld ging op. Wat er in de voering van zijn jas had gezeten van vorig jaar, 
 
 “Aan wie?”
 
-“Aan Desmet van Wevelgem.”
+“Aan Ameye van Wevelgem.”
 
 “Voor hoeveel?”
 
@@ -28,7 +28,7 @@ Daarna zeiden ze een week niets. Het was niet het zwijgen dat ze kenden. Het was
 
 ---
 
-In september werd de keizer van Frankrijk gevangengenomen, en in de herfst kwamen de eerste Fransen over de grens die niet wilden vechten, en Ghekiere, die nu oud was en een stok had in plaats van een sabel, bracht ze tot aan het gemeentehuis, waar Desmedt hun namen opschreef. Een van hen was een boer uit de Somme. Ivo hoorde ervan en ging naar het gemeentehuis en vroeg hem in het Frans of hij een zekere Leroux kende, van La Grange-aux-Moines.
+In september werd de keizer van Frankrijk gevangengenomen, en in de herfst kwamen de eerste Fransen over de grens die niet wilden vechten, en Ghekiere, die nu oud was en een stok had in plaats van een sabel en nog altijd de pet van zevenenveertig droeg, bracht ze tot aan het gemeentehuis, waar Desmedt hun namen opschreef. Een van hen was een boer uit de Somme. Ivo hoorde ervan en ging naar het gemeentehuis en vroeg hem in het Frans of hij een zekere Leroux kende, van La Grange-aux-Moines.
 
 De boer kende Leroux. De Pruisen waren er niet geweest. De oogst was binnen, door vrouwen en oude mannen.
 
@@ -40,11 +40,11 @@ Het gesprek dat ze in maart hadden, kennen we van Coleta, die het in de achterka
 
 De oorlog was voorbij. In Parijs vochten de Fransen nu tegen elkaar, maar in Picardië werd gezaaid. Seppe was langs geweest om te zeggen dat hij in juni weer zou gaan, met een ploeg van vijf, en dat hij op Ivo rekende.
 
-Pharaïlde zei het aan tafel. Ze zei het zoals ze zei dat het ging regenen.
+Pharaïlde zei het aan tafel. Ze zei het zonder op te kijken.
 
 “De stoomketel van de spinnerij heeft een man nodig. Voor het vuur. Edmond Verhaeghe zoekt er een.”
 
-Ivo sneed zijn brood.
+Ivo schoof zijn bord weg.
 
 “Het is het hele jaar,” zei ze. “Niet alleen de zomer. Het is minder dan Frankrijk, maar het is het hele jaar.”
 
@@ -52,11 +52,11 @@ Ivo sneed zijn brood.
 
 “Ge waart ook geen Franschman.”
 
-Ivo legde het mes neer. Coleta zei dat hij het mes neerlegde en dat hij lang naar de tafel keek, en dat haar moeder niets zei, wat haar moeder goed kon, en dat het zo lang stil bleef dat Coleta in de achterkamer dacht dat haar vader was opgestaan.
+Coleta zei dat hij lang naar de tafel keek, en dat haar moeder niets zei, wat haar moeder goed kon, en dat het zo lang stil bleef dat Coleta in de achterkamer dacht dat haar vader was opgestaan.
 
 Hij was niet opgestaan. Hij begon te praten.
 
-Hij vertelde over de hoogvlakte. Over het koren dat tot aan de lucht liep en de toren die er niet stond. Over de koestal van Leroux, waar je 's nachts de koeien hoorde herkauwen door de planken en waar het rook naar warm hooi en melk. Over madame Leroux, die lachte zoals mevrouw van het kasteel, en over haar soep, die te zout was, en over de wijn, die hij nooit dronk. Over de bieten bij Péronne, waar de grond zo zwaar was dat je klompen erin bleven steken en je op je kousen verder moest. Over de Fransen, die vloekten bij alles, ook als ze tevreden waren, en die dansten met wie ze wilden. Over de zoon van Leroux, die naar Algerije was gegaan en nooit was teruggekomen.
+Hij vertelde over de hoogvlakte. Over het koren dat tot aan de lucht liep en de toren die er niet stond. Over de koestal van Leroux, waar je 's nachts de koeien hoorde herkauwen door de planken en waar het rook naar warm hooi en melk. Over madame Leroux en haar soep, die te zout was, en over de wijn, die hij nooit dronk. Over de bieten bij Péronne, waar de grond zo zwaar was dat je klompen erin bleven steken en je op je kousen verder moest. Over de Fransen, die vloekten bij alles, ook als ze tevreden waren, en die dansten met wie ze wilden. Over de zoon van Leroux, die naar Algerije was gegaan en nooit was teruggekomen.
 
 Coleta zei dat hij praatte zoals ze hem nooit had horen praten, en dat het lang duurde, en dat hij geen enkele keer zei dat hij er graag was.
 
@@ -82,15 +82,11 @@ Roubaix ligt een uur van Rijsel. Wij wisten wie er woonde. Hij was zijn zoon gaa
 
 ---
 
-Ivo Callewaert stierf op de vijftiende augustus van eenenzeventig, op de dag van Onze-Lieve-Vrouw-Hemelvaart, op het land van Leroux boven Amiens.
-
-Over hoe, zijn Seppe en Fons het niet eens geworden.
+Ivo Callewaert stierf op de vijftiende augustus van eenenzeventig, op de dag van Onze-Lieve-Vrouw-Hemelvaart, op het land van Leroux boven Amiens. Hij was tweeënvijftig.
 
 Seppe zei dat hij van de kar viel. Ze waren de laatste schoven aan het opladen voor het feest van *la gerbe*, en Ivo stond boven op de kar om ze aan te nemen, en de kar stond op een helling, en toen het paard een stap zette, viel hij achterover, op zijn nek, op de harde grond tussen de stoppels. Hij was dood voor ze bij hem waren.
 
-Fons zei dat het het paard was. Dat Ivo achter de kar liep om een schoof op te rapen en dat het paard achteruit sloeg, zonder reden, zoals paarden doen, en hem tegen de borst raakte.
-
-Wij geloofden Fons. Een man die zo goed was met paarden, zeiden we, wordt door een paard gedood. Zo gaan die dingen.
+In In de Zwaan geloofde niemand dat. Een man valt niet van een kar op een helling die hij al dertien zomers kent. Het was een paard geweest, zeiden we, dat achteruit had geslagen toen hij erachter liep. Ivo was goed met paarden, en zo gaat het met mannen die goed zijn met paarden.
 
 Hij werd begraven op het kerkhof van het dorp bij La Grange-aux-Moines, dat Saint-Riquier-le-Petit heette, op kosten van Leroux, in een graf met een houten kruis waarop de pastoor van daar zijn naam schreef zoals hij hem verstond. Seppe zei dat er *Yves Calvert* op stond.
 
@@ -98,7 +94,11 @@ Hij werd begraven op het kerkhof van het dorp bij La Grange-aux-Moines, dat Sain
 
 De ploeg kwam terug in de eerste week van november, na de bieten. Seppe kwam rechtstreeks naar de Leiestraat, nog voor hij naar zijn eigen huis ging, met de bundel van Ivo onder zijn arm en de nieuwe pik over zijn schouder.
 
-Pharaïlde wist het al. Er was in augustus een brief gekomen van de pastoor van Saint-Riquier-le-Petit, in het Frans, aan de pastoor van Blekegem, en pastoor Delbeke was het haar komen zeggen. Hij had een mis aangeboden. Ze had gevraagd wat die kostte.
+Pharaïlde wist het al. Er was in augustus een brief gekomen van de pastoor van Saint-Riquier-le-Petit, in het Frans, aan de pastoor van Blekegem, en pastoor Delbeke was het haar komen zeggen. Hij zei dat er op de laatste zondag van augustus een mis voor Ivo gelezen zou worden en dat ze al betaald was. Pharaïlde vroeg door wie. Door iemand die niet genoemd wilde worden, zei Delbeke. Coleta stond erbij. Ze zag haar moeder door het raam kijken, over de daken van de Leiestraat heen, naar de schouw van de spinnerij en het dak van het kasteel erachter.
+
+“Zeg dat het goed is,” zei Pharaïlde.
+
+In de Leiestraat zeiden we dat Seppe het had betaald, met geld dat hij uit Frankrijk had laten komen, en we vonden het schoon van Seppe. In die mis zat Pharaïlde op de eerste rij, waar ze nooit gezeten had. Mijnheer zat op de zijne, aan de andere kant van het middenpad. Ze keken geen van beiden opzij.
 
 Seppe zette zich aan tafel zonder zijn klompen uit te doen. Hij legde de bundel op tafel en de pik ernaast, en hij begon te praten over het geld, want daarover moest hij praten, en hij wist niet waarover hij anders moest praten.
 
@@ -106,7 +106,7 @@ Leroux had het loon van Ivo aan Seppe betaald, tot en met de vijftiende augustus
 
 “Het is zoveel,” zei hij ten slotte, en legde het geld op tafel. Het was minder dan Ivo in een gewone zomer meebracht.
 
-Pharaïlde telde het. Ze telde het twee keer.
+Pharaïlde telde het.
 
 “De bieten,” zei ze.
 
@@ -190,6 +190,10 @@ Ze kwam thuis na middernacht. Haar moeder zat in de keuken, wat ze anders nooit 
 
 “Bij Leonie Debruyne.”
 
-Pharaïlde keek naar haar handen. Coleta's handen waren rood van het water en ruw van de zeep. Pharaïlde stond op en haalde de ketel van het vuur en goot het water in de kom op tafel, en zette er de zeep naast, en ging naar bed.
+Pharaïlde keek naar haar handen. Coleta's handen waren rood van het water en ruw van de zeep. Pharaïlde stond op, haalde de ketel van het vuur, goot het water in de kom op tafel en zette er de zeep naast.
 
-Coleta waste haar handen in het water van haar moeder. Het was warm.
+Coleta waste haar handen. Het water was warm.
+
+Haar moeder stond al in de deur van de kamer, met haar hand aan de klink. Ze bleef staan.
+
+“Mietje deed er azijn in,” zei ze. “Voor de reuk.”

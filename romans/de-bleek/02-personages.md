@@ -54,7 +54,7 @@ Selim Aydın (1946-2019) en zijn dochter Elif (°1976).
 
 - **Verlangen:** vrij zijn. Weg kunnen, telkens opnieuw, en toch een huis hebben om naar terug te keren.
 - **Tegenstrijdigheid:** in de bietenvelden van Picardië zingt hij Franse liedjes die hij thuis nooit zingt. Hij is teder met paarden. Op de dag dat zijn zoon in 1868 naar Roubaix vertrekt, roskamt hij het paard van de buurman tot het vertrek voorbij is.
-- **Zijn grijs:** een hemd dat in 1871 uit Frankrijk terugkomt, in een bundel, na zijn dood in een oogstongeval bij Amiens. Op de borst een grijze plek. Pharaïlde wast het nooit.
+- **Zijn grijs:** een hemd dat in 1871 uit Frankrijk terugkomt, in een bundel, na zijn dood in een oogstongeval bij Amiens. Op de borst, links, een grijze plek, ontstaan na zijn bezoek aan Gentiel in Roubaix. Pharaïlde wast het nooit.
 - **Stem:** bondig, droog, grappig met vreemden.
 
 ### Gentiel Callewaert (1849-1923)
@@ -62,7 +62,7 @@ Selim Aydın (1946-2019) en zijn dochter Elif (°1976).
 
 - **Verlangen:** herinnerd worden door zijn moeder.
 - **Tegenstrijdigheid:** hij predikt de broederschap van de arbeiders en laat zijn eigen moeder en zus achter. Hij schrijft zijn moeder brieven die ze niet kan lezen, in een mengtaal van Frans en West-Vlaams.
-- **Levensloop:** keert één keer terug, voor de begrafenis van zijn moeder in 1911, met kleinkinderen die alleen Frans spreken. Hij en Coleta zitten twee uur in de keuken en vermijden het enige onderwerp dat ertoe doet. Hij bewaart tot zijn dood de brieven "van zijn moeder", die in werkelijkheid door Coleta werden geschreven, met een tederheid die Pharaïlde nooit uitsprak. Zijn Franse nakomelingen koesteren die brieven 150 jaar als de stem van een liefdevolle Vlaamse overgrootmoeder.
+- **Levensloop:** krijgt in 1871 bezoek van zijn vader, die hem zegt in Roubaix te blijven. Keert één keer terug, voor de begrafenis van Medard in 1904, met een kleindochter van een jaar, en vraagt het kinderlaken voor haar. Pharaïlde weigert. Hij vertrekt in woede en komt niet naar de begrafenis van zijn moeder in 1911. Hij bewaart tot zijn dood de brieven "van zijn moeder", die in werkelijkheid door Coleta werden geschreven, met een tederheid die Pharaïlde nooit uitsprak. Zijn Franse nakomelingen koesteren die brieven 150 jaar als de stem van een liefdevolle Vlaamse overgrootmoeder.
 - **Stem:** in brieven gezwollen, politiek, dan plots kinderlijk in een naschrift.
 
 ### Coleta Vanneste-Callewaert (1852-1938)

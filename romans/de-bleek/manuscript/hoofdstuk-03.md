@@ -1,10 +1,24 @@
 ## 3. Franschmans
 
-De Franschmans vertrokken in de week na Sint-Jan, voor dag en dauw, van het kerkplein. In de zomer van zesenvijftig waren ze met zes. Seppe Vanhee was hun ploegbaas, een man met een rode baard die al negen zomers naar Frankrijk was gegaan en de weg kende zoals wij de weg naar de kerk kenden. Hij had de pik en de haak over zijn schouder, zoals ze allemaal, de korte zeis waarmee een Vlaming in Frankrijk sneller maaide dan twee Fransen, en de houten haak waarmee hij het graan naar zich toe trok. Aan de steel hing een zak met brood en een hemd voor de zondag.
+Een week na de begrafenis van mevrouw kwam Desmedt naar de Leiestraat. Hij kwam te voet, in zijn zwarte jas, en bleef in de deur staan, want hij kwam nooit binnen bij mensen van de Leiestraat. Hij zei dat mijnheer Pharaïlde niet meer nodig had op het kasteel. Er zouden geen vuren meer zijn, en dus ook geen manden. Zulma zou voortaan het washuis doen.
 
-Ivo ging dat jaar voor het eerst mee. Het getouw stond al negen jaar zonder borstboom in de voorkamer, en van pinnen sneden kan een man niet leven, en Seppe had in In de Zwaan gezegd dat hij nog een man nodig had die niet dronk. Ivo dronk niet. Dat was het enige wat Seppe van hem wist.
+Daarna haalde hij een envelop uit zijn jas. Mijnheer had gevraagd haar die te geven, voor haar diensten aan mevrouw in de laatste maanden. Er zat een jaar winterloon in. Desmedt zei het bedrag. Hij zei ook, omdat mijnheer gevraagd had het te zeggen, dat ze op de bleek kon blijven zolang ze wilde, en dat het beter was dat ze over de laatste weken van mevrouw met niemand sprak.
 
-Pharaïlde stond in de deur van de Leiestraat met een brood in een doek. Ze gaf het hem. Ze zei dat hij zijn hemd niet moest laten liggen in de schuur, want dat ze in Frankrijk stalen. Ivo zei dat hij het aan zou houden. Gentiel, die zeven was, stond achter haar rok, en toen de mannen over het plein naar de steenweg liepen, liep hij mee, en niemand hield hem tegen. Hij liep mee tot aan de grenspaal op de steenweg naar Menen. Daar bleef hij staan. Ivo draaide zich één keer om, op de eerste bocht, en stak zijn haak omhoog, en Gentiel stak zijn hand omhoog, en daarna was de steenweg leeg.
+Pharaïlde keek naar de envelop. Het was meer geld dan er ooit in dat huis was geweest. Het was genoeg om de winter door te komen, en de volgende, en de kinderen schoenen te geven voor de school van Vercruysse. Ivo stond achter haar in de gang. Hij zei niets.
+
+“Zeg aan mijnheer dat het niet nodig is,” zei Pharaïlde.
+
+Desmedt zei dat mijnheer erop stond. Pharaïlde zei het nog eens, op dezelfde toon, en Desmedt stak de envelop terug in zijn jas en ging. Wij zeiden later dat ze het weigerde omdat ze geen geld wilde voor iets wat ze toch uit zichzelf deed. Zo was Pharaïlde.
+
+Die winter was er geen washuis. In februari was het geld van de bleek op. In maart ging Ivo naar In de Zwaan en vroeg Seppe Vanhee of hij nog een man kon gebruiken.
+
+---
+
+De Franschmans vertrokken in de week na Sint-Jan, voor dag en dauw, van het kerkplein. In de zomer van achtenvijftig waren ze met zes. Seppe Vanhee was hun ploegbaas, een man met een rode baard die al negen zomers naar Frankrijk was gegaan en de weg kende zoals wij de weg naar de kerk kenden. Hij had de pik en de haak over zijn schouder, zoals ze allemaal, de korte zeis waarmee een Vlaming in Frankrijk sneller maaide dan twee Fransen, en de houten haak waarmee hij het graan naar zich toe trok. Aan de steel hing een zak met brood en een hemd voor de zondag.
+
+Ivo ging dat jaar voor het eerst mee. Het getouw stond al elf jaar zonder borstboom in de voorkamer, en van pinnen snijden kan een man niet leven. Seppe had gezegd dat hij een man kon gebruiken die niet dronk. Ivo dronk niet. Dat was het enige wat Seppe van hem wist.
+
+Pharaïlde stond in de deur van de Leiestraat met een brood in een doek. Ze gaf het hem. Ze zei dat hij zijn hemd niet moest laten liggen in de schuur, want dat ze in Frankrijk stalen. Ivo zei dat hij het aan zou houden. Gentiel, die negen was, stond achter haar rok, en toen de mannen over het plein naar de steenweg liepen, liep hij mee, en niemand hield hem tegen. Hij liep mee tot aan de grenspaal op de steenweg naar Menen. Daar bleef hij staan. Ivo draaide zich één keer om, op de eerste bocht, en stak zijn haak omhoog, en Gentiel stak zijn hand omhoog, en daarna was de steenweg leeg.
 
 Gentiel bleef aan de grenspaal staan tot Ghekiere voorbijkwam en hem naar huis stuurde.
 
@@ -38,7 +52,7 @@ In Picardië stond Ivo om vier uur op. Hij maaide met de pik in zijn rechterhand
 
 Op zaterdag, als de bleek gesloten was voor de week, nam Pharaïlde de kinderen mee naar de Krommen en liet hen in het ondiepe water lopen, en zat zelf op de oever met haar handen op haar knieën. Coleta viel en huilde en Gentiel trok haar overeind.
 
-Op zondag gingen de Franschmans niet naar de mis, want er was geen kerk binnen twee uur gaans. Ze wasten hun hemd in de drinkbak en hingen het op de haag. De boerin, madame Leroux, die dik was en lachte zoals mevrouw van het kasteel lachte, met haar mond open, hing haar eigen was op de lijn naast de koestal. Lakens, slopen, de hemden van Leroux. Ivo ging naar de lijn en nam een laken tussen zijn handen en hield het tegen de zon.
+Op zondag gingen de Franschmans niet naar de mis, want er was geen kerk binnen twee uur gaans. Ze wasten hun hemd in de drinkbak en hingen het op de haag. De boerin, madame Leroux, die dik was en hard lachte, hing haar eigen was op de lijn naast de koestal. Lakens, slopen, de hemden van Leroux. Ivo ging naar de lijn en nam een laken tussen zijn handen en hield het tegen de zon.
 
 Madame Leroux vroeg wat hij zocht.
 
@@ -60,7 +74,7 @@ Hij kwam terug in de week voor Allerheiligen, nadat ze na de oogst nog zes weken
 
 Ivo legde zijn hand op zijn hoofd toen hij hem voorbijliep. Ze liepen samen naar huis, Ivo voorop.
 
-Pharaïlde knipte die avond de voering van zijn jas open met de schaar en telde het geld op tafel. Het was meer dan ze met de bleek in een jaar verdiende. Ze telde het twee keer en legde het in de kist onder het bed, naast het laken, en naaide de voering weer dicht.
+Pharaïlde knipte die avond de voering van zijn jas open met de schaar en telde het geld op tafel. Het was meer dan ze met de bleek in een jaar verdiende. Ze telde het en legde het in de kist onder het bed, naast het laken, en naaide de voering weer dicht.
 
 “Seppe zegt dat ge gezongen hebt,” zei Gentiel.
 
@@ -76,9 +90,11 @@ Coleta lachte, omdat ze dacht dat het een grap was. Het was een grap. Ivo keek n
 
 ---
 
-Zo ging het twaalf jaar.
+Zo ging het tien jaar.
 
 In de zomer was Ivo in Frankrijk en zong er of zong er niet, en in de winter zat hij in de voorkamer naast het getouw zonder borstboom en vlocht manden van wilgentenen die hij op de markt van Menen verkocht. Hij leerde Coleta tellen tot honderd in het Frans, omdat ze het vroeg. Hij leerde Gentiel niets, omdat Gentiel niets vroeg.
+
+Toen Coleta acht was, waste ze voor het eerst zijn voeten. Hij was die middag thuisgekomen na drie dagen lopen en zat op de dorpel met zijn klompen naast zich, en zijn voeten waren zwart en open op de hielen. Coleta haalde een kom water en een doek, zonder dat iemand het haar gezegd had, en knielde voor hem op de stoep en begon. Ivo trok zijn voeten eerst terug. Daarna liet hij haar doen. Pharaïlde kwam in de deur staan en keek, met haar armen over elkaar, en ging weer naar binnen. Toen Coleta klaar was, zei Ivo *merci* in het Frans, en Coleta lachte, en vanaf dan deed ze het elk jaar, in de week voor Allerheiligen, op de stoep, ook toen ze groot genoeg was om te weten dat de buren keken.
 
 Gentiel ging naar de school die de koster Vercruysse in de achterkamer van de pastorie hield. Hij leerde lezen in een boek over het leven van de heilige Amandus, en schrijven op een lei, en hij leerde het sneller dan de anderen. Vercruysse zei tegen Pharaïlde dat de jongen een hoofd had. Pharaïlde zei dat een hoofd geen brood was. Op zijn twaalfde ging Gentiel werken in de nieuwe spinnerij die Edmond Verhaeghe, de zoon van mijnheer, achter het kasteel had laten bouwen, met een stoommachine die de hele Leiestraat deed trillen en een schouw waarvan de rook op de bleek viel. De bleeksters klaagden over de rook. Mijnheer zei tegen zijn zoon dat de rook het wit verpestte. Edmond zei dat er straks geen wit meer nodig was. Ze zeiden het in het Frans, op het plein, en de hele markt verstond het, want Frans ruzie maken verstaat iedereen.
 
@@ -90,7 +106,7 @@ In de zomer van vierenzestig, toen hij vijftien was, ging Gentiel mee.
 
 De spinnerij lag die zomer drie maanden stil, omdat de stoomketel gebarsten was en de nieuwe uit Luik moest komen. De Leiestraat trilde niet meer. Het was stil.
 
-Seppe nam hem mee als binder, omdat hij nog geen pik kon hanteren. Gentiel liep de drie dagen achter zijn vader. Toen ze op de hoogvlakte kwamen, bleef hij staan aan de kant van de weg en keek naar het koren dat tot aan de lucht liep, en Ivo, die voor hem liep, bleef ook staan en wachtte, en zei niets, en Seppe riep hen allebei twee keer.
+Seppe nam hem mee als binder, omdat hij nog geen pik kon hanteren. Gentiel liep de drie dagen achter zijn vader. Toen ze op de hoogvlakte kwamen, bleef hij staan aan de kant van de weg en keek naar het koren dat tot aan de lucht liep, en Ivo, die voor hem liep, bleef ook staan en wachtte, en zei niets, en Seppe moest hen allebei roepen.
 
 Wat Gentiel in die zomer zag, heeft hij nooit in Blekegem verteld. Hij vertelde het in Roubaix, later, aan mensen die wij niet kenden, en het kwam via een brief van een neef van Seppe bij ons terug.
 
@@ -98,7 +114,7 @@ Hij zag zijn vader zingen.
 
 Niet op de eerste avond en niet op de tweede. Op de vijfde, bij het vuur achter de koestal, toen de Fransen begonnen en het refrein kwam, *auprès de ma blonde*, en Ivo zong het mee met een stem die hoger was dan Gentiel had gedacht, met zijn ogen dicht, en de Fransen zwegen om te luisteren, en hij zong door. Gentiel zat aan de andere kant van het vuur. Toen Ivo zijn ogen opendeed, keek hij recht naar zijn zoon, en zong het lied af, tot het einde, en ging daarna naar het stro.
 
-Madame Leroux, die ouder was geworden en nog dikker, kende hem nog. Ze noemde hem *le Belge qui chante*. Ze gaf Gentiel elke middag een tweede stuk brood, omdat hij groeide, zei ze, en ze leerde hem twintig woorden Frans, en hij kende er na zes weken tweehonderd. Ze lachte als hij ze verkeerd zei, met haar mond open, en dan zei ze ze nog eens.
+Madame Leroux, die ouder was geworden en nog dikker, kende hem nog. Ze noemde hem *le Belge qui chante*. Ze gaf Gentiel elke middag een tweede stuk brood, omdat hij groeide, zei ze, en ze leerde hem twintig woorden Frans, en hij kende er na zes weken tweehonderd. Ze lachte als hij ze verkeerd zei, en dan zei ze ze nog eens.
 
 Op het feest van *la gerbe* danste Gentiel met een meid van de boerderij die Amélie heette en die een kop kleiner was dan hij en hem bij zijn haar trok toen hij op haar voet trapte. Ivo zat op een ton bij de schuur en keek ernaar. Fons Debruyne zei later dat Ivo ervan schrok. Seppe zei dat hij lachte.
 

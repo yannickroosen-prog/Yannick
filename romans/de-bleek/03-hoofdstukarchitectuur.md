@@ -4,6 +4,19 @@
 
 ---
 
+## De architectuurregel (vanaf deel II)
+
+Voor elk hoofdstuk worden vier vragen beantwoord. Niet elk hoofdstuk hoeft ze even nadrukkelijk te beantwoorden, maar het causale verband moet zichtbaar zijn.
+
+1. Welke gebeurtenis uit een vorig hoofdstuk veroorzaakt de situatie waarmee dit hoofdstuk begint?
+2. Welke onomkeerbare beslissing neemt een personage?
+3. Wat verandert er concreet in de onderlinge verhoudingen?
+4. Welk gevolg maakt het volgende hoofdstuk noodzakelijk?
+
+En de belangrijkste regel: geen scènes die alleen mooi zijn. Scènes waarna het leven van de personages niet meer hetzelfde kan zijn.
+
+**Lengte:** een werkdoel van 75.000 tot 90.000 woorden, met een verwachting van ongeveer 75.000. Geen scènes toevoegen voor de woordtelling. De omvang wordt herberekend na deel II.
+
 ## De onderliggende beweging
 
 Onder de veelheid van levens loopt één emotionele beweging: **een dorp leert, te laat en via zijn minst geachte lid, dat de vlekken die het als schuld las, de sporen waren van een liefde die geen toestemming had.** Het boek gaat van zichtbaar zwijgen dat als schande gelezen wordt (deel I-III), over onzichtbaar zwijgen dat in de mensen zelf gaat zitten (deel IV), naar een zwijgen dat eindelijk zonder oordeel aangekeken wordt (deel V).
@@ -76,46 +89,55 @@ Wat elke generatie toevoegt:
 
 ---
 
-## DEEL II · DE GOUDEN RIVIER (1872-1918) · ±21.500 woorden
+## DEEL II · DE GOUDEN RIVIER (1871-1918) · ±20.000 woorden
+
+*Herzien na de integrale lezing van deel I. Kortere tijdspannes, één verlangen dat over de hoofdstukken heen botst (Coleta wil door haar moeder bemind worden; Pharaïlde wil weten wat er in Roubaix gebeurde, en laat de leugen van haar dochter toe), en het geheim van Lijnwaadzondag dat gevolgen heeft zonder onthuld te worden.*
 
 ### 5. Brieven uit Roubaix
-**1872-1889 · Coleta · 4.000 woorden · druk: ironie, tederheid**
-- **Functie:** families herschrijven hun geschiedenis, en we zien hoe.
-- **Vorm:** Gentiels brieven, letterlijk afgedrukt in hun mengtaal, telkens gevolgd door wat Coleta aan tafel voorleest. En daarna de antwoorden die Coleta in naam van haar moeder schrijft.
-- **Inhoud:** Coleta's huwelijk met Medard (1877). De ochtend na de huwelijksnacht keuren de moeders het laken, en het is wit. Het dorp vindt dat schandelijker dan grijs. Adhémar sterft in 1889.
-- **Waardeverschuiving:** Pharaïlde heeft een verre zoon → ze heeft een verzonnen zoon, en hij een verzonnen moeder.
-- **Slotwending:** Coleta schrijft in naam van haar moeder: *"ik denk aan u als ik het linnen op de bleek leg."* Pharaïlde heeft het nooit gezegd. Gentiel zal het tot zijn dood bewaren.
+**Winter 1871 tot 1873 · Coleta · ±3.500 woorden**
+- **Oorzaak:** Ivo's dood en zijn omweg naar Roubaix (h4). Pharaïlde kan niet lezen. Coleta wel.
+- **Inhoud:** Gentiels eerste brief, in een mengtaal van Frans en West-Vlaams. Ivo kwam in zijn zondagse hemd, zat een uur in Gentiels kamer in een courée, dronk niets en zei: "Blijf hier. Ge hebt hier werk. Kom niet terug voor mij." Hij ging niet om Gentiel te halen, zoals het dorp dacht (h4): hij ging zeggen dat Gentiel moest wegblijven. Aan tafel leest Coleta iets anders voor: dat vader zei dat hij trots was. Pharaïlde hoort het, kent Ivo, en vraagt niets. Daarna dicteert Pharaïlde een antwoord van drie zinnen, en Coleta schrijft er tien. Pharaïlde ziet de pen langer bewegen dan haar woorden. Medard Vanneste, de sluiswachter, brengt de brieven mee die de Franse schippers aan de sluis afgeven.
+- **Onomkeerbare beslissing:** Coleta liegt, eerst hardop en dan op papier. Pharaïlde laat het toe.
+- **Wat verandert:** moeder en dochter zijn verbonden door een leugen die geen van beiden benoemt. Gentiel krijgt een moeder die niet bestaat.
+- **Wat het volgende hoofdstuk noodzakelijk maakt:** Coleta heeft de liefde leren verzinnen en kiest de man die alles zegt.
+- **Slot:** een geschreven zin: *"ik denk aan u als ik het linnen op de bleek leg."*
 
 ### 6. Het sluiswachtershuis
-**1879-1904 · Medard · 4.000 woorden · druk: komedie, overvloed, dan stilte**
-- **Functie:** de tegenstem. Het boek weigert zwijgen eenvoudig te veroordelen.
-- **Inhoud:** de Leie als Gouden Rivier: rootkassen, stank van geld, vlasboeren die rijk worden. Medard aan de sluis, die met iedere schipper praat en iedereen zegt wat hij denkt. Cyriel (1879) en Rosalie (1884) worden in het kinderlaken gelegd. Medards filosofie: *"Ge moet het zeggen voor het in de stof kruipt."*
-- **Waardeverschuiving:** een huis vol lawaai → stilte.
-- **Slotwending:** 1904, Medard sterft in zijn stoel. Coleta legt hem af. Het laken blijft volkomen wit. Voor het eerst in het boek huilt iemand, en het is om iets dat er niet is.
+**1877-1885 · Coleta, Medard, Pharaïlde · ±4.000 woorden**
+- **Oorzaak:** de brieven hebben Coleta en Medard samengebracht.
+- **Inhoud:** het huwelijk (1877) en het witte laken, dat het dorp schandelijker vindt dan grijs. Medard zegt alles, ook tegen Pharaïlde. Hij is de enige die haar recht in het gezicht zegt dat ze hard is, en dat hij haar graag ziet. De Gouden Rivier: rootkassen, de stank van geld. Cyriel wordt geboren (1879). Mietje Lagae sterft en Coleta wordt de afleggester van het dorp. Pharaïlde kan niet meer bleken. **Zij beslist** in 1880 haar huis in de Leiestraat op te geven en bij de man die alles zegt in te trekken, met de kist en het laken. Rosalie wordt geboren (1884) en lijkt op Medard: luid, lachend. Coleta is hard voor haar. In 1885 legt Coleta veldwachter Ghekiere af. Op zijn sterfbed geeft hij haar zijn oude pet, die van zevenenveertig, "voor uw moeder", en zegt: *"Ik heb hem tot aan de paal gebracht. Niet verder."* Coleta denkt dat hij Gentiel bedoelt, die hij in 1858 van de grenspaal naar huis stuurde (h3). De lezer ook. Pharaïlde legt de pet in de kist, bij het laken.
+- **Onomkeerbare beslissing:** Pharaïlde verlaat haar huis. Coleta wordt afleggester. Pharaïlde bewaart de pet.
+- **Wat verandert:** drie generaties onder één dak. Pharaïlde en Medard worden bondgenoten. Coleta staat er alleen tussen.
+- **Wat het volgende hoofdstuk noodzakelijk maakt:** een huis dat leeft van Medards stem.
+- **Slot:** gesproken, door Medard.
 
 ### 7. Het afleggen
-**1890-1911 · Coleta · 4.500 woorden · druk: inventaris, sterfte**
-- **Functie:** het binnenste van een dorp, gezien door de enige die het allemaal zag en niets zei.
-- **Vorm:** een reeks van doden, elk een korte paragraaf met naam, jaar en wat Coleta in hun linnen zag. De pastoor met grijs in zijn albe. De notaris. Het kind van de herbergier. Een litanie.
-- **Inhoud:** Pharaïlde, oud en blind, bleekt nog op geur. Ze sterft in 1911. Haar laatste woorden: *"Hij sliep goed."* Het gezin denkt dat ze Ivo bedoelt, of dat ze in de war is. Gentiel komt over uit Roubaix met Franstalige kleinkinderen. Broer en zus zitten twee uur in de keuken en vermijden het enige onderwerp.
-- **Waardeverschuiving:** Coleta als bewaarster van ieders geheim → bewaarster van het geheim van haar moeder, dat ze niet kent.
-- **Slotwending:** Coleta legt het kinderlaken in de kist, niet om haar moeder heen. Ze weet niet waarom.
+**1904-1911 · Coleta · ±4.500 woorden**
+- **Oorzaak:** het huis van de man die alles zegt.
+- **Inhoud:** Medard sterft (1904) en zijn lijkwade blijft wit. Coleta breekt. Gentiel komt voor de begrafenis, met zijn kleindochter van een jaar. Door Coleta's brieven kent hij de gewoonte van het kinderlaken, zoals zij die teder heeft beschreven, en hij vraagt het laken voor het kind. **Pharaïlde, tachtig, weigert.** Gentiel vertrekt in woede, en zijn zus kan hem niets uitleggen zonder haar leugen te bekennen. Rosalie, twintig, kiest de kant van haar oom. Daarna een korte litanie van doden die Coleta aflegt. Pharaïlde sterft in 1911. Gentiel komt niet.
+- **Onomkeerbare beslissing:** de weigering van het laken. De Franse tak krijgt nooit het laken, alleen de brieven.
+- **Wat verandert:** broer en zus breken met elkaar. Rosalie richt haar blik op Roubaix.
+- **Wat het volgende hoofdstuk noodzakelijk maakt:** Coleta staat er alleen voor, met een zoon die een thuis zoekt.
+- **Slot:** Pharaïldes laatste woorden. *"Hij sliep goed."*
 
 ### 8. De meester
-**1898-1914 · Cyriel · 4.000 woorden · druk: idealisme, verlangen**
-- **Functie:** de taalkwestie als persoonlijk drama.
-- **Inhoud:** Cyriel wordt onderwijzer. Hij leert kinderen "ik ben" in plaats van "ik zijn", met de lat. Zijn moeder spreekt zoals de kinderen die hij straft. Een lezing over Gezelle in de parochiezaal: Marguerite Verhaeghe zit op de eerste rij. Hij trouwt in 1910 met Leontine, de naaister. Agnes wordt geboren in 1912 en in het kinderlaken gelegd.
-- **Waardeverschuiving:** de jongen van de sluis → de man die de taal van het dorp wil verheffen en haar daarvoor eerst moet uitroeien.
-- **Slotwending:** augustus 1914. De Duitsers komen over de steenweg. Cyriel corrigeert die avond dictees.
+**1910-1914 · Cyriel · ±3.800 woorden**
+- **Oorzaak:** de dood van Medard. Cyriel groeit op met een moeder die de doden wast en tegen de levenden zwijgt, en zoekt een thuis in de Vlaamse beweging.
+- **Inhoud:** de lat voor "ik zijn". Marguerite Verhaeghe op de eerste rij bij de lezing over Gezelle. Ze stuurt hem een bundel van Gezelle met een kaartje in het Frans, en hij stuurt die terug. Hij trouwt met Leontine (1910). Agnes wordt geboren (1912) en Coleta legt haar in het kinderlaken. Rosalie, ongehuwd, werkt in de spinnerij en spreekt Frans met de nichten uit Roubaix. Ruzies tussen broer en zus over taal.
+- **Onomkeerbare beslissing:** hij stuurt Marguerites boek terug en trouwt met Leontine.
+- **Wat het volgende hoofdstuk noodzakelijk maakt:** augustus 1914.
 
 ### 9. Etappe
-**1914-1918 · Rosalie en Coleta · 5.000 woorden · druk: dreiging, liefde, vernedering**
-- **Functie:** de eerste oorlog en de eerste schande die het dorp zelf uitdeelt.
-- **Inhoud:** bezetting. Vlas en linnen worden opgeëist. Een Saksische landstormman, wever uit Plauen, wordt ingekwartierd in het sluiswachtershuis. Rosalie en hij hebben geen gemeenschappelijke taal, maar wel getouwen, garens, de geur van vlas. Coleta ziet het en zwijgt. Oktober 1918: gevechten aan de Leie, de bevrijding. Rosalie wordt op het dorpsplein kaalgeschoren.
-- **Waardeverschuiving:** het dorp als slachtoffer → het dorp als dader.
-- **Slotwending:** de avond voor het scheren zit Coleta op Rosalies bed en zegt niets. Rosalie vertrekt naar haar oom Gentiel in Roubaix. Het grijs in haar laken is van haar moeder.
-
----
+**1917-1918 · Rosalie, Coleta, Cyriel · ±5.000 woorden · KEERPUNT**
+- **Oorzaak:** de bezetting. Er wordt een Saksische landstormman, wever uit Plauen, ingekwartierd in het sluiswachtershuis, waar Coleta en Rosalie wonen.
+- **Inhoud:** Rosalie en de wever: geen gemeenschappelijke taal, wel getouwen, garen en de geur van vlas. Het dorp weet het. Coleta weet het en zwijgt. Oktober 1918: de bevrijding aan de Leie. De avond voor het scheren zit Coleta op Rosalies bed en zegt niets. Op het plein wordt Rosalie kaalgeschoren. Cyriel staat in de menigte, tussen mannen die bij hem op school hebben gezeten, en doet niets.
+- **Het "wij" valt uiteen.** Voor het eerst kan de verteller niet zeggen wie "wij" waren. Wie stond op het plein en wie achter de gordijnen? Een paar bladzijden lang spreekt de stem in namen, families en straten. Het dorp splitst: In de Zwaan tegenover De Gouden Rivier. Het "wij" komt in deel III terug, maar nooit meer heel.
+- **Onomkeerbare beslissingen:** Rosalie vertrekt naar Roubaix, naar de familie van Gentiel, en komt nooit terug. Coleta spreekt met Cyriel nooit meer dan het nodige.
+- **Wat verandert:** moeder en zoon zijn gebroken. Het dorp is gebroken.
+- **Wat het volgende deel noodzakelijk maakt:**
+  - Cyriel zoekt zijn verlossing nog vuriger in de Vlaamse zaak. In 1918 strafte hij zijn zus voor haar Duitse liefde, en in 1940 zal hij met de Duitsers samenwerken.
+  - Rosalie wordt in Roubaix de schakel met de Franse tak (h21).
+- **Slot:** het grijs in Rosalies laken is van haar moeder.
 
 ## DEEL III · HET ROOTVERBOD (1919-1950) · ±17.500 woorden
 

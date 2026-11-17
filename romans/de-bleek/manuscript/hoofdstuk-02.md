@@ -2,7 +2,7 @@
 
 In het voorjaar van achtenveertig kwamen er Belgen uit Frankrijk om bij ons de republiek uit te roepen. Ze waren met een paar honderd en ze hadden geweren uit Rijsel, en ze kwamen tot aan Risquons-Tout, op een uur gaans van de Krommen, waar het leger op hen wachtte. Wij hoorden het schieten op een woensdagmorgen tussen het luiden van de angelus door. Het duurde niet lang. Daarna kwamen er soldaten door de Leiestraat met een kar vol gevangenen die eruitzagen als onze eigen mannen, alleen vuiler, en een van hen vroeg in ons dialect om water.
 
-Mijnheer liet die ochtend al het linnen van de bleek halen. Het lag er nog maar twee weken en het was nog grauw, en de bleeksters droegen het in hun armen naar de schuur van het kasteel, baan na baan, terwijl in de verte geschoten werd. Mietje Lagae zei dat de republiek het linnen niet zou opeten. Mijnheer zei niets. Hij stond aan de poort van de schuur en telde de banen, en toen alles binnen was, telde hij ze nog eens.
+Mijnheer liet die ochtend al het linnen van de bleek halen. Het was het eerste linnen van het jaar, vroeg uitgelegd omdat maart droog was, en het was nog grauw, en de bleeksters droegen het in hun armen naar de schuur van het kasteel, baan na baan, terwijl in de verte geschoten werd. Mietje Lagae zei dat de republiek het linnen niet zou opeten. Mijnheer zei niets. Hij stond aan de poort van de schuur en telde de banen, en toen alles binnen was, telde hij ze nog eens.
 
 Dat was het enige wat wij van de republiek gezien hebben. Een week later lag het linnen terug op de bleek en was het voorjaar zoals elk ander.
 
@@ -18,11 +18,11 @@ Mijnheer was niet geliefd. Mevrouw wel.
 
 ---
 
-Ze heette Eugénie, ze kwam uit Rijsel, uit een huis waar men zijde verkocht, en ze was een halve kop groter dan mijnheer, die zelf al lang was. Ze lachte met haar mond open. Ze had in Blekegem binnen het jaar ons dialect geleerd, niet goed, met de woorden op de verkeerde plaats en een Franse r, en ze sprak het met iedereen behalve met mijnheer. Met de meid, met de koetsier, met de bleeksters als ze over de dijk wandelde met een parasol die ze nooit openklapte, met de kinderen van de Leiestraat, aan wie ze vroeg hoe ze heetten en die ze daarna bij hun naam riep, ook als ze haar niet hoorden.
+Ze heette Eugénie, ze kwam uit Rijsel, uit een huis waar men zijde verkocht, en ze was een halve kop groter dan mijnheer, die zelf al lang was. Ze was in vierenveertig met hem getrouwd en had hem een jaar later een zoon gegeven, Edmond, die in achtenveertig met een houten paard aan een touw door de gangen van het kasteel liep. Ze lachte met haar mond open. Ze had in Blekegem binnen het jaar ons dialect geleerd, niet goed, met de woorden op de verkeerde plaats en een Franse r, en ze sprak het met iedereen behalve met mijnheer. Met de meid, met de koetsier, met de bleeksters als ze over de dijk wandelde met een parasol die ze nooit openklapte, met de kinderen van de Leiestraat, aan wie ze vroeg hoe ze heetten en die ze daarna bij hun naam riep, ook als ze haar niet hoorden.
 
 Mijnheer schaamde zich daarvoor. Dat zagen we aan zijn nek. Wanneer mevrouw na de mis op het kerkplein met Mietje Lagae stond te praten over de prijs van eieren, stond mijnheer twee passen achter haar met zijn hoed in zijn hand, en zijn nek werd rood boven zijn witte boord, en hij keek naar de toren alsof hij er een fout in had gevonden.
 
-Maar we zagen ook hoe hij naar haar keek in de kerk. Mevrouw zat links van hem op de eerste rij, en tijdens de preek, wanneer wij naar de pastoor moesten kijken, keken wij naar mijnheer, en mijnheer keek naar mevrouw. Niet lang. Hij draaide zijn hoofd een klein beetje, zoals je naar een klok kijkt om te zien of hij nog loopt, en draaide het terug. Hij deed dat vier, vijf keer per preek, elke zondag, tien jaar lang. Zulma zei dat hij in huis hetzelfde deed. Hij kwam binnen in de kamer waar mevrouw zat te lezen, keek, en ging weer weg zonder iets te zeggen.
+Maar we zagen ook hoe hij naar haar keek in de kerk. Mevrouw zat links van hem op de eerste rij, en tijdens de preek, wanneer wij naar de pastoor moesten kijken, keken wij naar mijnheer, en mijnheer keek naar mevrouw. Niet lang. Hij draaide zijn hoofd een klein beetje, zoals je naar een klok kijkt om te zien of hij nog loopt, en draaide het terug. Hij deed dat vier, vijf keer per preek, elke zondag, veertien jaar lang. Zulma zei dat hij in huis hetzelfde deed. Hij kwam binnen in de kamer waar mevrouw zat te lezen, keek, en ging weer weg zonder iets te zeggen.
 
 Wat hij tegen haar zei, als hij iets zei, was in het Frans, en het was weinig. Zulma verstond geen Frans. Ze zei dat het klonk als iemand die een rekening opleest.
 
@@ -38,9 +38,9 @@ Wij zagen de vuren vanuit de Leiestraat, over de weide heen. De kinderen dachten
 
 De grote mensen wisten waarom mijnheer zijn lakens verbrandde. Hij was bang voor zijn zwijg. Hij verbrandde het voor het iemand kon zien, en hij keek er zelf niet naar. Dat laatste wisten we van Pharaïlde.
 
-Pharaïlde waste sinds de winter van achtenveertig op het kasteel, van Allerheiligen tot de bleek weer openging, drie dagen per week, in het washuis achter de keuken. Het was haar die de lakens in de week voor Lichtmis van de bedden haalde en in de manden legde. Ze vouwde ze niet open. Ze legde ze zoals ze lagen, in een prop, met de onderste kant naar boven. Het was haar die ze tot aan de oever droeg, samen met de knecht, en het was haar die de koetsier de lucifers aangaf.
+Pharaïlde waste sinds de winter van achtenveertig op het kasteel, van Allerheiligen tot de bleek weer openging, drie dagen per week, in het washuis achter de keuken. Het was haar die de lakens in de week voor Lichtmis van de bedden haalde en in de manden legde. Ze vouwde ze niet open. Ze schudde ze één keer uit boven de mand, zoals je kruimels uit een tafellaken schudt, en liet ze erin vallen zoals ze vielen. Het was haar die ze tot aan de oever droeg, samen met de knecht, en het was haar die de koetsier de lucifers aangaf.
 
-Wat ze in die lakens gezien heeft, heeft ze nooit gezegd. Ze heeft het allemaal gezien. Ze zag het grijs van mijnheer elk jaar, in een prop, op de bodem van een mand. Ze zag dat het meer werd. En ze zag mijnheer, die bij de eerste vlam uit het raam van zijn kamer op de bovenverdieping keek en het gordijn dichtdeed voor de stapel goed brandde.
+Wat ze in die lakens gezien heeft, heeft ze nooit gezegd. Ze heeft het allemaal gezien. Ze zag het grijs van mijnheer elk jaar, op de bodem van een mand. Ze zag dat het meer werd. En ze zag mijnheer, die bij de eerste vlam uit het raam van zijn kamer op de bovenverdieping keek en het gordijn dichtdeed voor de stapel goed brandde.
 
 ---
 
@@ -90,7 +90,7 @@ Ze ging niet meer naar de mis. Mijnheer ging alleen. Hij zat op de eerste rij en
 
 Vanaf Allerheiligen liet hij haar bed elke dag verschonen. Elke ochtend nieuwe lakens, uit de kast, nog stijf van de bleek, en elke avond werden de lakens van die dag naar de oever gedragen en verbrand. Het was Pharaïlde die ze van het bed haalde. Ze deed het 's middags, wanneer mevrouw in de stoel bij het raam zat, met een deken over haar knieën, en mevrouw keek naar haar en sprak haar aan in haar dialect met de Franse r.
 
-Wat ze tegen elkaar zeiden, weten we van Zulma, die in de gang stond. Mevrouw vroeg hoe het met de kinderen was, en Pharaïlde zei dat het goed ging. Mevrouw vroeg of de bleek al dicht was, en Pharaïlde zei dat het ging vriezen. Mevrouw vroeg of ze het linnen niet jammer vond, elke avond, al dat goede linnen, en Pharaïlde zei dat het van mijnheer was.
+Wat ze tegen elkaar zeiden, weten we van Zulma, die in de gang stond. Mevrouw vroeg hoe het met de kinderen was, en Pharaïlde zei dat het goed ging. Mevrouw vroeg of de bleek al dicht was, en Pharaïlde zei ja. Mevrouw vroeg of ze het linnen niet jammer vond, elke avond, al dat goede linnen, en Pharaïlde zei dat het van mijnheer was.
 
 Die winter brandde er elke nacht een vuur aan de oever. Niet groot, één laken en een sloop en soms een hemd, maar elke nacht, van Allerheiligen tot in maart, en wij zagen het vanuit de Leiestraat, een licht dat laag boven het water hing en tegen middernacht uitging. De kinderen dachten niet meer aan dwaallichten. Ze wisten wat het was. Ze vroegen of mevrouw doodging, en hun moeders zeiden dat ze moesten slapen.
 
@@ -114,10 +114,10 @@ Het grijs lag rond de plaats waar haar hoofd had gelegen. Niet op het kussen. Op
 
 Mietje keek ernaar en daarna naar Pharaïlde. Pharaïlde keek naar de deur. Mijnheer stond er.
 
-Hij had het grijs gezien. Dat zei Mietje, die zijn gezicht zag. Hij had het gezien en hij bleef staan, en hij keek ernaar zolang als je naar een rekening kijkt om te zien of ze klopt, en daarna keek hij naar het raam. Het was de eerste keer in tien jaar dat hij naar zijn eigen linnen keek.
+Hij had het grijs gezien. Dat zei Mietje, die zijn gezicht zag. Hij had het gezien en hij bleef staan, en hij keek ernaar zolang als je naar een rekening kijkt om te zien of ze klopt, en daarna keek hij naar het raam. Het was de eerste keer in tien jaar dat hij naar zijn eigen bedlinnen keek.
 
 Hij zei dat mevrouw in dat laken begraven zou worden. Hij zei het in ons dialect. Mietje zei dat het niet kon, dat de doden in een nieuwe lijkwade gaan, dat het altijd zo geweest was, en mijnheer zei dat mevrouw in dat laken begraven zou worden, en Mietje zweeg.
 
 Ze wikkelden haar erin. Het was Pharaïlde die het grijs zo legde dat het binnen kwam, tegen het gezicht van mevrouw, en niet buiten, waar iemand het zou kunnen zien.
 
-In Blekegem stond een dode twee dagen open in de voorkamer, zodat het dorp kon komen kijken, een kruisje slaan, en zeggen hoe goed ze erbij lag. Het dorp kwam niet kijken naar mevrouw. Op maandagmorgen, nog voor de eersten van de Leiestraat aan de poort stonden, liet mijnheer de schrijnwerker komen, en de schrijnwerker schroefde de kist dicht met acht schroeven van koper, en mijnheer stond erbij en telde ze.
+In Blekegem stond een dode twee dagen open in de voorkamer, zodat het dorp kon komen kijken, een kruisje slaan, en zeggen hoe goed ze erbij lag. Het dorp kwam niet kijken naar mevrouw. Op maandagmorgen, nog voor de eersten van de Leiestraat aan de poort stonden, liet mijnheer de schrijnwerker komen, en de schrijnwerker schroefde de kist dicht met acht schroeven van koper, en mijnheer stond erbij, met Edmond naast zich, die dertien was, en telde ze.
