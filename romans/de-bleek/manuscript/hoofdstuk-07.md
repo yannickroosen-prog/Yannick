@@ -110,13 +110,13 @@ Hij was vijfenvijftig, grijs, breed geworden in Roubaix, met een horlogeketting 
 
 Hij droeg een kind op zijn arm. Een meisje van een jaar, met een wit mutsje, dat sliep.
 
-Het heette Jeanne. Het was het kind van zijn dochter Hortense, die in het voorjaar van drie was gestorven in het kraambed, en van een vader die niet meer kwam. Gentiels vrouw was het jaar daarvoor gestorven. Hij voedde het kind op met een buurvrouw, in de courée van de rue des Longues-Haies, en hij had het meegenomen naar Blekegem omdat hij het niet bij de buurvrouw wilde laten en omdat hij ergens anders voor kwam.
+Het heette Jeanne. Het was het kind van zijn dochter Hortense, naar haar moeder genoemd, die in het voorjaar van drie was gestorven in het kraambed, en van een vader die niet meer kwam. Gentiels vrouw was het jaar daarvoor gestorven. Hij voedde het kind op met een buurvrouw, in de courée van de rue des Longues-Haies, en hij had het meegenomen naar Blekegem omdat hij het niet bij de buurvrouw wilde laten en omdat hij ergens anders voor kwam.
 
 Dat zei hij aan tafel, die avond, toen Rosalie het kind in haar armen had genomen en het in het Frans liedjes zong die ze niet kende, en Cyriel aan het eind van de tafel zat en zijn oom niet aankeek.
 
 Hij kwam voor het laken.
 
-Hij zei het tegen zijn moeder. Hij zei dat ze het hem geschreven had, in drieënzeventig, dat het laken wachtte. Dat ze het hem nog eens geschreven had, in achtenzeventig, toen zijn tweede kind kwam, en dat ze toen had geschreven dat de reis te lang was voor een laken, maar dat het er was en dat het wachtte. Hij had het nooit gevraagd voor zijn eigen kinderen. Ze hadden het goed gehad zonder. Maar dit kind had geen moeder meer. Dit kind had iets nodig van een moeder.
+Hij zei het tegen zijn moeder. Hij zei dat ze het hem geschreven had, in drieënzeventig, dat het laken wachtte. Dat ze het hem nog eens geschreven had, in achtenzeventig, toen zijn tweede kind kwam, en dat ze toen had geschreven dat de reis te lang was voor een laken, maar dat het er was en dat het wachtte. Hij had het nooit komen halen voor zijn eigen kinderen. Ze hadden het goed gehad zonder. Maar dit kind had geen moeder meer. Dit kind had iets nodig van een moeder.
 
 Hij haalde de brieven uit zijn binnenzak. Hij had ze bij zich, in een leren map, alle brieven van dertig jaar. Hij legde ze op tafel, tussen de borden.
 

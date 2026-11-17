@@ -34,7 +34,7 @@ Coleta zei dat het van hier was. Van de Leie. Hij verstond Leie. Hij knikte, lan
 
 ---
 
-Wat er tussen Rosalie en Kurt Seidel was, wisten we allemaal, en we wisten het van het begin. Hoe het begon, weten we van de fluiter, die in zestien gemobiliseerd was en in zeventien met één arm terugkwam en weer aan de overkant van de sluis woonde, en die het zag.
+Wat er tussen Rosalie en Kurt Seidel was, wisten we allemaal, en we wisten het van het begin. Hoe het begon, weten we van de fluiter, die in zestien als dwangarbeider achter het front van de Somme was weggevoerd en in zeventien met één arm terugkwam en weer aan de overkant van de sluis woonde, en die het zag.
 
 Het begon met een papier. Rosalie wilde een *Passierschein* naar Roubaix. Roubaix lag in hetzelfde bezette land als wij, aan dezelfde kant van het front, maar om er te komen had je een papier nodig van de Kommandantur in Kortrijk, en dat papier kreeg je niet. Ze had het drie keer aangevraagd. In de zomer van zestien vroeg ze het aan Kurt Seidel, in de keuken, in het Frans, langzaam, met haar handen erbij.
 
@@ -52,7 +52,7 @@ Ze legde het papier in de koffer onder haar bed, op de zondagse jurk, en de dert
 
 Cyriel kwam haar in juni opzoeken aan de sluis. Het was de eerste keer in drie jaar dat hij er kwam zonder dat er iets nodig was.
 
-Hij was achtendertig en hij was moe. Hij gaf nog altijd les, aan de kinderen die nog naar school kwamen, en de avondschool had hij gestopt, omdat er geen petroleum meer was. In het najaar van zestien hadden de Duitsers in Gent een universiteit geopend waar alles in het Nederlands werd onderwezen, wat de Vlaamse kring dertig jaar gevraagd had, en ze hadden Cyriel een plaats aangeboden, als assistent bij de leraren in opleiding. Hij had geweigerd. Hij had gezegd dat hij geen Nederlandse universiteit wilde uit Duitse handen. Hij had het gezegd in de Vlaamse kring, tegen twee mannen die het wel wilden, en de ene was gegaan en de andere niet, en er werd in Blekegem over gesproken. Wij wisten niet goed wat we ervan moesten denken. Een meester die nee zegt tegen een universiteit is fier, of verstandig, of iets anders. Wij wisten wel dat hij gevraagd was.
+Hij was zevenendertig en hij was moe. Hij gaf nog altijd les, aan de kinderen die nog naar school kwamen, en de avondschool had hij gestopt, omdat er geen petroleum meer was. In het najaar van zestien hadden de Duitsers in Gent een universiteit geopend waar alles in het Nederlands werd onderwezen, wat de Vlaamse kring dertig jaar gevraagd had, en ze hadden Cyriel een plaats aangeboden, als assistent bij de leraren in opleiding. Hij had geweigerd. Hij had gezegd dat hij geen Nederlandse universiteit wilde uit Duitse handen. Hij had het gezegd in de Vlaamse kring, tegen twee mannen die het wel wilden, en de ene was gegaan en de andere niet, en er werd in Blekegem over gesproken. Wij wisten niet goed wat we ervan moesten denken. Een meester die nee zegt tegen een universiteit is fier, of verstandig, of iets anders. Wij wisten wel dat hij gevraagd was.
 
 Hij stond in de keuken met zijn hoed in zijn hand. Kurt Seidel was op dienst. Coleta was boven.
 
@@ -112,9 +112,9 @@ Ze kwamen de zeventiende, om tien uur 's morgens, met twaalf.
 
 Wij kwamen haar halen. Wij kwamen over het jaagpad met de vlaggen nog in onze handen, en we klopten niet aan. Wij haalden haar uit de keuken, waar ze aan tafel zat in haar werkkleren, en ze verzette zich niet, wat ons kwaad maakte. Wij namen haar mee langs het jaagpad naar het plein, en er liepen er steeds meer mee, en tegen dat we bij het plein waren, waren we met honderd, met tweehonderd, met kinderen op de schouders van hun vaders. Wij zetten haar op een stoel uit In de Zwaan, midden op het plein, voor het gemeentehuis waar mijnheer van het kasteel ooit soep had laten uitdelen, en we zetten de stoel zo dat iedereen het kon zien.
 
-Er waren er nog twee. Een meisje uit de Molenhoek dat met een Duitse kok was geweest, en een weduwe van de Leiestraat van wie we zeiden dat ze aan de Duitsers boter had verkocht. Rosalie was de derde, en de oudste, en de enige die niet huilde.
+Er waren er nog twee. Een meisje uit de Molenhoek dat met een Duitse kok was geweest, en een weduwe van de Leiestraat van wie we zeiden dat ze aan de Duitsers boter had verkocht. Rosalie was de derde, en de enige die niet huilde.
 
-Wij hadden een schaar. Fernand Ameye had ze, de zoon van de man die in zeventig de pik van Ivo Callewaert had gekocht. Fernand had bij de meester in de klas gezeten, van zijn zesde tot zijn twaalfde. Hij had de lat gekregen voor *ik zijn*. Hij had in de avondschool zijn moeder naar de meester gebracht, toen ze wilde leren schrijven.
+Wij hadden een schaar. Fernand Ameye had ze, de zoon van de man die in zeventig de pik van Ivo Callewaert had gekocht en daarna van Wevelgem naar de Molenhoek was verhuisd. Fernand had bij de meester in de klas gezeten, van zijn zesde tot zijn twaalfde. Hij had de lat gekregen voor *ik zijn*. Hij had in de avondschool zijn moeder naar de meester gebracht, toen ze wilde leren schrijven.
 
 Cyriel stond vooraan. Hij was gekomen omdat hij gehoord had dat ze zijn zuster gingen halen, en hij was gekomen in zijn zwarte jas, en hij stond op drie passen van de stoel, en iedereen zag hem.
 

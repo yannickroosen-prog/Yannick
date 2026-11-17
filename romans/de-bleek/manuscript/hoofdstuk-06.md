@@ -78,9 +78,9 @@ Hij droeg de kist zelf naar binnen. Ze kreeg de kamer aan de kant van de Leie, w
 
 Medard hield zich aan zijn woord. Hij zei het elke dag. Hij zei dat ze te veel zout in de soep deed, dat ze de kachel te hoog stookte, dat ze tegen de kleine sprak alsof hij een schipper was die zijn tol niet betaalde. Hij zei ook, op een avond, toen Coleta op de spinnerij moest invallen en ze met z'n tweeën aan tafel zaten, dat hij haar graag zag. Hij zei het zoals hij zei dat het ging regenen. Pharaïlde zei dat hij zijn soep moest opeten.
 
-Coleta wist het van Cyriel, die toen vier was en erbij zat, en die het de volgende ochtend herhaalde, omdat hij alles herhaalde wat Medard zei.
+Coleta wist het van Medard zelf, die het haar die nacht in bed vertelde, omdat hij alles zei.
 
-Ze werden bondgenoten. Dat zag iedereen. Op zondag, als Coleta aan tafel brieven schreef, zaten Medard en Pharaïlde samen op de bank bij de sluis, hij pratend, zij niet, en keken naar de schepen. Wanneer Coleta 's avonds iets zei over Rosalie, of over het eten, of over de brieven, keken ze elkaar aan, haar moeder en haar man, en Coleta zag het.
+Ze werden bondgenoten. Dat zag iedereen. Op zondag, als Coleta aan tafel brieven schreef, zaten Medard en Pharaïlde samen op de bank bij de sluis, hij pratend, zij niet, en keken naar de schepen. Wanneer Coleta 's avonds iets zei over de kinderen, of over het eten, of over de brieven, keken ze elkaar aan, haar moeder en haar man, en Coleta zag het.
 
 Ze zei er niets van. Ze schreef.
 

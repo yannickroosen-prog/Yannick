@@ -14,7 +14,7 @@ Cyriel keek ernaar. Hij nam de griffel niet over. Hij wees naar het tweede woord
 
 “Bij ons zeggen ze dat, ja. Op papier is het ik ben.”
 
-Romanie veegde het uit met de mouw van haar sjaal en schreef het opnieuw. Daarna keek ze er lang naar, haar eigen naam in haar eigen hand, en ze vroeg of ze het mocht meenemen, het lei, naar huis. Dat mocht niet, het lei was van de school. Cyriel schreef het voor haar over op een stuk papier, in zijn schoonste schrift, met haar naam, en gaf het haar. Ze stak het in haar schortzak, waar ze dertig jaar eerder de brieven van Achiel had bewaard.
+Romanie veegde het uit met de mouw van haar sjaal en schreef het opnieuw. Daarna keek ze er lang naar, haar eigen naam in haar eigen hand, en ze vroeg of ze het mocht meenemen, het lei, naar huis. Dat mocht niet, het lei was van de school. Cyriel schreef het voor haar over op een stuk papier, in zijn schoonste schrift, met haar naam, en gaf het haar. Ze stak het in haar schortzak, waar ze vijfentwintig jaar eerder de brieven van Achiel had bewaard.
 
 ---
 
@@ -64,9 +64,9 @@ In de Leiestraat zeiden we dat de meester een Verhaeghe niets verschuldigd wilde
 
 ---
 
-Leontine was vierentwintig. Ze was klein en had zwart haar dat ze zo strak opstak dat haar ogen er schuin van stonden, en ze naaide voor het kasteel: de jurken van Mademoiselle, de hemden van Robert, de zoom van de gordijnen. Ze was naar de avondschool gekomen omdat ze haar eigen rekeningen wilde kunnen schrijven. Ze leerde snel. Ze schreef na een winter beter dan Cyriel had verwacht, met kleine, rechte letters, zoals steken.
+Leontine was vierentwintig. Ze was klein en had zwart haar dat ze zo strak opstak dat haar ogen er schuin van stonden, en ze naaide voor het kasteel: de jurken van Mademoiselle, de hemden van haar broer Robert, de zoom van de gordijnen. Ze was naar de avondschool gekomen omdat ze haar eigen rekeningen wilde kunnen schrijven. Ze leerde snel. Ze schreef na een winter beter dan Cyriel had verwacht, met kleine, rechte letters, zoals steken.
 
-Hij trouwde met haar in de zomer van tien. Het feest was in In de Zwaan, niet in De Gouden Rivier, omdat Cyriel zei dat De Gouden Rivier te veel aan zijn vader deed denken. Hij hield geen toespraak. Hij was de eerste man in drie geslachten die op zijn eigen bruiloft geen toespraak hield en geen grap maakte, en de gasten vonden dat deftig.
+Hij trouwde met haar in de zomer van tien. Het feest was in In de Zwaan, niet in De Gouden Rivier, omdat Cyriel zei dat De Gouden Rivier te veel aan zijn vader deed denken. Hij hield geen toespraak. Hij hield geen toespraak en maakte geen grap, en de gasten, die zich Medard herinnerden, vonden dat deftig.
 
 De ochtend na de bruiloft kwam niemand het laken zien. De gewoonte was voorbij, zei Cyriel, en Leontine zei dat het goed was, en Coleta zei niets. Pharaïlde vroeg aan Coleta of het wit was. Coleta zei dat ze het niet wist. Pharaïlde zei dat ze het kon gaan vragen. Coleta ging niet.
 
@@ -106,7 +106,7 @@ Gentiel kwam niet.
 
 ---
 
-Rosalie ging niet naar Roubaix. Niet na de begrafenis, zoals ze gezegd had, en niet de zomer daarna. Ze zei dat haar moeder niet alleen kon blijven in het sluiswachtershuis, en haar moeder zei dat ze wel alleen kon blijven, en Rosalie bleef. Ze werkte op de spinnerij en danste op zaterdag in De Gouden Rivier en schreef naar haar nichten in de rue des Longues-Haies, in het Frans, brieven die ze zelf schreef en zelf voorlas, aan niemand.
+Rosalie ging niet naar Roubaix. Niet na de begrafenis, zoals ze aan haar nichten geschreven had, en niet de zomer daarna. Ze zei dat haar moeder niet alleen kon blijven in het sluiswachtershuis, en haar moeder zei dat ze wel alleen kon blijven, en Rosalie bleef. Ze werkte op de spinnerij en danste op zaterdag in De Gouden Rivier en schreef naar haar nichten in de rue des Longues-Haies, in het Frans, brieven die ze zelf schreef en zelf voorlas, aan niemand.
 
 Agnes werd geboren in het voorjaar van twaalf, in het huis dat Cyriel en Leontine huurden achter de school. Coleta kwam met de kist. Ze haalde het laken eruit en spreidde het op het bed, en Leontine keek ernaar, naar het grijs, en keek naar Cyriel, en Cyriel zei dat het een gewoonte was van de familie. Coleta legde het kind erin, op zijn zij, in het grijs. Het paste. Leontine nam het er na een minuut uit en legde het aan de borst, en Coleta vouwde het laken op en nam het mee terug naar de sluis.
 

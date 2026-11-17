@@ -57,7 +57,7 @@ Pharaïlde roerde. Daarna zei ze dat Medard nog wat koffie moest nemen, nu hij e
 
 ---
 
-Medard bleef nog een kom koffie lang. Hij praatte niet meer. Coleta zei later dat het de enige keer was dat ze hem een kom koffie had zien drinken zonder te praten, en ze heeft hem veertig jaar gekend.
+Medard bleef nog een kom koffie lang. Hij praatte niet meer. Coleta zei later dat het de enige keer was dat ze hem een kom koffie had zien drinken zonder te praten, en ze heeft hem tweeëndertig jaar gekend.
 
 Toen hij ging, liet ze hem uit. Hij bleef op de stoep staan, in de sneeuw, met zijn pet in zijn hand.
 

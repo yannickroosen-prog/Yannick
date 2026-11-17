@@ -28,5 +28,6 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 18. [Hoofdstuk 7: Het afleggen](manuscript/hoofdstuk-07.md) en [werknotities](manuscript/hoofdstuk-07-notities.md)
 19. [Hoofdstuk 8: De meester](manuscript/hoofdstuk-08.md) en [werknotities](manuscript/hoofdstuk-08-notities.md)
 20. [Hoofdstuk 9: Etappe](manuscript/hoofdstuk-09.md) en [werknotities](manuscript/hoofdstuk-09-notities.md)
+21. [Integrale lezing van deel II, met voorstellen en omvang](12-integrale-lezing-deel-II.md)
 
-Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Deel II is voltooid. Volgende fase: integrale lezing van deel II, daarna herberekening van de omvang.
+Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Deel II is voltooid. Volgende fase: beslissing over voorstel C (revisie deel II) en D (richtlijnen deel III).
