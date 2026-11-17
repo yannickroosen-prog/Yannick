@@ -1,6 +1,6 @@
 # Hoofdstuk 11: werknotities
 
-**Lengte:** zie het verslag aan de redactie.
+**Lengte:** ongeveer 2.700 woorden. Manuscript: ongeveer 33.000 woorden.
 
 ## De drie voorwaarden
 1. **Marguerite is meer dan een schakel in de archiefketen.**
