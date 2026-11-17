@@ -31,7 +31,8 @@
 | "Een laken moet langer meegaan dan die erin slaapt." | het kinderlaken overleeft iedereen |
 | Pharaïlde zegt dat het linnen "van mijnheer" is | zij betaalde elf weken om één laken van zichzelf te hebben |
 
-## Vraag aan de redactie
-**Zien vreemden het grijs?** De zin over het Parijse hotel laat open dat alleen wie uit Blekegem komt het grijs ziet. Dat zou het wonder dubbelzinniger maken: is het zwijg echt, of een manier van kijken die een dorp deelt? Het past bij wet W7 (latere generaties zien alleen vergeling), maar het raakt aan de fundamenten. Twee opties:
-1. **Openlaten** zoals nu: Desmedt zegt het, het dorp gelooft hem niet, niemand beslist. Mijn voorkeur.
-2. **Schrappen**, zodat het grijs voor iedereen zichtbaar blijft en de vraag niet opkomt.
+## Redactiebeslissingen
+- **De Parijse passage blijft**, met de dubbelzinnigheid intact. Vastgelegd als wet W9 in het feitenregister: het grijs is echt, de betekenis hangt af van de manier van kijken.
+- **Te testen in de volgende redactieronde:** "In Parijs noemden ze dat geen grijs, zei Desmedt." in plaats van "Het had nooit grijs gezien. Parijzenaars zien het niet." De nieuwe versie zegt niet dat Parijzenaars iets niet kunnen zien, maar dat ze iets anders zien als ze naar hetzelfde kijken.
+- **Toegevoegd:** een gewoon moment van onhandige tederheid. Mijnheer warmt elke winter Eugénies handschoenen op de stoof, te warm, en blijft dat doen als ze al niet meer buitenkomt.
+- **Lengte:** het hoofdstuk wordt niet aangevuld tot 4.000 woorden. Voorlopig afgesloten.

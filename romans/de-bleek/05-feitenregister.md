@@ -16,6 +16,7 @@
 | W6 | Spreken voorkomt grijs, maar wist het niet uit. Niets wist het uit: zon, loog, chloor en tijd niet. | Medards witte linnen (h5, h6). Het grijs van 1847 blijft tot het einde. |
 | W7 | Het grijs vervaagt niet, maar oud linnen vergeelt wel, als alle linnen. Wie de regel niet kent, ziet vanaf de jaren tachtig alleen "vergeling". | Mira wil het als vintage verkopen (h21). |
 | W8 | Het grijs ontstaat over de weken waarin het linnen gebruikt of gebleekt wordt, niet in een ogenblik. Niemand ziet het ontstaan. | Geen scène toont een vlek die "verschijnt". Het wonder wordt altijd achteraf ontdekt. |
+| W9 | Het grijs bestaat onafhankelijk van wie het ziet. De waarneming en de betekenis ervan zijn echter niet universeel. De bewoners van Blekegem herkennen het als zwijg, maar dat betekent niet dat anderen dezelfde verkleuring herkennen of er dezelfde betekenis aan geven. De roman bevestigt nooit definitief of het verschil voortkomt uit waarneming, gewoonte, cultuur of iets bovennatuurlijks. *Auteursregel, geen uitleg voor de lezer.* | Het Parijse hotel ziet "geen grijs" (h2). Mira ziet "vergeling" (h21). Geen enkel personage probeert ooit wetenschappelijk vast te stellen of het grijs bestaat. Het grijs kan echt zijn terwijl de interpretatie ervan een collectieve vergissing is. |
 
 **Wat het wonder nooit doet:** woorden tonen, een geheim onthullen, een raadsel oplossen, iemand straffen of belonen, een plotwending veroorzaken die anders niet kon. De waarheid over 1847 komt uit papier (h21).
 

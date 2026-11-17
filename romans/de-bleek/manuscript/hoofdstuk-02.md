@@ -26,6 +26,8 @@ Maar we zagen ook hoe hij naar haar keek in de kerk. Mevrouw zat links van hem o
 
 Wat hij tegen haar zei, als hij iets zei, was in het Frans, en het was weinig. Zulma verstond geen Frans. Ze zei dat het klonk als iemand die een rekening opleest.
 
+Eén ding deed hij wel. Als mevrouw in de winter naar de mis ging of naar Kortrijk, legde hij haar handschoenen een kwartier op de rand van de stoof in de gang. Hij deed het zelf, niet de meid. Wanneer mevrouw haar mantel aanhad, gaf hij ze haar, en ze waren altijd te warm, en mevrouw trok ze aan met korte rukjes en blies in haar handen en lachte, en mijnheer keek naar de deur. Zulma zei dat hij dat elke winter deed, ook de laatste, toen mevrouw al niet meer buitenkwam. Dan legde hij ze er 's zondags toch op, en nam ze er een uur later weer af, en legde ze terug in de lade.
+
 ---
 
 Elk jaar, in de nacht voor Lichtmis, werden de lakens van het kasteel verbrand.

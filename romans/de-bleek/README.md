@@ -17,4 +17,6 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 
 12. [Hoofdstuk 2: Witte vuren](manuscript/hoofdstuk-02.md) en [werknotities](manuscript/hoofdstuk-02-notities.md)
 
-Hoofdstuk 1 is voorlopig afgesloten. Volgende fase: hoofdstuk 3 (Franschmans).
+13. [Hoofdstuk 3: Franschmans](manuscript/hoofdstuk-03.md) en [werknotities](manuscript/hoofdstuk-03-notities.md)
+
+Hoofdstukken 1 en 2 zijn voorlopig afgesloten. Volgende fase: hoofdstuk 4 (Het hemd).
