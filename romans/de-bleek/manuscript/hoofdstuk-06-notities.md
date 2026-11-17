@@ -1,6 +1,6 @@
 # Hoofdstuk 6: werknotities
 
-**Lengte:** ongeveer 3.600 woorden.
+**Lengte:** ongeveer 2.900 woorden.
 
 ## De vier vragen
 1. **Oorzaak:** Coleta's leugen van hoofdstuk 5 wordt een praktijk. Elke zondag schrijft en leest ze in het sluiswachtershuis brieven voor het dorp, "beter dan ze waren". Haar reputatie brengt Ghekiere naar haar toe: "Ze zeggen dat ge schoner schrijft dan het is."
