@@ -1,10 +1,10 @@
-# De bleek: stemkaart van Jonas Debaere
+# De bleek: stemkaart van Emiel Debaere
 
-*Book-genesis fase 1: vertelstem, ritmecontract en proefpassages. Twee doelen: (1) Jonas moet geloofwaardig kunnen spreken over 1847 én over zijn eigen keuken; (2) Jonas moet een mens zijn, geen mechanisme dat "wij" in "ik" verandert.*
+*Book-genesis fase 1: vertelstem, ritmecontract en proefpassages. Twee doelen: (1) Emiel moet geloofwaardig kunnen spreken over 1847 én over zijn eigen keuken; (2) Emiel moet een mens zijn, geen mechanisme dat "wij" in "ik" verandert.*
 
 ---
 
-## 1. Jonas buiten zijn functie
+## 1. Emiel buiten zijn functie
 
 Wat hieronder staat, heeft niets met grijs, schuld of erfenis te maken, en moet in het boek voorkomen.
 
@@ -23,21 +23,21 @@ Wat hieronder staat, heeft niets met grijs, schuld of erfenis te maken, en moet 
 
 ## 2. Vier registers van weten
 
-Jonas vertelt 176 jaar. Hij weet niet alles op dezelfde manier, en de lezer moet dat voelen zonder dat het een systeem wordt.
+Emiel vertelt 176 jaar. Hij weet niet alles op dezelfde manier, en de lezer moet dat voelen zonder dat het een systeem wordt.
 
 | Register | Wat het is | Hoe het klinkt | Voorbeeld |
 |---|---|---|---|
 | **Overlevering** | wat het dorp vertelde en doorvertelde | "we weten", "men zei", "bij ons", vaak met een kleine vergissing of tegenstrijdigheid erin | "We herinneren ons dat ze niet huilde op de begrafenis." |
 | **Archief** | wat op papier staat | precieze data, bedragen, citaten in het Frans of Latijn, af en toe een doosnummer. Droger, korter | "Achtendertig frank, markt van Kortrijk." |
 | **Verbeelding** | wat niemand gezien heeft | volle zintuiglijke scènes, maar met uiterlijk gedrag in plaats van gedachten | Ivo die het paard roskamt. |
-| **Eigen herinnering** | wat Jonas zelf meemaakte (vanaf ca. 1955) | korter, scherper, met eigen fouten die hij verbetert; gaten rond 1971 die hij benoemt | "De keukentegels waren groen. Marleen zegt grijs." |
+| **Eigen herinnering** | wat Emiel zelf meemaakte (vanaf ca. 1955) | korter, scherper, met eigen fouten die hij verbetert; gaten rond 1971 die hij benoemt | "De keukentegels waren groen. Marleen zegt grijs." |
 
 ### Spelregels
 
-1. **Binnenwereld groeit met de tijd.** In deel I geeft Jonas bijna nooit gedachten weer. Pharaïlde wordt alleen van buiten gezien: gebaren, werk, wat het dorp zag. Hoe dichter de vertelling bij zijn eigen leven komt, hoe meer binnenwereld er mag zijn. Daardoor blijft Pharaïlde een raadsel tot het einde, en dat klopt: niemand heeft haar gekend.
-2. **Geen voetnoten van de verteller.** Jonas zegt niet bij elke scène dat hij ze verzint. Hij zegt het hoogstens vijf keer in het hele boek, op plaatsen waar het ertoe doet (h3, h9, h12, h19, h22).
-3. **Het archief spreekt in zijn eigen taal.** Franse en Latijnse citaten worden niet vertaald waar de context volstaat. In h21 vertaalt Jonas één zin, en dat is een daad.
-4. **Eigen herinnering mag fout zijn.** Jonas verbetert zichzelf of laat anderen hem verbeteren (Marleen, Elif, Rita). Over 1971 zegt hij eerlijk wat hij niet meer weet.
+1. **Binnenwereld groeit met de tijd.** In deel I geeft Emiel bijna nooit gedachten weer. Pharaïlde wordt alleen van buiten gezien: gebaren, werk, wat het dorp zag. Hoe dichter de vertelling bij zijn eigen leven komt, hoe meer binnenwereld er mag zijn. Daardoor blijft Pharaïlde een raadsel tot het einde, en dat klopt: niemand heeft haar gekend.
+2. **Geen voetnoten van de verteller.** Emiel zegt niet bij elke scène dat hij ze verzint. Hij zegt het hoogstens vijf keer in het hele boek, op plaatsen waar het ertoe doet (h3, h9, h12, h19, h22).
+3. **Het archief spreekt in zijn eigen taal.** Franse en Latijnse citaten worden niet vertaald waar de context volstaat. In h21 vertaalt Emiel één zin, en dat is een daad.
+4. **Eigen herinnering mag fout zijn.** Emiel verbetert zichzelf of laat anderen hem verbeteren (Marleen, Elif, Rita). Over 1971 zegt hij eerlijk wat hij niet meer weet.
 5. **Het "ik".** Drie keer glipt het door: h1 ("Ik heb dat grijs gezien"), h16 en h19. Telkens meteen opgevangen door "wij". In h22 blijft het staan.
 
 ---
@@ -90,5 +90,5 @@ Dek de naam af. Elk personage moet herkenbaar blijven aan wat het opmerkt en hoe
 - **Cyriel** merkt taalfouten op. Ook bij zichzelf, in zijn hoofd.
 - **Marguerite** merkt op wat ongepast is, en geniet ervan.
 - **Agnes** merkt op wat de buren zullen denken, en wat er in de koelkast ontbreekt.
-- **Jonas** merkt data, handschriften en dingen die niet kloppen op.
+- **Emiel** merkt data, handschriften en dingen die niet kloppen op.
 - **Selim** merkt op wat mensen niet vragen.

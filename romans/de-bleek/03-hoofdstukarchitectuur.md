@@ -16,15 +16,15 @@ Wat elke generatie toevoegt:
 | Coleta, Gentiel, Medard | zwijgen door afstand en herschrijving; Medard als tegenstem |
 | Cyriel, Marguerite, Rosalie | zwijgen als politiek: taal, klasse, medeplichtigheid |
 | Agnes | zwijgen zonder spoor: katoen, schaamte, een verborgen zoon |
-| Jonas, Selim, Marleen | de stem van wie erbuiten stond; het archief; aankomen |
+| Emiel, Selim, Marleen | de stem van wie erbuiten stond; het archief; aankomen |
 | Mira, Aurélie, Elif | de erfgenamen die de regel niet meer kennen, en kiezen wat ze houden |
 
 ## Vier symbolen, niet meer
 
 1. **Het kinderlaken.** Begint als bewijs van schuld, wordt familietraditie (elk kind wordt erin gelegd), wordt vergeling die men als vintage kan verkopen, en eindigt als het enige spoor van een mens zonder naam.
-2. **De bleek.** Witte weide vol linnen; dan vlasbedrijf; dan verkaveling waar Jonas woont; dan gras zonder geheugen. Op het einde ligt het laken er opnieuw in de zon.
+2. **De bleek.** Witte weide vol linnen; dan vlasbedrijf; dan verkaveling waar Emiel woont; dan gras zonder geheugen. Op het einde ligt het laken er opnieuw in de zon.
 3. **De Krommen.** De oude bocht van de Leie waar men rootte. In 1971 afgesneden door de rechttrekking, in 2023 door een natuurherstelproject weer op de rivier aangesloten. Geschiedenis herhaalt zich, maar het water is ander water.
-4. **Het merkdoek.** De lap waarop meisjes met kruissteek letters en cijfers leerden. Pharaïldes gespiegelde 4. Coleta's handschrift. Cyriels schoolbord. Jonas' register. Het boek gaat over wie letters mag gebruiken, in welke taal, en wie in het register komt.
+4. **Het merkdoek.** De lap waarop meisjes met kruissteek letters en cijfers leerden. Pharaïldes gespiegelde 4. Coleta's handschrift. Cyriels schoolbord. Emiels register. Het boek gaat over wie letters mag gebruiken, in welke taal, en wie in het register komt.
 
 ## Structurele ankers (op woordpositie)
 
@@ -144,9 +144,9 @@ Wat elke generatie toevoegt:
 ### 13. Repressie
 **1944-1950 · Agnes · 4.500 woorden · druk: vernedering, wraak, rechtspraak**
 - **Functie:** het dorp na de oorlog, en een familiegeheim dat geboren wordt.
-- **Inhoud:** september 1944. Huizen van "zwarten" worden geplunderd. Cyriel wordt opgepakt, Agnes bespuwd. Het proces van 1946: Robert getuigt tegen Cyriel, Marguerite zwijgt. Agnes trouwt met Roger Debaere. Marleen wordt geboren in 1947, Jonas in 1950. Cyriel komt vrij in 1950.
+- **Inhoud:** september 1944. Huizen van "zwarten" worden geplunderd. Cyriel wordt opgepakt, Agnes bespuwd. Het proces van 1946: Robert getuigt tegen Cyriel, Marguerite zwijgt. Agnes trouwt met Roger Debaere. Marleen wordt geboren in 1947, Emiel in 1950. Cyriel komt vrij in 1950.
 - **Waardeverschuiving:** een gerespecteerde familie → een familie waarover men zwijgt, en die over zichzelf zwijgt.
-- **Slotwending:** Cyriel houdt de pasgeboren Jonas vast. Het is de eerste omhelzing in vier generaties. Agnes kijkt toe vanuit de deuropening.
+- **Slotwending:** Cyriel houdt de pasgeboren Emiel vast. Het is de eerste omhelzing in vier generaties. Agnes kijkt toe vanuit de deuropening.
 
 ---
 
@@ -155,31 +155,31 @@ Wat elke generatie toevoegt:
 ### 14. Nylon
 **1950-1961 · Agnes · 4.000 woorden · druk: opluchting, verdringing**
 - **Functie:** de wereld zonder grijs, en wat dat met mensen doet.
-- **Inhoud:** katoenen en nylon lakens uit de nieuwe winkel in Kortrijk. Agnes bergt het Blekegemse linnen weg met opluchting. Cyriel woont in de achterkamer en zingt Gezelle voor Jonas. Het eerste televisietoestel in het café. Cyriel sterft in 1961. Agnes legt hem af in katoen, en er is niets te zien.
+- **Inhoud:** katoenen en nylon lakens uit de nieuwe winkel in Kortrijk. Agnes bergt het Blekegemse linnen weg met opluchting. Cyriel woont in de achterkamer en zingt Gezelle voor Emiel. Het eerste televisietoestel in het café. Cyriel sterft in 1961. Agnes legt hem af in katoen, en er is niets te zien.
 - **Waardeverschuiving:** zwijgen is zichtbaar → zwijgen is onzichtbaar.
-- **Slotwending:** de elfjarige Jonas tilt het laken op en zoekt. Hij vraagt zijn moeder waar het grijs van grootvader is. Ze zegt: "Allee."
+- **Slotwending:** de elfjarige Emiel tilt het laken op en zoekt. Hij vraagt zijn moeder waar het grijs van grootvader is. Ze zegt: "Allee."
 
 ### 15. Selim
-**1964-1970 · Jonas en Selim · 4.000 woorden · druk: aankomst, vriendschap, vertrek**
+**1964-1970 · Emiel en Selim · 4.000 woorden · druk: aankomst, vriendschap, vertrek**
 - **Functie:** de mensen die aankomen, en de taal die nu zelf verschuift.
-- **Inhoud:** Turkse arbeiders in de spinnerij. Selim leert West-Vlaams in het café. Jonas, een gevoelige tiener, wordt zijn vriend. Leuven Vlaams, 1968: het Frans trekt zich terug. Marleen gaat in Gent studeren, de eerste vrouw van de familie aan de universiteit. Marguerite sterft in 1970. Bij de veiling van het kasteel koopt Agnes twee ongebruikte rollen Blekegems linnen.
+- **Inhoud:** Turkse arbeiders in de spinnerij. Selim leert West-Vlaams in het café. Emiel, een gevoelige tiener, wordt zijn vriend. Leuven Vlaams, 1968: het Frans trekt zich terug. Marleen gaat in Gent studeren, de eerste vrouw van de familie aan de universiteit. Marguerite sterft in 1970. Bij de veiling van het kasteel koopt Agnes twee ongebruikte rollen Blekegems linnen.
 - **Waardeverschuiving:** het dorp is van zichzelf → het dorp wordt van iedereen en van niemand.
 - **Slotwending:** Agnes legt de twee rollen in de kist, onder het kinderlaken. Ze zegt tegen Roger dat het een koopje was.
 
 ### 16. De rechtgetrokken rivier
-**1971-1977 · Jonas · 5.500 woorden · druk: verbrokkeling, angst, verlies · DIEPSTE PUNT**
+**1971-1977 · Emiel · 5.500 woorden · druk: verbrokkeling, angst, verlies · DIEPSTE PUNT**
 - **Functie:** het dorp en de verteller breken tegelijk.
 - **Vorm:** het "wij" begint te barsten. Voor het eerst lange passages die alleen van binnenuit kunnen komen. Één "ik" glipt erdoor, en wordt hersteld.
-- **Inhoud:** de Leie wordt rechtgetrokken, de Krommen afgesneden, de bleekweide verkaveld. Jonas' eerste psychose, verteld met precisie: de radio die te veel weet, de tegels van de keuken die niet meer kloppen, het besef achteraf. Opname. Agnes zegt tegen de buren dat hij in Brussel studeert. Selim komt op bezoek en neemt kaarten mee. De gemeentefusie van 1977: de naam Blekegem verdwijnt van de verkeersborden.
-- **Waardeverschuiving:** een thuis → geen thuis, voor het dorp en voor Jonas.
-- **Slotwending:** Selim deelt de kaarten. Jonas speelt mee.
+- **Inhoud:** de Leie wordt rechtgetrokken, de Krommen afgesneden, de bleekweide verkaveld. Emiels eerste psychose, verteld met precisie: de radio die te veel weet, de tegels van de keuken die niet meer kloppen, het besef achteraf. Opname. Agnes zegt tegen de buren dat hij in Brussel studeert. Selim komt op bezoek en neemt kaarten mee. De gemeentefusie van 1977: de naam Blekegem verdwijnt van de verkeersborden.
+- **Waardeverschuiving:** een thuis → geen thuis, voor het dorp en voor Emiel.
+- **Slotwending:** Selim deelt de kaarten. Emiel speelt mee.
 
 ### 17. Zondagen
-**1977-1989 · Agnes en Jonas · 4.200 woorden · druk: herhaling, trouw**
+**1977-1989 · Agnes en Emiel · 4.200 woorden · druk: herhaling, trouw**
 - **Functie:** liefde als herhaling zonder woorden. Twintig jaar hetzelfde vermeden gesprek.
 - **Vorm:** een reeks zondagsbezoeken, telkens met de schone lakens, telkens bijna hetzelfde, en elke keer verschuift er een klein ding.
-- **Inhoud:** Roger sterft in 1980. Jonas herstelt traag en gaat naar beschut wonen. De kerk loopt leeg. De laatste processie van Lijnwaadzondag, rond 1985, met vijf oude vrouwen en geen bleek meer om te zegenen.
-- **Waardeverschuiving:** Jonas als geheim → Jonas thuis. In 1989 krijgt hij een sociale woning op de verkaveling. Hij woont op de bleek.
+- **Inhoud:** Roger sterft in 1980. Emiel herstelt traag en gaat naar beschut wonen. De kerk loopt leeg. De laatste processie van Lijnwaadzondag, rond 1985, met vijf oude vrouwen en geen bleek meer om te zegenen.
+- **Waardeverschuiving:** Emiel als geheim → Emiel thuis. In 1989 krijgt hij een sociale woning op de verkaveling. Hij woont op de bleek.
 - **Slotwending:** de eerste nacht in zijn nieuwe huis. Hij weet niet waar hij slaapt. De lezer wel.
 
 ---
@@ -187,43 +187,43 @@ Wat elke generatie toevoegt:
 ## DEEL V · HET REGISTER (1990-2023) · ±21.300 woorden
 
 ### 18. De heemkundige kring
-**1990-2002 · Jonas · 3.800 woorden · druk: rust, verzamelen**
+**1990-2002 · Emiel · 3.800 woorden · druk: rust, verzamelen**
 - **Functie:** de verteller krijgt een plaats, en de lezer begint te vermoeden wie hij is.
-- **Inhoud:** Jonas als vrijwilliger in het archief. Hij kent iedereen die dood is en bijna niemand die leeft. Blekegem wordt een voorstad van Kortrijk en Rijsel. Elif, de dochter van Selim, wordt onderwijzeres Nederlands in de school waar Cyriel les gaf. Het register van de heemkundige kring, waarin Jonas de namen van het dorp bijhoudt.
+- **Inhoud:** Emiel als vrijwilliger in het archief. Hij kent iedereen die dood is en bijna niemand die leeft. Blekegem wordt een voorstad van Kortrijk en Rijsel. Elif, de dochter van Selim, wordt onderwijzeres Nederlands in de school waar Cyriel les gaf. Het register van de heemkundige kring, waarin Emiel de namen van het dorp bijhoudt.
 - **Waardeverschuiving:** een gemeenschap → een archief van een gemeenschap.
-- **Slotwending:** Jonas vult het register aan met de namen van alle bewoners van de verkaveling. Niemand heeft het gevraagd.
+- **Slotwending:** Emiel vult het register aan met de namen van alle bewoners van de verkaveling. Niemand heeft het gevraagd.
 
 ### 19. Het laatste laken
-**2002-2004 · Agnes en Jonas · 5.000 woorden · druk: sterven, nabijheid · EMOTIONEEL HOOGTEPUNT**
+**2002-2004 · Agnes en Emiel · 5.000 woorden · druk: sterven, nabijheid · EMOTIONEEL HOOGTEPUNT**
 - **Functie:** het oude wonder voor de laatste keer, en de onmogelijkheid om het te lezen.
-- **Inhoud:** Agnes is stervend. Ze vraagt Jonas om een van de twee rollen Blekegems linnen uit de kist op haar bed te leggen. Ze wil dat wat ze nooit zei zichtbaar wordt. Jonas naait er een laken van. Drie weken waken. Ze praten over het weer, over Selim, over de prijs van boter.
+- **Inhoud:** Agnes is stervend. Ze vraagt Emiel om een van de twee rollen Blekegems linnen uit de kist op haar bed te leggen. Ze wil dat wat ze nooit zei zichtbaar wordt. Emiel naait er een laken van. Drie weken waken. Ze praten over het weer, over Selim, over de prijs van boter.
 - **Waardeverschuiving:** een moeder die hem verstopte → een moeder die gezien wil worden en het niet kan zeggen.
-- **Slotwending:** na haar dood is er grijs rond de plaats van haar handen. Jonas kan het niet lezen. Hij legt zijn eigen handen erin. Ze passen niet.
+- **Slotwending:** na haar dood is er grijs rond de plaats van haar handen. Emiel kan het niet lezen. Hij legt zijn eigen handen erin. Ze passen niet.
 
 ### 20. Kerk te koop
 **2010-2019 · het dorp ("wij"), dun · 4.000 woorden · druk: ontluistering, afscheid**
 - **Functie:** de langzame verdwijning van het geloof, zonder sensatie.
-- **Inhoud:** de schandalen van 2010 in de Kerk, zijdelings. Het altaardoek van Sint-Amandus is al decennia grijs, en iedereen wist het, en niemand vroeg wat. De kerk sluit in 2018 en wordt herbestemd. Selim sterft in 2019 en wordt in Turkije begraven. Elif vraagt Jonas wat er in het register over haar vader staat.
+- **Inhoud:** de schandalen van 2010 in de Kerk, zijdelings. Het altaardoek van Sint-Amandus is al decennia grijs, en iedereen wist het, en niemand vroeg wat. De kerk sluit in 2018 en wordt herbestemd. Selim sterft in 2019 en wordt in Turkije begraven. Elif vraagt Emiel wat er in het register over haar vader staat.
 - **Waardeverschuiving:** een dorp met een kerk → een dorp met een gebouw dat ooit een kerk was.
-- **Slotwending:** Jonas schrijft Selim in het register. Hij twijfelt lang over de rubriek "begraven te". Hij schrijft beide plaatsen.
+- **Slotwending:** Emiel schrijft Selim in het register. Hij twijfelt lang over de rubriek "begraven te". Hij schrijft beide plaatsen.
 
 ### 21. Lieve heer Debaere
-**2021-2022 · Jonas · 4.500 woorden · druk: onderzoek, ontdekking**
+**2021-2022 · Emiel · 4.500 woorden · druk: onderzoek, ontdekking**
 - **Functie:** de ontknoping, uit papier en niet uit stof.
-- **Inhoud:** een mail van Aurélie Callewaert uit Roubaix over haar voorouders. Marleen sterft. Mira ontruimt het huis en wil de kist als vintage verkopen. Het kinderlaken, met *1 OGST 1847* in de zoom, de 4 gespiegeld. Jonas zoekt in het parochieregister: Clementine is in mei begraven, niet in augustus. In de Franstalige gemeentestukken van 1847 vindt hij het proces-verbaal van veldwachter Ghekiere aan de burgemeester: *un enfant mendiant, nom inconnu, âgé d'environ six ans, trouvé endormi sur les toiles de M. le Bourgmestre.* Aurélie komt met de tedere brieven van "Pharaïlde". Jonas herkent Coleta's hand.
+- **Inhoud:** een mail van Aurélie Callewaert uit Roubaix over haar voorouders. Marleen sterft. Mira ontruimt het huis en wil de kist als vintage verkopen. Het kinderlaken, met *1 OGST 1847* in de zoom, de 4 gespiegeld. Emiel zoekt in het parochieregister: Clementine is in mei begraven, niet in augustus. In de Franstalige gemeentestukken van 1847 vindt hij het proces-verbaal van veldwachter Ghekiere aan de burgemeester: *un enfant mendiant, nom inconnu, âgé d'environ six ans, trouvé endormi sur les toiles de M. le Bourgmestre.* Aurélie komt met de tedere brieven van "Pharaïlde". Emiel herkent Coleta's hand.
 - **Waardeverschuiving:** een familie met een schuld → een familie met een vreemde in haar midden. Twee families hebben dezelfde vrouw herschreven.
-- **Slotwending:** Jonas begrijpt de laatste woorden van zijn overgrootmoeder. *Hij sliep goed.*
+- **Slotwending:** Emiel begrijpt de laatste woorden van zijn overgrootmoeder. *Hij sliep goed.*
 
 ### 22. Lijnwaadzondag
-**Zondag 6 augustus 2023 · Jonas, "ik" · 4.000 woorden · druk: rust, licht**
+**Zondag 6 augustus 2023 · Emiel, "ik" · 4.000 woorden · druk: rust, licht**
 - **Functie:** het slot dat het begin herschrijft.
 - **Vorm:** de verteller zegt voor het eerst en blijvend "ik". Hij legt uit waarom hij "wij" zei, zonder het uit te leggen.
-- **Inhoud:** de Krommen is door een natuurherstelproject weer aangesloten op de Leie. Jonas, Mira, Aurélie en Elif brengen het kinderlaken naar het gras waar de bleek lag. Ze leggen het in de zon, zoals in 1847. Mira kiest wat ze met het laken doet.
-- **Slotwending (aanbevolen):** Jonas noteert in het register van de heemkundige kring een laatste inschrijving, zakelijk en in de vorm van alle andere:
+- **Inhoud:** de Krommen is door een natuurherstelproject weer aangesloten op de Leie. Emiel, Mira, Aurélie en Elif brengen het kinderlaken naar het gras waar de bleek lag. Ze leggen het in de zon, zoals in 1847. Mira kiest wat ze met het laken doet.
+- **Slotwending (aanbevolen):** Emiel noteert in het register van de heemkundige kring een laatste inschrijving, zakelijk en in de vorm van alle andere:
   > *Een kind. Naam onbekend. Omstreeks zes jaar. Sliep hier op 1 augustus 1847. Is gebleven.*
-- **Waarom dit slot werkt:** het woord dat Pharaïlde niet zei (*blijf*), keert terug als een feit in plaats van een wens. De naamloze is de enige wiens spoor 176 jaar bewaard bleef. Het boek dat de lezer vasthoudt, blijkt het register te zijn dat Jonas schreef: de vorm van het hele boek is die ene inschrijving. Het slot verrast omdat niemand het kind als hoofdpersoon zag. Het is onvermijdelijk omdat het in de eerste opsomming al stond.
+- **Waarom dit slot werkt:** het woord dat Pharaïlde niet zei (*blijf*), keert terug als een feit in plaats van een wens. De naamloze is de enige wiens spoor 176 jaar bewaard bleef. Het boek dat de lezer vasthoudt, blijkt het register te zijn dat Emiel schreef: de vorm van het hele boek is die ene inschrijving. Het slot verrast omdat niemand het kind als hoofdpersoon zag. Het is onvermijdelijk omdat het in de eerste opsomming al stond.
 
-> *Alternatief slot, te overwegen na het schrijven:* Jonas gaat op het laken in de zon liggen, een oude man in de vorm van een kind, en slaapt in, en niemand jaagt hem weg. Krachtig, maar het riskeert sentimentaliteit. Te beslissen wanneer de toon van de voorgaande 90.000 woorden vastligt.
+> *Alternatief slot, te overwegen na het schrijven:* Emiel gaat op het laken in de zon liggen, een oude man in de vorm van een kind, en slaapt in, en niemand jaagt hem weg. Krachtig, maar het riskeert sentimentaliteit. Te beslissen wanneer de toon van de voorgaande 90.000 woorden vastligt.
 
 ---
 
@@ -232,17 +232,17 @@ Wat elke generatie toevoegt:
 | Zaad | Hoofdstuk | Oogst | Hoofdstuk |
 |---|---|---|---|
 | een bedelkind in een opsomming | 1 | proces-verbaal van Ghekiere | 21 |
-| gespiegelde 4 in de zoom | 1 | Jonas herkent Pharaïldes hand | 21 |
+| gespiegelde 4 in de zoom | 1 | Emiel herkent Pharaïldes hand | 21 |
 | "niet alles wat we ons herinneren is gebeurd" | 1 | de dubbele herschrijving van Pharaïlde | 21 |
 | Coleta's brieven "van moeder" | 5 | Aurélies familieschat | 21-22 |
 | Medards witte lijkwade | 6 | Agnes kiest het grijs | 19 |
-| "Hij sliep goed." | 7 | Jonas begrijpt het | 21 |
+| "Hij sliep goed." | 7 | Emiel begrijpt het | 21 |
 | Coleta legt het laken in de kist, niet om haar moeder | 7 | het laken blijft voor de levenden | 22 |
 | de laatste rollen op het kasteel | 11 | Agnes' sterfbed | 15, 19 |
-| Cyriel houdt Jonas vast | 13 | Jonas' trouw aan de buitengeslotenen | 18-22 |
+| Cyriel houdt Emiel vast | 13 | Emiels trouw aan de buitengeslotenen | 18-22 |
 | "Allee." | 14 | Agnes' laatste weken | 19 |
 | de verteller zegt eenmaal "ik" | 1, 16, 19 | de verteller wordt "ik" | 22 |
-| Jonas woont op de bleek | 17 | het laken ligt er weer | 22 |
+| Emiel woont op de bleek | 17 | het laken ligt er weer | 22 |
 | de Krommen afgesneden | 16 | de Krommen hersteld | 22 |
 
 ## Historische punten om te verifiëren voor het schrijven
@@ -266,4 +266,4 @@ Lijnwaadzondag, de bleek van Blekegem, de Krommen en het wonder zijn verzonnen. 
 - **Deel II.** Medards mislukte poging om tabak te kweken. De eerste fiets in het dorp, van de dokter, die er drie keer mee in de Leie rijdt. Een hagelbui in 1891 die alle ramen van de serre van het kasteel breekt. Coleta die elk jaar een prijs wint met haar konijnen.
 - **Deel III.** De tuba van de fanfare die op de kermis van 1928 gestolen wordt en nooit terugkomt. Een vlasboer die een auto koopt en hem alleen op zondag uit de schuur rijdt, met zijn vrouw ernaast en de hond achterin. Agnes' vriendinnen en hun eerste permanent.
 - **Deel IV.** De busreis van de parochie naar Expo 58. Eddy Merckx in 1969 door de Leiestraat. Een man in de Molenhoek die twaalf jaar lang een boot bouwt in zijn garage en ontdekt dat hij er niet uit kan. Selim die bij de wielerclub gaat en de enige is die de cols van de Kemmelberg zonder afstappen haalt.
-- **Deel V.** Jonas' rode kater. Het zwembad op dinsdag en vrijdag. Een ruzie in de heemkundige kring over de juiste schrijfwijze van "Leiestraat" op een oude kaart. Rita die hem leert dat je een stoverij niet met bruin bier maar met oud bruin maakt, en gelijk heeft.
+- **Deel V.** Emiels rode kater. Het zwembad op dinsdag en vrijdag. Een ruzie in de heemkundige kring over de juiste schrijfwijze van "Leiestraat" op een oude kaart. Rita die hem leert dat je een stoverij niet met bruin bier maar met oud bruin maakt, en gelijk heeft.

@@ -11,7 +11,7 @@
 | W1 | Linnen van vlas dat in de Leie bij Blekegem geroot is, bewaart wat in zijn nabijheid gevoeld maar niet gezegd werd. Het verschijnt als grijs. | Het hele boek. |
 | W2 | De eigenschap zit in de vezel, niet in het jaar van weven, bleken of gebruik. Linnen van vóór het rootverbod (1943) blijft het onbeperkt houden, ook als het pas decennia later uit de rol wordt gesneden. | Marguerite slaapt er in 1939 in (h11). Agnes koopt in 1970 twee ongebruikte rollen (h15) en sterft in 2004 in een laken daarvan (h19). |
 | W3 | Vlas dat na 1943 elders geroot is (warmwaterroterijen, dauwroten), katoen, nylon en polyester bewaren niets. | Vanaf h14 laat zwijgen geen spoor meer na. |
-| W4 | Het grijs is onleesbaar. Liefde, schuld, woede, verlangen en tederheid geven dezelfde tint. Alleen de plaats en de vorm verschillen. | Het dorp leest altijd schuld. Jonas kan het grijs van zijn moeder niet lezen (h19). |
+| W4 | Het grijs is onleesbaar. Liefde, schuld, woede, verlangen en tederheid geven dezelfde tint. Alleen de plaats en de vorm verschillen. | Het dorp leest altijd schuld. Emiel kan het grijs van zijn moeder niet lezen (h19). |
 | W5 | Het grijs ontstaat waar het zwijgen naartoe gericht was. Meestal een vormloze wolk. Soms een rand (langs de zoom bij getrouwden: wat men elkaar in bed niet zegt). Zelden een herkenbare vorm. | Het kinderlaken is in 176 jaar de enige volledig herkenbare vorm. Niemand in het boek verklaart waarom. |
 | W6 | Spreken voorkomt grijs, maar wist het niet uit. Niets wist het uit: zon, loog, chloor en tijd niet. | Medards witte linnen (h5, h6). Het grijs van 1847 blijft tot het einde. |
 | W7 | Het grijs vervaagt niet, maar oud linnen vergeelt wel, als alle linnen. Wie de regel niet kent, ziet vanaf de jaren tachtig alleen "vergeling". | Mira wil het als vintage verkopen (h21). |
@@ -45,10 +45,10 @@ Zie de lijst in de hoofdstukarchitectuur, sectie "Het leven dat gewoon gebeurt".
 
 - **Blekegem** ligt op de rechteroever van de Leie, tussen Wevelgem en Menen, zo'n vier kilometer van de Franse grens. Daardoor:
   - komt men "van Wevelgem" over de dijk (h1);
-  - valt de rechttrekking van de Leie bij Menen in 1971 (en opnieuw in 1987-1988) samen met Jonas' eerste psychose;
+  - valt de rechttrekking van de Leie bij Menen in 1971 (en opnieuw in 1987-1988) samen met Emiels eerste psychose;
   - liggen Rijsel, Roubaix en Halluin op loopafstand voor smokkelaars, Franschmans en vertrekkers.
 - **De Krommen:** de Leiebocht achter de kerk. Rootplaats, bleek ernaast. Afgesneden in 1971, in 2023 weer aangetakt door een natuurherstelproject (verzonnen, maar plausibel).
-- **De bleek:** negen gemeten weide in de Krommen. Vanaf 1972 verkaveling "Ter Bleke". Jonas woont er vanaf 1989 op nr. 14.
+- **De bleek:** negen gemeten weide in de Krommen. Vanaf 1972 verkaveling "Ter Bleke". Emiel woont er vanaf 1989 op nr. 14.
 - **Sint-Amandus:** dorpskerk. Gesloten 2018. Herbestemd tot (te beslissen: bibliotheek en dienstencentrum, niet spectaculair).
 - **Het kasteel:** het huis van de Verhaeghes. Na 1970 gemeentebezit, na de fusie van 1977 feestzaal.
 - **Cafés:** De Gouden Rivier (aan de sluis), In de Zwaan (aan de kerk), 't Vlasbloempje (Leiestraat).
@@ -93,19 +93,19 @@ Zie de lijst in de hoofdstukarchitectuur, sectie "Het leven dat gewoon gebeurt".
 | 1944 | Marcel sterft in Duitsland. Bevrijding (sept.). Cyriel opgepakt | 12, 13 |
 | 1946 | Proces. Agnes trouwt met Roger Debaere | 13 |
 | 1947 | Marleen geboren | 13 |
-| 1950 | Cyriel vrij. Jonas geboren. De omhelzing | 13 |
+| 1950 | Cyriel vrij. Emiel geboren. De omhelzing | 13 |
 | 1961 | Cyriel sterft, afgelegd in katoen | 14 |
 | 1967 | Selim komt aan | 15 |
 | 1968 | Leuven Vlaams | 15 |
 | 1970 | Marguerite sterft. Veiling. Agnes koopt twee rollen | 15 |
-| 1971 | Rechttrekking Leie bij Menen. Jonas' eerste psychose. Opname | 16 |
+| 1971 | Rechttrekking Leie bij Menen. Emiels eerste psychose. Opname | 16 |
 | 1972 | Verkaveling Ter Bleke | 16 |
 | 1977 | Gemeentefusie | 16 |
 | 1980 | Roger sterft | 17 |
 | ca. 1985 | Laatste processie van Lijnwaadzondag | 17 |
 | 1987-1988 | Tweede reeks Leiewerken bij Menen | 17 |
-| 1989 | Jonas naar Ter Bleke 14 | 17 |
-| 1990 | Jonas vrijwilliger bij de heemkundige kring | 18 |
+| 1989 | Emiel naar Ter Bleke 14 | 17 |
+| 1990 | Emiel vrijwilliger bij de heemkundige kring | 18 |
 | 2004 | Agnes sterft in het oude linnen | 19 |
 | 2010 | Kerkschandalen | 20 |
 | 2018 | Kerk gesloten | 20 |
@@ -125,12 +125,12 @@ Zie de lijst in de hoofdstukarchitectuur, sectie "Het leven dat gewoon gebeurt".
 | Het woord was *blijf* | niemand, ook de lezer niet tot h21-22 | |
 | Clementine stierf in mei, niet in augustus | het parochieregister; niemand kijkt | 1847 |
 | "Hij sliep goed" | Coleta hoort het en begrijpt het niet | 1911 |
-| De moederbrieven zijn van Coleta | Coleta; vanaf h21 Jonas | 1872 |
+| De moederbrieven zijn van Coleta | Coleta; vanaf h21 Emiel | 1872 |
 | Robert tekende dezelfde lijsten als Cyriel | Marguerite, Robert, Cyriel | 1942 |
 | Cyriel kende de datum van de razzia | Cyriel, Leontine (vermoedt het door het grijs) | 1943 |
-| Jonas studeert niet in Brussel | Agnes, Roger, Marleen, Selim; het dorp vermoedt het | 1971 |
+| Emiel studeert niet in Brussel | Agnes, Roger, Marleen, Selim; het dorp vermoedt het | 1971 |
 | Wat er in Agnes' grijs zit | niemand, nooit | 2004 |
-| Het proces-verbaal bestaat | Jonas | 2022 |
+| Het proces-verbaal bestaat | Emiel | 2022 |
 
 ---
 

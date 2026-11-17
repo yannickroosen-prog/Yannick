@@ -26,7 +26,7 @@ Pharaïlde Vandenbussche (1824-1911)                Adhémar Verhaeghe (1812-188
         |           |
         |           +-- Marleen (1947-2021)
         |           |     ... kleindochter Mira (°1997)
-        |           +-- Jonas (°1950)  <- de verteller
+        |           +-- Emiel (°1950)  <- de verteller
         |
         +-- Rosalie Vanneste (1884-1955), vertrekt in 1918 naar Roubaix
 
@@ -96,9 +96,9 @@ Selim Aydın (1946-2019) en zijn dochter Elif (°1976).
 
 - **Verlangen:** ergens thuishoren. Hij wil een Vlaams volk als thuis, omdat hij er in zijn eigen familie geen voelde.
 - **De leugen die hij gelooft:** *een volk dat zijn taal verliest, verliest zijn ziel.* Hij verliest zijn eigen ziel voor die zin.
-- **Tegenstrijdigheid:** uit liefde voor het Nederlands leert hij de kinderen hun dialect af, met een lat op de vingers voor wie "ik zijn" zegt in plaats van "ik ben". Hij zegt dus de taal van zijn moeder vaarwel om haar te redden. Hij is zacht, beminnelijk en wordt een collaborateur. Hij is de enige man in vier generaties die een kind teder vasthoudt: zijn kleinzoon Jonas, in 1950, vlak na zijn vrijlating.
+- **Tegenstrijdigheid:** uit liefde voor het Nederlands leert hij de kinderen hun dialect af, met een lat op de vingers voor wie "ik zijn" zegt in plaats van "ik ben". Hij zegt dus de taal van zijn moeder vaarwel om haar te redden. Hij is zacht, beminnelijk en wordt een collaborateur. Hij is de enige man in vier generaties die een kind teder vasthoudt: zijn kleinzoon Emiel, in 1950, vlak na zijn vrijlating.
 - **Zijn grijs:** in 1943 weet hij de datum van een razzia voor de verplichte tewerkstelling in Duitsland. Hij waarschuwt Marcel Desmet niet, de zoon van de tuinman van het kasteel. Marcel sterft in 1944 in Duitsland. Leontine ziet het grijs in hun laken en vraagt niets.
-- **Levensloop:** in 1946 veroordeeld. Burgemeester Robert Verhaeghe getuigt tegen hem om zijn eigen accommodatie met de bezetter toe te dekken. Vrij in 1950. Leeft tot 1961 in de achterkamer bij zijn dochter en zingt Gezelle voor Jonas.
+- **Levensloop:** in 1946 veroordeeld. Burgemeester Robert Verhaeghe getuigt tegen hem om zijn eigen accommodatie met de bezetter toe te dekken. Vrij in 1950. Leeft tot 1961 in de achterkamer bij zijn dochter en zingt Gezelle voor Emiel.
 - **Stem:** onderwijzend, keurig Nederlands, met plots een West-Vlaams woord dat ontsnapt.
 
 ### Marguerite Verhaeghe, "Mademoiselle" (1881-1970)
@@ -110,22 +110,22 @@ Selim Aydın (1946-2019) en zijn dochter Elif (°1976).
 - **Stem:** ironisch, beleefd, Franse zinnen met een West-Vlaamse tongval die ze probeert te verbergen.
 
 ### Agnes Debaere-Vanneste (1912-2004)
-**Dochter van de collaborateur, moeder van Jonas.**
+**Dochter van de collaborateur, moeder van Emiel.**
 
 - **Verlangen:** gewoon zijn. Onzichtbaar.
 - **Wonde:** na de bevrijding, in 1944, wordt ze op de markt bespuwd als "dochter van een zwarte". Ze trouwt in 1946 met Roger Debaere, een zwijgzame mecanicien, mede om haar naam kwijt te raken.
 - **De leugen die ze gelooft:** *wat niemand ziet, bestaat niet.*
-- **Tegenstrijdigheid:** ze is een moeder die vecht als een dier voor haar zoon en hem tegelijk verstopt. Wanneer Jonas in 1971 psychotisch wordt, vertelt ze de buren dat hij in Brussel studeert. Achttien jaar lang gaat ze elke zondag naar het ziekenhuis, met schone katoenen lakens, en praten ze over niets. Ze is de eerste van de familie die leeft in de wereld zonder grijs. Ze is er dankbaar voor en gaat eraan kapot.
-- **Haar grijs:** stervend, in 2004, vraagt ze Jonas om in het oude Blekegemse linnen te mogen liggen. Ze wil dat wat ze nooit zei eindelijk zichtbaar wordt. Na haar dood is er grijs rond haar handen. Jonas kan het niet lezen. Dat is het emotionele hoogtepunt van het boek.
+- **Tegenstrijdigheid:** ze is een moeder die vecht als een dier voor haar zoon en hem tegelijk verstopt. Wanneer Emiel in 1971 psychotisch wordt, vertelt ze de buren dat hij in Brussel studeert. Achttien jaar lang gaat ze elke zondag naar het ziekenhuis, met schone katoenen lakens, en praten ze over niets. Ze is de eerste van de familie die leeft in de wereld zonder grijs. Ze is er dankbaar voor en gaat eraan kapot.
+- **Haar grijs:** stervend, in 2004, vraagt ze Emiel om in het oude Blekegemse linnen te mogen liggen. Ze wil dat wat ze nooit zei eindelijk zichtbaar wordt. Na haar dood is er grijs rond haar handen. Emiel kan het niet lezen. Dat is het emotionele hoogtepunt van het boek.
 - **Stem:** kort, efficiënt, zorgzaam in daden, verlegen met woorden. Zegt "allee" als het gesprek te dicht bij iets komt.
 
-### Jonas Debaere (°1950), de verteller
+### Emiel Debaere (°1950), de verteller
 **Kleinzoon van Cyriel, zoon van Agnes. Vrijwilliger in het archief van de heemkundige kring.**
 
 - **Verlangen:** erbij horen. Daarom zegt hij "wij".
 - **Wonde:** in 1971, het jaar waarin de Leie rechtgetrokken wordt en de bleekweide wordt verkaveld, krijgt hij een eerste psychose. Hij brengt jaren door in een psychiatrisch ziekenhuis en later in beschut wonen. Het dorp noemt hem "de zoon van Agnes" en kijkt weg.
 - **Tegenstrijdigheid:** hij spreekt namens een dorp dat hem heeft buitengesloten. Hij is de meest betrouwbare bewaarder van het geheugen van Blekegem, terwijl zijn eigen herinneringen aan 1971 gebroken zijn. Hij houdt van zijn grootvader, de collaborateur die iedereen meed, omdat die de enige was die hem vasthield.
-- **Zijn plaats in het wonder:** geen. Jonas is geen ziener. Zijn ziekte is geen gave. Hij vindt de waarheid omdat hij nauwgezet is, tijd heeft en documenten leest die niemand anders leest. Hij leeft met medicatie, routine en een paar trouwe mensen.
+- **Zijn plaats in het wonder:** geen. Emiel is geen ziener. Zijn ziekte is geen gave. Hij vindt de waarheid omdat hij nauwgezet is, tijd heeft en documenten leest die niemand anders leest. Hij leeft met medicatie, routine en een paar trouwe mensen.
 - **Levensloop:** woont vanaf 1989 in een kleine sociale woning op de vroegere bleek. Hij woont dus letterlijk op de plaats waar het verhaal begon, zonder dat iemand dat nog weet. Vrijwilliger in het archief. In 2021 ontvangt hij een mail uit Roubaix. Zijn leven buiten zijn functie in het boek: zie de stemkaart (06).
 - **Stem:** precies, licht ouderwets, liefdevol, met een ironie die zich verontschuldigt. Gebruikt "wij" zoals een kind een te grote jas draagt. Drie keer in het boek glipt er een "ik" door, telkens meteen hersteld.
 
@@ -134,11 +134,11 @@ Selim Aydın (1946-2019) en zijn dochter Elif (°1976).
 
 - **Verlangen:** thuishoren, op twee plaatsen tegelijk.
 - **Tegenstrijdigheid:** hij leert West-Vlaams in het café voor hij Nederlands leert, en spreekt het beter dan de onderwijzer van zijn kinderen. Hij bouwt een huis in Blekegem en stuurt veertig jaar lang geld voor een huis in zijn geboortedorp waarin hij nooit woont. Hij wordt in 2019 in Turkije begraven.
-- **Rol:** hij bezoekt Jonas in het ziekenhuis wanneer de familie wegblijft. Ze kaarten, elke donderdag, achttien jaar lang. Hij vraagt nooit wat er scheelt. Dat is zijn manier van liefhebben, en het is een ander soort zwijgen dan dat van Blekegem.
+- **Rol:** hij bezoekt Emiel in het ziekenhuis wanneer de familie wegblijft. Ze kaarten, elke donderdag, achttien jaar lang. Hij vraagt nooit wat er scheelt. Dat is zijn manier van liefhebben, en het is een ander soort zwijgen dan dat van Blekegem.
 - **Stem:** traag, droog, onverwachte West-Vlaamse uitdrukkingen.
 
 ### Mira Debaere (°1997)
-**Kleindochter van Marleen, achternicht van Jonas. Woont in Gent.**
+**Kleindochter van Marleen, achternicht van Emiel. Woont in Gent.**
 
 - **Verlangen:** vrij zijn. Niets meedragen.
 - **Rol:** ontruimt in 2021 het huis van haar overleden grootmoeder en wil de kist met oud linnen als vintage verkopen. Ze kent de regel van het grijs niet meer: voor haar is het vergeling. Ze is de tegenhanger van Pharaïlde, 175 jaar later. Wat ze uiteindelijk met het laken doet, is de laatste keuze van het boek.
@@ -146,7 +146,7 @@ Selim Aydın (1946-2019) en zijn dochter Elif (°1976).
 ### Aurélie Callewaert (°1984)
 **Achterachterkleindochter van Gentiel. Lerares geschiedenis in Roubaix.**
 
-- **Rol:** haar mail brengt het slot op gang. Ze komt met de brieven die de Franse tak 150 jaar koesterde als de stem van een tedere Vlaamse voormoeder. Jonas ziet meteen het handschrift van Coleta. Twee families hebben dezelfde vrouw herschreven, de ene als schuldige, de andere als liefdevolle moeder. De waarheid ligt in een laken en in een Franse zin uit een veldwachtersrapport.
+- **Rol:** haar mail brengt het slot op gang. Ze komt met de brieven die de Franse tak 150 jaar koesterde als de stem van een tedere Vlaamse voormoeder. Emiel ziet meteen het handschrift van Coleta. Twee families hebben dezelfde vrouw herschreven, de ene als schuldige, de andere als liefdevolle moeder. De waarheid ligt in een laken en in een Franse zin uit een veldwachtersrapport.
 
 ### Het bedelkind (ca. 1841-?)
 Zes jaar, geen naam, geen herkomst. Slaapt op 1 augustus 1847 een middag op het linnen van de burgemeester. Wordt weggejaagd richting Frankrijk. Komt in het hele boek maar één keer letterlijk voor, in een opsomming in hoofdstuk 1, en staat in elk hoofdstuk in het centrum.
@@ -159,7 +159,7 @@ Zes jaar, geen naam, geen herkomst. Slaapt op 1 augustus 1847 een middag op het 
 - **Coleta en Medard:** de vrouw die alles verzwijgt, getrouwd met de man die alles zegt. Zijn witte lijkwade is haar breuk.
 - **Cyriel en Marguerite:** twee mensen die elkaars taal spreken uit respect en daardoor niets zeggen. Klasse en taal maken een liefde onmogelijk die beiden dragen.
 - **Cyriel en Robert Verhaeghe:** de idealist die collaboreert en de pragmaticus die accommodeert. Na de oorlog wordt alleen de eerste veroordeeld.
-- **Agnes en Jonas:** een moeder die haar zoon verstopt om hem te beschermen. Elke zondag, achttien jaar, schone lakens en geen woord.
-- **Jonas en Cyriel:** de buitengeslotene van de jaren zeventig en de buitengeslotene van na de oorlog. De enige omhelzing van het boek gaat tussen hen.
-- **Jonas en Selim:** twee mannen die niet bij het dorp horen en bij elkaar thuiskomen zonder dat het ooit benoemd wordt.
+- **Agnes en Emiel:** een moeder die haar zoon verstopt om hem te beschermen. Elke zondag, achttien jaar, schone lakens en geen woord.
+- **Emiel en Cyriel:** de buitengeslotene van de jaren zeventig en de buitengeslotene van na de oorlog. De enige omhelzing van het boek gaat tussen hen.
+- **Emiel en Selim:** twee mannen die niet bij het dorp horen en bij elkaar thuiskomen zonder dat het ooit benoemd wordt.
 - **De Vlaamse en de Franse tak:** een schuldige voormoeder en een liefdevolle voormoeder, en het is dezelfde vrouw.

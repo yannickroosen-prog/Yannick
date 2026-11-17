@@ -7,7 +7,7 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 3. [Hoofdstukarchitectuur](03-hoofdstukarchitectuur.md)
 4. [Openingspassage (ca. 1.500 woorden)](04-openingspassage.md)
 5. [Feiten- en tijdlijnregister, met wetten van het wonder en redactiebeslissingen](05-feitenregister.md)
-6. [Stemkaart en ritmecontract van Jonas](06-stemkaart-jonas.md)
+6. [Stemkaart en ritmecontract van Emiel](06-stemkaart-emiel.md)
 7. [Blinde lezing van de opening](07-blinde-lezing.md)
 
 Volgende fase: hoofdstuk 1 volledig.

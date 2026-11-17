@@ -22,7 +22,7 @@
 
 **1. Bevestigd: de lezer raadt het kind.** Daarmee is beslissing B1 uit het feitenregister juist: dit is een tragedie, geen mysterie. Wat de lezer *niet* raadde, is precies waar het slot op moet steunen: het woord *blijf*, waarom Pharaïlde de schuld liet staan, Coleta's vervalste moederbrieven en wie het "ik" is. De lezer gokte verkeerd over het "ik", en dat is goed.
 
-**2. Een onbedoelde winst: de pet.** De lezer las de nieuwe pet als zwijggeld en vermoedde dat het kind dood was. Dat is een sterker spanningsveld dan gepland: de lezer vreest dat het kind omkwam, het boek weet het nooit. Behouden. In h21 vindt Jonas wél het proces-verbaal, maar níet wat er van het kind geworden is. Die onwetendheid blijft.
+**2. Een onbedoelde winst: de pet.** De lezer las de nieuwe pet als zwijggeld en vermoedde dat het kind dood was. Dat is een sterker spanningsveld dan gepland: de lezer vreest dat het kind omkwam, het boek weet het nooit. Behouden. In h21 vindt Emiel wél het proces-verbaal, maar níet wat er van het kind geworden is. Die onwetendheid blijft.
 
 **3. Pharaïlde leeft nog maar half.** Ze had geen lichaam, geen eigen woord, geen gebaar zonder symboliek. Dat is het belangrijkste inhoudelijke punt.
 
