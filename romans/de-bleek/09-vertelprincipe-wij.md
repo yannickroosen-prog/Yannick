@@ -20,11 +20,30 @@ De lezer ontdekt de onbetrouwbaarheid zelf, op drie manieren:
 |---|---|
 | Er was een getuige (Mietje, de koster, de buren) | gewoon als feit, eventueel met de getuige erbij ("Mietje zei dat …") |
 | Er was geen getuige | ook als feit, zonder voorbehoud. Nooit "we weten niet", "misschien", "naar men zegt" |
-| Het dorp heeft een oordeel | als vaststelling, niet als mening ("Toen we de datum zagen, wisten we wat we wilden weten") |
+| Het dorp heeft een oordeel | als vaststelling, niet als mening ("Toen Mietje de datum had gezien, viel alles op zijn plaats") |
 | Wat er werkelijk in een hoofd omgaat | **niet**, of alleen zoals het dorp het zou raden: van buitenaf, met gebaren als bewijs |
 | Het dorp weet het echt niet | het vult de leegte met een stellige versie, of het negeert de leegte. Het zegt nooit dat het niets weet. |
 
 **Pharaïlde** blijft daardoor van buiten gezien. Het dorp vertelt wat ze deed, zo zeker alsof het erbij was, maar nooit wat ze dacht. Haar binnenkant blijft het enige wat het dorp niet kan verzinnen. Dat is precies wat de lezer later moet voelen.
+
+## Aanvullende regels (goedgekeurd vóór hoofdstuk 2)
+
+### A. Onbetrouwbaarheid is meer dan alwetendheid
+
+Een verteller die scènes zonder getuigen beschrijft, is voor de lezer niet vanzelf onbetrouwbaar: lezers zijn alwetende vertellers gewend. Daarom:
+
+> Het "wij" verzint niet willekeurig. Waar kennis ontbreekt, vult het dorp de leegte met wat het al gelooft over de betrokken persoon. Zijn verbeelding volgt de sociale verhoudingen. Onbetrouwbaarheid blijkt uit concrete tegenstrijdigheden, niet uitsluitend uit onmogelijke kennis.
+
+Gevolgen voor het schrijven:
+- Over mijnheer verzint het dorp ontzag en spot. Over een bleekster schuld. Over een vreemde niets: vreemden worden niet verbeeld, alleen weggeleid.
+- Elke verzonnen scène kleurt mee met wat het dorp over die persoon gelooft. De lezer moet die kleur kunnen herkennen.
+- Concrete weerleggingen (een akte, een datum, een brief, een tweede getuige) wegen zwaarder dan het vermoeden dat er niemand bij was. Elk deel bevat er minstens één.
+
+### B. Het "wij" ontmaskert zichzelf niet
+
+Het dorp gelooft zijn eigen verzinsels. Het "wij" mag niet laten merken dat het weet hoe selectief het oordeelt. Formuleringen die zelfinzicht verraden ("we wisten wat we wilden weten") zijn niet toegestaan. Het dorp klinkt zelfverzekerd, niet zelfbewust: "Toen Mietje de datum had gezien, viel alles op zijn plaats."
+
+De echte erkenning van het eigen ongelijk is voorbehouden aan Emiels overgang naar het "ik" in hoofdstuk 22. Dat is ook een morele verandering: hij leert onderscheid maken tussen wat hij weet en wat hij graag zou geloven.
 
 ## Wat dit betekent voor Emiel
 

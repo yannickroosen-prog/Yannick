@@ -46,7 +46,7 @@ Langs de bleek liep een greppel die vanuit de Leie volliep, en met een houten sc
 
 Op zaterdagavond, als de opzichter van mijnheer naar huis was, werd er gewed wie het verst kon werpen. Pharaïlde won dat jaar drie keer. Ze nam de schep laag, draaide vanuit de heupen, en het water ging over twee banen heen en viel op de derde zoals een bui valt, gelijkmatig, van de ene zoom tot de andere. De derde keer zei Leonie Debruyne dat ze over de streep had gestaan. Pharaïlde had over de streep gestaan. Ze nam het ei toch, het ei dat Mietje had ingezet, en zei tegen Leonie dat wie niet ver kon werpen beter kon leren tellen, en de hele bleek hoorde het, en Mietje zei er die avond niets over, en de week daarna ook niet.
 
-'s Nachts sliepen we in hutten van stro aan de rand van de weide, omdat er dieven waren en omdat een laken dat één nacht droog bleef een week achterop raakte. Er werd die zomer meer gestolen dan ooit. Niemand stal linnen, dat kun je niet eten. Ze stalen de botermelk uit de kuipen.
+'s Nachts sliepen we in hutten van stro aan de rand van de weide, omdat er dieven waren en omdat een laken dat één nacht droog bleef een week achterop raakte. Er werd die zomer meer gestolen dan ooit, maar nooit linnen: alleen de botermelk uit de kuipen.
 
 Elke avond kwam Ivo over de dijk met een stuk brood in een doek, en ze zaten samen voor de hut tot het donker was. Mietje sliep in de hut ernaast en wist wat ze zeiden: niets.
 
@@ -76,7 +76,7 @@ Toen we die avond terugkwamen van het lof, zat ze voor de hut met haar handen in
 
 ---
 
-Van die zomer weten we nog dat de rogge op de markt van Kortrijk achtendertig frank de hectoliter kostte. Dat de tyfus in de Molenhoek elf mensen meenam en daarna de koster, zodat de klok van Sint-Amandus drie dagen niet geluid werd. Dat Lagae een paling van anderhalve meter in zijn fuik vond en hem drie dagen voor een centiem in een tobbe op het plein liet zien, en dat de paling in de vierde nacht verdween, waarna het in de Leiestraat een week naar gebakken vis rook, in meer huizen dan er paling kon zijn geweest. Dat de zoon van de smid naar Rijsel vertrok en niet terugkwam, en dat zijn moeder zijn klompen tot Allerheiligen op de vensterbank liet staan. Dat de zwaluwen vroeg vertrokken. Dat veldwachter Ghekiere op Lijnwaadzondag, na het lof, een bedelkind van de bleek joeg, zoals hij die zomer bijna elke dag een bedelkind ergens vanaf joeg, van de kerkhofmuur, uit de schuur van Lagae, uit de rij voor de soep, en dat mijnheer hem in de herfst een nieuwe pet gaf. Dat de pastoor op de zondag daarna preekte over Job, en dat de mensen die nog iets te verliezen hadden het een schone preek vonden.
+Van die zomer weten we nog dat de rogge op de markt van Kortrijk achtendertig frank de hectoliter kostte. Dat de tyfus in de Molenhoek elf mensen meenam en daarna de koster, zodat de klok van Sint-Amandus drie dagen niet geluid werd. Dat Lagae een paling van anderhalve meter in zijn fuik vond en hem drie dagen voor een centiem in een tobbe op het plein liet zien, en dat de paling in de vierde nacht verdween, waarna het in de Leiestraat een week naar gebakken vis rook, in meer huizen dan er paling kon zijn geweest. Dat de zoon van de smid naar Rijsel vertrok en niet terugkwam, en dat zijn moeder zijn klompen tot Allerheiligen op de vensterbank liet staan. Dat de zwaluwen vroeg vertrokken. Dat veldwachter Ghekiere op Lijnwaadzondag een bedelkind van de bleek joeg, en dat mijnheer hem in de herfst een nieuwe pet gaf. Dat de pastoor op de zondag daarna preekte over Job, en dat de mensen die nog iets te verliezen hadden het een schone preek vonden.
 
 ---
 
@@ -90,7 +90,7 @@ Ik heb dat grijs gezien. Wij hebben het allemaal gezien. Het is lang genoeg bij 
 
 Mietje Lagae kwam erbij staan en nam het andere eind van het laken, en ze hielden het samen tussen zich in tegen de lucht, zoals om het te vouwen. Mietje keek naar het grijs en daarna naar Pharaïlde, en daarna weer naar het grijs.
 
-“Dat en gaat er nie meer uit,” zei ze, en ze zei het vriendelijk. Ze hielp het laken vouwen, zodat de andere vrouwen het niet zagen, en vertelde het die avond aan Lagae, die het de volgende ochtend vertelde in In de Zwaan, waar het een week lang het enige was waarover gesproken werd, behalve de paling.
+“Dat en gaat er nie meer uit,” zei ze, en ze zei het vriendelijk. Ze hielp het laken vouwen, zodat de andere vrouwen het niet zagen. Die avond vertelde ze het aan Lagae. De volgende ochtend wist heel In de Zwaan het, en een week lang werd er over niets anders gesproken, behalve over de paling.
 
 ---
 
@@ -126,11 +126,11 @@ Ze stikte het diezelfde avond, bij die kaarsstomp, aan de tafel in de achterkame
 
 ---
 
-Toen Mietje de datum had gezien, wisten we wat we wilden weten. Een moeder die in mei een kind verliest, in een nacht dat ze in slaap viel. Een moeder die op Lijnwaadzondag niet meeloopt in de processie. Een grijs in de vorm van een kind, op een laken waarbij ze die middag alleen was geweest. We hadden het verhaal af voor zij het laken had opgevouwen.
+Toen Mietje de datum had gezien, viel alles op zijn plaats. Een moeder die in mei een kind verliest, in een nacht dat ze in slaap viel. Een moeder die op Lijnwaadzondag niet meeloopt in de processie. Een grijs in de vorm van een kind, op een laken waarbij ze die middag alleen was geweest. We hadden het verhaal af voor zij het laken had opgevouwen.
 
-Dat de datum niet klopte, zag niemand, of het kon niemand iets schelen. In mei had ze moeten werken, zeiden we. Op Lijnwaadzondag was ze alleen geweest. Dat was genoeg.
+Dat de datum niet klopte, zag niemand. In mei had ze moeten werken, zeiden we. Op Lijnwaadzondag was ze alleen geweest. Dat was genoeg.
 
-Wat er volgens ons gebeurd was, zeiden we niet hardop, maar we zeiden het zachtjes tegen elkaar, bij de pomp, in de rij voor de soep, en in de biechtstoel tegen pastoor Delbeke, die naar honing rook en het al wist. Mietje Lagae vertelde over de ochtend in mei en over de tweede zin, vriendelijk, en wie het hoorde, knikte. Toen Pharaïlde die winter in de kerk kwam, schoven de vrouwen in de bank een beetje op, een hand breed, zoals je opschuift voor iemand die nat binnenkomt.
+Wat er volgens ons gebeurd was, zeiden we niet hardop, maar we zeiden het zachtjes tegen elkaar, bij de pomp, in de rij voor de soep, en in de biechtstoel tegen pastoor Delbeke, die het al wist. Mietje Lagae vertelde over de ochtend in mei en over de tweede zin, en wie het hoorde, knikte. Toen Pharaïlde die winter in de kerk kwam, schoven de vrouwen in de bank een beetje op, een hand breed, zoals je opschuift voor iemand die nat binnenkomt.
 
 In januari, aan de pomp, zei Leonie Debruyne het bijna hardop. Ze zei dat sommige mensen goed sliepen, en dat dat een gave was die God niet aan iedereen gaf. Er stonden vier vrouwen bij de pomp. Ze keken alle vier naar het water in hun emmers.
 
