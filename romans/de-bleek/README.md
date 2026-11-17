@@ -26,5 +26,6 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 16. [Hoofdstuk 5: Brieven uit Roubaix](manuscript/hoofdstuk-05.md) en [werknotities](manuscript/hoofdstuk-05-notities.md)
 17. [Hoofdstuk 6: Het sluiswachtershuis](manuscript/hoofdstuk-06.md) en [werknotities](manuscript/hoofdstuk-06-notities.md)
 18. [Hoofdstuk 7: Het afleggen](manuscript/hoofdstuk-07.md) en [werknotities](manuscript/hoofdstuk-07-notities.md)
+19. [Hoofdstuk 8: De meester](manuscript/hoofdstuk-08.md) en [werknotities](manuscript/hoofdstuk-08-notities.md)
 
-Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Volgende fase: hoofdstuk 8 (De meester), met de dood van Pharaïlde.
+Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Volgende fase: hoofdstuk 9 (Etappe), het keerpunt van deel II.
