@@ -97,7 +97,7 @@ Selim Aydın (1946-2019) en zijn dochter Elif (°1976).
 - **Verlangen:** ergens thuishoren. Hij wil een Vlaams volk als thuis, omdat hij er in zijn eigen familie geen voelde.
 - **De leugen die hij gelooft:** *een volk dat zijn taal verliest, verliest zijn ziel.* Hij verliest zijn eigen ziel voor die zin.
 - **Tegenstrijdigheid:** uit liefde voor het Nederlands leert hij de kinderen hun dialect af, met een lat op de vingers voor wie "ik zijn" zegt in plaats van "ik ben". Hij zegt dus de taal van zijn moeder vaarwel om haar te redden. Hij is zacht, beminnelijk en wordt een collaborateur. Hij is de enige man in vier generaties die een kind teder vasthoudt: zijn kleinzoon Emiel, in 1950, vlak na zijn vrijlating.
-- **Zijn grijs:** in 1943 weet hij de datum van een razzia voor de verplichte tewerkstelling in Duitsland. Hij waarschuwt Marcel Desmet niet, de zoon van de tuinman van het kasteel. Marcel sterft in 1944 in Duitsland. Leontine ziet het grijs in hun laken en vraagt niets.
+- **Zijn grijs:** in 1943 weet hij de datum van een razzia voor de verplichte tewerkstelling in Duitsland. Hij waarschuwt Marcel Verstraete niet, de zoon van de tuinman van het kasteel. Marcel sterft in 1944 in Duitsland. Leontine ziet het grijs in hun laken en vraagt niets.
 - **Levensloop:** in 1946 veroordeeld. Burgemeester Robert Verhaeghe getuigt tegen hem om zijn eigen accommodatie met de bezetter toe te dekken. Vrij in 1950. Leeft tot 1961 in de achterkamer bij zijn dochter en zingt Gezelle voor Emiel.
 - **Stem:** onderwijzend, keurig Nederlands, met plots een West-Vlaams woord dat ontsnapt.
 

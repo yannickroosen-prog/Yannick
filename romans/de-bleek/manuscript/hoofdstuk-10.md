@@ -34,7 +34,7 @@ Hij was achtenveertig. Hij had grijs haar dat hij nog altijd met water plat stre
 
 Agnes zong in het koor. Ze was zestien. Ze had sinds gisteren een permanent, gezet in Kortrijk bij een kapper aan de Grote Markt, samen met twee meisjes van de spinnerij, en ze had de hele nacht op haar rug geslapen om hem niet te pletten. Ze stond op de tweede rij, bij de sopranen, en zong vals bij het Kyrie omdat ze naar beneden keek, naar de jongens van de Molenhoek op de achterste banken, en haar vader zag het en tikte met zijn stokje op de lessenaar, en ze keek weer naar haar blad.
 
-Wie op de achterste banken zaten, daarover bestaan twee versies. De Molenhoek zegt: de zonen van Debaere, van Ameye, van Vanhee, de neven van de fluiter. Wie op de tweede rij stond, zegt: Roger Debaere, en de anderen deden er niet toe.
+Op de achterste banken zaten de zonen van Debaere, van Ameye en van Vanhee, en de neven van de fluiter. Wie op de tweede rij bij de sopranen stond, zag er maar één: Roger Debaere.
 
 ---
 
@@ -118,7 +118,7 @@ Het koor zong zes liederen. De meester dirigeerde met zijn rug naar het publiek,
 
 Mademoiselle Verhaeghe stond achteraan, aan de kant van de pomp, alleen, met een hoed zonder veer. Ze was zevenenveertig. Ze kwam elk jaar naar het zangfeest en elk jaar stond ze achteraan, en elk jaar applaudisseerde ze na elk lied, met haar handschoenen aan, zodat je het niet hoorde. Ze bleef tot het einde. Na het laatste lied draaide de meester zich om en boog, en hij keek over het plein, en hij keek naar de kant van de kerk en naar de kant van de pomp, en achteraan stond Mademoiselle Verhaeghe, en ze keek naar hem.
 
-Wat er toen gebeurde, daarover zijn we het niet eens. Aan de kant van de kerk zeggen ze dat de meester knikte. Aan de kant van de pomp zeggen ze dat hij zich omdraaide. Leontine stond tussen de alten en zag het niet. Mademoiselle Verhaeghe ging naar huis, langs de dijk, en kocht onderweg een kermiskoek, een kleine, zonder hart.
+Hij bleef even zo staan, met het stokje nog in zijn hand. Daarna draaide hij zich om naar het koor en gaf het teken dat ze van het podium mochten. Mademoiselle Verhaeghe ging naar huis, langs de dijk, en kocht onderweg een kermiskoek, een kleine, zonder hart.
 
 ---
 

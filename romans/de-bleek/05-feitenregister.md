@@ -94,7 +94,7 @@ Zie de lijst in de hoofdstukarchitectuur, sectie "Het leven dat gewoon gebeurt".
 | 1938 | Coleta sterft | 11 |
 | 1939 | Rootverbod in de Leie afgekondigd. Marguerite slaapt voor het eerst in de laatste rol | 11 |
 | 1940 | Tweede bezetting | 12 |
-| 1943 | Rootverbod treedt in werking. Razzia. Cyriel waarschuwt Marcel Desmet niet | 12 |
+| 1943 | Rootverbod treedt in werking. Razzia. Cyriel waarschuwt Marcel Verstraete niet | 12 |
 | 1944 | Marcel sterft in Duitsland. Bevrijding (sept.). Cyriel opgepakt | 12, 13 |
 | 1946 | Proces. Agnes trouwt met Roger Debaere | 13 |
 | 1947 | Marleen geboren | 13 |

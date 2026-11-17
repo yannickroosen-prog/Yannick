@@ -169,7 +169,7 @@ Wat elke generatie toevoegt:
 ### 12. De lijst
 **1940-1944 · Cyriel · 5.200 woorden · druk: dreiging, schuld · MIDDEN VAN HET BOEK**
 - **Functie:** het morele zwaartepunt, en het einde van het wonder.
-- **Inhoud:** tweede bezetting. Cyriel in de gemeenteraad van de Nieuwe Orde. Robert blijft burgemeester en tekent wat hem voorgelegd wordt. De lijsten voor de verplichte tewerkstelling. Cyriel kent de datum van een razzia en waarschuwt Marcel Desmet niet. Marcel sterft in 1944 in Duitsland. Het rootverbod van 1943: het laatste vlas gaat de Leie in. Leontine ziet het grijs in hun laken.
+- **Inhoud:** tweede bezetting. Cyriel in de gemeenteraad van de Nieuwe Orde. Robert blijft burgemeester en tekent wat hem voorgelegd wordt. De lijsten voor de verplichte tewerkstelling. Cyriel kent de datum van een razzia en waarschuwt Marcel Verstraete niet. Marcel sterft in 1944 in Duitsland. Het rootverbod van 1943: het laatste vlas gaat de Leie in. Leontine ziet het grijs in hun laken.
 - **Waardeverschuiving:** zwijgen laat een spoor na → vanaf nu niet meer. De oorzaak van het laatste grote grijs is een man die zich voor zijn volk opofferde en het niet voor één jongen deed.
 - **Slotwending:** de laatste rootkassen drijven leeg naar Gent.
 

@@ -20,7 +20,7 @@
 3. **Het geheim van 1847:** niet aangeraakt in dit hoofdstuk, bewust. De foto van Medard aan de sluis met de te kleine pet staat op de schoorsteenmantel, gewoon als foto.
 4. **Roubaix:** Agnes vraagt naar Rosalie. "Er is er geen." – "Omdat er geen gemaakt is." – "Ze kon lachen. Lijk haar vader."
 5. **Het "wij" spreekt opnieuw met tegenstrijdige stemmen.**
-   - De twee cafés vertellen telkens een andere versie: de tuba, Fernand in het koor, de achterste banken, of de meester knikte of zich omdraaide.
+   - De twee cafés vertellen telkens een andere versie: de tuba, Fernand in het koor, de achterste banken.
    - Leontine en Fernands vrouw geven elk hun eigen getuigenis.
    - Geen "In de Leiestraat zeiden we".
 6. **De procedés rusten.**
@@ -39,3 +39,8 @@
 - **Minerva:** Belgisch automerk uit Antwerpen.
 - **Taalwet van 1921** voor het bestuur in Vlaanderen. De eentaligheidswetten volgen in 1932 (h11).
 - **De stank van het rootvlas in de Leiestreek** in september: te controleren.
+
+## Redactiebeslissing
+De tegenspraak over Cyriel en Marguerite na het zangfeest (knikte hij of draaide hij zich om) is geschrapt: het procedé was herkenbaar geworden en had geen gevolg. Nu staat er een gewone handeling. Ook de "twee versies" over de achterste banken zijn vervangen door het gezichtspunt van Agnes.
+
+**Namen:** Desmedt is de klerk van mijnheer (1847-1858) en klopt overal. Ameye is de koper van Ivo's pik (vroeger "Desmet"). Marcel Desmet, het slachtoffer van 1943, heet voortaan Marcel Verstraete, om verwarring met Desmedt te vermijden.
