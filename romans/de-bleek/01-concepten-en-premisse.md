@@ -95,7 +95,7 @@ Ik beoordeel de drie concepten op de toetsstenen uit de opdracht, plus één ext
 
 **De bleek**
 
-In Blekegem, een dorp in een bocht van de Leie, bleekt men linnen met rivierwater, beukenas, karnemelk en zon. Wat daarna nog grijs in de stof blijft, heeft iemand niet gezegd. Het dorp noemt het zwijg en kijkt er niet van op. De rijken kopen elk jaar nieuw linnen. De armen slapen in het grijs van hun ouders.
+In Blekegem, een dorp in een bocht van de Leie, bleekt men linnen met rivierwater, beukenas, botermelk en zon. Wat daarna nog grijs in de stof blijft, heeft iemand niet gezegd. Het dorp noemt het zwijg en kijkt er niet van op. De rijken kopen elk jaar nieuw linnen. De armen slapen in het grijs van hun ouders.
 
 In de hongerzomer van 1847 vindt de bleekster Pharaïlde Callewaert, drie maanden nadat haar pasgeboren dochter is gestorven, een laken van de burgemeester terug met de grijze vorm van een slapend kind erin. Het dorp leest er haar schuld in. Zij spreekt het nooit tegen. Ze koopt het afgekeurde laken met elf weken loon, stikt een datum in de zoom en legt het in de wieg. Vanaf dan wordt elk kind van de familie bij zijn geboorte in dat grijs gelegd.
 

@@ -126,7 +126,7 @@ Selim Aydın (1946-2019) en zijn dochter Elif (°1976).
 - **Wonde:** in 1971, het jaar waarin de Leie rechtgetrokken wordt en de bleekweide wordt verkaveld, krijgt hij een eerste psychose. Hij brengt jaren door in een psychiatrisch ziekenhuis en later in beschut wonen. Het dorp noemt hem "de zoon van Agnes" en kijkt weg.
 - **Tegenstrijdigheid:** hij spreekt namens een dorp dat hem heeft buitengesloten. Hij is de meest betrouwbare bewaarder van het geheugen van Blekegem, terwijl zijn eigen herinneringen aan 1971 gebroken zijn. Hij houdt van zijn grootvader, de collaborateur die iedereen meed, omdat die de enige was die hem vasthield.
 - **Zijn plaats in het wonder:** geen. Jonas is geen ziener. Zijn ziekte is geen gave. Hij vindt de waarheid omdat hij nauwgezet is, tijd heeft en documenten leest die niemand anders leest. Hij leeft met medicatie, routine en een paar trouwe mensen.
-- **Levensloop:** woont vanaf 1989 in een kleine sociale woning op de vroegere bleek. Hij woont dus letterlijk op de plaats waar het verhaal begon, zonder dat iemand dat nog weet. Vrijwilliger in het archief. Tot 2021 ontvangt hij een mail uit Roubaix.
+- **Levensloop:** woont vanaf 1989 in een kleine sociale woning op de vroegere bleek. Hij woont dus letterlijk op de plaats waar het verhaal begon, zonder dat iemand dat nog weet. Vrijwilliger in het archief. In 2021 ontvangt hij een mail uit Roubaix. Zijn leven buiten zijn functie in het boek: zie de stemkaart (06).
 - **Stem:** precies, licht ouderwets, liefdevol, met een ironie die zich verontschuldigt. Gebruikt "wij" zoals een kind een te grote jas draagt. Drie keer in het boek glipt er een "ik" door, telkens meteen hersteld.
 
 ### Selim Aydın (1946-2019)

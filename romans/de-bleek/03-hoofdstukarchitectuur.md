@@ -255,3 +255,15 @@ Wat elke generatie toevoegt:
 - Het tijdstip van de komst van Turkse arbeiders in de Kortrijkse textielnijverheid.
 
 Lijnwaadzondag, de bleek van Blekegem, de Krommen en het wonder zijn verzonnen. De historische achtergrond moet kloppen, zodat het wonder dat niet hoeft te doen.
+
+---
+
+## Het leven dat gewoon gebeurt
+
+*Toegevoegd na de eerste redactieronde. Een roman waarin elk detail het thema bewijst, wordt een mechanisme. Vuistregel: ongeveer een op de drie scènes draagt geen motief. Niemand zwijgt erin, niets wordt grijs, niemand erft iets. Het leven gebeurt gewoon. Een eerste lijst, aan te vullen tijdens het schrijven:*
+
+- **Deel I.** Een paling van anderhalve meter in de fuik van Lagae, die drie dagen in een tobbe op het plein wordt tentoongesteld. De pastoor die bijen houdt en in de biechtstoel naar honing ruikt. Een wedstrijd tussen bleeksters wie het verst water kan werpen.
+- **Deel II.** Medards mislukte poging om tabak te kweken. De eerste fiets in het dorp, van de dokter, die er drie keer mee in de Leie rijdt. Een hagelbui in 1891 die alle ramen van de serre van het kasteel breekt. Coleta die elk jaar een prijs wint met haar konijnen.
+- **Deel III.** De tuba van de fanfare die op de kermis van 1928 gestolen wordt en nooit terugkomt. Een vlasboer die een auto koopt en hem alleen op zondag uit de schuur rijdt, met zijn vrouw ernaast en de hond achterin. Agnes' vriendinnen en hun eerste permanent.
+- **Deel IV.** De busreis van de parochie naar Expo 58. Eddy Merckx in 1969 door de Leiestraat. Een man in de Molenhoek die twaalf jaar lang een boot bouwt in zijn garage en ontdekt dat hij er niet uit kan. Selim die bij de wielerclub gaat en de enige is die de cols van de Kemmelberg zonder afstappen haalt.
+- **Deel V.** Jonas' rode kater. Het zwembad op dinsdag en vrijdag. Een ruzie in de heemkundige kring over de juiste schrijfwijze van "Leiestraat" op een oude kaart. Rita die hem leert dat je een stoverij niet met bruin bier maar met oud bruin maakt, en gelijk heeft.

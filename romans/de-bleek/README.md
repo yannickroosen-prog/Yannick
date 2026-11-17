@@ -6,5 +6,8 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 2. [Personages](02-personages.md)
 3. [Hoofdstukarchitectuur](03-hoofdstukarchitectuur.md)
 4. [Openingspassage (ca. 1.500 woorden)](04-openingspassage.md)
+5. [Feiten- en tijdlijnregister, met wetten van het wonder en redactiebeslissingen](05-feitenregister.md)
+6. [Stemkaart en ritmecontract van Jonas](06-stemkaart-jonas.md)
+7. [Blinde lezing van de opening](07-blinde-lezing.md)
 
-Volgende fase: stemkaart en ritmecontract (book-genesis fase 1), continuïteitsregister (fase 2), daarna hoofdstuk 1 volledig.
+Volgende fase: hoofdstuk 1 volledig.
