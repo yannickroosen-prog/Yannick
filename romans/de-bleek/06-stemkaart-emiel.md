@@ -35,7 +35,7 @@ Emiel vertelt 176 jaar. Hij weet niet alles op dezelfde manier, en de lezer moet
 ### Spelregels
 
 1. **Binnenwereld groeit met de tijd.** In deel I geeft Emiel bijna nooit gedachten weer. Pharaïlde wordt alleen van buiten gezien: gebaren, werk, wat het dorp zag. Hoe dichter de vertelling bij zijn eigen leven komt, hoe meer binnenwereld er mag zijn. Daardoor blijft Pharaïlde een raadsel tot het einde, en dat klopt: niemand heeft haar gekend.
-2. **Geen voetnoten van de verteller.** Emiel zegt niet bij elke scène dat hij ze verzint. Hij zegt het hoogstens vijf keer in het hele boek, op plaatsen waar het ertoe doet (h3, h9, h12, h19, h22).
+2. **Geen voetnoten van de verteller.** Het "wij" verontschuldigt zich nooit voor wat het weet. Zie het vertelprincipe in `09-vertelprincipe-wij.md`, dat deze regel vervangt.
 3. **Het archief spreekt in zijn eigen taal.** Franse en Latijnse citaten worden niet vertaald waar de context volstaat. In h21 vertaalt Emiel één zin, en dat is een daad.
 4. **Eigen herinnering mag fout zijn.** Emiel verbetert zichzelf of laat anderen hem verbeteren (Marleen, Elif, Rita). Over 1971 zegt hij eerlijk wat hij niet meer weet.
 5. **Het "ik".** Drie keer glipt het door: h1 ("Ik heb dat grijs gezien"), h16 en h19. Telkens meteen opgevangen door "wij". In h22 blijft het staan.

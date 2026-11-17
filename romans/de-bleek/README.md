@@ -11,6 +11,7 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 7. [Blinde lezing van de opening](07-blinde-lezing.md)
 8. [Blinde lezing van hoofdstuk 1, met voorstellen](08-blinde-lezing-h1.md)
 
-9. [Hoofdstuk 1: Lijnwaadzondag](manuscript/hoofdstuk-01.md) en [werknotities](manuscript/hoofdstuk-01-notities.md)
+9. [Vertelprincipe van het "wij"](09-vertelprincipe-wij.md)
+10. [Hoofdstuk 1: Lijnwaadzondag](manuscript/hoofdstuk-01.md) en [werknotities](manuscript/hoofdstuk-01-notities.md)
 
-Volgende fase: blinde lezing van hoofdstuk 1, daarna hoofdstuk 2 (Witte vuren).
+Volgende fase: nieuwe blinde lezing van hoofdstuk 1 (versie 2), daarna hoofdstuk 2 (Witte vuren).
