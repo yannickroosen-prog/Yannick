@@ -1,5 +1,21 @@
 ## 7. Het afleggen
 
+In de zomer van drieënnegentig vingen Cyriel en Rosalie een snoek in de kolk onder de sluis.
+
+Cyriel was dertien en Rosalie negen, en ze hadden er drie weken over gedaan, met een haak die Cyriel van een spijker had gebogen en een lijn van Medards schoenveter, en toen de snoek beet, trok hij Rosalie bijna mee het water in. Hij was zo lang als haar arm. Ze legden hem in de regenton achter het huis, onder de goot, met een plank erop, en vertelden het niemand.
+
+Ze hielden hem negen dagen. Ze voerden hem pieren die Rosalie in de moestuin uitgroef en stukjes spek die Cyriel van zijn eigen bord stal, en de snoek at niets en keek naar hen als ze de plank optilden. Ze noemden hem Desmedt, naar de oude klerk van het kasteel, die Medard nog altijd nadeed als hij iemand wilde laten lachen.
+
+Op de negende dag zei Cyriel dat de snoek dood zou gaan als ze hem niet teruggaven. Rosalie zei dat hij van haar was, omdat zij de pieren groef. Cyriel zei dat hij van hem was, omdat hij de haak had gebogen. Ze vochten erom achter de regenton, met hun knieën in de modder, tot Rosalie hem in zijn arm beet en Cyriel haar vlecht losrukte, en ze gingen elk aan een kant van het huis zitten en zeiden een uur niets.
+
+Toen Rosalie terugkwam, lag de plank naast de ton. Cyriel stond met zijn armen tot aan zijn ellebogen in het water en kreeg de snoek niet te pakken. Rosalie hielp. Ze kregen hem met z'n tweeën in de afwasteil van hun moeder en droegen hem naar de kolk, en halverwege sprong hij eruit, op het jaagpad, en sloeg met zijn staart in het stof, en ze lagen allebei op hun knieën en probeerden hem te grijpen, en hij glipte weg, en nog eens, en Rosalie begon te lachen en kon niet meer ophouden, en Cyriel ook niet, en de snoek gleed van het jaagpad in de Leie en was weg.
+
+Ze bleven nog een kwartier in het stof zitten, met de afwasteil tussen hen in.
+
+Coleta heeft het nooit geweten. Ze vroeg die avond waarom de afwasteil vol modder was en waarom Rosalies vlecht los hing, en ze kreeg twee verschillende antwoorden, en ze vroeg niet verder, omdat het eten op tafel moest.
+
+---
+
 Het was een dinsdag in maart, en er gebeurde niets. Coleta schilde aardappelen aan de tafel in het sluiswachtershuis. Rosalie was op de spinnerij, Cyriel in de school, waar hij sinds vier jaar zelf voor de klas stond. Pharaïlde zat bij de kachel met haar handen in haar schoot, wat ze nu vaak deed, sinds ze achtenzeventig was en haar schouders niets meer wilden. Medard kwam binnen van de sluis voor zijn koffie en vertelde over een schipper uit Deinze die een geit aan boord had die alleen Frans verstond.
 
 Het was geen goed verhaal. Medard vertelde het slecht, met het einde in het midden. Pharaïlde lachte. Kort, met haar hand voor haar mond.

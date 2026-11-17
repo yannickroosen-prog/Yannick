@@ -156,3 +156,16 @@ Zie de lijst in de hoofdstukarchitectuur, sectie "Het leven dat gewoon gebeurt".
 | Verplichte tewerkstelling vanaf oktober 1942; rol van gemeentebesturen | te controleren | h12 |
 | Turkse arbeiders in de Kortrijkse textiel, tweede helft jaren zestig | te controleren | h15 |
 | Gemeentefusie 1977 en de toewijzing van Blekegem | verzonnen dorp, wel logisch houden | h16 |
+
+---
+
+## 7. Archiefketen van het proces-verbaal van 1847 (intern)
+
+*Zo komt het document waarop h21 rust bij Emiel. In het boek wordt deze keten nooit uitgelegd. Op elke plaats waar ze de tekst raakt, gebeurt dat als een gewone handeling met een eigen reden.*
+
+1. **1 augustus 1847.** Veldwachter Ghekiere kan nauwelijks schrijven. Zijn proces-verbaal wordt opgesteld door Desmedt, de klerk van mijnheer, die in die jaren ook het secretariaatswerk van de gemeente doet. Het is in het Frans, zoals de gemeentelijke stukken, en gericht aan *M. le Bourgmestre*. Ghekiere zet zijn handtekening. Mijnheer leest het niet: het is een van de tientallen verslagen over bedelaars die zomer.
+2. **1847-1878.** De gemeentepapieren liggen in het kantoor van mijnheer naast het gemeentehuis, in dozen per onderwerp. Een kleine gemeente heeft geen eigen archiefruimte. De doos heet *Police rurale 1842-1878*.
+3. **1890 (na de dood van mijnheer).** Edmond sluit het oude kantoor en laat alle papieren, die van de zaak en die van de gemeente door elkaar, naar de zolder van het kasteel brengen.
+4. **1930 (h11).** Het honderdjarig bestaan van België. De gemeentesecretaris vraagt Marguerite om oude registers voor een tentoonstelling in de parochiezaal. Zij heeft daarnaast haar eigen reden: het dak van de zolder lekt en ze moet hem leegmaken. Ze geeft "alles wat van de gemeente is" mee, een kar vol dozen. Wat erin zit, bekijkt niemand. De dozen gaan naar de zolder van het gemeentehuis. In de tekst is dit één zin in een opsomming van wat Marguerite die winter wegdoet.
+5. **1977.** Bij de fusie verhuist het archief van het gemeentehuis naar het centrale archief van de fusiegemeente, in dozen met een nieuw nummer.
+6. **1990-2022.** De heemkundige kring inventariseert de oude Blekegemse dozen. Emiel vindt in 2022 de doos *Police rurale* (h21).

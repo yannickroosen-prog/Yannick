@@ -15,7 +15,9 @@ Voor elk hoofdstuk worden vier vragen beantwoord. Niet elk hoofdstuk hoeft ze ev
 
 En de belangrijkste regel: geen scènes die alleen mooi zijn. Scènes waarna het leven van de personages niet meer hetzelfde kan zijn.
 
-**Lengte:** een werkdoel van 75.000 tot 90.000 woorden, met een verwachting van ongeveer 75.000. Geen scènes toevoegen voor de woordtelling. De omvang wordt herberekend na deel II.
+**Aanvullende regel (vanaf deel III):** niet elke gebeurtenis hoeft betekenis te krijgen. Niet elke handeling hoeft een latere gebeurtenis voor te bereiden. Personages moeten ook bestaan buiten de dramatische noodzaak van het verhaal. De gebeurtenissen die wél later betekenis krijgen, worden daardoor overtuigender.
+
+**Lengte:** voorlopige raming 65.000 tot 75.000 woorden (herberekend na deel II), geen verplichte bandbreedte. Geen scènes toevoegen voor de woordtelling. Nieuwe evaluatie na deel III.
 
 ## De onderliggende beweging
 
@@ -136,6 +138,18 @@ Wat elke generatie toevoegt:
 - **Slot:** het grijs in Rosalies laken is van haar moeder.
 
 ## DEEL III · HET ROOTVERBOD (1919-1950) · ±17.500 woorden
+
+*Richtlijnen voor deel III (voorstel D, goedgekeurd):*
+1. **Vertragen.** Hoofdstuk 10 speelt op één kermisdag. De lezer moet er mensen ontmoeten die hij meent te kennen, geen personages wier familiegeschiedenis hij heeft bestudeerd.
+2. **Cyriel leeft verder, zonder verlossing.** Zijn schuld hoeft niet steeds zichtbaar te zijn. Hij mag plezier hebben, lesgeven, boos worden om een rekening, zich ergeren aan het weer. Zijn leven gaat verder, en daarin ligt een deel van de tragiek.
+3. **Het geheim van 1847 wordt zwaarder zonder opgelost te worden.** Het archiefspoor (zie het feitenregister, sectie "Archiefketen") komt in h11 voor als één gewone handeling van Marguerite, met een eigen reden, en niet als aanwijzing.
+4. **De leren map uit Roubaix** laat de twee versies van Pharaïlde in twee families botsen (via Rosalie).
+5. **Het "wij" spreekt opnieuw met tegenstrijdige stemmen.** De formule "In de Leiestraat zeiden we dat" verdwijnt.
+6. **De procédés rusten:**
+   - lakens tegen het licht hoogstens één keer, en dan vergist het laken zich;
+   - geen afleggen volgens het recept van Mietje;
+   - hoogstens één hoofdstuk eindigt op een korte dialoogregel.
+7. **Eén gevolg mag rommelig blijven**: een keuze die niets oplevert, een personage dat er niets van leert.
 
 ### 10. De gouden jaren
 **1919-1932 · het dorp ("wij") · 4.000 woorden · druk: feest, panorama**

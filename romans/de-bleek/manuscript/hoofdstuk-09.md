@@ -16,7 +16,7 @@ En nu lag er een oorlog over de grens.
 
 ---
 
-De spinnerij werd stilgelegd in november van veertien. De Duitsers namen het vlas. Ze namen het vlas uit de schuren van de boeren en uit de magazijnen van de spinnerij en uit de rootkassen in de Leie, die ze leeghaalden voor het klaar was, en ze namen het linnen uit de kasten van wie het niet goed genoeg verstopt had. Ze namen de koperen ketels en de klokken van Sint-Amandus, op één na, en de paarden, en de fietsen. In Blekegem werd weer soep uitgedeeld, nu door het Comité, in de school van Cyriel, op dinsdag en vrijdag, en de rij begon bij de pomp en eindigde bij de kerkhofmuur, en er waren mensen die zich herinnerden dat het zo ooit al eens geweest was.
+De spinnerij werd stilgelegd in november van veertien. De Duitsers namen het vlas. Ze namen het vlas uit de schuren van de boeren en uit de magazijnen van de spinnerij en uit de rootkassen in de Leie, die ze leeghaalden voor het klaar was, en ze namen het linnen uit de kasten van wie het niet goed genoeg verstopt had. Ze namen de koperen ketels en de klokken van Sint-Amandus, op één na, en de paarden, en de fietsen. In Blekegem werd weer soep uitgedeeld, nu door het Comité, in de school van Cyriel, op dinsdag en vrijdag, en de rij begon bij de pomp en eindigde bij de kerkhofmuur.
 
 Rosalie deelde de soep uit. Ze deed het vier jaar. Ze stond achter de ketel met een opscheplepel en wist wie kinderen had die thuis ziek lagen en wie te fier was om te komen, en ze stuurde Leontine met een kom naar de fieren. Ze schreef de lijsten voor het Comité, in schoon Nederlands, omdat haar broer ze nalas.
 
@@ -82,7 +82,38 @@ Hij ging. Coleta stond boven aan de trap en had het gehoord, en ze kwam niet naa
 
 Het duurde nog zestien maanden.
 
-Wat er in die maanden gebeurde, zag iedereen. Ze liepen op het jaagpad op zondag, naast elkaar, zonder elkaar aan te raken. Hij herstelde dingen in het huis. Ze tekenden getouwen. Hij kreeg in de winter van zeventien een brief dat zijn zoon aan de Somme gesneuveld was, en hij zat die avond in de keuken met de brief op tafel, en Rosalie zat tegenover hem, en Coleta zag van boven aan de trap dat ze zijn hand vasthield over de tafel, en daarna ging Coleta naar bed.
+Wat er in die maanden gebeurde, zag iedereen. Ze liepen op het jaagpad op zondag, naast elkaar, zonder elkaar aan te raken. Hij herstelde dingen in het huis. Ze tekenden getouwen. 
+Hij kreeg in de winter van zeventien een brief dat zijn zoon aan de Somme gesneuveld was, en hij zat die avond in de keuken met de brief op tafel, en Rosalie zat tegenover hem, en Coleta zag van boven aan de trap dat ze zijn hand vasthield over de tafel, en daarna ging Coleta naar bed.
+
+Op een avond in februari van achttien was er geen petroleum meer, en ze zaten in de keuken bij één kaars, Kurt aan de ene kant van de tafel en Rosalie aan de andere.
+
+Hij was die dag met zijn compagnie de koperen ketels komen halen in de Leiestraat. Rosalie wist het. Hij had de ketel van de Vandoornes gedragen, waarin de Vandoornes al drie geslachten hun was kookten, en de vrouw van Vandoorne had op de stoep gestaan en niets gezegd.
+
+“Ge hebt hem gedragen,” zei Rosalie, in het Frans.
+
+Kurt zei dat het zijn dienst was.
+
+“Gij zijt een wever.”
+
+“Ich bin Soldat.”
+
+“Gij zijt een wever,” zei ze nog eens, “en ge draagt een ketel weg van een vrouw van zeventig.”
+
+Hij werd kwaad. Ze had hem nog nooit kwaad gezien. Hij zei iets in het Duits, lang, met zijn handen plat op tafel, en ze verstond er niets van behalve Martha, de naam van zijn vrouw, en Plauen, en Somme. Daarna zweeg hij. Rosalie zweeg ook. De kaars brandde scheef.
+
+Na een tijd zei hij, in zijn Vlaams, dat de ketel schoon was.
+
+Rosalie zei dat hij niet schoon was, dat hij zwart was van drie geslachten.
+
+Kurt zei dat hij dat bedoelde. Schoon. Mooi. Een schone ketel, zwart, oud, goed gemaakt.
+
+Rosalie zei dat schoon bij ons twee dingen betekende en dat hij altijd het verkeerde koos. Hij vroeg welk het juiste was. Ze zei dat het afhing van wie het zei.
+
+Hij lachte. Het was de eerste keer die week. Hij nam zijn bril af, die met de gebroken poot, en wreef in zijn ogen, en vertelde over Martha, die in de kerk van Plauen zo vals zong dat de pastoor haar gevraagd had achteraan te gaan zitten, en die achteraan was gaan zitten en daar nog luider zong. Rosalie vertelde over de staking van twaalf, en hoe de directeur uit Gent met zijn hoed in zijn hand in de zaal had gestaan. Kurt zei dat de vrouwen in Plauen ook gestaakt hadden, in zes, en verloren. Rosalie zei dat ze in Plauen dan beter hadden moeten staken. Hij zei dat ze dat in Plauen moest gaan zeggen. Ze zei dat ze dat zou doen.
+
+Daarna zeiden ze een tijd niets, en het was geen ongemakkelijk niets.
+
+Hij viel in slaap in zijn stoel, met zijn bril in zijn hand. Rosalie nam hem de bril af en legde hem op tafel, met de gebroken poot naar boven, en bleef zitten tot de kaars op was. Coleta, die naar beneden kwam voor water, zag haar zo zitten, in het donker, tegenover een slapende Duitser, en ging zonder water terug naar boven.
 
 Wat er daarna gebeurde, in de kamer van Pharaïlde of in die van Rosalie, wisten we ook.
 
@@ -104,29 +135,29 @@ Coleta wist het. Iedereen wist het. Die avond, toen Rosalie al in bed lag, ging 
 
 Ze zat er een uur. Rosalie lag op haar rug en keek naar haar moeder in het donker. Ze wisten allebei waarom Coleta daar zat. Rosalie wachtte tot haar moeder zou zeggen dat ze moest vertrekken, die nacht nog, met de koffer, langs het jaagpad naar Menen en verder. Of dat ze moest blijven. Of dat ze bang was. Of iets.
 
-Coleta zei niets. Ze zat er tot Rosalie sliep, of deed alsof, en ging toen naar haar eigen kamer.
+Coleta zei niets. Ze zat er tot Rosalie sliep, en ging toen naar haar eigen kamer.
 
 ---
 
 Ze kwamen de zeventiende, om tien uur 's morgens, met twaalf.
 
-Wij kwamen haar halen. Wij kwamen over het jaagpad met de vlaggen nog in onze handen, en we klopten niet aan. Wij haalden haar uit de keuken, waar ze aan tafel zat in haar werkkleren, en ze verzette zich niet, wat ons kwaad maakte. Wij namen haar mee langs het jaagpad naar het plein, en er liepen er steeds meer mee, en tegen dat we bij het plein waren, waren we met honderd, met tweehonderd, met kinderen op de schouders van hun vaders. Wij zetten haar op een stoel uit In de Zwaan, midden op het plein, voor het gemeentehuis waar mijnheer van het kasteel ooit soep had laten uitdelen, en we zetten de stoel zo dat iedereen het kon zien.
+Wij kwamen haar halen. Wij kwamen over het jaagpad met de vlaggen nog in onze handen, en we klopten niet aan. Wij haalden haar uit de keuken, waar ze aan tafel zat in haar werkkleren, en ze verzette zich niet, wat ons kwaad maakte. Wij namen haar mee langs het jaagpad naar het plein, en er liepen er steeds meer mee, en tegen dat we bij het plein waren, waren we met honderd, met tweehonderd, met kinderen op de schouders van hun vaders. Wij zetten haar op een stoel uit In de Zwaan, midden op het plein, voor het gemeentehuis, en we zetten de stoel zo dat iedereen het kon zien.
 
 Er waren er nog twee. Een meisje uit de Molenhoek dat met een Duitse kok was geweest, en een weduwe van de Leiestraat van wie we zeiden dat ze aan de Duitsers boter had verkocht. Rosalie was de derde, en de enige die niet huilde.
 
-Wij hadden een schaar. Fernand Ameye had ze, de zoon van de man die in zeventig de pik van Ivo Callewaert had gekocht en daarna van Wevelgem naar de Molenhoek was verhuisd. Fernand had bij de meester in de klas gezeten, van zijn zesde tot zijn twaalfde. Hij had de lat gekregen voor *ik zijn*. Hij had in de avondschool zijn moeder naar de meester gebracht, toen ze wilde leren schrijven.
+Wij hadden een schaar. Fernand Ameye had ze. Fernand had bij de meester in de klas gezeten, van zijn zesde tot zijn twaalfde. Hij had de lat gekregen voor *ik zijn*. Hij had in de avondschool zijn moeder naar de meester gebracht, toen ze wilde leren schrijven.
 
 Cyriel stond vooraan. Hij was gekomen omdat hij gehoord had dat ze zijn zuster gingen halen, en hij was gekomen in zijn zwarte jas, en hij stond op drie passen van de stoel, en iedereen zag hem.
 
 Fernand Ameye had de schaar in zijn hand en keek naar de meester.
 
-Wij zagen het allemaal. Hij keek naar de meester zoals hij twintig jaar eerder in de klas naar hem had gekeken als hij een woord niet wist. Hij wachtte. Een woord van de meester, en Fernand had de schaar laten zakken. Iedereen op het plein wist dat. Cyriel wist het.
+Wij zagen het allemaal. Hij keek naar de meester zoals hij twintig jaar eerder in de klas naar hem had gekeken als hij een woord niet wist. Hij wachtte.
 
 Cyriel zette een stap naar voren.
 
-Achter hem, in de menigte, riep iemand dat de meester in Gent had kunnen gaan lesgeven bij de moffen, als hij gewild had. Iemand anders riep dat hij niet gewild had. Een derde riep dat hij gevraagd was, en dat ze niet zomaar iedereen vroegen.
+Achter hem, in de menigte, riep iemand dat de meester in Gent had kunnen gaan lesgeven bij de moffen, als hij gewild had.
 
-Cyriel bleef staan. Hij keek naar Fernand, en naar de schaar, en naar zijn zuster op de stoel, die naar hem keek. Hij keek naar de mensen om hem heen, naar de ouders van zijn leerlingen, naar de vrouwen van de avondschool, naar Romanie Lagae, die vooraan stond met haar kleinzoon aan de hand. Wat hij dacht, weten we, want hij heeft het later gezegd, één keer, tegen zijn moeder. Hij dacht dat als hij nu iets zei, ze daarna ook naar de school zouden komen. En dat het voor Rosalie niets zou veranderen, behalve dat er dan twee Vannestes op het plein stonden in plaats van één.
+Cyriel bleef staan. Hij keek naar Fernand, en naar de schaar, en naar zijn zuster op de stoel, die naar hem keek. Hij keek naar de mensen om hem heen, naar de ouders van zijn leerlingen, naar de vrouwen van de avondschool, naar Romanie Lagae, die vooraan stond met haar kleinzoon aan de hand.
 
 Hij zette de stap terug.
 
@@ -142,7 +173,7 @@ Coleta kwam over het plein met haar kom.
 
 Ze had haar kom bij zich, en een kan lauw water, en een stuk zeep en een doek, zoals ze kwam bij de doden. Ze liep door de menigte en de menigte ging opzij, niet omdat ze iets zei, maar omdat ze Coleta Vanneste was, en iedereen op dat plein had ooit een vader of een moeder of een kind gehad dat door haar gewassen was.
 
-Ze zette de kom op de stenen naast de stoel. Ze goot het water erin. Ze maakte de doek nat en waste het bloed van Rosalies oor, en daarna haar hele hoofd, het geschoren hoofd, langzaam, met lauw water en zeep, zoals Mietje Lagae haar in eenenzeventig geleerd had: eerst het gezicht, dan de rest. Ze praatte tegen haar terwijl ze het deed. Wat ze zei, verstond niemand. Het was te zacht.
+Ze zette de kom op de stenen naast de stoel. Ze goot het water erin. Ze maakte de doek nat en waste het bloed van Rosalies oor, en daarna haar hele hoofd, het geschoren hoofd, langzaam, met lauw water en zeep. Ze praatte tegen haar terwijl ze het deed. Wat ze zei, verstond niemand. Het was te zacht.
 
 Niemand hield haar tegen. Niemand ging weg.
 
@@ -152,9 +183,7 @@ Cyriel stond nog op dezelfde plaats. Zijn moeder liep hem voorbij. Ze keek niet 
 
 ---
 
-Wie wij waren, die dag, daarover werd na de oorlog niet gesproken, en daarom werd erover gesproken in elk huis.
-
-De schaar was van Fernand Ameye. Het scheermes was van Jules Debruyne, de kleinzoon van Leonie. De stoel was van In de Zwaan, en de baas van In de Zwaan heeft hem later verbrand, of zei dat hij hem verbrand had. De twaalf die haar uit de keuken haalden, waren de zonen van de Molenhoek en drie van de Leiestraat, en de vaders van twee van hen hadden met Fons Debruyne en Seppe Vanhee naar Frankrijk gemaaid. De vrouwen van de avondschool stonden vooraan. De vrouwen van de spinnerij, die Rosalie in twaalf hun loon had teruggegeven, stonden achteraan of stonden er niet. Romanie Lagae ging na de eerste lok naar huis met haar kleinzoon. De Lagaes van de Krommen stonden achter hun gordijnen, de Vandoornes ook. De fluiter stond aan de overkant van de sluis en kwam niet.
+De schaar was van Fernand Ameye. Het scheermes was van Jules Debruyne, de kleinzoon van Leonie. De stoel was van In de Zwaan, en de baas van In de Zwaan heeft hem later verbrand, of zei dat hij hem verbrand had. De twaalf die haar uit de keuken haalden, waren de zonen van de Molenhoek en drie van de Leiestraat. De vrouwen van de avondschool stonden vooraan. De vrouwen van de spinnerij, die Rosalie in twaalf hun loon had teruggegeven, stonden achteraan of stonden er niet. Romanie Lagae ging na de eerste lok naar huis met haar kleinzoon. De Lagaes van de Krommen stonden achter hun gordijnen, de Vandoornes ook. De fluiter stond aan de overkant van de sluis en kwam niet.
 
 De mensen van De Gouden Rivier gingen na die dag niet meer naar In de Zwaan. De mensen van In de Zwaan niet meer naar De Gouden Rivier. Zo bleef het tot de Tweede Oorlog, en daarna op een andere manier.
 
@@ -174,14 +203,14 @@ Ze kwam niet terug. Ze woonde zevenendertig jaar in Roubaix, in de rue des Longu
 
 Coleta haalde die avond het bed van Rosalie af. Ze hield het onderlaken tegen het licht van de lamp, uit gewoonte, zoals elke bleekster van Blekegem dat deed.
 
-Er zat grijs in. Niet in het midden, waar Rosalie had gelegen. Aan de rand, op de plaats waar je zit als je op de rand van een bed zit, een uur lang, en niets zegt.
+Er zat grijs in. Niet in het midden, waar Rosalie had gelegen. Aan de rand, op de plaats waar je zit als je op de rand van een bed zit, een uur lang.
 
 Coleta vouwde het op met het grijs naar binnen en legde het in de kist, bij het kinderlaken.
 
-Cyriel kwam de dag daarna. Hij bleef in de deur staan, met zijn hoed in zijn hand, zoals hij in juni van zeventien in de keuken had gestaan, en Coleta stond aan het fornuis en draaide zich niet om.
+Cyriel kwam de dag daarna. Hij bleef in de deur staan, met zijn hoed in zijn hand, en Coleta stond aan het fornuis en draaide zich niet om.
 
 “Als ik iets gezegd had,” zei hij, “waren ze daarna naar de school gekomen.”
 
-Coleta roerde in de pot. Ze had dertig jaar lang brieven voorgelezen die er schoner uitkwamen dan ze waren.
+Coleta roerde in de pot.
 
 “Ja,” zei ze. “Dat is waar.”

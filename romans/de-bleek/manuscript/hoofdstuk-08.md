@@ -42,7 +42,19 @@ Ze hield van Cyriels stem. Dat zei ze niet. Ze zei dat hij te snel las, en hij l
 
 ---
 
-In het voorjaar van negen hield Cyriel een voordracht over Guido Gezelle in de parochiezaal. Het was voor de Vlaamse kring die hij met de koster en twee onderwijzers uit Wevelgem had opgericht, en er kwamen vijftig mensen, wat veel was, en Mademoiselle Verhaeghe.
+In het voorjaar van negen hield Cyriel een voordracht over Guido Gezelle in de parochiezaal.
+
+Op de avond van de voordracht kwam hij eerst langs de sluis, omdat zijn boord niet recht wilde staan. Rosalie zette het recht. Ze stond voor hem in de keuken met haar handen aan zijn hals en trok aan het boordje tot het goed zat, en zei dat hij eruitzag als de pastoor van Moorsele. Hij vroeg of dat goed of slecht was. Ze zei dat het aan de preek lag.
+
+“Ge gaat ze toch geen lat geven, die van de kring?”
+
+“Alleen als ze *ik zijn* zeggen.”
+
+“Ik zijn content dat ik niet bij u in de klas zit,” zei Rosalie.
+
+Hij gaf haar een tik op haar hand, en ze lachte, en hij ook, en Coleta zei vanaf het fornuis dat ze moesten ophouden of hij kwam te laat. Hij kwam te laat.
+
+De voordracht was voor de Vlaamse kring die hij met de koster en twee onderwijzers uit Wevelgem had opgericht, en er kwamen vijftig mensen, wat veel was, en Mademoiselle Verhaeghe.
 
 Ze zat op de eerste rij. Ze was achtentwintig, de dochter van Edmond, de kleindochter van de oude mijnheer die twintig jaar dood was, en ze kwam alleen. Ze had een hoed met een veer en handschoenen die ze niet uitdeed, en ze sprak Frans, zoals iedereen op het kasteel, en ze verstond ons dialect beter dan ze liet merken, want ze was opgegroeid met een kindermeid uit de Molenhoek.
 
@@ -92,7 +104,7 @@ Coleta knipte de nagels af. Daarna waste ze haar.
 
 ---
 
-Ze legde haar af in het hemd van Ivo. Dat had haar moeder niet gevraagd, en niemand anders had erover beslist, en Coleta deed het. Ze trok het haar aan over het schone hemd, zodat het grijs op de borst tegen het grijs kwam dat er misschien in haar eigen hemd zat, dat Coleta niet bekeek. Ze bekeek het laken van het sterfbed ook niet. Ze vouwde het op zonder het tegen het licht te houden en legde het in de kast.
+Ze legde haar af in het hemd van Ivo. Dat had haar moeder niet gevraagd, en niemand anders had erover beslist, en Coleta deed het. Ze trok het haar aan over het schone hemd.
 
 Het kinderlaken bleef in de kist. Ze legde haar moeder er niet in. Het was niet voor de doden, zei ze later tegen Rosalie. Het was nooit voor de doden geweest.
 
@@ -110,11 +122,11 @@ Rosalie ging niet naar Roubaix. Niet na de begrafenis, zoals ze aan haar nichten
 
 Agnes werd geboren in het voorjaar van twaalf, in het huis dat Cyriel en Leontine huurden achter de school. Coleta kwam met de kist. Ze haalde het laken eruit en spreidde het op het bed, en Leontine keek ernaar, naar het grijs, en keek naar Cyriel, en Cyriel zei dat het een gewoonte was van de familie. Coleta legde het kind erin, op zijn zij, in het grijs. Het paste. Leontine nam het er na een minuut uit en legde het aan de borst, en Coleta vouwde het laken op en nam het mee terug naar de sluis.
 
-In de lente van veertien zette Rosalie een datum. Ze kocht een koffer bij de zadelmaker en een kaartje voor de tram tot Menen en de trein tot Roubaix, voor de vierde augustus. Gentiel was vijfenzestig en ziek, schreef de nicht, en er was werk in de weverij van Motte, en er was een kamer. Rosalie was dertig. Ze zei het tegen haar moeder op een zondag, aan tafel, en haar moeder zei dat het goed was, en ze zeiden er niets meer over.
+In de lente van veertien zette Rosalie een datum. Ze kocht een koffer bij de zadelmaker en een kaartje voor de tram tot Menen en de trein tot Roubaix, voor de eerste maandag van augustus, omdat de plaats in de weverij dan vrijkwam. Gentiel was vijfenzestig en ziek, schreef de nicht, en er was werk in de weverij van Motte, en er was een kamer. Rosalie was dertig. Ze zei het tegen haar moeder op een zondag, aan tafel, en haar moeder zei dat het goed was, en ze zeiden er niets meer over.
 
-Op de derde augustus stond de koffer gepakt op haar kamer, met haar zondagse jurk bovenop.
+Op de zondag daarvoor stond de koffer gepakt op haar kamer, met haar zondagse jurk bovenop.
 
-Op de vierde reden er geen treinen. De Duitsers waren die ochtend bij Gemmenich de grens overgestoken, aan de andere kant van het land, en de spoorlijnen werden opgeëist voor het leger, en in Menen stond de tram stil aan de halte omdat de bestuurder naar zijn regiment was. Rosalie ging toch naar de halte, met haar koffer, en wachtte tot de middag. Er kwam niets. De fluiter, die die dag niet floot, zag haar terugkomen langs het jaagpad, met de koffer, die ze niet meer in haar hand droeg maar achter zich aan trok door het gras.
+Op maandag reden er geen treinen naar Frankrijk. Wij hadden op vrijdag gemobiliseerd en Frankrijk op zaterdag, en de treinen waren voor de soldaten, en aan de grens bij Halluin stuurden de Franse gendarmen iedereen terug die geen soldaat was. In Menen stond de tram stil aan de halte omdat de bestuurder naar zijn regiment was. De volgende ochtend staken de Duitsers bij Gemmenich de grens over, aan de andere kant van het land. Rosalie ging toch naar de halte, met haar koffer, en wachtte tot de middag. Er kwam niets. De fluiter, die die dag niet floot, zag haar terugkomen langs het jaagpad, met de koffer, die ze niet meer in haar hand droeg maar achter zich aan trok door het gras.
 
 Coleta stond in de keuken. Rosalie zette de koffer neer in de gang en kwam binnen en ging aan tafel zitten.
 
