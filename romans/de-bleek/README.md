@@ -21,4 +21,6 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 
 14. [Hoofdstuk 4: Het hemd](manuscript/hoofdstuk-04.md) en [werknotities](manuscript/hoofdstuk-04-notities.md)
 
-Deel I is voltooid (ca. 12.400 woorden). Volgende fase: integrale lezing van deel I, daarna hoofdstuk 5 (Brieven uit Roubaix).
+15. [Integrale lezing van deel I, met revisievoorstellen](11-integrale-lezing-deel-I.md)
+
+Deel I is voltooid (ca. 12.400 woorden). Volgende fase: beslissing over de voorstellen, daarna revisie van deel I of hoofdstuk 5.
