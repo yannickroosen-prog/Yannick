@@ -82,7 +82,8 @@ Hij ging. Coleta stond boven aan de trap en had het gehoord, en ze kwam niet naa
 
 Het duurde nog zestien maanden.
 
-Wat er in die maanden gebeurde, zag iedereen. Ze liepen op het jaagpad op zondag, naast elkaar, zonder elkaar aan te raken. Hij herstelde dingen in het huis. Ze tekenden getouwen. 
+Wat er in die maanden gebeurde, zag iedereen. Ze liepen op het jaagpad op zondag, naast elkaar, zonder elkaar aan te raken. Hij herstelde dingen in het huis. Ze tekenden getouwen.
+
 Hij kreeg in de winter van zeventien een brief dat zijn zoon aan de Somme gesneuveld was, en hij zat die avond in de keuken met de brief op tafel, en Rosalie zat tegenover hem, en Coleta zag van boven aan de trap dat ze zijn hand vasthield over de tafel, en daarna ging Coleta naar bed.
 
 Op een avond in februari van achttien was er geen petroleum meer, en ze zaten in de keuken bij één kaars, Kurt aan de ene kant van de tafel en Rosalie aan de andere.

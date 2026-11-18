@@ -33,5 +33,6 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 23. [Hoofdstuk 11: Mademoiselle](manuscript/hoofdstuk-11.md) en [werknotities](manuscript/hoofdstuk-11-notities.md)
 24. [Hoofdstuk 12: De lijst](manuscript/hoofdstuk-12.md) en [werknotities](manuscript/hoofdstuk-12-notities.md)
 25. [Hoofdstuk 13: Repressie](manuscript/hoofdstuk-13.md) en [werknotities](manuscript/hoofdstuk-13-notities.md)
+26. [Integrale lezing van deel III, met voorstellen en omvang](13-integrale-lezing-deel-III.md)
 
-Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Deel II is voltooid en herzien volgens voorstel C (vorige versies in `manuscript/versies`). Deel III volgt de richtlijnen van voorstel D. Deel III is voltooid. Volgende fase: integrale lezing van deel III.
+Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Deel II is voltooid en herzien volgens voorstel C (vorige versies in `manuscript/versies`). Deel III volgt de richtlijnen van voorstel D. Deel III is voltooid. Volgende fase: beslissing over voorstel E (revisie deel III) en F (richtlijnen deel IV).

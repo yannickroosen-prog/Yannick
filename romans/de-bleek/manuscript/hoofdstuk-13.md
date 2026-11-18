@@ -4,7 +4,7 @@ Maria Verstraete hoorde de Engelsen komen op een woensdag in september van viere
 
 Ze zat in de keuken van het tuinmanshuis met een formulier van het Rode Kruis voor zich, het vierde, dat ze niet kon lezen. Ze wachtte op Vandewiele, die het haar zou komen voorlezen als hij tijd had. Buiten op de steenweg reden tanks voorbij die de ruiten deden trillen, en de klok van Sint-Amandus luidde, en de kinderen van de Leiestraat liepen achter de tanks aan en kregen chocolade. Maria hoorde het allemaal. Ze dacht dat Vandewiele vandaag niet zou komen. Hij kwam niet.
 
-Voor haar was er die dag niets voorbij. Marcel lag in Duitsland, op een kerkhof bij Bochum, dat op het formulier een nummer had. Ze wilde hem terug. Dat was het enige wat ze vanaf die dag nog wilde, en ze wilde het met een koppigheid die niemand in Blekegem haar had toevertrouwd, en ze zou het negen jaar lang blijven willen.
+Voor haar was er die dag niets voorbij. Marcel lag in Duitsland, op een kerkhof bij Bochum, dat op het formulier een nummer had. Ze wilde hem terug. Dat was het enige wat ze vanaf die dag nog wilde, en ze wilde het met een koppigheid die niemand in Blekegem haar had toevertrouwd, en ze zou het vijf jaar lang blijven willen.
 
 ---
 
@@ -138,7 +138,7 @@ Leontine kwam tot aan de kerkhofpoort en bleef daar staan. Maria zag haar staan.
 
 ---
 
-Cyriel kwam vrij in januari van vijftig, voorwaardelijk, na vier jaar, omdat hij zeventig was en omdat de gevangenissen te vol waren. Hij kwam met de trein tot Wevelgem en liep naar de Leiestraat, met een kartonnen koffer, en Leontine was er niet om hem op te vangen, omdat ze een brief had gekregen met de verkeerde datum.
+Cyriel kwam vrij in januari van vijftig, voorwaardelijk, na vijf jaar en vier maanden, omdat hij zeventig was en omdat de gevangenissen te vol waren. Hij kwam met de trein tot Wevelgem en liep naar de Leiestraat, met een kartonnen koffer, en Leontine was er niet om hem op te vangen, omdat ze een brief had gekregen met de verkeerde datum.
 
 Ze woonden niet meer in het huis achter de school. Dat was van de gemeente, en de gemeente had het in zesenveertig aan de nieuwe onderwijzer gegeven. Leontine woonde in de achterkamer bij Agnes en Roger, in de Leiestraat. Cyriel ging er ook wonen.
 
