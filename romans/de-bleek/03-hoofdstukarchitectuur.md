@@ -277,7 +277,7 @@ Wat elke generatie toevoegt:
   - Hij wordt vrijwilliger bij de heemkundige kring, die de Blekegemse dozen in het archief van Wevelgem inventariseert, doos per doos, in volgorde. Er komt een ruzie met de jonge voorzitter over computers.
   - In een doos vindt hij de lijst van 1943 met het rode potlood. Hij zoekt Gerard Ameye op, die in zijn moestuin de bonen nog altijd zet met de pinnen van de bleek. Gerard: "Uw grootvader heeft mij niets gevraagd."
   - Hij gaat naar Maria Verstraete in het rusthuis (ze is 96). Zij zegt wat ze vijftig jaar niet gezegd heeft: "Hij is gekomen." Marcel wilde niet lopen voor een zwarte. Ze vraagt het niet op te schrijven. Emiel belooft het.
-  - Agnes gaat in 1994 alleen met de trein naar Roubaix, naar het graf van Rosalie, met de brief van Jeanne uit 1955 in haar handtas. Het is een daad die niet om Emiel draait. Emiel ergert zich dat ze hem niet meevroeg. "Iemand moest gaan."
+  - Agnes gaat in 1994 alleen met de trein naar Roubaix, naar het graf van Rosalie, met haar nooit verstuurde antwoord aan Jeanne uit 1955 in haar handtas. Het is een daad die niet om Emiel draait. Emiel ergert zich dat ze hem niet meevroeg. "Iemand moest gaan."
 - **Onomkeerbare beslissing:** Emiel schrijft Cyriel in het register van de kring, in dezelfde vorm als alle anderen, met het vonnis erin. Maria's woorden schrijft hij er niet in.
 - **Gevolg:** Emiel heeft een eerste keer gekozen wat hij opschrijft en wat hij weglaat.
 - **Slotwending:** de inschrijving van Cyriel, het vloeipapier en het register dat dichtgaat.

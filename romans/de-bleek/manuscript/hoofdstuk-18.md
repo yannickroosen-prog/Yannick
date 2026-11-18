@@ -148,7 +148,7 @@ Agnes ging in mei van vierennegentig naar Roubaix.
 
 Ze zei het tegen niemand vooraf. Ze nam op een zaterdagmorgen de bus naar Kortrijk en de trein naar Rijsel en in Rijsel een tweede trein, en ze stapte uit in Roubaix met een handtas en een paraplu en een brief in de handtas die negenendertig jaar oud was en nooit was verstuurd. Ze was tweeëntachtig. Ze sprak het Frans van de normaalschool, dat ze vijftig jaar niet had gesproken, en ze vroeg de weg naar het kerkhof aan een man bij het station, die haar verstond, en naar het adres van Jeanne aan een vrouw op het kerkhof, die haar ook verstond.
 
-Jeanne leefde niet meer. In het huis woonde haar kleindochter, Monique, met een man en een dochter van tien, en Agnes bleef er tot de laatste trein.
+Jeanne leefde niet meer. In het huis woonde haar dochter, Monique, die zelf al grootmoeder was, en die zaterdag zat er een kleindochter in de keuken die er elke zaterdag zat. Agnes bleef er tot de laatste trein.
 
 Emiel hoorde het de dinsdag daarna, van Marleen, die het van Agnes had gehoord aan de telefoon. Hij nam de bus naar de Leiestraat, buiten de woensdag, wat hij nooit deed, en stond in de keuken zonder zijn jas uit te doen.
 

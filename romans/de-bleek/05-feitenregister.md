@@ -205,7 +205,7 @@ Zie de lijst in de hoofdstukarchitectuur, sectie "Het leven dat gewoon gebeurt".
   - Gerard Ameye (1920-2008).
 - **Agnes in Roubaix:** zaterdag 14 mei 1994, alleen, met de trein.
   - Ze bezoekt het graf van Gentiel en Rosalie.
-  - Ze ontmoet Monique (kleindochter van Jeanne) en Aurélie (10).
+  - Ze ontmoet Monique (dochter van Jeanne, grootmoeder van Aurélie) en Aurélie (10).
   - Ze leest daar hardop een brief "van Pharaïlde" uit het koekjesblik en zegt in het Frans dat het goed geschreven is. Of ze de hand van haar grootmoeder Coleta herkende, blijft onbekend.
   - Ze laat haar adres achter. Haar adres en dat van Emiel komen zo in de familiepapieren van Roubaix.
 - **Leontines versie (fiche van Emiel, ca. 1965):** "Clementine, gestorven op Lijnwaadzondag 1847, in dat laken." Die versie is in de twintigste eeuw zo verschoven. Het parochieregister zegt dat ze op 24 mei begraven is.
