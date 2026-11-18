@@ -8,7 +8,7 @@ Ze bleekte sinds haar dertiende, vijfenvijftig zomers, en ze deed het nu alleen.
 
 “Het gaat waaien,” zei ze tegen Gerard Ameye.
 
-Gerard stond bij de greppel met de pomp. Sinds de sluis in veertig was opgeblazen, stond de Leie lager in de Krommen, en de greppel liep niet meer vanzelf vol. Elke keer dat er gegoten moest worden, pompte Gerard het water uit de rivier in de greppel, met een handpomp die het kasteel in zesenveertig had gekocht, en het duurde een kwartier voor er genoeg stond. Hij was tuinman. Dit was niet zijn werk. Hij deed het omdat Mademoiselle het vroeg en omdat er niemand anders was.
+Gerard stond bij de greppel met de pomp. Sinds de sluis in veertig was opgeblazen, stond de Leie lager in de Krommen, en de greppel liep niet meer vanzelf vol. Elke keer dat er gegoten moest worden, pompte Gerard het water uit de rivier in de greppel, met een handpomp die het kasteel in zesenveertig had gekocht, en het duurde een kwartier voor er genoeg stond. Hij was tuinman. Dit was niet zijn werk. Hij deed het omdat Mademoiselle het vroeg en omdat er niemand anders was. Hij pompte staande, met twee handen aan de zwengel en zijn hele gewicht erop, op en neer, en bij elke slag zoog het leer in de buis met een geluid als van iemand die zijn adem inhoudt. Om acht uur had hij zijn hemd al uit. Zijn handpalmen waren rood tot aan de vingers.
 
 “Het waait altijd als ge 't niet nodig hebt,” zei Gerard.
 
@@ -50,7 +50,11 @@ Mademoiselle had het die ochtend nog niet gezegd. Ze zei het om twaalf uur, toen
 
 Irma knikte. Ze wist het. Ze vroeg of ze haar boterham mocht eten.
 
-Ze at hem op de omgekeerde kuip, met Gerard naast zich, die zijn eigen boterhammen had, en ze deelden een fles koude koffie. Gerard zei dat hij blij was dat hij niet meer moest pompen. Irma zei dat ze blij was dat ze niet meer op haar knieën moest. Ze zeiden het allebei en keken naar de twee banen in het gras, waar het stof van de steenweg weer op lag.
+Ze at hem op de omgekeerde kuip, met Gerard naast zich, die zijn eigen boterhammen had, en ze deelden een fles koude koffie. Irma vroeg of hij de oudste van Fernand was. Hij zei ja.
+
+“Dan hebt gij geluk gehad,” zei ze.
+
+Gerard zei dat hij geluk had gehad. Hij at zijn boterham. Daarna zei hij dat hij blij was dat hij niet meer moest pompen. Irma zei dat ze blij was dat ze niet meer op haar knieën moest. Ze zeiden het allebei en keken naar de twee banen in het gras, waar het stof van de steenweg weer op lag.
 
 ---
 
@@ -74,11 +78,41 @@ Cyriel was in die jaren niet bij de bleek geweest. Hij kwam niet buiten de Leies
 
 Hij had geen burgerrechten. Hij mocht niet stemmen, niet lesgeven, niet in een vereniging zitten en geen pensioen trekken. Het dossier over zijn pensioen lag in Brussel, of in Brugge, of ergens daartussen, en kwam twee keer per jaar terug met een vraag om een document dat hij al gestuurd had. Hij woonde met Leontine in de achterkamer van het voorlaatste huis, bij Agnes en Roger, en sliep er en at er en las er, en deed er de rest van de dag niets. Roger sprak niet met hem. Roger sprak met niemand veel.
 
-In het najaar van drieënvijftig kwam er een televisietoestel in In de Zwaan. Cyriel ging er op een zondagavond naartoe, de enige keer in die jaren dat hij in een café kwam, en zat alleen aan een tafel bij de deur, en keek naar een man in Brussel die het nieuws las. Hij stond na tien minuten op en ging naar huis. Leontine heeft gezegd dat hij zei dat de man sprak als een Hollander die een boek voorlas. Dat hij er nog drie dagen over klaagde, aan tafel, zodat Roger opstond en naar de schuur ging.
+In het najaar van drieënvijftig kwam er een televisietoestel in In de Zwaan. Cyriel ging er op een zondagavond naartoe, de enige keer in die jaren dat hij in een café kwam, en zat alleen aan een tafel bij de deur, en keek naar een man in Brussel die het nieuws las. Hij stond na tien minuten op en ging naar huis. Thuis zei hij dat de man sprak als een Hollander die een boek voorlas. Hij klaagde er nog drie dagen over, aan tafel, tot Roger opstond en naar de schuur ging.
+
+In de lente van zesenvijftig kwam de plaats van hoofdonderwijzeres vrij in de school waar Agnes lesgaf. De oude juffrouw ging met pensioen. Agnes had het brevet en de meeste jaren, en ze wilde het. Ze zei het tegen niemand. Ze schreef de brief aan het schoolbestuur op een woensdagnamiddag aan de keukentafel, op het papier dat ze voor de rapporten gebruikte, en toen hij klaar was, nam ze hem mee naar de achterkamer.
+
+Cyriel zat bij het raam met een boek. Ze legde de brief op het boek.
+
+“Kijk het na.”
+
+Hij las hem twee keer. Hij nam het potlood dat altijd naast hem lag en zette een streep onder drie dingen. Een *t* die een *d* moest zijn. Een komma. En het woord *nederig*, in de laatste zin, waar ze schreef dat ze zich nederig kandidaat stelde.
+
+“Dat woord moet eruit,” zei hij.
+
+“Dat schrijft iedereen.”
+
+“Gij moet het niet schrijven.”
+
+Agnes nam de brief terug. Ze verbeterde de *t* en de komma. Het woord liet ze staan. Ze zei dat ze het schoolbestuur kende, en hij niet meer, en dat de pastoor in het bestuur zat, en dat de pastoor van nederig hield.
+
+Cyriel legde het potlood terug naast het boek.
+
+In juni kreeg een onderwijzeres uit Menen de plaats, die zes jaar korter benoemd was. De brief van het bestuur zei dat het een moeilijke keuze was geweest. Agnes las hem in de gang, ging ermee naar de achterkamer en las hem hardop voor, helemaal, ook de groeten.
+
+“Het is om u,” zei ze.
+
+Cyriel keek naar haar. Niemand in het huis had het ooit hardop gezegd.
+
+“Ja,” zei hij.
+
+“Ik wilde dat gij het wist.”
+
+Ze vouwde de brief op en stak hem in haar schort en ging de aardappelen schillen. Ze gaf les in hetzelfde klaslokaal tot haar pensioen en vroeg het bestuur nooit meer iets. Elk jaar in september liet ze de kinderen een brief schrijven aan iemand die ze niet kenden, en verbeterde ze, en het woord *nederig* streepte ze door, waar het ook stond.
 
 Met Emiel ging hij op zaterdag naar de sluis, waar niemand meer woonde. De twee huizen aan de sluis stonden leeg sinds de dood van de fluiter. De sluisdeuren lagen nog in het water, waar ze in veertig waren neergekomen, met riet erdoor. Cyriel nam een appel mee die hij in vieren sneed met het mes van zijn vader, en ze zaten op de rand van de kolk met hun benen boven het water, wat Agnes verboden had. Hij wees de boten aan en zei hun namen. Hij zong voor Emiel de gedichten van Gezelle, want hij kon een koor laten zingen maar zelf niet zingen, en dat wist Emiel niet.
 
-Emiel was vier, vijf, zes. Hij was een kind dat dingen telde. De treden van de trap, de ruiten in de deur, de boten op de Leie. Hij telde de appels die zijn grootvader in vieren sneed en zei hoeveel stukken het waren voor zijn grootvader het zei. Hij verzamelde de doodsprentjes die zijn grootmoeder Leontine na elke begrafenis meebracht, en legde ze in een sigarenkist, op datum, en wist van elk wie het was. Hij huilde als iemand ze door elkaar haalde.
+Emiel was vier, vijf, zes. Hij telde de appels die zijn grootvader in vieren sneed en zei hoeveel stukken het waren voor zijn grootvader het zei. Hij gooide stenen in de kolk en wilde dat ze verder kwamen dan die van zijn grootvader, en toen Cyriel de zijne voortaan korter gooide, zag Emiel het en werd kwaad, en Cyriel moest beloven dat hij het nooit meer zou doen. Hij was een kind dat niet graag verloor, en niet graag gespaard werd, en het verschil kende.
 
 ---
 
@@ -104,7 +138,7 @@ Agnes ging naar In de Zwaan, waar een telefoon aan de muur naast de toog hing, e
 
 Hij werd in een laken van katoen gelegd, dat de begrafenisondernemer had meegebracht.
 
-De begrafenis was in Sint-Amandus, op een vrijdag. Er waren veertien mensen. Fernand Ameye was er, in zijn zondagse pak, en hij zong het *Requiem* mee met de stem die zo laag was dat het orgel ervan trilde, en daarna ging hij naar huis. Mademoiselle was er niet. Ze kwam niet meer van het kasteel.
+De begrafenis was in Sint-Amandus, op een vrijdag. Er waren veertien mensen. Fernand Ameye was er, in zijn zondagse pak, en hij zong het *Requiem* mee, en daarna ging hij naar huis. Mademoiselle was er niet. Ze kwam niet meer van het kasteel.
 
 Het was het eind van het kwartaal. Op de maandag daarna ging Maria Verstraete te voet naar het postkantoor in Wevelgem om haar rente af te halen, zoals elk kwartaal, en ze kwam langs de Leiestraat. De dorpel van het voorlaatste huis was leeg. Ze liep door.
 
@@ -116,7 +150,7 @@ Op de zaterdag na de begrafenis, toen Leontine naar de kerk was voor de mis van 
 
 Hij wilde het grijs van zijn grootvader zien. Leontine had gezegd dat het er was.
 
-In de kist lagen lakens. Zeven, acht, hij telde ze: negen. Ze waren geel aan de vouwen en roken naar de kast. Hij haalde ze er een voor een uit en spreidde ze op het bed van zijn grootmoeder, in het licht van het raam, en keek. Er zaten vlekken in. In het ene een wolk aan de rand, in het andere een vorm die hij niet kende, met een datum in de zoom in rood garen. De meeste vlekken zagen eruit als de vlekken in de lakens van zijn moeder, die ook geel werden als ze te lang in de kast lagen. Hij wist niet welk laken van zijn grootvader was geweest. Hij wist niet welke vlekken grijs waren en welke gewoon oud. Hij legde ze terug, verkeerd gevouwen, en deed de kist dicht.
+In de kist lagen lakens. Het waren er negen. Ze waren geel aan de vouwen en roken naar de kast. Hij haalde ze er een voor een uit en spreidde ze op het bed van zijn grootmoeder, in het licht van het raam, en keek. Er zaten vlekken in. In het ene een wolk aan de rand, in het andere een vorm die hij niet kende, met een datum in de zoom in rood garen. De meeste vlekken zagen eruit als de vlekken in de lakens van zijn moeder, die ook geel werden als ze te lang in de kast lagen. Hij wist niet welk laken van zijn grootvader was geweest. Hij wist niet welke vlekken grijs waren en welke gewoon oud. Hij legde ze terug, verkeerd gevouwen, en deed de kist dicht.
 
 Toen Leontine thuiskwam, vroeg hij het haar.
 

@@ -256,46 +256,83 @@ Wat elke generatie toevoegt:
 - personages die met hun leeftijd geïntroduceerd worden;
 - openingen met "In [seizoen] van [jaar]".
 
-## DEEL V · HET REGISTER (1990-2023) · ±21.300 woorden
+## DEEL V · HET REGISTER (1990-2023) · ±19.500 woorden (herzien na de integrale lezing van deel IV, voorstel H)
 
-### 18. De heemkundige kring
-**1990-2002 · Emiel · 3.800 woorden · druk: rust, verzamelen**
-- **Functie:** de verteller krijgt een plaats, en de lezer begint te vermoeden wie hij is.
-- **Inhoud:** Emiel als vrijwilliger in het archief. Hij kent iedereen die dood is en bijna niemand die leeft. Blekegem wordt een voorstad van Kortrijk en Rijsel. Elif, de dochter van Selim, wordt onderwijzeres Nederlands in de school waar Cyriel les gaf. Het register van de heemkundige kring, waarin Emiel de namen van het dorp bijhoudt.
-- **Waardeverschuiving:** een gemeenschap → een archief van een gemeenschap.
-- **Slotwending:** Emiel vult het register aan met de namen van alle bewoners van de verkaveling. Niemand heeft het gevraagd.
+**Redactionele opdracht voor het hele deel.** De architectuur is sterker dan de emotionele betrokkenheid. Deze vijf hoofdstukken moeten dat verschil maken. Deel V is geen detectiveverhaal. Het raadsel van 1847 verklaart de familiegeschiedenis niet. Het maakt zichtbaar hoe deze familie haar geschiedenis heeft leren vertellen. Ivo's trappers, Coleta's brieven en Cyriels zwijgen op het plein behouden hun eigen menselijke betekenis. De kernvraag is niet "wat is er gebeurd?", maar "wat doet Emiel met wat hij nu weet?". Hij kan doen wat Coleta deed: mooier maken, weglaten, beschermen. Laat hem kiezen, en laat de lezer voelen wat het kost.
+
+**Vaste regels**
+- De waarheid komt uit papier en uit mensen, nooit uit het grijs of uit de ziekte.
+- Geen document lost 1847 sluitend op. Wat er met het kind gebeurde, blijft onbekend.
+- Geen verzoening aan het sterfbed. Geen grijs als epifanie. Geen kerkelegie. Geen reeks "laatste" dingen. Geen coda. "Ik ben Emiel" is geen onthulling.
+- Agnes is geen derde zwijgende moeder. In deel V doet ze minstens één ding dat niet om Emiel draait (Roubaix, h18).
+- Selims leven staat niet in dienst van dat van Emiel.
+- Het tellen en de opsommingen van Emiels eigenschappen zijn voorbij. Hij leeft in scènes.
+
+### 18. Microfilm
+**1990-1994 · Emiel · ±3.400 woorden · druk: weten wat je liever niet wist**
+- **Oorzaak:** Emiel woont sinds 1989 op Ter Bleke en leest elke dag in de bibliotheek van Kortrijk. Tot nu las hij de geschiedenis van anderen.
+- **Inhoud:**
+  - De opening: op microfilm leest hij het krantenverslag van het proces van 1946. Hij maakt er geen fiche van. De week daarna gaat hij niet naar de bibliotheek. Dat wordt niet uitgelegd.
+  - Hij vraagt het aan Agnes. Zij zegt rechtstreeks wat ze weet en wat het haar gekost heeft: "Gij hebt hem gekend van na. Ik van voor."
+  - Hij wordt vrijwilliger bij de heemkundige kring, die de Blekegemse dozen in het archief van Wevelgem inventariseert, doos per doos, in volgorde. Er komt een ruzie met de jonge voorzitter over computers.
+  - In een doos vindt hij de lijst van 1943 met het rode potlood. Hij zoekt Gerard Ameye op, die in zijn moestuin de bonen nog altijd zet met de pinnen van de bleek. Gerard: "Uw grootvader heeft mij niets gevraagd."
+  - Hij gaat naar Maria Verstraete in het rusthuis (ze is 96). Zij zegt wat ze vijftig jaar niet gezegd heeft: "Hij is gekomen." Marcel wilde niet lopen voor een zwarte. Ze vraagt het niet op te schrijven. Emiel belooft het.
+  - Agnes gaat in 1994 alleen met de trein naar Roubaix, naar het graf van Rosalie, met de brief van Jeanne uit 1955 in haar handtas. Het is een daad die niet om Emiel draait. Emiel ergert zich dat ze hem niet meevroeg. "Iemand moest gaan."
+- **Onomkeerbare beslissing:** Emiel schrijft Cyriel in het register van de kring, in dezelfde vorm als alle anderen, met het vonnis erin. Maria's woorden schrijft hij er niet in.
+- **Gevolg:** Emiel heeft een eerste keer gekozen wat hij opschrijft en wat hij weglaat.
+- **Slotwending:** de inschrijving van Cyriel, het vloeipapier en het register dat dichtgaat.
 
 ### 19. Het laatste laken
-**2002-2004 · Agnes en Emiel · 5.000 woorden · druk: sterven, nabijheid · EMOTIONEEL HOOGTEPUNT**
-- **Functie:** het oude wonder voor de laatste keer, en de onmogelijkheid om het te lezen.
-- **Inhoud:** Agnes is stervend. Ze vraagt Emiel om een van de twee rollen Blekegems linnen uit de kist op haar bed te leggen. Ze wil dat wat ze nooit zei zichtbaar wordt. Emiel naait er een laken van. Drie weken waken. Ze praten over het weer, over Selim, over de prijs van boter.
-- **Waardeverschuiving:** een moeder die hem verstopte → een moeder die gezien wil worden en het niet kan zeggen.
-- **Slotwending:** na haar dood is er grijs rond de plaats van haar handen. Emiel kan het niet lezen. Hij legt zijn eigen handen erin. Ze passen niet.
+**2003-2004 · Agnes en Emiel · ±4.300 woorden · druk: sterven, nabijheid · EMOTIONEEL HOOGTEPUNT**
+- **Oorzaak:** Agnes is 91, en het voorlaatste huis van de Leiestraat wordt te groot.
+- **Inhoud:**
+  - Agnes beslist zelf: geen ziekenhuis, sterven thuis, ze regelt haar begrafenis zelf per telefoon.
+  - Ze vraagt een rol open te snijden. Rita naait het laken, omdat Emiel niet kan naaien. Rita en Agnes worden geen vriendinnen, maar ze verstaan elkaar.
+  - Agnes geeft hem de inhoud van de lade van de keukentafel: de map met zijn brieven aan de krant, de kopie van de collocatie met haar handtekening, en de foto van het graf in Roubaix.
+  - Ze zegt één rechtstreekse, pijnlijke zin: dat Brussel om haar was, niet om hem. Hij vergeeft het niet hardop. Ze praten verder.
+  - Het "ik" glipt door: "Ik was niet in Brussel." Daarna gaat de tekst verder in de derde persoon.
+  - Na haar dood leggen Emiel en Marleen hun moeder zelf af.
+- **Onomkeerbare beslissing:** Emiel kiest of hij het laken tegen het licht houdt. Hij brengt het naar het raam. Wat hij ziet, blijft dubbelzinnig: een schaduw, een vouw, oud linnen. Hij vouwt het met het midden naar binnen.
+- **Gevolg:** het laken gaat met de kist naar Marleen in Brugge.
+- **Slotwending:** de vouw.
 
 ### 20. Kerk te koop
-**2010-2019 · het dorp ("wij"), dun · 4.000 woorden · druk: ontluistering, afscheid**
-- **Functie:** de langzame verdwijning van het geloof, zonder sensatie.
-- **Inhoud:** de schandalen van 2010 in de Kerk, zijdelings. Het altaardoek van Sint-Amandus is al decennia grijs, en iedereen wist het, en niemand vroeg wat. De kerk sluit in 2018 en wordt herbestemd. Selim sterft in 2019 en wordt in Turkije begraven. Elif vraagt Emiel wat er in het register over haar vader staat.
-- **Waardeverschuiving:** een dorp met een kerk → een dorp met een gebouw dat ooit een kerk was.
-- **Slotwending:** Emiel schrijft Selim in het register. Hij twijfelt lang over de rubriek "begraven te". Hij schrijft beide plaatsen.
+**2010-2019 · het "wij", dun · ±3.000 woorden · druk: afkalving, gewoon leven**
+- **Oorzaak:** de kring krijgt de inventaris van Sint-Amandus, die gesloten wordt.
+- **Inhoud:**
+  - De schandalen zijdelings. De kerk sluit in 2018, zakelijk, met kerkbanken die verkocht worden.
+  - Rita sterft in 2015. Emiel blijft wandelen.
+  - Elif geeft Nederlands in de school waar Cyriel lesgaf.
+  - Selims eigen laatste jaren: de digitale pasfoto maakt een einde aan zijn zaak. Het huis in Konya is af. Hatice wil daar wonen, hij wil hier kaarten. Hij sterft in Blekegem, en Hatice beslist dat hij in Konya begraven wordt.
+  - Het "wij" bestaat nog uit een handvol mensen.
+- **Onomkeerbare beslissing:** Hatice's keuze, niet die van Emiel.
+- **Slotwending:** Emiel schrijft Selim in het register en schrijft bij "begraven te" beide plaatsen.
 
 ### 21. Lieve heer Debaere
-**2021-2022 · Emiel · 4.500 woorden · druk: onderzoek, ontdekking**
-- **Functie:** de ontknoping, uit papier en niet uit stof.
-- **Inhoud:** een mail van Aurélie Callewaert uit Roubaix over haar voorouders. Marleen sterft. Mira ontruimt het huis en wil de kist als vintage verkopen. Het kinderlaken, met *1 OGST 1847* in de zoom, de 4 gespiegeld. Emiel zoekt in het parochieregister: Clementine is in mei begraven, niet in augustus. In de Franstalige gemeentestukken van 1847 vindt hij het proces-verbaal van veldwachter Ghekiere aan de burgemeester: *un enfant mendiant, nom inconnu, âgé d'environ six ans, trouvé endormi sur les toiles de M. le Bourgmestre.* Aurélie komt met de tedere brieven van "Pharaïlde". Emiel herkent Coleta's hand.
-- **Waardeverschuiving:** een familie met een schuld → een familie met een vreemde in haar midden. Twee families hebben dezelfde vrouw herschreven.
-- **Slotwending:** Emiel begrijpt de laatste woorden van zijn overgrootmoeder. *Hij sliep goed.*
+**2021-2022 · Emiel · ±5.500 woorden · druk: onderzoek, vertraging, morele keuze · DE BELANGRIJKSTE SCÈNE VAN DE ROMAN**
+- **Oorzaak:** Agnes' bezoek van 1994 (Aurélie was tien en herinnert zich de oude Vlaamse vrouw) en de dood van Marleen.
+- **Inhoud:**
+  - De mail van Aurélie, in het Frans, met een scan van een brief "van grootmoeder Pharaïlde". Emiel herkent de hand van Coleta, die hij honderden keren in de dozen heeft gezien: ze schreef voor het halve dorp.
+  - Mira ontruimt het huis van Marleen en wil het linnen als vintage verkopen. Het kinderlaken, *1 OGST 1847*, de gespiegelde 4.
+  - **Emiel ziet als eerste dat de datum niet klopt.** Zijn fiche van Leontine zegt "gestorven op Lijnwaadzondag". Het parochieregister, dat hij zelf heeft geïnventariseerd, zegt dat Clementine op 24 mei begraven is. Wat gebeurde er dan op 1 augustus?
+  - Voor het eerst in dertig jaar breekt hij zijn eigen volgorde en springt hij naar de doos *Police rurale*.
+  - **De vertaling, traag:** het Frans van Desmedt, Ghekieres handtekening, Agnes' woordenboek van de normaalschool, Marguerites schriften. Hij twijfelt over een werkwoord: *a laissé dormir l'enfant*. "Liet het kind slapen" of "liet het kind liggen"? Het document is geschreven vanuit de burgemeester, als een klacht over bevuild linnen. Het zegt niet wat er met het kind gebeurde.
+  - Emiel begrijpt "Hij sliep goed." Hij weet het niet; hij begrijpt het.
+- **Onomkeerbare beslissing:** wat hij Aurélie schrijft. Hij kan haar de tedere voormoeder laten. Hij schrijft haar de waarheid over de hand van Coleta, en stuurt haar zijn vertaling. Dat kost iets: Aurélies familie wil het niet geloven, en Aurélie zwijgt maanden.
+- **Gevolg:** Aurélie komt toch, in augustus 2023.
+- **Slotwending:** de vertaalde zin, zoals hij hem uiteindelijk opschrijft.
 
 ### 22. Lijnwaadzondag
-**Zondag 6 augustus 2023 · Emiel, "ik" · 4.000 woorden · druk: rust, licht**
-- **Functie:** het slot dat het begin herschrijft.
-- **Vorm:** de verteller zegt voor het eerst en blijvend "ik". Hij legt uit waarom hij "wij" zei, zonder het uit te leggen.
-- **Inhoud:** de Krommen is door een natuurherstelproject weer aangesloten op de Leie. Emiel, Mira, Aurélie en Elif brengen het kinderlaken naar het gras waar de bleek lag. Ze leggen het in de zon, zoals in 1847. Mira kiest wat ze met het laken doet.
-- **Slotwending (aanbevolen):** Emiel noteert in het register van de heemkundige kring een laatste inschrijving, zakelijk en in de vorm van alle andere:
-  > *Een kind. Naam onbekend. Omstreeks zes jaar. Sliep hier op 1 augustus 1847. Is gebleven.*
-- **Waarom dit slot werkt:** het woord dat Pharaïlde niet zei (*blijf*), keert terug als een feit in plaats van een wens. De naamloze is de enige wiens spoor 176 jaar bewaard bleef. Het boek dat de lezer vasthoudt, blijkt het register te zijn dat Emiel schreef: de vorm van het hele boek is die ene inschrijving. Het slot verrast omdat niemand het kind als hoofdpersoon zag. Het is onvermijdelijk omdat het in de eerste opsomming al stond.
-
-> *Alternatief slot, te overwegen na het schrijven:* Emiel gaat op het laken in de zon liggen, een oude man in de vorm van een kind, en slaapt in, en niemand jaagt hem weg. Krachtig, maar het riskeert sentimentaliteit. Te beslissen wanneer de toon van de voorgaande 90.000 woorden vastligt.
+**Zondag 6 augustus 2023 · "ik" · ±3.300 woorden · druk: rust, licht, verantwoording**
+- **Vorm:** de verteller zegt "ik" en blijft het zeggen. Hij legt kort en zonder truc uit waarom hij zichzelf "Emiel" noemde.
+- **Verantwoording:** hij maakt onderscheid tussen drie soorten weten.
+  - Wat hij uit bronnen reconstrueerde: het register, het proces-verbaal, de lade, Selims foto's, Marguerites schriften.
+  - Wat hij van anderen hoorde en aannam: Leontine, Maria, Gerard, de weduwe, Aurélie.
+  - Wat hij zelf invulde of verzon: Ivo die het paard roskamt, de zinnen die niemand hoorde, het woord dat Pharaïlde niet zei.
+  
+  Ook hij heeft deelgenomen aan het collectieve vertellen. Hij zegt wat hij Maria beloofde en toch heeft opgeschreven.
+- **Inhoud:** de Krommen is weer op de Leie aangesloten. Emiel, Mira, Aurélie en Elif leggen het kinderlaken op het gras van Ter Bleke, in de zon. Mira kiest wat ze ermee doet.
+- **Slotwending:** de laatste inschrijving in het register, zonder één woord dat niet vaststaat. De kolom voor opmerkingen blijft leeg. Hij had "Is gebleven" willen schrijven. De lezer voelt wat het kost.
 
 ---
 

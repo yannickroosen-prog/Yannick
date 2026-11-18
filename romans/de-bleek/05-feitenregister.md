@@ -191,3 +191,22 @@ Zie de lijst in de hoofdstukarchitectuur, sectie "Het leven dat gewoon gebeurt".
 - **Grasbleken in 1952:** geen bewijs gevonden van een commerciële grasblekerij in de Leiestreek in 1952. In het boek: een achterhaald familiebedrijf (klantenkring, familiebezit, koppigheid). Verdedigbaar als uitzondering. Onzekerheid gemarkeerd.
 - **Nylon lakens:** de grootschalige productie werd in 1953 in de VS aangekondigd. In Vlaanderen pas later en niet meteen als massaproduct. In het boek: eind jaren 1950, "een nieuwe stof" die niet gestreken hoeft te worden. Te controleren.
 - **De Belgische televisie (NIR) begon in oktober 1953.**
+
+## 11. Toevoegingen na voorstel G en H
+- **Agnes 1956:** de plaats van hoofdonderwijzeres gaat naar een onderwijzeres uit Menen. "Het is om u." Cyriel streept *nederig* aan.
+- **Selim:**
+  - 1970: de winkel in de Kortrijkstraat in Wevelgem wordt hem geweigerd ("niet aan vreemden"). Het voorschot voor de schilder is verloren, en de vergroter is betaald met het reisgeld van Hatice.
+  - Hatice komt in 1974. Elif wordt geboren in 1976.
+  - *FOTO SELIM* staat met witte verf op het raam van de voorkamer.
+- **Emiel 1978:** ruzie met Patrick over het veldrijden in Overijse en de afstandsbediening. Twee jaar later geeft Emiel hem zijn fiets.
+- **Emiel 1950:** Leontine legt hem in het kinderlaken terwijl Agnes slaapt, zoals het gedaan werd. Het heeft geen betekenis voor zijn latere ziekte.
+- **Cyriel en Marcel (h12):** Cyriel ging Marcel waarschuwen. Alleen Maria en Marcel wisten het. Het dorp zegt het omgekeerde. Maria zegt het in 1991 aan Emiel ("Hij is gekomen") en vraagt het niet op te schrijven.
+  - Maria Verstraete (ca. 1895-1991).
+  - Gerard Ameye (1920-2008).
+- **Agnes in Roubaix:** zaterdag 14 mei 1994, alleen, met de trein.
+  - Ze bezoekt het graf van Gentiel en Rosalie.
+  - Ze ontmoet Monique (kleindochter van Jeanne) en Aurélie (10).
+  - Ze leest daar hardop een brief "van Pharaïlde" uit het koekjesblik en zegt in het Frans dat het goed geschreven is. Of ze de hand van haar grootmoeder Coleta herkende, blijft onbekend.
+  - Ze laat haar adres achter. Haar adres en dat van Emiel komen zo in de familiepapieren van Roubaix.
+- **Leontines versie (fiche van Emiel, ca. 1965):** "Clementine, gestorven op Lijnwaadzondag 1847, in dat laken." Die versie is in de twintigste eeuw zo verschoven. Het parochieregister zegt dat ze op 24 mei begraven is.
+- **Het proces-verbaal:** de formulering *a laissé dormir l'enfant* en de vraag of dat "liet slapen" of "liet liggen" is. Het document zegt niet wat er met het kind gebeurde, behalve dat het "reconduit hors de la commune" werd. Het kind heeft geen naam.

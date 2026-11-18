@@ -12,7 +12,7 @@ Voor de mensen van Blekegem betekende het elk iets anders.
 
 Voor de vlasboeren van de Molenhoek betekende het dat hun land niet meer onderliep. Elk voorjaar, zolang ze zich konden herinneren, was de Leie buiten haar oevers getreden in de bochten en had ze hun velden onder water gezet tot in april, en nu deed ze dat niet meer. Deprez van de Molenhoek zei in In de Zwaan dat het het beste was wat Brussel in honderd jaar voor Blekegem had gedaan. Hij trakteerde.
 
-Voor Remi Vanhee betekende het dat hij zijn plaats kwijt was. Hij had vierendertig jaar gevist aan de kop van de Krommen, op een omgekeerde emmer, op de plek waar de stroom de bocht in draaide en de brasem stond, en nu stond daar een dijk van zand met een paal erop met een nummer. Hij probeerde het aan de nieuwe Leie. Er stond geen brasem. Er stond helemaal niets, zei hij, het water liep er te snel, het had nergens meer tijd voor. Hij ging nog drie keer en daarna niet meer.
+Voor Remi Vanhee betekende het dat hij zijn plaats kwijt was. Hij had vierendertig jaar gevist aan de kop van de Krommen, op een omgekeerde emmer, op de plek waar de stroom de bocht in draaide en de brasem stond, en nu stond daar een dijk van zand met een paal erop met een nummer. Hij probeerde het aan de nieuwe Leie. Er stond geen brasem. Er stond helemaal niets, zei hij, het water liep er te snel. Hij ging nog drie keer en daarna niet meer.
 
 Voor de mensen van de Leiestraat betekende het dat de weg naar Wevelgem langer werd. De oude brug bij de sluis, waarlangs ze te voet naar de markt gingen, werd in juni afgebroken, omdat ze over niets meer liep, en de nieuwe brug lag een kilometer verder, voor auto's, zonder voetpad. Agnes ging voortaan met de bus.
 
@@ -76,7 +76,7 @@ Op de vierde donderdag bracht Selim foto's mee. Emiel had erom gevraagd. Foto's 
 
 Ze waren scherp. Selim had sinds vorig jaar een nieuw toestel, en in de voorkamer van zijn huis in de Molenhoek had hij een hoek ingericht met een wit doek en twee lampen, waar hij pasfoto's maakte voor de Turkse families van de streek, die er veel nodig hadden, voor de gemeente en het consulaat en de verlenging van alles. Op het raam had hij met witte verf *FOTO SELIM* geschreven. Het was geen studio. Het was een hoek in een voorkamer. Hij verdiende er in een maand wat hij in een week in de spinnerij verdiende. Hij zei dat het een begin was.
 
-Emiel legde de foto's van de rivier op zijn bed, naast elkaar, in de volgorde van de stroom, van Menen naar Wevelgem. Hij keek er lang naar. Hij vroeg waar de vissen waren gebleven. Selim zei dat Remi Vanhee dat ook vroeg.
+Emiel legde de foto's van de rivier op zijn bed, naast elkaar, in de volgorde van de stroom, van Menen naar Wevelgem. Hij keek er lang naar. Daarna schoof hij ze op een stapel en vroeg of Selim de kaarten bij had.
 
 ---
 
@@ -86,10 +86,10 @@ Op zaterdag maaiden ze hun gras. In de Leiestraat hoorde je de maaimachines, twe
 
 ---
 
-Emiel bleef twee jaar in het ziekenhuis. Daarna kwam hij in een huis van het ziekenhuis in de stad, met vijf andere mannen en een begeleider, en werkte er halve dagen in een atelier waar ze enveloppen vulden voor een verzekeringsmaatschappij. Hij telde de enveloppen. Hij was er sneller in dan de anderen en trager dan hij wilde.
+Emiel bleef twee jaar in het ziekenhuis. Daarna kwam hij in een huis van het ziekenhuis in de stad, met vijf andere mannen en een begeleider, en werkte er halve dagen in een atelier waar ze enveloppen vulden voor een verzekeringsmaatschappij. Hij was er sneller in dan de anderen en trager dan hij wilde.
 
 Selim kwam elke donderdag. Op de afdeling, in het huis, en daarna in het café op de hoek van de straat van het huis, waar ze aan een tafel bij het raam zaten en waar de waard na een jaar hun glazen al klaarzette.
 
 Op één januari van zevenenzeventig werd Blekegem een deelgemeente van Wevelgem. De gemeenteraad werd opgeheven en het gemeentehuis werd een kantoor van de dienst bevolking, open op dinsdag en vrijdag, en het archief ging in dozen naar Wevelgem. Gerard Ameye, die bij de dienst wegen werkte, schroefde in februari de borden met BLEKEGEM van de palen aan de ingangen van het dorp en zette er borden met WEVELGEM voor in de plaats. De oude borden bracht hij naar het magazijn van de gemeente, waar ze tegen een muur kwamen te staan, met de letters naar de muur.
 
-In het café op de hoek deelde Selim die donderdag de kaarten. Emiel telde de zijne, twee keer, met zijn hand die 's middags niet meer beefde, en speelde uit.
+In het café op de hoek deelde Selim die donderdag de kaarten. Emiel nam de zijne op, met zijn hand die 's middags niet meer beefde, en speelde uit.

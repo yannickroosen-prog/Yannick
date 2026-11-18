@@ -64,7 +64,33 @@ Daarna kwam Selim elke zondag.
 
 Hij kwam om twaalf uur en at mee en bleef tot drie, en zat daarna met Roger in de schuur, waar het getouw zonder borstboom stond, en sprak met hem over machines. Roger praatte. Hij praatte in de schuur meer dan Agnes hem in het huis ooit had horen praten, over spillen en kammen en de motoren van de nieuwe kaardmachines, en over een motorfiets die hij in zevenenveertig bijna had gekocht, en niet. Agnes hoorde het door de achterdeur. Ze ging er niet naartoe.
 
-Wat Agnes van Selim vond, heeft ze nooit gezegd. Ze zette elke zondag een bord bij. Ze maakte de stoverij met bier en zette voor hem apart aardappelen met appelmoes en een stuk gebakken vlees, zonder dat hij het vroeg, en zonder dat ze het hem zei. Hij zag het en zei het niet. Ze spraken in die jaren over het weer en over het werk van Roger. Toen Selim in negenenzestig twee weken ziek was, ging Agnes met een pot soep naar het huis in de Molenhoek, waar ze nooit was geweest, en zette hem op de stoep, en klopte, en ging weg voor er werd opengedaan.
+Agnes zette elke zondag een bord bij. Ze maakte de stoverij met bier en zette voor hem apart aardappelen met appelmoes en een stuk gebakken vlees, zonder dat hij het vroeg, en zonder dat ze het hem zei. Hij zag het en zei het niet. Ze spraken in die jaren over het weer en over het werk van Roger. Toen Selim in negenenzestig twee weken ziek was, ging Agnes met een pot soep naar het huis in de Molenhoek, waar ze nooit was geweest, en zette hem op de stoep, en klopte, en ging weg voor er werd opengedaan.
+
+---
+
+In het voorjaar van zeventig vond Selim een winkel.
+
+Hij stond leeg in de Kortrijkstraat in Wevelgem, een smalle schoenmakerij met een etalage en een kamer erachter zonder raam, die een donkere kamer kon worden. In de etalage hing een briefje met een telefoonnummer. Selim belde vanuit In de Zwaan. De eigenaar zei dat hij zaterdag om tien uur kon komen kijken, en vroeg hoe hij heette. Selim spelde het. De man zei dat het een schone naam was, van Moorsele of daar ergens.
+
+Selim had gespaard. Drie jaar lang had hij elke maand twee enveloppen gemaakt, een voor zijn moeder en een voor zichzelf, en in de tweede zat het geld voor twee dingen: een vergroter, en de reis van Hatice, de dochter van de buren van zijn vader, met wie hij verloofd was sinds zijn negentiende en aan wie hij geschreven had dat ze in zeventig zou komen. Hij had de vergroter al besteld, in Kortrijk. Hij had een voorschot betaald aan een schilder die *FOTO SELIM* in gouden letters op de etalage zou zetten.
+
+Op zaterdag stond hij om tien uur voor de deur, in zijn zondagse pak. De eigenaar deed open, keek naar hem en zei dat de winkel verhuurd was. Die morgen nog.
+
+Het briefje hing er de week daarna nog. Het hing er in juni nog. Selim ging terug en vroeg het. De man zei, in de deur, dat hij niets tegen hem had, maar dat hij aan de buren moest denken, en aan de klanten, en dat hij niet aan vreemden verhuurde, nooit, aan niemand, dat was zijn regel.
+
+Selim zei dat hij beter West-Vlaams sprak dan de man zelf. Dat was waar. Het hielp niet.
+
+Het voorschot van de schilder was weg. De vergroter kwam en moest betaald worden, en het geld van de reis ging erin. Hij schreef aan Hatice dat het een jaar later werd. Het werd vier jaar later. Zijn moeder schreef dat de vader van Hatice in het dorp rondvertelde dat zijn dochter wachtte op een man die een toestel liever zag dan een vrouw, en dat de mensen het geloofden.
+
+Die zomer fotografeerde Selim geen Belgen. Hij zei het in In de Zwaan, luid, aan de kaarttafel: dat hij de gezichten van dit land niet meer wilde zien, dat ze allemaal dezelfde mond hadden, die van een schoenmakerij in Wevelgem. Hij zei het tegen mannen die hem nooit iets gedaan hadden. Hij zei in de schuur tegen Roger dat het hier een land was van mensen die achter hun gordijnen leefden en achter hun gordijnen stierven, en Roger, die achter zijn gordijnen leefde, legde de sleutel neer die hij vasthield. Selim kwam vier zondagen niet.
+
+Op de vijfde zondag stond Agnes in de Molenhoek aan zijn deur. Ze klopte en bleef staan tot er werd opengedaan.
+
+“Ge hebt gelijk over die mens,” zei ze. “Maar Roger heeft vier weken niet gesproken, en dat is niet om die mens.”
+
+Ze ging naar huis. Om twaalf uur zat Selim aan tafel.
+
+In de herfst schilderde hij zelf *FOTO SELIM* op het raam van zijn voorkamer, met witte verf, omdat er voor goud geen geld meer was. De vergroter zette hij in de kleine kamer achteraan, waar een bed had moeten staan. Vier jaar later, toen Hatice kwam, sliep ze de eerste nachten naast een machine die naar chemicaliën rook, en ze vroeg waar de winkel was waarover hij haar drie jaar lang geschreven had.
 
 ---
 
@@ -74,7 +100,7 @@ Hij was met niemand bevriend, op het college. Hij was met Selim bevriend.
 
 Het begon met de foto's. Selim liet hem de foto's van Blekegem zien, op een zondag in de schuur, en Emiel wist bij elke foto wat het was en wanneer het gebouwd was en wie er gewoond had, en Selim schreef het achterop, in het Turks. Daarna gingen ze samen. Op zondagmiddag liepen ze door het dorp, Selim met zijn toestel en Emiel met zijn schrift, en Selim fotografeerde en Emiel vertelde, en de vrouwen van de Leiestraat draaiden zich niet meer weg, omdat de zoon van Agnes erbij was.
 
-In maart van zevenenzestig, een maand na Selims aankomst, was Eddy Merckx in Wevelgem over de meet gereden, als winnaar van Gent-Wevelgem, en Emiel had aan de kant gestaan en geteld hoeveel renners er na hem kwamen, tot hij de tel kwijt was. In zeventig won Merckx Gent-Wevelgem opnieuw, en Emiel en Selim stonden samen aan de kant, op de laatste rechte lijn, en Selim maakte een foto toen Merckx voorbijkwam. Ze was onscherp. Er stond een witte vlek op met een arm. Selim wilde ze weggooien. Emiel hield ze.
+In maart van zevenenzestig, een maand na Selims aankomst, was Eddy Merckx in Wevelgem over de meet gereden, als winnaar van Gent-Wevelgem, en Emiel had aan de kant gestaan en zijn naam geroepen tot hij geen stem meer had. In zeventig won Merckx Gent-Wevelgem opnieuw, en Emiel en Selim stonden samen aan de kant, op de laatste rechte lijn, en Selim maakte een foto toen Merckx voorbijkwam. Ze was onscherp. Er stond een witte vlek op met een arm. Selim wilde ze weggooien. Emiel hield ze.
 
 ---
 

@@ -86,7 +86,7 @@ In augustus merkten we dat de Leie niet meer rook.
 
 Het was de eerste keer in tachtig jaar. Het water werd niet zuiver: de Leie kwam uit Frankrijk langs de fabrieken van Armentières en Halluin, en wat die erin loosden, bleef erin. Maar het gele schuim langs de oevers verdween, en de bruine kleur in de bochten, en er kwamen vissen terug die we niet kenden, en in september zwommen er kinderen in de Krommen, wat hun moeders verboden en wat ze toch deden. De oude vrouwen van de Leiestraat zeiden dat het water er te licht uitzag en dat dat niet goed kon zijn. De jonge zeiden dat ze eindelijk de was buiten konden hangen zonder dat hij stonk.
 
-Dat er verder iets met het water gebeurd was, kwam bij niemand op. Het linnen dat in de kasten lag, was van voor. Er werd die jaren geen nieuw gemaakt. Er was geen garen.
+Het linnen dat in de kasten lag, was van voor. Er werd die jaren geen nieuw gemaakt. Er was geen garen.
 
 ---
 

@@ -28,15 +28,21 @@ Over eenenzeventig praatten ze niet.
 
 Emiel was een man van achtentwintig, dan van dertig, dan van tweeëndertig, met een buik van de medicatie en handen die 's morgens beefden en 's middags niet meer, en met gewoonten die niemand hem kon afnemen.
 
-Hij stond op om zes uur. Hij werkte halve dagen in het atelier, waar hij enveloppen vulde en telde, en daarna ging hij naar de stadsbibliotheek van Kortrijk en las tot ze sloot. Hij las de kranten van honderd jaar eerder op microfilm, in een donker hokje aan het eind van de leeszaal, met een draaiknop, en hij schreef op fiches wat hij las. Hij hield een lijst bij van alle overstromingen van de Leie tussen Menen en Wevelgem sinds achttienhonderd dertig.
+Hij stond op om zes uur. Hij werkte halve dagen in het atelier, waar hij enveloppen vulde, en daarna ging hij naar de stadsbibliotheek van Kortrijk en las tot ze sloot. Hij las de kranten van honderd jaar eerder op microfilm, in een donker hokje aan het eind van de leeszaal, met een draaiknop, en hij schreef op fiches wat hij las. Hij hield een lijst bij van alle overstromingen van de Leie tussen Menen en Wevelgem sinds achttienhonderd dertig.
 
 Hij schreef brieven naar de krant. Naar *Het Wekelijks Nieuws*, naar de regionale editie van *Het Volk*, naar het blad van de heemkundige kring van Wevelgem, dat hij zelf niet ontving maar in de bibliotheek las. Hij schreef als een historisch artikel een fout bevatte: een jaartal, een naam, een brug die op de verkeerde plaats stond. Hij schreef ze in een keurige hand, met een vulpen, en ondertekende ze met zijn volle naam en zijn adres in de Groeningestraat, en een op de drie werd afgedrukt. Agnes knipte ze uit. Ze legde ze in een map. Ze zei tegen niemand dat ze het deed.
 
 Hij had niet altijd gelijk. In tweeëntachtig schreef hij een brief van een halve bladzijde om te bewijzen dat de laatste grote overstroming van de Leie bij Blekegem in zesentwintig was geweest en niet in dertig, zoals de krant schreef, en een week later stond er een antwoord van een oude man uit Bissegem die er in dertig met een boot doorheen had gevaren. Emiel las het antwoord drie keer en schreef geen brief meer naar die krant, een jaar lang.
 
-Hij kon slecht tegen lawaai. Hij kon slecht tegen mensen die de televisie te luid zetten, tegen mensen die zijn fiches aanraakten, tegen mensen die zeiden dat het vroeger beter was. Over dat laatste werd hij kwaad. Hij zei dat ze er niet bij waren geweest, en dat hij het kon bewijzen, en hij haalde zijn fiches erbij, en dan werden zij kwaad.
+De ruzie over de afstandsbediening was op een zaterdag in november gegaan, om drie uur, en ze ging over veldrijden. Op de televisie in de gemeenschappelijke kamer liepen mannen met hun fiets op de schouder een modderige helling op in Overijse, en Emiel zat er een meter vanaf en riep naar het scherm, zoals hij elk voorjaar naar de Ronde riep: hun namen, en wat ze moesten doen, en dat de man in het blauw te vroeg was weggereden. Hij riep luid. Hij hoorde het zelf niet. Patrick, die twee kamers verder woonde en naar de film van drie uur wilde kijken, zei dat hij moest zwijgen, en daarna dat hij moest omschakelen, en daarna nam hij de afstandsbediening van de tafel.
 
-Hij lachte om dingen waar anderen niet om lachten. Om de naam van een straat in Kortrijk, die vernoemd was naar een burgemeester die volgens zijn fiches nooit burgemeester was geweest. Om de pastoor van Sint-Amandus, die elke zondag dezelfde vier preken afwisselde, wat Emiel had uitgerekend. Om zichzelf, als hij de enveloppen te snel vulde en ze opnieuw moest tellen.
+Emiel nam ze terug en stak ze in zijn broekzak. Hij zei dat de koers nog twintig minuten duurde, dat een film over een hond geen film was en dat Patrick de rest van zijn leven naar honden kon kijken. Patrick zei dat het een koers was van mannen die in de modder vielen. Toen zei Emiel iets over Patricks moeder, die nooit op bezoek kwam. Iedereen in het huis wist dat ze nooit kwam.
+
+Patrick ging naar zijn kamer. De koers werd gewonnen door de man in het blauw.
+
+Emiel zette de televisie af en ging naar zijn eigen kamer, en deed de deur dicht, en kwam er een week niet uit, behalve om te eten, ook niet toen zijn moeder op zondag in de gang stond. Een verontschuldiging kwam er niet. Twee jaar later, toen Patrick naar een ander huis verhuisde, gaf Emiel hem zijn fiets, met een nieuwe achterband, en hij zei er niets bij.
+
+Hij lachte om dingen waar anderen niet om lachten. Om de naam van een straat in Kortrijk, die vernoemd was naar een burgemeester die volgens zijn fiches nooit burgemeester was geweest. Om de pastoor van Sint-Amandus, die elke zondag dezelfde vier preken afwisselde. Om zichzelf, als hij in een brief aan de krant een fout maakte en het pas zag toen de brief gedrukt stond.
 
 ---
 

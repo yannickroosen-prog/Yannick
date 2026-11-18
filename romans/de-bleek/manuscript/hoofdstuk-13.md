@@ -144,7 +144,7 @@ Ze woonden niet meer in het huis achter de school. Dat was van de gemeente, en d
 
 In februari werd Agnes' tweede kind geboren, een jongen. Ze noemden hem Emiel. Cyriel stond in de keuken toen de vroedvrouw hem naar beneden bracht, gewassen, in een doek, omdat Agnes sliep en Roger in de spinnerij was en Leontine naar de apotheker. De vroedvrouw gaf het kind aan de enige die er was.
 
-Cyriel hield hem vast. Hij hield hem zoals hij nooit iemand had vastgehouden, zei de vroedvrouw later, alsof hij niet wist hoe het moest en het toch deed, met zijn twee handen onder het lijfje en zijn hoofd erboven. Toen Agnes wakker werd, vertelde de vroedvrouw het haar, terwijl ze het kind aan de borst legde. Agnes vroeg hoe laat het was.
+Cyriel hield hem vast. Hij hield hem zoals hij nooit iemand had vastgehouden, zei de vroedvrouw later, alsof hij niet wist hoe het moest en het toch deed, met zijn twee handen onder het lijfje en zijn hoofd erboven. Leontine kwam terug van de apotheker en legde het kind in het oude laken, terwijl Agnes sliep, zoals het gedaan werd. Toen Agnes wakker werd, vertelde de vroedvrouw haar van Cyriel, terwijl ze het kind aan de borst legde. Agnes vroeg hoe laat het was.
 
 ---
 
