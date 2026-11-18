@@ -39,4 +39,4 @@ Een opening met een jaartal, personages die met hun leeftijd worden geïntroduce
 - Grasbleken als nichebedrijf in 1952 (onzekerheid gemarkeerd in het register).
 - Nylonmengsels in Vlaanderen rond 1958.
 - Ronde wasmachines met wringer op afbetaling, 1957.
-- Telefoon in een arbeidershuis in 1960.
+- Telefoon: Agnes belt vanuit het café (In de Zwaan), niet van thuis.

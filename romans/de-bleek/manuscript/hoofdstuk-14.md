@@ -100,7 +100,7 @@ Het oude linnen van de familie lag in de kist in de kamer van Leontine. Agnes ha
 
 Cyriel stierf in maart van eenenzestig, in de achterkamer, op een dinsdagmorgen. Leontine was bij hem. Ze zei achteraf dat hij die nacht had gevraagd hoe laat het was, en dat ze het gezegd had, en dat hij daarna was gaan slapen.
 
-Agnes belde de begrafenisondernemer uit Wevelgem. Er stond sinds een jaar een telefoon in de gang, en ze belde voor ze erover had nagedacht. De begrafenisondernemer kwam met een assistent en een koffer, en met zijn eigen doeken, en ze legden hem af in de achterkamer met de deur dicht. Leontine stond in de gang. Ze had het kunnen doen. Ze had Coleta het genoeg zien doen. Niemand vroeg het haar, en ze bood het niet aan.
+Agnes ging naar In de Zwaan, waar een telefoon aan de muur naast de toog hing, en belde de begrafenisondernemer uit Wevelgem voor ze erover had nagedacht. De begrafenisondernemer kwam met een assistent en een koffer, en met zijn eigen doeken, en ze legden hem af in de achterkamer met de deur dicht. Leontine stond in de gang. Ze had het kunnen doen. Ze had Coleta het genoeg zien doen. Niemand vroeg het haar, en ze bood het niet aan.
 
 Hij werd in een laken van katoen gelegd, dat de begrafenisondernemer had meegebracht.
 

@@ -35,5 +35,6 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 25. [Hoofdstuk 13: Repressie](manuscript/hoofdstuk-13.md) en [werknotities](manuscript/hoofdstuk-13-notities.md)
 26. [Integrale lezing van deel III, met voorstellen en omvang](13-integrale-lezing-deel-III.md)
 27. [Hoofdstuk 14: Nylon](manuscript/hoofdstuk-14.md) en [werknotities](manuscript/hoofdstuk-14-notities.md)
+28. [Hoofdstuk 15: Selim](manuscript/hoofdstuk-15.md) en [werknotities](manuscript/hoofdstuk-15-notities.md)
 
-Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Deel II is voltooid en herzien volgens voorstel C (vorige versies in `manuscript/versies`). Deel III volgt de richtlijnen van voorstel D. Deel III is voltooid en herzien volgens voorstel E. De architectuur van deel IV is vastgelegd volgens voorstel F. Volgende fase: hoofdstuk 15 (Selim).
+Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Deel II is voltooid en herzien volgens voorstel C (vorige versies in `manuscript/versies`). Deel III volgt de richtlijnen van voorstel D. Deel III is voltooid en herzien volgens voorstel E. De architectuur van deel IV is vastgelegd volgens voorstel F. Volgende fase: hoofdstuk 16 (De rechtgetrokken rivier).
