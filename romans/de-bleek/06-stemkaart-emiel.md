@@ -15,7 +15,7 @@ Wat hieronder staat, heeft niets met grijs, schuld of erfenis te maken, en moet 
 - **De kat.** Een rode kater die hij Pastoor noemde "omdat hij 's zondags nooit thuis is".
 - **IJdelheid.** Is trots op zijn handschrift. Schrijft het register met een vulpen. Kan slecht tegen mensen die "u" met een hoofdletter schrijven.
 - **Ergernissen.** De jonge voorzitter van de heemkundige kring die alles wil "digitaliseren". Mensen die zeggen dat vroeger alles beter was ("ze waren er niet bij"). Verkeerd gespelde straatnamen. Bladblazers.
-- **Liefde.** Rita Vandenberghe, weduwe, ontmoet in het beschut wonen in 1983. Ze gaan zesentwintig jaar elke zondag samen wandelen langs het jaagpad en zijn nooit "samen". Rita lacht hem uit als hij plechtig wordt. Ze sterft in 2015. Wat Selim voor hem was, heeft hij nooit een naam gegeven. Het boek doet dat ook niet.
+- **Liefde.** Rita Vandenberghe, weduwe, ontmoet in het beschut wonen in 1983. Ze gaan tweeëndertig jaar elke zondag samen wandelen langs het jaagpad en zijn nooit "samen". Rita lacht hem uit als hij plechtig wordt. Ze sterft in 2015. Wat Selim voor hem was, heeft hij nooit een naam gegeven. Het boek doet dat ook niet.
 - **Zijn ziekte, zonder poëzie.** Eén ernstige psychose in 1971, een kleinere in 1979, daarna stabiel. Medicatie, met bijwerkingen die hij droog vermeldt: hij is twintig kilo zwaarder geworden, zijn handen trillen 's morgens, hij slaapt veel. Hij heeft een psychiater die hij "de dokter" noemt en die hij goed vindt. Hij is niet wijzer of helderziender door zijn ziekte. Hij is er wel geduldiger door geworden, en schuwer.
 - **Humor.** Droog, onderkoeld, vaak ten koste van zichzelf en van het dorp. Hij ziet de komedie van de begrafenissen en de gemeenteraad.
 

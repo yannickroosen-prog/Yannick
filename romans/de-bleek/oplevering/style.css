@@ -1,0 +1,8 @@
+body{font-family:"Liberation Serif","DejaVu Serif",serif;line-height:1.5;}
+h1{text-align:center;font-weight:normal;font-size:1.6em;margin-top:3em;page-break-before:always;}
+h2{text-align:center;font-weight:normal;font-size:1.25em;margin:2.5em 0 1.5em;page-break-before:always;}
+p{margin:0;text-indent:1.4em;text-align:justify;}
+h2+p,.scene+p,blockquote p{text-indent:0;}
+.scene{text-align:center;margin:1em 0;}
+blockquote{margin:1em 2em;font-style:normal;}
+.title,.subtitle,.date,.rights{text-align:center;text-indent:0;}

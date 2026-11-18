@@ -176,9 +176,9 @@ Hij stond op en zette water op. Hij dronk thee bij het aanrecht, en keek door he
 
 Om tien uur ging hij weer zitten.
 
-*Interpellée pourquoi elle ne l'avait pas chassé, elle a répondu qu'il dormait.*
+*Interpellée de dire pourquoi elle ne l'avait point chassé, a répondu qu'il dormait.*
 
-Gevraagd waarom zij het niet had weggejaagd, heeft zij geantwoord dat het sliep.
+Gevraagd te zeggen waarom zij het niet had weggejaagd, heeft zij geantwoord dat het sliep.
 
 Hij keek ernaar. *Qu'il dormait.* Dat hij sliep. Het Frans zei *il*, omdat een kind in het Frans een *hij* is. In het Nederlands was een kind een *het*. Hij had *het* geschreven, omdat het Nederlands was. Wat zij gezegd had, die middag, in het dialect, tegen een veldwachter die haar ondervroeg, was geen *het* geweest. Bij ons zegt niemand *het* tegen een kind.
 
@@ -196,29 +196,29 @@ Het was na middernacht toen hij bij de volgende zin kwam. Hij had nog niet geget
 
 *Il résulte de ce qui précède que ladite femme a laissé dormir l'enfant sur les toiles, au préjudice de M. le Bourgmestre.*
 
-Uit het voorgaande volgt dat de genoemde vrouw het kind op het lijnwaad heeft laten liggen, ten nadele van mijnheer de burgemeester.
+Uit het voorgaande volgt dat de genoemde vrouw heeft geduld dat het kind op het lijnwaad sliep, ten nadele van mijnheer de burgemeester.
 
-Hij schreef het zo. Het kwam vanzelf. Het was een klacht, dit stuk papier, het was geschreven door de klerk van mijnheer, voor mijnheer, over het linnen van mijnheer, en wat erin stond was dat een bleekster haar werk niet had gedaan. *Laten liggen.* Zoals je iets laat liggen wat je had moeten opruimen. Zoals je werk laat liggen. Dat was wat Desmedt bedoeld had, en wat mijnheer gelezen zou hebben, als hij het gelezen had.
+Hij schreef het zo. Het kwam vanzelf. Het was een klacht, dit stuk papier, het was geschreven door de klerk van mijnheer, voor mijnheer, over het linnen van mijnheer, en wat erin stond was dat een bleekster haar werk niet had gedaan. *Geduld.* Zoals je iets duldt wat je had moeten beletten. Dat was wat Desmedt bedoeld had, en wat mijnheer gelezen zou hebben, als hij het gelezen had. In een proces-verbaal betekende *laisser* dat meestal: niet beletten, laten gebeuren. Het stond in het woordenboek van zijn moeder, na *laten* en *achterlaten*, als derde betekenis: *toelaten, dulden*.
 
 Hij keek naar wat hij geschreven had, en daarna naar wat er stond.
 
 *A laissé dormir.*
 
-Er stond niet *a laissé l'enfant*, ze heeft het kind laten liggen. Er stond niet *a négligé*, ze heeft verzuimd. Er stond *dormir*. Dat was een werkwoord dat hij als jongen van twaalf op het college had geleerd, in de eerste week, met *manger* en *boire*: slapen. Het was het eenvoudigste woord van de zin. Desmedt had het geschreven omdat het de waarheid was en omdat hij geen ander woord nodig had gevonden. Dat zij het kind had laten slapen. Desmedt had het bedoeld als een verwijt. Het stond er als een feit.
+*Laisser* kon *dulden* zijn. Het kon ook gewoon *laten* zijn, het woord van een moeder die zegt dat ze het kind nog wat laat slapen. Het Frans maakte geen verschil. Het Nederlands dwong hem te kiezen. En achter *laissé* stond *dormir*, het eenvoudigste woord van de zin, een werkwoord dat hij als jongen van twaalf op het college had geleerd, in de eerste week, met *manger* en *boire*. Er stond niet *a négligé*, ze heeft verzuimd. Er stond niet *a toléré*, ze heeft gedoogd. Desmedt had het verwijt geschreven met de woorden van een kinderkamer, omdat het de woorden waren die zij hem gegeven had, en hij geen andere nodig had gevonden. Hij had het bedoeld als een verwijt. Het stond er als een feit.
 
-Hij kon het laten staan zoals hij het geschreven had. *Laten liggen.* Niemand zou het hem verwijten. Het was wat het stuk bedoelde, en een goede vertaling vertaalt wat een stuk bedoelt, dat had hij op het college ook geleerd. En het was harder. Het liet Pharaïlde staan zoals het dorp haar honderdvijfenzeventig jaar had laten staan: als een vrouw die iets had laten gebeuren.
+Hij kon het laten staan zoals hij het geschreven had. *Geduld.* Niemand zou het hem verwijten. Het was juist, en het was wat het stuk bedoelde, en een goede vertaling vertaalt wat een stuk bedoelt, dat had hij op het college ook geleerd. En het was harder. Het liet Pharaïlde staan zoals het dorp haar honderdvijfenzeventig jaar had laten staan: als een vrouw die iets had laten gebeuren.
 
 Of hij kon schrijven wat er stond.
 
-Hij dacht aan Coleta, die aan dezelfde soort tafel had gezeten, met de pen van de school van Vercruysse, en een moeder aan het fornuis met haar rug naar haar toe, en die geschreven had wat ze vond dat er gezegd had moeten worden. *Ik zou het niet verdragen als u iets overkwam.* Ze had het niet verzonnen om te liegen. Ze had het verzonnen omdat het waar had moeten zijn. Hij begreep haar. Dat was het gevaarlijke eraan, dat hij haar begreep, om half één 's nachts, met de pen in zijn hand, en dat hij wist dat *laten slapen* hem beter uitkwam dan *laten liggen*. Het was zachter. Het was wat hij wilde dat er stond.
+Hij dacht aan Coleta, die aan dezelfde soort tafel had gezeten, met de pen van de school van Vercruysse, en een moeder aan het fornuis met haar rug naar haar toe, en die geschreven had wat ze vond dat er gezegd had moeten worden. *Ik zou het niet verdragen als u iets overkwam.* Ze had het niet verzonnen om te liegen. Ze had het verzonnen omdat het waar had moeten zijn. Hij begreep haar. Dat was het gevaarlijke eraan, dat hij haar begreep, om half één 's nachts, met de pen in zijn hand, en dat hij wist dat *laten slapen* hem beter uitkwam dan *dulden*. Het was zachter. Het was wat hij wilde dat er stond.
 
-Het stond er ook.
+Het stond er ook. Het was de gewoonste lezing: het gewone woord voor het gewone woord.
 
 Dat was het verschil met Coleta, en het was het enige verschil, en het was klein. Hij moest het niet mooier maken. Hij moest het niet harder maken om te bewijzen dat hij het niet mooier maakte. Hij moest schrijven wat er stond en verder niets.
 
-Hij streepte *laten liggen* door, met één rechte lijn, zodat je het nog kon lezen.
+Hij streepte *heeft geduld dat het kind op het lijnwaad sliep* door, met één rechte lijn, zodat je het nog kon lezen.
 
-Hij schreef: *laten slapen*.
+Hij schreef: *heeft het kind op het lijnwaad laten slapen*.
 
 ---
 
@@ -298,4 +298,4 @@ Emiel schreef terug, met de hand, in het Frans. Hij schreef dat er al lang geen 
 
 Daarna nam hij een blad uit het register en schreef de vertaling over, in het net, voor haar, zonder de doorhalingen, omdat de doorhalingen in de kopie zaten die ze al had en dit voor de plaats was. Hij schreef langzaam. Bij de zin over het slapen hield hij op, en las hem, en schreef hem.
 
-*Gevraagd waarom zij het niet had weggejaagd, heeft zij geantwoord dat hij sliep.*
+*Gevraagd te zeggen waarom zij het niet had weggejaagd, heeft zij geantwoord dat hij sliep.*

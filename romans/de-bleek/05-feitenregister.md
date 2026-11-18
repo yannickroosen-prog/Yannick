@@ -202,7 +202,7 @@ Zie de lijst in de hoofdstukarchitectuur, sectie "Het leven dat gewoon gebeurt".
 - **Emiel 1950:** Leontine legt hem in het kinderlaken terwijl Agnes slaapt, zoals het gedaan werd. Het heeft geen betekenis voor zijn latere ziekte.
 - **Cyriel en Marcel (h12):** Cyriel ging Marcel waarschuwen. Alleen Maria en Marcel wisten het. Het dorp zegt het omgekeerde. Maria zegt het in 1991 aan Emiel ("Hij is gekomen") en vraagt het niet op te schrijven.
   - Maria Verstraete (ca. 1895-1991).
-  - Gerard Ameye (1920-2008).
+  - Gerard Ameye (1921-2008).
 - **Agnes in Roubaix:** zaterdag 14 mei 1994, alleen, met de trein.
   - Ze bezoekt het graf van Gentiel en Rosalie.
   - Ze ontmoet Monique (dochter van Jeanne, grootmoeder van Aurélie) en Aurélie (10).

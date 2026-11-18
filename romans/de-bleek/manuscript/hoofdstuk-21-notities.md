@@ -9,7 +9,7 @@
   - *de relevée* staat in de schriften van Mademoiselle;
   - "Pierre" laat hij staan;
   - "het" wordt "hij";
-  - *a laissé dormir*: "laten liggen" (de bedoeling van de klerk) of "laten slapen" (wat er staat). Hij kiest niet het zachtste, maar wat er staat, en weet dat het toevallig het zachtste is. Coleta wordt begrepen, niet veroordeeld.
+  - *a laissé dormir*: *laisser* + infinitief betekent zowel "laten" als "toelaten, dulden". "Heeft geduld dat het kind sliep" (de juridische bedoeling van de klerk, gesteund door *au préjudice de*) of "heeft het kind laten slapen" (de gewoonste lezing, en de woorden die Pharaïlde zelf gaf: *qu'il dormait*). Beide zijn taalkundig juist. Hij kiest de gewoonste lezing en weet dat die toevallig de zachtste is. Coleta wordt begrepen, niet veroordeeld.
 - **Onomkeerbare beslissing:** de brief aan Aurélie in drie delen (wat ik weet, wat ik denk, wat ik niet weet), met de doorhalingen.
 - **De kost:** Monique: "Ce n'est pas vrai." Maanden stilte. De terugkrabbelende tweede brief wordt geschreven en in de lade gelegd.
 - **Gevolg:** Aurélie leert Vlaams en komt op 6 augustus 2023.
