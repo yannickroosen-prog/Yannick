@@ -76,7 +76,7 @@ Hij had geen burgerrechten. Hij mocht niet stemmen, niet lesgeven, niet in een v
 
 In het najaar van drieënvijftig kwam er een televisietoestel in In de Zwaan. Cyriel ging er op een zondagavond naartoe, de enige keer in die jaren dat hij in een café kwam, en zat alleen aan een tafel bij de deur, en keek naar een man in Brussel die het nieuws las. Hij stond na tien minuten op en ging naar huis. Leontine heeft gezegd dat hij zei dat de man sprak als een Hollander die een boek voorlas. Dat hij er nog drie dagen over klaagde, aan tafel, zodat Roger opstond en naar de schuur ging.
 
-Met Emiel ging hij op zaterdag naar de sluis, waar niemand meer woonde. De twee huizen aan de sluis stonden leeg sinds de dood van de fluiter. De sluisdeuren lagen nog in het water, waar ze in veertig waren neergekomen, met riet erdoor. Cyriel nam een appel mee die hij in vieren sneed met het mes van zijn vader, en ze zaten op de rand van de kolk met hun benen boven het water, wat Agnes verboden had. Hij wees de boten aan en zei hun namen. Hij zong voor Emiel de gedichten van Gezelle, want hij kon niet zingen en dat wist Emiel niet.
+Met Emiel ging hij op zaterdag naar de sluis, waar niemand meer woonde. De twee huizen aan de sluis stonden leeg sinds de dood van de fluiter. De sluisdeuren lagen nog in het water, waar ze in veertig waren neergekomen, met riet erdoor. Cyriel nam een appel mee die hij in vieren sneed met het mes van zijn vader, en ze zaten op de rand van de kolk met hun benen boven het water, wat Agnes verboden had. Hij wees de boten aan en zei hun namen. Hij zong voor Emiel de gedichten van Gezelle, want hij kon een koor laten zingen maar zelf niet zingen, en dat wist Emiel niet.
 
 Emiel was vier, vijf, zes. Hij was een kind dat dingen telde. De treden van de trap, de ruiten in de deur, de boten op de Leie. Hij telde de appels die zijn grootvader in vieren sneed en zei hoeveel stukken het waren voor zijn grootvader het zei. Hij verzamelde de doodsprentjes die zijn grootmoeder Leontine na elke begrafenis meebracht, en legde ze in een sigarenkist, op datum, en wist van elk wie het was. Hij huilde als iemand ze door elkaar haalde.
 
@@ -84,7 +84,7 @@ Emiel was vier, vijf, zes. Hij was een kind dat dingen telde. De treden van de t
 
 Rosalie stierf in maart van vijfenvijftig, in Roubaix.
 
-Er kwam een brief van Jeanne, het kind dat Gentiel in vier in zijn armen naar Blekegem had gedragen, nu een grootmoeder met een fijn schrift. Ze schreef in het Frans. Agnes las hem met het woordenboek van de normaalschool. Rosalie was gestorven aan haar longen. Ze was begraven in Roubaix, in het graf van Gentiel. Ze had in haar kamer een foto gehad van een man aan een sluis met een pet op die te klein was. Jeanne vroeg of ze de foto moest terugsturen.
+Er kwam een brief van Jeanne, het kind dat Gentiel in vier in zijn armen naar Blekegem had gedragen, nu een grootmoeder met een fijn schrift. Ze schreef in het Frans. Agnes las hem met het woordenboek van de normaalschool. Rosalie was gestorven aan haar longen. Ze was begraven in Roubaix, in het graf van Gentiel. Ze had in haar kamer een foto gehad van een man aan een sluis met een pet op die te klein was, een afdruk van de foto die in Blekegem bij haar moeder op de schoorsteenmantel stond. Jeanne vroeg of ze de foto moest terugsturen.
 
 Agnes schreef dat het niet nodig was. Ze schreef het in het Frans, met het woordenboek. Ze stuurde de brief niet, omdat ze hem eerst aan haar moeder wilde laten lezen, en haar moeder zei dat ze geen Frans las, en de brief bleef in de lade van de keukentafel liggen tot hij er niet meer lag.
 
@@ -116,7 +116,7 @@ Op de zaterdag na de begrafenis, toen Leontine naar de kerk was voor de mis van 
 
 Hij wilde het grijs van zijn grootvader zien. Leontine had gezegd dat het er was.
 
-In de kist lagen lakens. Zeven, acht, hij telde ze: negen. Ze waren geel aan de vouwen en roken naar de kast. Hij haalde ze er een voor een uit en spreidde ze op het bed van zijn grootmoeder, in het licht van het raam, en keek. Er zaten vlekken in. In het ene een wolk aan de rand, in het andere een vorm die hij niet kende, met een datum in de zoom in rood garen. In de meeste vlekken die eruitzagen als de vlekken in de lakens van zijn moeder, die ook geel werden als ze te lang in de kast lagen. Hij wist niet welk laken van zijn grootvader was geweest. Hij wist niet welke vlekken grijs waren en welke gewoon oud. Hij legde ze terug, verkeerd gevouwen, en deed de kist dicht.
+In de kist lagen lakens. Zeven, acht, hij telde ze: negen. Ze waren geel aan de vouwen en roken naar de kast. Hij haalde ze er een voor een uit en spreidde ze op het bed van zijn grootmoeder, in het licht van het raam, en keek. Er zaten vlekken in. In het ene een wolk aan de rand, in het andere een vorm die hij niet kende, met een datum in de zoom in rood garen. De meeste vlekken zagen eruit als de vlekken in de lakens van zijn moeder, die ook geel werden als ze te lang in de kast lagen. Hij wist niet welk laken van zijn grootvader was geweest. Hij wist niet welke vlekken grijs waren en welke gewoon oud. Hij legde ze terug, verkeerd gevouwen, en deed de kist dicht.
 
 Toen Leontine thuiskwam, vroeg hij het haar.
 

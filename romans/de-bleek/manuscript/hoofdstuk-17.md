@@ -63,9 +63,10 @@ Emiel zei dat hij dat wist. Hij zei dat het niets veranderde aan wie de pen had 
 Ze zaten nog een uur aan de tafel bij het raam. Ze praatten over het weer. Agnes nam de bus van vijf uur.
 
 Ze hebben er later nog twee keer over gepraat, in de jaren daarna, en elke keer zei hij hetzelfde en zij ook, en geen van beiden gaf toe.
+
 ---
 
-Roger stierf in februari van tachtig, in de schuur, naast het getouw zonder borstboom, waar hij een kapotte fiets van een buurjongen aan het herstellen was. Agnes vond hem om zes uur, toen hij niet binnenkwam voor het eten.
+Roger stierf in februari van tachtig, in de schuur, waar hij een kapotte fiets van een buurjongen aan het herstellen was. Agnes vond hem om zes uur, toen hij niet binnenkwam voor het eten.
 
 Op de begrafenis waren er tweeëndertig mensen. Emiel telde ze. Hij was gekomen met Dirk, in een jas die Agnes voor hem had gekocht, en hij zat op de eerste rij naast zijn moeder en zijn zuster en keek naar de kist en telde de mensen achter zich, twee keer, omdat hij zich de eerste keer vergist had. Selim zat in de derde rij met zijn vrouw, die hij in vierenzeventig uit Konya had laten komen, en zijn dochter van vier. Selim huilde. Hij was de enige.
 
@@ -87,7 +88,7 @@ Agnes nam de bus van vijf uur.
 
 ---
 
-In het voorjaar van drieëntachtig kwam er in het huis in de Groeningestraat een vrouw wonen. Ze heette Rita Vandenberghe. Ze was weduwe, ze kwam uit Harelbeke, ze had na de dood van haar man een jaar in de afdeling voor vrouwen gelegen en kwam nu in het huis, voorlopig, op de kamer naast die van Emiel. Ze lachte hard. Ze lachte om hem, toen hij haar de eerste avond uitlegde dat de pastoor van Sint-Amandus maar vier preken had, en ze vroeg of hij ze had geteld, en hij zei ja, en ze lachte nog harder.
+In het voorjaar van drieëntachtig kwam er in het huis in de Groeningestraat een vrouw wonen. Ze heette Rita Vandenberghe. Ze was weduwe, ze kwam uit Harelbeke, ze had na de dood van haar man een jaar in een ziekenhuis in Menen gelegen en kwam nu in het huis, voorlopig, op de kamer naast die van Emiel. Ze lachte hard. Ze lachte om hem, toen hij haar de eerste avond uitlegde dat de pastoor van Sint-Amandus maar vier preken had, en ze vroeg of hij ze had geteld, en hij zei ja, en ze lachte nog harder.
 
 Ze gingen op zondag wandelen. Langs de Leie, op het jaagpad van Kortrijk naar Harelbeke en terug, twee uur, elke zondag, ook als het regende.
 

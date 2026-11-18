@@ -118,7 +118,7 @@ Hij ging in beroep. Het beroep werd verworpen in oktober.
 
 Agnes trouwde in juni van zesenveertig met Roger Debaere.
 
-Hij was zevenendertig, mecanicien in de spinnerij, en hij had in achtentwintig op de kermis met haar gedanst en haar voeten niet geraakt. Hij was niet getrouwd. Hij was in de oorlog aan de machines gebleven, omdat hij te oud was voor de lijsten en omdat hij nergens anders naartoe wilde. Hij kwam in februari aan de deur van het huis achter de school, waar de ruiten nog dichtgespijkerd waren, en vroeg Agnes of ze met hem naar de film wilde, in Wevelgem. Ze ging.
+Hij was zevenendertig, mecanicien in de spinnerij, en hij had in achtentwintig op de kermis met haar gedanst en haar voeten niet geraakt. Hij was niet getrouwd. Hij was in de oorlog aan de machines gebleven, omdat de lijsten eerst de jongste jaarklassen namen en de spinnerij hem onmisbaar had laten verklaren en omdat hij nergens anders naartoe wilde. Hij kwam in februari aan de deur van het huis achter de school, waar de ruiten nog dichtgespijkerd waren, en vroeg Agnes of ze met hem naar de film wilde, in Wevelgem. Ze ging.
 
 In Blekegem zeiden we dat ze met hem trouwde om haar naam kwijt te raken. Agnes heeft later tegen haar dochter gezegd dat ze met hem trouwde omdat hij haar nooit iets vroeg. Roger heeft er niets over gezegd. Hij zei over de meeste dingen niets.
 

@@ -30,7 +30,7 @@ Een graafmachine schoof het laatste zand voor de opening, en het water in de Kro
 
 ---
 
-Emiel zat in Gent sinds negenenzestig. Hij studeerde geschiedenis aan de universiteit, met een beurs, de eerste uit de familie na Marleen, en hij woonde op een kamer bij een weduwe die hem 's avonds soep bracht en vond dat hij te veel las.
+Emiel zat in Gent sinds achtenzestig. Hij studeerde geschiedenis aan de universiteit, met een beurs, de tweede uit de familie, na Marleen, en hij woonde op een kamer bij een weduwe die hem 's avonds soep bracht en vond dat hij te veel las.
 
 Hij las. Hij las in de bibliotheek van de universiteit tot ze sloot, en daarna op zijn kamer, en hij schreef. Hij had een systeem van fiches in schoenendozen, op datum en op naam, voor alles wat hij las over de geschiedenis van de Leiestreek, en hij legde de fiches 's avonds op zijn bed in rijen en verlegde ze. Hij had twee vrienden aan de universiteit, een jongen uit Aalst die over de boerenkrijg schreef en een meisje uit Ieper dat hem één keer had meegenomen naar een café en daarna niet meer. Hij ging elke tweede zondag met de bus naar Blekegem en speelde 's avonds whist met Selim in de schuur.
 

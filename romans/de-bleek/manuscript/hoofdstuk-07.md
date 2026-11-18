@@ -16,7 +16,7 @@ Coleta heeft het nooit geweten. Ze vroeg die avond waarom de afwasteil vol modde
 
 ---
 
-Het was een dinsdag in maart, en er gebeurde niets. Coleta schilde aardappelen aan de tafel in het sluiswachtershuis. Rosalie was op de spinnerij, Cyriel in de school, waar hij sinds vier jaar zelf voor de klas stond. Pharaïlde zat bij de kachel met haar handen in haar schoot, wat ze nu vaak deed, sinds ze achtenzeventig was en haar schouders niets meer wilden. Medard kwam binnen van de sluis voor zijn koffie en vertelde over een schipper uit Deinze die een geit aan boord had die alleen Frans verstond.
+Negen jaar later, op een dinsdag in maart, gebeurde er niets. Coleta schilde aardappelen aan de tafel in het sluiswachtershuis. Rosalie was op de spinnerij, Cyriel in de school, waar hij sinds vier jaar zelf voor de klas stond. Pharaïlde zat bij de kachel met haar handen in haar schoot, wat ze nu vaak deed, sinds ze achtenzeventig was en haar schouders niets meer wilden. Medard kwam binnen van de sluis voor zijn koffie en vertelde over een schipper uit Deinze die een geit aan boord had die alleen Frans verstond.
 
 Het was geen goed verhaal. Medard vertelde het slecht, met het einde in het midden. Pharaïlde lachte. Kort, met haar hand voor haar mond.
 

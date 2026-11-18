@@ -90,7 +90,7 @@ Mademoiselle Verhaeghe stierf in januari van zeventig, op het kasteel, in haar b
 
 Ze had geen erfgenamen dan een neef in Brussel, de kleinzoon van een zuster van haar moeder, die ze twee keer had gezien. De neef kwam voor de begrafenis en voor de notaris, en liet het kasteel verkopen. Een tapijtfabrikant uit Waregem kocht het, met de tuin en de serre en het tuinmanshuis bij de poort, voor zijn vrouw, die er recepties wilde houden.
 
-Gerard Ameye verloor zijn werk. Hij was zevenentwintig jaar tuinman geweest op het kasteel, en de tapijtfabrikant had een firma uit Kortrijk die de tuin kwam doen. Hij kreeg werk bij de gemeente, aan de wegen.
+Gerard Ameye verloor zijn werk. Hij was zesentwintig jaar tuinman geweest op het kasteel, en de tapijtfabrikant had een firma uit Kortrijk die de tuin kwam doen. Hij kreeg werk bij de gemeente, aan de wegen.
 
 Maria Verstraete moest het tuinmanshuis uit. Ze woonde er sinds negentienhonderd zeventien. De tapijtfabrikant gaf haar drie maanden. Ze ging naar een rusthuis in Wevelgem, bij de zusters, en ze nam haar bed mee, en een kast, en een fiets met houten velgen waarvan de ketting vastgeroest zat. Gerard Ameye bracht het allemaal, met een kar van de gemeente, op een zaterdag. Hij droeg de fiets als laatste naar binnen en zette hem in de gang van het rusthuis, waar hij niet mocht blijven staan, en de zuster zei het, en Maria zei dat hij bleef staan, en hij bleef staan.
 
