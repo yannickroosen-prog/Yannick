@@ -1,6 +1,6 @@
 # Hoofdstuk 13: werknotities
 
-**Lengte:** zie de telling in het verslag. Slot van deel III.
+**Lengte:** ongeveer 2.900 woorden. Deel III: ongeveer 11.100 woorden. Manuscript: ongeveer 38.500 woorden. Slot van deel III.
 
 ## De vier opdrachten
 1. **De bevrijding betekent voor iedereen iets anders.**
