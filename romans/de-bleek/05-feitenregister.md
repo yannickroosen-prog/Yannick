@@ -186,3 +186,8 @@ Zie de lijst in de hoofdstukarchitectuur, sectie "Het leven dat gewoon gebeurt".
 - **Robert 1940:** in de zomer en herfst van 1940 tekende hij lijsten van werklozen die de Kommandantur vroeg. Hij zegt dat niet tegen de onderzoeksrechter, en Marguerite weet het. *Te controleren: hoe die werving van werklozen in 1940 verliep.*
 - **Agnes:** de beurs van het kasteel voor de normaalschool gaat in 1931 niet naar haar, maar naar de dochter van de notaris (beslissing van Marguerite). Ze werkt zes jaar in de spinnerij, gaat in 1937 naar Brugge en geeft les vanaf 1941.
 - **Cyriels pensioen:** na eenenveertig jaar onderwijs (1898-1939).
+
+## 10. Historische onzekerheden deel IV
+- **Grasbleken in 1952:** geen bewijs gevonden van een commerciële grasblekerij in de Leiestreek in 1952. In het boek: een achterhaald familiebedrijf (klantenkring, familiebezit, koppigheid). Verdedigbaar als uitzondering. Onzekerheid gemarkeerd.
+- **Nylon lakens:** de grootschalige productie werd in 1953 in de VS aangekondigd. In Vlaanderen pas later en niet meteen als massaproduct. In het boek: eind jaren 1950, "een nieuwe stof" die niet gestreken hoeft te worden. Te controleren.
+- **De Belgische televisie (NIR) begon in oktober 1953.**

@@ -192,6 +192,13 @@ Wat elke generatie toevoegt:
 
 **Precisering B: bleken is geen roten.** De bleek van Blekegem is geen regionaal gebruik maar een uitzondering. Sinds Adhémar (h2) houdt het kasteel vast aan het grasbleken voor een klein aantal klanten van luxelinnen, uit overtuiging en uit koppigheid, terwijl de rest van de streek allang chemisch bleekt. De laatste bleekdag in h14 is dus de laatste dag van **één bedrijf**: dat van de Verhaeghes. Hij valt niet samen met het rootverbod van 1943. *Historisch te controleren: kwam grasbleken in de Leiestreek als nichebedrijf nog voor in de jaren 1950? Zo niet, de laatste bleekdag vervroegen naar de jaren 1930 en in h14 alleen nog de verkoop van de weide tonen.*
 
+**Redactievoorwaarden bij de goedkeuring van deel IV:**
+- **h14:** de laatste bleekdag is het zwaartepunt, een volledige scène met werk dat echt gedaan wordt. De bleek van de Verhaeghes is in 1952 een achterhaald familiebedrijf, dat alleen nog bestaat dankzij een kleine klantenkring, familiebezit en koppigheid. Het stopt om concrete redenen: een verloren klant, een kapotte pomp en niemand die het wil overnemen. Niet "niemand kan nog afleggen", maar deze familie doet het niet meer. Nylon pas laat in het hoofdstuk en niet als massaproduct (eerste grootschalige nylonlakens: VS, 1953). **Emiel vindt het grijs niet, omdat hij niet weet welk laken hij zoekt of omdat hij verkleuring niet van grijs kan onderscheiden. Het grijs verdwijnt niet (W9).**
+- **h15:** Selim heeft een eigen verlangen, een eigen verleden en een conflict dat niets met zijn afkomst te maken heeft. Hij verandert iets aan het leven van een bestaande inwoner. (Arbeidsmigratieakkoord België-Turkije, 1964.)
+- **h16:** de rechttrekking, de psychose en de opkomst van het "ik" zijn drie verschillende ontwikkelingen. Ze mogen elkaar raken, maar ze zijn niet hetzelfde. De psychose geeft geen toegang tot een verborgen waarheid. (Moderniseringsprogramma voor de Leie vanaf 1965. De ingreep bij de fictieve Krommen moet geografisch nog worden vastgelegd.)
+- **h17:** Agnes is niet consequent: ze verborg hem uit schaamte én uit de overtuiging dat ze hem beschermde, en ze haalt hem naar huis uit liefde én omdat ze niet meer alleen wil zijn. Emiel wil zelf iets. Dagelijks leven: maaltijden, boodschappen, ergernissen.
+- **Integrale lezing na h17**, met de extra vraag of de roman Emiel zo sterk als mens heeft neergezet dat zijn overgang naar het "ik" emotioneel noodzakelijk voelt.
+
 ### 14. Nylon
 **1950-1961 · Agnes, Cyriel, Emiel als kind · ±3.300 woorden**
 - **Oorzaak:** Cyriels vrijlating (h13). De familie woont met drie generaties in het voorlaatste huis van de Leiestraat. Robert sterft in 1951. Marguerite moet beslissen wat er met het kasteel en de weide gebeurt.
