@@ -26,7 +26,7 @@ Op de dag dat de oude bedding werd afgesloten, in oktober, stond het hele dorp o
 
 Ik stond er niet. Ik was die dag niet in Blekegem, en ik heb het van iemand die er wel stond, en die zei dat het niet het hele dorp was, maar dertig mensen en een fotograaf van de krant, en Selim, die ook foto's nam.
 
-Wij stonden er met dertig, en een graafmachine schoof het laatste zand voor de opening, en het water in de Krommen stond stil. Er dreven blaren op. Een week later rook het. Niet naar vlas, zoals vroeger. Naar stilstaand water en rottend riet, en in de zomer van tweeënzeventig naar dode vis, toen het water te warm werd en de vissen in de arm geen uitweg hadden.
+Een graafmachine schoof het laatste zand voor de opening, en het water in de Krommen stond stil. Er dreven blaren op. Een week later rook het. Niet naar vlas, zoals vroeger. Naar stilstaand water en rottend riet, en in de zomer van tweeënzeventig naar dode vis, toen het water te warm werd en de vissen in de arm geen uitweg hadden.
 
 ---
 
@@ -46,7 +46,7 @@ Marleen kwam met de trein uit Brugge, waar ze lesgaf. Ze vond hem op de vloer va
 
 Hij werd opgenomen in het psychiatrisch ziekenhuis van de broeders in Kortrijk, op de afdeling voor jonge mannen, in de eerste week van juni.
 
-Hij ging niet vrijwillig. Er was een dokter, en een vrederechter, en een papier dat een collocatie heette, volgens een wet van achttienhonderd vijftig, en Agnes tekende het. Marleen stond naast haar. Roger zat in de gang. Agnes tekende met de pen van de vrederechter, in haar onderwijzersschrift, en ze vroeg of ze een kopie kreeg, en ze kreeg er een, en ze legde ze in de lade van de keukentafel, waar ze bleef liggen.
+Hij ging niet vrijwillig. Er was een wet van achttienhonderd vijftig en een procedure die collocatie heette. Een dokter in Gent schreef een getuigschrift. De familie richtte een verzoek tot de burgemeester van Gent, en de burgemeester gaf het bevel tot opname, en de hoofdgeneesheer van het ziekenhuis in Kortrijk bevestigde het. Het verzoek van de familie werd getekend door Agnes. Marleen stond naast haar. Roger zat in de gang. Agnes tekende op het stadhuis in Gent, met een pen die aan een kettinkje aan de balie hing, in haar onderwijzersschrift, en ze vroeg of ze een kopie kreeg, en ze kreeg er een, en ze legde ze in de lade van de keukentafel, waar ze bleef liggen.
 
 De examens van juni maakte hij niet. De beurs verviel. De weduwe in de Sint-Pietersnieuwstraat zette zijn boeken en zijn schoenendozen in de gang en schreef aan Agnes dat ze ze kon komen halen, en Roger ging met de auto van Selim, en laadde alles in, en zette het op de zolder van het voorlaatste huis van de Leiestraat. De schoenendozen zette hij bovenop, zodat ze niet zouden pletten.
 
@@ -86,7 +86,7 @@ Op zaterdag maaiden ze hun gras. In de Leiestraat hoorde je de maaimachines, twe
 
 ---
 
-Emiel bleef twee jaar in het ziekenhuis. Daarna kwam hij in een huis van het ziekenhuis in de stad, met vijf andere mannen en een begeleider, en werkte er halve dagen in een atelier waar ze enveloppen vulden voor een verzekeringsmaatschappij. Hij telde de enveloppen. Hij was er sneller in dan de anderen en trager dan hij wilde. In negenenzeventig werd hij opnieuw ziek, korter, en kwam terug op de afdeling, drie maanden, en daarna weer naar het huis in de stad.
+Emiel bleef twee jaar in het ziekenhuis. Daarna kwam hij in een huis van het ziekenhuis in de stad, met vijf andere mannen en een begeleider, en werkte er halve dagen in een atelier waar ze enveloppen vulden voor een verzekeringsmaatschappij. Hij telde de enveloppen. Hij was er sneller in dan de anderen en trager dan hij wilde.
 
 Selim kwam elke donderdag. Op de afdeling, in het huis, en daarna in het café op de hoek van de straat van het huis, waar ze aan een tafel bij het raam zaten en waar de waard na een jaar hun glazen al klaarzette.
 

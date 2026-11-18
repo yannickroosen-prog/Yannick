@@ -13,14 +13,14 @@
 2. **Emiels psychose (mei 1971)**, de zijne en niemand anders.
    - Zijn leven ervoor: geschiedenis in Gent met een beurs, fiches in schoenendozen, twee vrienden, whist met Selim om de twee weken.
    - **Concrete gevolgen:**
-     - gedwongen opname (collocatie, wet van 1850): Agnes tekent;
+     - gedwongen opname (collocatie, wet van 1850): een dokter schrijft een getuigschrift, de familie richt een verzoek tot de burgemeester van Gent, die de opname beveelt, en de hoofdgeneesheer bevestigt. Agnes tekent het verzoek, niet de beslissing. Emiel zal later ervaren dat zijn moeder hem heeft laten opnemen (h17);
      - de examens gemist, de beurs vervalt;
      - zijn boeken en dozen op de zolder;
      - medicatie, gewicht, bevende handen 's morgens;
-     - twee jaar ziekenhuis, daarna een huis met begeleiding en een atelier met enveloppen, een terugval in 1979.
+     - twee jaar ziekenhuis, daarna een huis met begeleiding en een atelier met enveloppen. (De terugval van 1979 verhuist naar h17.)
    - **Wat hij zelf beslist:** dat hij één schoenendoos met fiches houdt ("de enige dingen die nog op hun plaats lagen"), dat de pastoor weg moet, en dat Selim foto's maakt van de rivier die hij niet zag veranderen.
    - **Geen toegang tot een verborgen waarheid.** De radio is een symptoom en wordt "daarna een radio". De psychose wordt van buitenaf verteld, via Marleen en de weduwe, met één zin die Emiel later zelf zegt ("De radio wist het").
-3. **Het eerste "ik" sinds hoofdstuk 1**, bij de rivier en niet bij de psychose. Het "wij" zegt dat "het hele dorp" op de dijk stond. Het "ik" zegt: "Ik stond er niet. Ik was die dag niet in Blekegem", en het waren er dertig. Daarna neemt het "wij" de correctie over: "Wij stonden er met dertig." De identiteit blijft open (geen naam, geen kamer, geen Marleen als bron).
+3. **Het eerste "ik" sinds hoofdstuk 1**, bij de rivier en niet bij de psychose. Het "wij" zegt dat "het hele dorp" op de dijk stond. Het "ik" zegt: "Ik stond er niet. Ik was die dag niet in Blekegem", en het waren er dertig. De barst blijft staan: het "wij" neemt de correctie niet over. De identiteit blijft open (geen naam, geen kamer, geen Marleen als bron).
 
 ## Selim
 - Hij komt elke donderdag, zonder te vragen wat er scheelt.
