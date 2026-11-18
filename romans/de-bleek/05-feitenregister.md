@@ -116,7 +116,7 @@ Zie de lijst in de hoofdstukarchitectuur, sectie "Het leven dat gewoon gebeurt".
 | 2018 | Kerk gesloten | 20 |
 | 2019 | Selim sterft, begraven in Turkije | 20 |
 | 2021 | Mail van Aurélie. Marleen sterft. Mira ontruimt het huis | 21 |
-| 2022 | Het proces-verbaal gevonden | 21 |
+| sept. 2021 | Het proces-verbaal gevonden en vertaald. Brief aan Aurélie (okt.) | 21 |
 | 6 aug. 2023 | Lijnwaadzondag. Laatste inschrijving | 22 |
 
 ---

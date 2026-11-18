@@ -162,7 +162,7 @@ Ze bleven zitten. Na een tijd vroeg ze of hij de quiz al had opgezocht in de gid
 
 Ze stierf in de nacht van tien februari, een dinsdag.
 
-Emiel was die nacht gebleven. Hij bleef de laatste week elke nacht, in de zetel naast het bed, met een deken over zijn benen, en hij sliep er slecht, en die nacht viel hij in slaap, rond drie uur, omdat hij vier nachten niet had geslapen. Om vijf uur werd hij wakker van de stilte. De slinger van het hoofdeinde stond nog waar hij hem om elf uur had gezet. Haar handen lagen op het laken.
+Emiel was die nacht gebleven. Hij bleef de laatste week elke nacht, in de zetel naast het bed, met een deken over zijn benen, en hij sliep er slecht, en die nacht viel hij in slaap, rond drie uur, omdat hij vier nachten niet had geslapen. Om vijf uur werd hij wakker van de stilte. De slinger van het hoofdeinde stond nog waar hij hem om tien uur had gezet. Haar handen lagen op het laken.
 
 Hij bleef nog een tijd in de zetel zitten. Daarna stond hij op en zette de verwarming hoger, omdat het koud was in de kamer, en hij besefte toen hij aan de knop draaide dat het niet meer nodig was, en liet hem staan. Hij belde Marleen. Hij belde de dokter. Hij zette koffie en dronk ze niet.
 

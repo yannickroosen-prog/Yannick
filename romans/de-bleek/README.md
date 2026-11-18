@@ -39,5 +39,10 @@ Voorbereidend werk voor een Vlaamse literaire roman (ca. 94.000 woorden), opgebo
 29. [Hoofdstuk 16: De rechtgetrokken rivier](manuscript/hoofdstuk-16.md) en [werknotities](manuscript/hoofdstuk-16-notities.md)
 30. [Hoofdstuk 17: Zondagen](manuscript/hoofdstuk-17.md) en [werknotities](manuscript/hoofdstuk-17-notities.md)
 31. [Integrale lezing van deel IV, met voorstellen en omvang](14-integrale-lezing-deel-IV.md)
+32. [Hoofdstuk 18: Microfilm](manuscript/hoofdstuk-18.md) en [werknotities](manuscript/hoofdstuk-18-notities.md)
+33. [Hoofdstuk 19: Het laatste laken](manuscript/hoofdstuk-19.md) en [werknotities](manuscript/hoofdstuk-19-notities.md)
+34. [Hoofdstuk 20: Kerk te koop](manuscript/hoofdstuk-20.md) en [werknotities](manuscript/hoofdstuk-20-notities.md)
+35. [Hoofdstuk 21: Lieve heer Debaere](manuscript/hoofdstuk-21.md) en [werknotities](manuscript/hoofdstuk-21-notities.md)
+36. [Hoofdstuk 22: Lijnwaadzondag](manuscript/hoofdstuk-22.md) en [werknotities](manuscript/hoofdstuk-22-notities.md)
 
-Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Deel II is voltooid en herzien volgens voorstel C (vorige versies in `manuscript/versies`). Deel III volgt de richtlijnen van voorstel D. Deel III is voltooid en herzien volgens voorstel E. De architectuur van deel IV is vastgelegd volgens voorstel F. Deel IV is voltooid. Volgende fase: beslissing over voorstel G (revisie deel IV) en H (richtlijnen deel V).
+Deel I is herzien volgens voorstel A (vorige versies in `manuscript/versies`). Deel II volgt de herziene architectuur en de architectuurregel. Deel II is voltooid en herzien volgens voorstel C (vorige versies in `manuscript/versies`). Deel III volgt de richtlijnen van voorstel D. Deel III is voltooid en herzien volgens voorstel E. De architectuur van deel IV is vastgelegd volgens voorstel F. Deel IV is voltooid en herzien volgens voorstel G. Deel V volgt de herziene architectuur van voorstel H. **De eerste volledige versie van het manuscript is af (22 hoofdstukken, ongeveer 68.000 woorden).** Volgende fase: integrale beoordeling van het hele manuscript, bij voorkeur door menselijke lezers en lezers uit andere modelfamilies.
