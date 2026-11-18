@@ -25,5 +25,5 @@
 - **Migratieakkoord België-Turkije:** 1964. Turkse arbeiders in de Kortrijkse textiel: plausibel, de data zijn te controleren.
 - **Gent-Wevelgem:** gewonnen door Eddy Merckx in 1967 en 1970, aankomst in Wevelgem.
 - **Leuven Vlaams:** januari 1968.
-- **Een moskee boven een garage in Kortrijk rond 1967:** plausibel, te controleren.
+- **Gebedsruimte:** de eerste gedocumenteerde poging tot een islamitische gebedsruimte in Kortrijk dateert van 1976 (KADOC, de latere Atakwa-moskee). Daarom bidden de mannen in de tekst in de voorkamer van hun huis, "omdat er in de streek nog geen moskee was".
 - **Tapijtindustrie in Waregem en Kortrijk in de jaren 1960:** gedocumenteerd.

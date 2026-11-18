@@ -14,7 +14,7 @@ Selim kwam uit een dorp bij Konya, waar zijn vader schoenen maakte. Hij had zes 
 
 Het fototoestel was het eerste wat hij in Istanbul had gekocht, met het geld dat zijn oom hem had meegegeven voor de reis. Het was een Duits toestel, tweedehands, met een leren hoes, en het had hem twee maanden loon gekost van wat hij in Turkije verdiende. Hij wilde fotograaf worden. Hij had het gewild sinds hij als jongen in Konya voor het raam van een fotostudio had gestaan, waar portretten hingen van bruiden en soldaten en dode grootvaders, en hij wilde het in België net zo goed als in Konya. Hij wilde een studio, met zijn naam op het raam.
 
-Op zondag, als de anderen sliepen of naar de moskee in Kortrijk gingen, die toen nog een zaal boven een garage was, nam Selim zijn toestel en liep door Blekegem. Hij fotografeerde de kerk, de sluis met de deuren in het water, de koeien op de oude bleekweide, de vrouwen van de Leiestraat die op de stoep zaten en zich wegdraaiden als ze hem zagen. Hij kocht de film in Kortrijk en liet hem ontwikkelen in Kortrijk, en de foto's waren vaak onscherp, en hij leerde waarom.
+Op zondag, als de anderen sliepen of samen baden in de voorkamer van het huis in de Molenhoek, omdat er in de streek nog geen moskee was, nam Selim zijn toestel en liep door Blekegem. Hij fotografeerde de kerk, de sluis met de deuren in het water, de koeien op de oude bleekweide, de vrouwen van de Leiestraat die op de stoep zaten en zich wegdraaiden als ze hem zagen. Hij kocht de film in Kortrijk en liet hem ontwikkelen in Kortrijk, en de foto's waren vaak onscherp, en hij leerde waarom.
 
 ---
 
