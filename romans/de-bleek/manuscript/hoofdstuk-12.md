@@ -8,17 +8,27 @@ Er lagen elf Belgische soldaten in de Krommen. Ze werden begraven op het kerkhof
 
 ---
 
-In het voorjaar van eenenveertig werd Cyriel schepen.
+In maart van eenenveertig bepaalde de bezetter dat geen burgemeester, schepen of ambtenaar ouder mocht zijn dan zestig, tenzij de Duitsers er een uitzondering voor maakten. Robert Verhaeghe was vijfenzestig. Hij kreeg geen uitzondering. Hij ruimde zijn kantoor op een zaterdag, en op maandag zat er een man van vierendertig uit Kortrijk, Hector Dewaele, die van de partij was en die Blekegem kende van de bus naar de IJzer.
 
-In veel gemeenten werden toen schepenen vervangen, door de bezetter, door mannen van de Nieuwe Orde, en in Blekegem was een van de schepenen gestorven en de andere te oud, en de partij in Kortrijk had een naam nodig die het dorp kende. Ze vroegen de meester. Ze vroegen hem voor onderwijs en voor de burgerlijke stand.
+Cyriel was al twee jaar met pensioen. Hij had in negenendertig, op zijn zestigste, zijn laatste klas aan de nieuwe onderwijzer overgedragen, en sindsdien zat hij thuis met de krant en de kring en een Duitse grammatica, waaruit hij in de jaren dertig Duits had geleerd om de taalkundigen te lezen die in Duitsland over het Nederlands schreven.
+
+Dewaele kende niemand in Blekegem. Hij kwam in april naar het huis achter de school en vroeg de oude meester of hij hem wilde helpen. Niet als schepen, dat mocht niet meer. Zonder ambt en zonder loon. Op dinsdag en vrijdag in de namiddag, aan een tafel in de achterkamer van het gemeentehuis, bij de registers, omdat de meester de families kende en hij niet.
 
 Hij zei ja.
 
-Leontine heeft gezegd dat hij er drie dagen over deed. Dat hij aan tafel zat en niets at, en dat hij op de derde avond zei dat het de eerste keer in honderd jaar was dat Blekegem bestuurd zou worden door iemand die de taal van het dorp sprak, en dat hij het niet aan een ander wilde laten. Leontine zei dat hij gelijk had, dat er niemand beter was. Ze zei dat ze het meende. Ze zei later ook dat ze het niet meende, en ze meende dat ook.
+Leontine heeft gezegd dat hij er drie dagen over deed. Dat hij aan tafel zat en niets at, en dat hij op de derde avond zei dat het de eerste keer in honderd jaar was dat Blekegem bestuurd zou worden in de taal van het dorp, en dat hij het niet aan een jongen uit Kortrijk alleen wilde laten. Leontine zei dat hij gelijk had, dat er niemand beter was. Ze zei dat ze het meende. Ze zei later ook dat ze het niet meende, en ze meende dat ook.
 
-Hij was eenenzestig. Hij gaf nog les, 's morgens, en 's middags zat hij in het gemeentehuis in het kantoor naast dat van Robert Verhaeghe, die burgemeester bleef, omdat hij er al twintig jaar zat en omdat de Duitsers het rustiger vonden als er niets veranderde aan wat het dorp gewend was. Robert tekende wat hem voorgelegd werd. Cyriel legde het voor.
+In de week daarna verschoonde ze het bed en hield het onderlaken tegen het licht, uit gewoonte. Er zat grijs in, aan zijn kant, ter hoogte van zijn schouders. Hij had drie dagen niets gezegd, en daarvoor jaren niet, over zoveel dingen, en ze wist niet welk zwijgen het was. Ze legde het laken in de wasmand.
 
-Er waren er die hem nog groetten. Er waren er die overstaken als hij kwam. Fernand Ameye bleef in het koor en zong bij de bassen, en na de repetitie ging hij naar In de Zwaan, en de meester naar huis.
+Hij zat er vanaf mei, op dinsdag en vrijdag, in de achterkamer waar het naar oud papier rook. Hij las de brieven na die de oorlogsburgemeester moest tekenen en verbeterde het Nederlands. Hij zei wie in welke straat woonde en wiens zoon met wiens dochter getrouwd was. Hij kreeg er niets voor. Hij kwam thuis en vertelde dat Dewaele een fatsoenlijke jongen was die geen zin kon schrijven zonder fout, en hij zei het zoals een man zegt dat hij onmisbaar is.
+
+In juni kwam Robert Verhaeghe zijn laatste dozen halen. Cyriel stond op uit de achterkamer en ging naar het kantoor dat Roberts kantoor was geweest, en wees hem, traag en duidelijk, in het Nederlands, in welke kast de dozen stonden. Robert vroeg naar het lade met zijn persoonlijke papieren.
+
+“De lade, mijnheer Verhaeghe,” zei Cyriel.
+
+Robert keek hem aan. Cyriel hield de deur voor hem open. Leontine heeft gezegd dat hij die avond floot toen hij thuiskwam, wat hij in dertig jaar niet had gedaan.
+
+Er waren er die hem nog groetten. Er waren er die overstaken als hij kwam. De fluiter zat op zijn bank aan de sluis toen de meester langs de dijk naar huis ging, en riep hem na dat hij de hond van een jongen uit Kortrijk was geworden. Cyriel liep door. Fernand Ameye bleef in het koor en zong bij de bassen, en na de repetitie ging hij naar In de Zwaan, en de meester naar huis.
 
 ---
 
@@ -30,6 +40,8 @@ In het voorjaar van tweeënveertig reed hij in de Ronde van Vlaanderen voor nieu
 
 Mademoiselle zag hem rijden vanuit haar raam aan de tuinkant. Ze liet hem een nieuwe band kopen in Kortrijk, op rekening van het kasteel, en zei tegen Robert dat het voor de kruiwagen was. Ze sprak met Marcel in het dialect, wat ze met niemand anders deed, en vroeg hem na elke koers hoe het gegaan was. Hij vertelde het haar, bocht voor bocht, terwijl hij de rozen snoeide.
 
+Cyriel zag hem op de steenweg rijden, op dinsdag en vrijdag, als hij uit het gemeentehuis kwam. Hij wist van wie de band was. Het hele dorp wist het.
+
 's Avonds, als hij weg was, haalde ze soms een van de zes schriften uit de lade van haar bureau en sloeg het open. Ze las een gedicht van Gezelle, en haar vertaling eronder, en sloeg het weer dicht. Ze schreef er niets meer in.
 
 ---
@@ -38,25 +50,25 @@ De verplichte tewerkstelling begon in oktober van tweeënveertig.
 
 Eerst was het voor het werk in België, daarna voor het werk in Duitsland: mannen van achttien tot vijftig, en ongetrouwde vrouwen van eenentwintig tot vijfendertig, konden opgeroepen worden door het Arbeitsamt in Kortrijk om in een Duitse fabriek te gaan werken. Het Arbeitsamt had de namen nodig. De namen stonden in het bevolkingsregister van elke gemeente. De gemeente gaf de namen.
 
-In Blekegem gaf de gemeentesecretaris ze, een zekere Vandewiele, die sinds dertig jaar in het gemeentehuis zat en het bevolkingsregister kende zoals de pastoor de doopregisters kende. Hij maakte een lijst van de mannen van de jongste jaarklassen, zoals gevraagd, met hun adres en hun beroep. De schepen van de burgerlijke stand las de lijst na, en de burgemeester tekende.
+In Blekegem gaf de gemeentesecretaris ze, een zekere Vandewiele, die sinds dertig jaar in het gemeentehuis zat en het bevolkingsregister kende zoals de pastoor de doopregisters kende. Hij maakte een lijst van de mannen van de jongste jaarklassen, zoals gevraagd, met hun adres en hun beroep. De oorlogsburgemeester gaf de lijst aan de oude meester in de achterkamer, omdat die de jongens kende, en tekende wat terugkwam.
 
-De schepen van de burgerlijke stand haalde er vijf namen af.
+De oude meester haalde er vijf namen af.
 
-Hij deed het met een rood potlood, aan zijn bureau, op een middag in februari van drieënveertig, en hij schreef achter elk van de vijf namen een reden: landbouwer, onmisbaar op het bedrijf; enige zoon van een invalide; onmisbaar in de spinnerij voor de levering aan het leger; leerling-onderwijzer; landbouwer. De redenen waren niet allemaal waar. Vandewiele zag het. Hij zei niets, omdat het hem niet ongelegen kwam dat iemand anders de redenen schreef.
+Hij deed het met een rood potlood, aan de tafel in de achterkamer, op een middag in februari van drieënveertig, en hij schreef achter elk van de vijf namen een reden: landbouwer, onmisbaar op het bedrijf; enige zoon van een invalide; onmisbaar in de spinnerij voor de levering aan het leger; leerling-onderwijzer; landbouwer. De redenen waren niet allemaal waar. Vandewiele zag het. Dewaele zette er de stempel van de gemeente onder zonder ze te lezen.
 
 De vijf waren jongens uit Cyriels klas, van vijftien jaar eerder. Twee zongen in het koor. Een van hen was Gerard Ameye, de oudste zoon van Fernand.
 
 Waarom hij die vijf koos en niet vijf andere, heeft Cyriel aan niemand gezegd. Ook niet aan Leontine. Ze heeft het nooit gevraagd.
 
-Het Arbeitsamt stuurde de lijst in maart terug. Voor Blekegem was een getal vastgelegd, en met de vrijstellingen van de schepen kwam het getal niet uit. De vijf vrijstellingen werden aanvaard, want ze droegen de stempel van de gemeente. Maar de vrijstellingen voor kostwinners die het Arbeitsamt het jaar daarvoor zelf had toegestaan, werden ingetrokken, schreef een Duitse ambtenaar in de marge, in het Nederlands van een man die het uit een boek had geleerd. Vandewiele nam het register en zette de kostwinners terug op de lijst. Een van hen was de enige zoon van een tuinmansweduwe.
+Het Arbeitsamt stuurde de lijst in maart terug. Voor Blekegem was een getal vastgelegd, en met de vijf vrijstellingen kwam het getal niet uit. De vijf vrijstellingen werden aanvaard, want ze droegen de stempel van de gemeente. Maar de vrijstellingen voor kostwinners die het Arbeitsamt het jaar daarvoor zelf had toegestaan, werden ingetrokken, schreef een Duitse ambtenaar in de marge, in het Nederlands van een man die het uit een boek had geleerd. Vandewiele nam het register en zette de kostwinners terug op de lijst. Een van hen was de enige zoon van een tuinmansweduwe.
 
-Cyriel las de nieuwe lijst na. Hij zag de naam. Hij haalde er niets meer af. Robert tekende.
+Cyriel las de nieuwe lijst na. Hij zag de naam. Hij haalde er niets meer af. Dewaele tekende.
 
 ---
 
 Marcel kreeg zijn oproeping in april. Hij moest zich melden in Kortrijk, op het station, op de tweede mei, met een koffer en een deken.
 
-Hij ging niet. Hij werd een werkweigeraar, zoals er toen in elk dorp waren. Hij sliep de eerste weken bij een neef in Moorsele, dan in een hooischuur bij Wevelgem, dan weer thuis, omdat hij zijn moeder niet alleen wilde laten en omdat er in mei niemand naar hem kwam vragen. Hij werkte niet meer in de tuin van het kasteel. Hij reed niet meer op de steenweg. Mademoiselle liet zijn moeder zijn loon doorbetalen en zei tegen Robert dat het voor de serre was.
+Hij ging niet. Hij werd een werkweigeraar, zoals er toen in elk dorp waren. Hij sliep de eerste weken bij een neef in Moorsele, dan in een hooischuur bij Wevelgem, dan weer thuis, omdat hij zijn moeder niet alleen wilde laten en omdat er in mei niemand naar hem kwam vragen. Hij werkte niet meer in de tuin van het kasteel. Hij reed niet meer op de steenweg. Mademoiselle liet zijn moeder zijn loon doorbetalen.
 
 Wij wisten waar hij sliep. Het hele dorp wist het. In die jaren wist het hele dorp waar de werkweigeraars sliepen, en het hele dorp zweeg, behalve wie niet zweeg.
 
@@ -82,7 +94,7 @@ Cyriel hoorde de datum op een dinsdag in oktober.
 
 Een man van het Arbeitsamt zat in het gemeentehuis, in het kantoor van Vandewiele, met een lijst van werkweigeraars uit het arrondissement, en zei het hardop tegen Vandewiele, omdat hij dacht dat niemand anders het verstond: dat de Feldgendarmerie in de nacht van woensdag op donderdag zou komen, om vier uur, met een vrachtwagen, voor de werkweigeraars van Blekegem en Moorsele. Hij las de namen voor. Drie uit Blekegem. Een van hen was Marcel Verstraete.
 
-Cyriel zat in het kantoor ernaast met de deur open. Hij verstond Duits.
+Cyriel zat in de achterkamer met de deur open. Hij verstond Duits.
 
 Hij ging die avond, na het donker, naar het tuinmanshuis bij de poort van het kasteel. Hij ging niet langs de straat. Hij ging langs het jaagpad en door de tuin, langs de serre, en klopte aan de achterdeur. Marcels moeder deed open. Ze zag wie het was en bleef in de deur staan.
 
@@ -92,7 +104,7 @@ Ze zei dat Marcel niet thuis was. Marcel kwam uit de keuken. Hij was thuis.
 
 Cyriel zei het in de deur, zacht, in het dialect, wat hij nooit deed. Dat Marcel woensdagnacht niet thuis moest slapen. Niet in Moorsele, niet in Wevelgem. Ergens anders.
 
-Marcel keek naar hem. Hij was een hoofd kleiner dan de meester en had bij hem in de klas gezeten, van zijn zesde tot zijn twaalfde, en hij keek naar hem zoals je kijkt naar een schepen van de Nieuwe Orde die 's avonds langs de achterdeur komt.
+Marcel keek naar hem. Hij was een hoofd kleiner dan de meester en had bij hem in de klas gezeten, van zijn zesde tot zijn twaalfde, en hij keek naar hem zoals het dorp sinds twee jaar naar hem keek.
 
 “Van wie weet ge dat?”
 
@@ -102,7 +114,7 @@ Cyriel zei dat het niet uitmaakte van wie.
 
 “Nee.”
 
-Dat was waar. Vandewiele had hem erop gezet. Cyriel had hem erop laten staan, en hij had er vijf andere afgehaald, en daarom stond Marcel erop. Dat zei hij niet. Hij stond in de deur met zijn hoed in zijn hand en zei niets meer, en Marcel wachtte, en zijn moeder wachtte.
+Hij stond in de deur en zei niets meer, en Marcel wachtte, en zijn moeder wachtte.
 
 Marcel lachte. Hij zei dat de moffen hem gestuurd hadden om te zien of hij zou lopen. Dat hij al zes maanden thuis sliep en dat er niemand gekomen was. Dat hij niet zou lopen voor een zwarte.
 
@@ -114,27 +126,19 @@ Ze kwamen donderdagmorgen om vier uur, met een vrachtwagen en zes man, en ze kwa
 
 Hij werd naar Duitsland gebracht, naar een fabriek bij Bochum, waar ze granaathulzen maakten. Hij schreef zijn moeder twee kaarten. Op de eerste stond dat het eten slecht was en dat hij gezond was. Op de tweede stond dat hij in de fabriekscoureurs reed op zondag, op een geleende fiets, en dat hij gewonnen had.
 
-Zijn moeder zette elke avond een bord voor hem op tafel. Ze zette er eten op en haalde het er 's morgens weer af en gaf het aan de kippen. De fiets met de houten velgen stond tegen de muur van het tuinmanshuis, met het vaantje van de Ronde van Vlaanderen nog aan het stuur, en in de winter roestte de ketting vast.
+De fiets met de houten velgen stond tegen de muur van het tuinmanshuis, met het vaantje van de Ronde van Vlaanderen nog aan het stuur. Zijn moeder smeerde elke zaterdag de ketting, met de oliekan van haar man, zodat hij niet zou roesten als Marcel terugkwam.
 
 Gerard Ameye werd in november tuinman op het kasteel. Er was niemand anders. Hij was landbouwer, stond er op de lijst, en onmisbaar op het bedrijf van zijn vader, en hij kwam elke morgen om zes uur naar het kasteel en hield de moestuin bij en de serre, en hij deed het goed. Mademoiselle sprak niet met hem.
 
 ---
 
-Leontine zag het in december.
-
-Ze verschoonde het bed, zoals elke zaterdag, en het onderlaken was van ons linnen, uit de uitzet van Cyriels moeder, die het van haar eigen moeder had. Het was oud en zacht. Ze haalde het van het bed en hield het tegen het licht van het raam, uit gewoonte, zoals de vrouwen van Blekegem dat altijd hadden gedaan en zoals niemand het nog deed.
-
-Er zat grijs in, aan zijn kant. Ter hoogte van zijn schouders, in een wolk die er in oktober nog niet had gezeten.
-
-In het dorp zeiden ze die winter dat de zwarte schepen Marcel Verstraete op de lijst had gezet en dat hij hem had laten weghalen zonder hem te waarschuwen. Leontine had het gehoord. Ze keek naar het grijs en dacht dat ze nu wist wat hij niet had gezegd.
-
-Ze vouwde het laken en legde het in de wasmand. Ze vroeg niets.
+In het dorp zeiden ze die winter dat de zwarte meester Marcel Verstraete op de lijst had gezet en dat hij hem had laten weghalen zonder hem te waarschuwen. Leontine hoorde het. Ze verschoonde elke zaterdag het bed. Ze hield het laken niet meer tegen het licht.
 
 ---
 
 Marcel stierf in het voorjaar van vierenveertig, bij een bombardement op de fabriek bij Bochum. Zijn moeder kreeg het bericht in mei, via het Rode Kruis, op een formulier in het Duits met een vertaling in het Frans. Ze kon het geen van beide lezen. Ze bracht het naar het gemeentehuis, naar Vandewiele. Vandewiele las het en zei het haar.
 
-Ze ging terug naar huis en zette die avond geen bord op tafel.
+Ze ging terug naar huis. Die zaterdag smeerde ze de ketting niet, en de zaterdagen daarna ook niet, en in de winter roestte hij vast.
 
 ---
 

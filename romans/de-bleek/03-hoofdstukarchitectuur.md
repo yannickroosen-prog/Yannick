@@ -182,39 +182,72 @@ Wat elke generatie toevoegt:
 
 ---
 
-## DEEL IV · KATOEN (1950-1989) · ±17.700 woorden
+## DEEL IV · KATOEN (1950-1989) · ±13.000 woorden
+
+*Definitief vastgelegd na de integrale lezing van deel III (voorstel F, met de twee preciseringen van de redactie).*
+
+**Wat deel IV literair verandert.** Het vertelritme verandert mee met de tijd. Televisie, nieuwe woningen, individuele verlangens, veranderend gezag: de mensen krijgen meer mogelijkheden om los te komen van hun afkomst, en worden daardoor niet vanzelf vrijer. Het "wij" scheurt geleidelijk. Het "ik" verschijnt vanaf h16 sporadisch, en wat die stem betekent, wordt pas in deel V helder.
+
+**Precisering A: het grijs verdwijnt niet letterlijk.** Het oude linnen draagt zijn grijs nog (W2, W9). Wat verdwijnt, is de praktijk waardoor nieuw grijs ontstond. Het zwijgen wordt niet minder belangrijk, het krijgt alleen geen nieuwe zichtbare vorm meer. **Emiels psychische kwetsbaarheid is geen bovennatuurlijke eigenschap en geen metafoor voor vijf generaties zwijgen.** Ze blijkt uit zijn leven, zijn verhoudingen en zijn manier van vertellen. Hij is een zelfstandig mens, met een geschiedenis die het verleden niet helemaal verklaart.
+
+**Precisering B: bleken is geen roten.** De bleek van Blekegem is geen regionaal gebruik maar een uitzondering. Sinds Adhémar (h2) houdt het kasteel vast aan het grasbleken voor een klein aantal klanten van luxelinnen, uit overtuiging en uit koppigheid, terwijl de rest van de streek allang chemisch bleekt. De laatste bleekdag in h14 is dus de laatste dag van **één bedrijf**: dat van de Verhaeghes. Hij valt niet samen met het rootverbod van 1943. *Historisch te controleren: kwam grasbleken in de Leiestreek als nichebedrijf nog voor in de jaren 1950? Zo niet, de laatste bleekdag vervroegen naar de jaren 1930 en in h14 alleen nog de verkoop van de weide tonen.*
 
 ### 14. Nylon
-**1950-1961 · Agnes · 4.000 woorden · druk: opluchting, verdringing**
-- **Functie:** de wereld zonder grijs, en wat dat met mensen doet.
-- **Inhoud:** katoenen en nylon lakens uit de nieuwe winkel in Kortrijk. Agnes bergt het Blekegemse linnen weg met opluchting. Cyriel woont in de achterkamer en zingt Gezelle voor Emiel. Het eerste televisietoestel in het café. Cyriel sterft in 1961. Agnes legt hem af in katoen, en er is niets te zien.
-- **Waardeverschuiving:** zwijgen is zichtbaar → zwijgen is onzichtbaar.
-- **Slotwending:** de elfjarige Emiel tilt het laken op en zoekt. Hij vraagt zijn moeder waar het grijs van grootvader is. Ze zegt: "Allee."
+**1950-1961 · Agnes, Cyriel, Emiel als kind · ±3.300 woorden**
+- **Oorzaak:** Cyriels vrijlating (h13). De familie woont met drie generaties in het voorlaatste huis van de Leiestraat. Robert sterft in 1951. Marguerite moet beslissen wat er met het kasteel en de weide gebeurt.
+- **Inhoud:**
+  - De laatste bleekdag van het bedrijf Verhaeghe (ongeveer 1952): één oude bleekster, twee banen linnen voor een klant in Brussel, en de kinderen van de Leiestraat die toekijken zonder te weten wat ze zien.
+  - Agnes koopt in Kortrijk katoenen en nylon lakens, en een wasmachine op afbetaling. Ze bergt het oude linnen op, opgelucht.
+  - Cyriel in de achterkamer, zonder burgerrechten en zonder pensioen, met het dossier dat van dienst naar dienst gaat. Hij kijkt naar de televisie in het café en ergert zich aan het Nederlands van de omroepers.
+  - Rosalie sterft in Roubaix (1955). Er komt een brief van de familie, en een vraag over de leren map, die niemand beantwoordt.
+  - Cyriel sterft in 1961. Niemand kan nog afleggen zoals Mietje en Coleta het deden: de begrafenisondernemer uit Wevelgem komt met zijn eigen doeken. Hij ligt in katoen, en er is niets te zien.
+  - De elfjarige Emiel zoekt het grijs van zijn grootvader, omdat zijn grootmoeder Leontine hem over de lakens heeft verteld. Hij vindt het niet.
+- **Onomkeerbare beslissingen:** Marguerite laat de bleek stoppen en verkoopt de weide aan de gemeente. Agnes kiest katoen.
+- **Wat verandert:** het huis van drie generaties wordt een huis van twee. Het oude linnen gaat in de kist.
+- **Wat het volgende hoofdstuk noodzakelijk maakt:** een dorp dat zichzelf niet meer ziet, en een jongen die naar iets zoekt wat er niet meer is.
+- **Open, te beslissen tijdens het schrijven:** wordt Emiel in 1950 in het kinderlaken gelegd? Hoe dan ook zonder betekenis voor zijn latere kwetsbaarheid.
 
 ### 15. Selim
-**1964-1970 · Emiel en Selim · 4.000 woorden · druk: aankomst, vriendschap, vertrek**
-- **Functie:** de mensen die aankomen, en de taal die nu zelf verschuift.
-- **Inhoud:** Turkse arbeiders in de spinnerij. Selim leert West-Vlaams in het café. Emiel, een gevoelige tiener, wordt zijn vriend. Leuven Vlaams, 1968: het Frans trekt zich terug. Marleen gaat in Gent studeren, de eerste vrouw van de familie aan de universiteit. Marguerite sterft in 1970. Bij de veiling van het kasteel koopt Agnes twee ongebruikte rollen Blekegems linnen.
-- **Waardeverschuiving:** het dorp is van zichzelf → het dorp wordt van iedereen en van niemand.
-- **Slotwending:** Agnes legt de twee rollen in de kist, onder het kinderlaken. Ze zegt tegen Roger dat het een koopje was.
+**1964-1970 · Emiel en Selim · ±3.300 woorden**
+- **Oorzaak:** de spinnerij heeft arbeiders nodig die het dorp niet meer levert. De jongens van Blekegem gaan naar de nieuwe fabrieken en kantoren in Kortrijk, of pendelen naar Roubaix en Tourcoing.
+- **Inhoud:**
+  - Turkse arbeiders aan de spinmachines. Selim leert West-Vlaams in het café voor hij Nederlands leert.
+  - Emiel is een gevoelige tiener met een eigen leven: muziek, de koers, een meisje, een ergernis.
+  - **De televisie verovert het Nederlands, niet Cyriels lat.** De kinderen van de Leiestraat zeggen "ik ben" omdat de omroeper het zegt.
+  - Marleen gaat naar Gent studeren (1966). Leuven Vlaams (1968).
+  - Marguerite sterft in 1970. Het kasteel wordt geveild. Agnes koopt twee ongebruikte rollen Blekegems linnen en weet niet waarom.
+- **Onomkeerbare beslissing:** de verkoop van het kasteel, het einde van de Verhaeghes. Agnes koopt de rollen.
+- **Wat verandert:** de klassenvraag verschuift. Er is geen mijnheer meer. Er is een gemeente, een fabriek die aan een groep uit Gent behoort, en een veiling.
 
 ### 16. De rechtgetrokken rivier
-**1971-1977 · Emiel · 5.500 woorden · druk: verbrokkeling, angst, verlies · DIEPSTE PUNT**
-- **Functie:** het dorp en de verteller breken tegelijk.
-- **Vorm:** het "wij" begint te barsten. Voor het eerst lange passages die alleen van binnenuit kunnen komen. Één "ik" glipt erdoor, en wordt hersteld.
-- **Inhoud:** de Leie wordt rechtgetrokken, de Krommen afgesneden, de bleekweide verkaveld. Emiels eerste psychose, verteld met precisie: de radio die te veel weet, de tegels van de keuken die niet meer kloppen, het besef achteraf. Opname. Agnes zegt tegen de buren dat hij in Brussel studeert. Selim komt op bezoek en neemt kaarten mee. De gemeentefusie van 1977: de naam Blekegem verdwijnt van de verkeersborden.
-- **Waardeverschuiving:** een thuis → geen thuis, voor het dorp en voor Emiel.
-- **Slotwending:** Selim deelt de kaarten. Emiel speelt mee.
+**1971-1977 · Emiel · ±3.800 woorden · DIEPSTE PUNT**
+- **Oorzaak:** de Leiewerken bij Menen (1971, historisch bevestigd). De verkaveling van de oude bleekweide (1972).
+- **Inhoud:**
+  - De Krommen wordt afgesneden: de bocht, de plaats van de bleek, de loopgraven van 1940, de oude sluis. Een verlies, geen panorama.
+  - Emiels eerste psychose (1971), verteld met precisie en waardigheid. Ze wordt niet verklaard door het verleden. Opname.
+  - Agnes zegt tegen de buren dat hij in Brussel studeert. Selim komt op bezoek.
+  - De fusie van 1977: de naam Blekegem verdwijnt van de borden.
+  - **Het "ik" verschijnt voor het eerst sinds h1**, sporadisch, en wordt teruggenomen.
+- **Wat verandert:** het dorp en Emiel verliezen elk hun plaats.
 
 ### 17. Zondagen
-**1977-1989 · Agnes en Emiel · 4.200 woorden · druk: herhaling, trouw**
-- **Functie:** liefde als herhaling zonder woorden. Twintig jaar hetzelfde vermeden gesprek.
-- **Vorm:** een reeks zondagsbezoeken, telkens met de schone lakens, telkens bijna hetzelfde, en elke keer verschuift er een klein ding.
-- **Inhoud:** Roger sterft in 1980. Emiel herstelt traag en gaat naar beschut wonen. De kerk loopt leeg. De laatste processie van Lijnwaadzondag, rond 1985, met vijf oude vrouwen en geen bleek meer om te zegenen.
-- **Waardeverschuiving:** Emiel als geheim → Emiel thuis. In 1989 krijgt hij een sociale woning op de verkaveling. Hij woont op de bleek.
-- **Slotwending:** de eerste nacht in zijn nieuwe huis. Hij weet niet waar hij slaapt. De lezer wel.
+**1977-1989 · Agnes en Emiel · ±3.000 woorden**
+- **Oorzaak:** de opname, en Agnes' leugen tegenover de buren.
+- **Inhoud:**
+  - Achttien jaar zondagsbezoeken met schone katoenen lakens. Bijna dezelfde gesprekken, en elke keer verschuift er iets kleins.
+  - Roger sterft (1980). De kerk loopt leeg. Zijn er nog processies, of is er alleen nog het weer?
+  - Emiel gaat naar een woonvorm met begeleiding. In 1989 krijgt hij een sociale woning op de verkaveling, op de oude bleek, zonder dat iemand dat nog weet.
+- **Wat verandert:** de moeder die hem verstopte, haalt hem naar huis.
+- **Vermijden:** een slot op een betekenisvol voorwerp.
 
----
+### Te vermijden in heel deel IV
+- nog een publieke vernedering;
+- nog een onthulling met linnen tegen het licht;
+- nog een getuige die "achteraan" staat;
+- "Ze vroeg niets";
+- het getal elf;
+- personages die met hun leeftijd geïntroduceerd worden;
+- openingen met "In [seizoen] van [jaar]".
 
 ## DEEL V · HET REGISTER (1990-2023) · ±21.300 woorden
 

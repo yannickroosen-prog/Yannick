@@ -15,7 +15,7 @@ Pharaïlde Vandenbussche (1824-1911)                Adhémar Verhaeghe (1812-188
   +-- Clementine (mei 1847, 9 dagen)                 Edmond Verhaeghe (1845-1914)
   +-- Gentiel (1849-1917) -> Roubaix                   vlasspinnerij
   |     ... Aurélie Callewaert (°1984), Roubaix       |
-  +-- Coleta (1852-1938)                               +-- Robert (1876-1951), burgemeester 1921-1944
+  +-- Coleta (1852-1938)                               +-- Robert (1876-1951), burgemeester 1921-1941 en 1944-1951
         x Medard Vanneste (1846-1904), sluiswachter    +-- Marguerite (1881-1970), "Mademoiselle"
         |
         +-- Cyriel Vanneste (1879-1961), schoolmeester

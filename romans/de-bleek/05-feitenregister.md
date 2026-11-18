@@ -175,3 +175,14 @@ Zie de lijst in de hoofdstukarchitectuur, sectie "Het leven dat gewoon gebeurt".
 - **Procedure van het Arbeitsamt:** de verhouding tussen gemeentelijke lijsten, quota per gemeente, vrijstellingen en het Belgische arbeidsapparaat is te controleren. In de tekst is het mechanisme verzacht: het Arbeitsamt aanvaardt de gestempelde vrijstellingen van de schepen, maar trekt de vrijstellingen voor kostwinners in om het getal te halen.
 - **De Leie na 1943:** niet "helder". De Franse industrie (Armentières, Halluin) bleef vervuilen. Alleen de sporen van het roten verdwijnen.
 - **Radio-uitzending over het rootverbod in 1939 (h11):** te verifiëren.
+
+## 9. Wijzigingen na de integrale lezing van deel III (voorstel E1)
+- **Maart 1941:** de Duitse ouderdomsverordening (7 maart 1941, bevestigd door de redactie via CegeSoma) geldt voor burgemeesters, schepenen en ambtenaren boven de 60. Er zijn individuele uitzonderingen mogelijk.
+  - **Robert Verhaeghe (65)** wordt afgezet en ruimt zijn kantoor in juni 1941.
+  - **Oorlogsburgemeester:** Hector Dewaele, 34, uit Kortrijk, van de partij. Hij vertrekt in september 1944 met de Duitsers en wordt in 1946 bij verstek ter dood veroordeeld.
+- **Cyriel** gaat in 1939 op zijn zestigste met pensioen. Vanaf mei 1941 is hij **informeel raadgever** van Dewaele: zonder ambt en zonder loon, op dinsdag en vrijdag in de achterkamer van het gemeentehuis. Hij leest de lijsten na. De vijf vrijstellingen krijgen de stempel van Dewaele. *Voorstel van een historisch aannemelijke constructie; de lokale administratieve gang van zaken is nog te controleren.*
+- **Cyriel leerde Duits** in de jaren 1930, uit een grammatica, om Duitse taalkundigen te lezen.
+- **Het grijs aan Cyriels kant** verschijnt in het voorjaar van 1941, na de drie dagen waarin hij ja zei. Leontine weet niet welk zwijgen het is. In 1943 houdt ze het laken niet meer tegen het licht.
+- **Robert 1940:** in de zomer en herfst van 1940 tekende hij lijsten van werklozen die de Kommandantur vroeg. Hij zegt dat niet tegen de onderzoeksrechter, en Marguerite weet het. *Te controleren: hoe die werving van werklozen in 1940 verliep.*
+- **Agnes:** de beurs van het kasteel voor de normaalschool gaat in 1931 niet naar haar, maar naar de dochter van de notaris (beslissing van Marguerite). Ze werkt zes jaar in de spinnerij, gaat in 1937 naar Brugge en geeft les vanaf 1941.
+- **Cyriels pensioen:** na eenenveertig jaar onderwijs (1898-1939).

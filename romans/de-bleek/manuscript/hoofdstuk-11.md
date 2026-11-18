@@ -2,7 +2,7 @@
 
 In de winter van dertig lekte het dak van het kasteel, en Mademoiselle Verhaeghe ruimde de zolder op.
 
-Ze deed het zelf, met de meid en een knecht van de spinnerij die Robert haar voor een week had uitgeleend. Ze stond in een oude mantel tussen de balken met een lamp en wees aan wat naar beneden moest en wat mocht blijven, en het meeste moest naar beneden, omdat het water er al jaren op drupte. De jurken van haar moeder, in dozen, waarvan de zijde uit elkaar viel als je ze optilde. De piano die haar grootmoeder uit Rijsel had meegebracht en waarop sinds de oorlog niemand meer speelde, met drie hamers kapot. Kisten met boeken in het Frans waarvan de ruggen zwart waren van de schimmel. Een wieg. Een paardenhoofd van hout op een stok, met een touw eraan, dat ze herkende en niet wist waarvan. Een doos met brieven van haar grootvader aan zaakvrienden in Parijs. Een bronzen medaille van een tentoonstelling in vijfenvijftig, in een fluwelen etui, die ze in haar mantelzak stak. En een kar vol dozen met papieren van de gemeente uit de tijd dat haar grootvader burgemeester was geweest, die de gemeentesecretaris kwam halen voor de tentoonstelling in de parochiezaal ter gelegenheid van honderd jaar België, en die daarna op de zolder van het gemeentehuis terechtkwamen, waar het niet lekte.
+Ze deed het zelf, met de meid en een knecht van de spinnerij die Robert haar voor een week had uitgeleend. Ze stond in een oude mantel tussen de balken met een lamp en wees aan wat naar beneden moest en wat mocht blijven, en het meeste moest naar beneden, omdat het water er al jaren op drupte. De jurken van haar moeder, in dozen, waarvan de zijde uit elkaar viel als je ze optilde. De piano die haar grootmoeder uit Rijsel had meegebracht en waarop sinds de oorlog niemand meer speelde, met drie hamers kapot. Kisten met boeken in het Frans waarvan de ruggen zwart waren van de schimmel. Een wieg. Een paardenhoofd van hout op een stok, met een touw eraan, dat ze herkende en niet wist waarvan. Een doos met brieven van haar grootvader aan zaakvrienden in Parijs. Een bronzen medaille van een tentoonstelling in vijfenvijftig, in een fluwelen etui, die ze in haar mantelzak stak. En een kar vol dozen met papieren van de gemeente uit de tijd dat haar grootvader burgemeester was geweest, die de gemeentesecretaris kwam halen voor de tentoonstelling van honderd jaar België.
 
 De piano werd verkocht aan een café in Menen. De jurken werden verbrand achter de schuur. De wieg nam de knecht mee voor zijn zuster.
 
@@ -47,6 +47,12 @@ Leontine nam de spelden uit haar mond.
 Mademoiselle zei niets. Leontine speldde de zoom vast, een speld per vinger breed, zoals ze het geleerd had, en toen ze klaar was, stond ze op en zei dat de zoom recht hing.
 
 Leontine zei later dat ze die avond thuis aan tafel zat terwijl Cyriel de opstellen van de jongens verbeterde, met rode inkt, en dat ze naar zijn handen keek en dacht dat ze nooit zou weten of hij iets wist. En dat ze het hem niet zou vragen. En dat ze dat ook wist.
+
+Het kasteel gaf elk jaar een beurs voor de normaalschool, sinds de tijd van de grootmoeder van Mademoiselle, aan één meisje uit Blekegem, en Mademoiselle besliste wie. In de zomer van eenendertig vroeg de overste van de zusters haar de beurs voor Agnes Vanneste, die de beste van haar klas was geweest en die haar vader niet kon betalen wat Brugge kostte. Mademoiselle gaf de beurs aan de dochter van de notaris van Wevelgem, die ze niet nodig had. Ze zei tegen de overste, in het Frans, dat de dochter van een onderwijzer beter niet van het kasteel afhankelijk werd.
+
+Agnes ging die herfst niet naar Brugge. Ze ging werken in de spinnerij, aan de natspinmachines, waar haar grootmoeder had gestaan, en ze spaarde zes jaar.
+
+Leontine wist wie over de beurs besliste. Ze kwam de donderdag daarna gewoon om twee uur, met haar mand en haar spelden, en speldde een zoom. Mademoiselle vroeg niet meer naar Agnes.
 
 ---
 
@@ -114,7 +120,7 @@ Ze vertaalde daarna niets meer. De zes schriften lagen in de lade van haar burea
 
 Coleta Vanneste stierf in maart van achtendertig, zesentachtig jaar oud, in het bed in het sluiswachtershuis, terwijl de vrouw van de fluiter bij haar zat. Ze was de laatste in Blekegem die nog wist hoe je een dode aflegt zoals Mietje Lagae het deed. Ze werd afgelegd door de vrouw van de koster, die het anders deed.
 
-Mademoiselle ging naar de begrafenis. Ze was de enige van het kasteel. Robert had een gemeenteraad. Ze stond achteraan in Sint-Amandus, en daarna op het kerkhof, achter de familie, die klein was: Cyriel, Leontine, Agnes, de fluiter met zijn vrouw. Uit Roubaix was er een krans gekomen, met een lint in het Frans. Niemand van Roubaix was gekomen.
+Mademoiselle ging naar de begrafenis. Ze was de enige van het kasteel. Robert had een gemeenteraad. Ze zat alleen in een bank aan de zijkant van Sint-Amandus, en stond daarna op het kerkhof, wat apart van de familie, die klein was: Cyriel, Leontine, Agnes, de fluiter met zijn vrouw. Uit Roubaix was er een krans gekomen, met een lint in het Frans. Niemand van Roubaix was gekomen.
 
 Waarom ze kwam, heeft ze aan Leontine gezegd, op de donderdag daarna. In vijfentwintig was haar moeder gestorven, op het kasteel, en het was Coleta Vanneste die gekomen was om haar af te leggen, omdat haar moeder het zo gevraagd had, voor ze stierf. Mademoiselle had erbij gestaan. Ze had nooit iemand gezien die een dode zo aanraakte. Ze had gezien hoe de oude vrouw haar moeders haar kamde en ertegen praatte, in het dialect, over het weer, en ze had gedacht dat ze haar moeder zelf nooit zo had aangeraakt, toen die nog leefde.
 

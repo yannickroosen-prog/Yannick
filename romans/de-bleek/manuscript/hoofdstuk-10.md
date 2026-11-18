@@ -102,7 +102,7 @@ Het podium voor het zangfeest werd elk jaar door de gemeente gezet, op het plein
 
 Robert Verhaeghe was burgemeester sinds eenentwintig. Hij was tweeënvijftig en ongehuwd, net als zijn zuster, en woonde met haar op het kasteel, elk aan een eigen kant. Hij sprak Nederlands sinds de wet het vroeg, in de gemeenteraad en op het plein, met een accent waarom de raadsleden niet meer lachten omdat ze eraan gewend waren. Hij sprak het ook die middag, op het plein, tegen de meester, en de meester antwoordde in het schoonste Nederlands dat in Blekegem te horen was, en het ging over twee planken.
 
-Ze stonden er tien minuten. Er kwamen mensen kijken. De meester zei dat hij de planken geteld had. De burgemeester zei dat de gemeente ze ook geteld had. De meester vroeg wie bij de gemeente kon tellen. De burgemeester werd rood boven zijn boord, zoals zijn grootvader ooit rood was geworden op het kerkplein toen zijn grootmoeder met de bleeksters over de prijs van eieren praatte, en dat wisten de oudsten, en ze zeiden het tegen elkaar.
+Ze stonden er tien minuten. Er kwamen mensen kijken. De meester zei dat hij de planken geteld had. De burgemeester zei dat de gemeente ze ook geteld had. De meester vroeg wie bij de gemeente kon tellen. De burgemeester werd rood boven zijn boord.
 
 Ze kwamen niet tot een akkoord. De rekening werd betaald, in oktober, door de Vlaamse kring, en de twee planken bleven een onderwerp in de gemeenteraad tot aan de volgende verkiezingen.
 
@@ -118,17 +118,17 @@ Het koor zong zes liederen. De meester dirigeerde met zijn rug naar het publiek,
 
 Mademoiselle Verhaeghe stond achteraan, aan de kant van de pomp, alleen, met een hoed zonder veer. Ze was zevenenveertig. Ze kwam elk jaar naar het zangfeest en elk jaar stond ze achteraan, en elk jaar applaudisseerde ze na elk lied, met haar handschoenen aan, zodat je het niet hoorde. Ze bleef tot het einde. Na het laatste lied draaide de meester zich om en boog, en hij keek over het plein, en hij keek naar de kant van de kerk en naar de kant van de pomp, en achteraan stond Mademoiselle Verhaeghe, en ze keek naar hem.
 
-Hij bleef even zo staan, met het stokje nog in zijn hand. Daarna draaide hij zich om naar het koor en gaf het teken dat ze van het podium mochten. Mademoiselle Verhaeghe ging naar huis, langs de dijk, en kocht onderweg een kermiskoek, een kleine, zonder hart.
+Hij bleef even zo staan, met het stokje nog in zijn hand. Daarna draaide hij zich om naar het koor en gaf het teken dat ze van het podium mochten. Mademoiselle Verhaeghe ging naar huis, langs de dijk, en kocht onderweg een kermiskoek.
 
 ---
 
 's Avonds werd er gedanst in alle elf cafés, maar in twee ervan werd gedanst.
 
-In De Gouden Rivier speelde de fanfare zonder tuba. In In de Zwaan speelde een orkestje uit Menen met een saxofoon, wat nieuw was, en de jongens van de Molenhoek gingen naar In de Zwaan voor de saxofoon en de meisjes van de spinnerij gingen naar De Gouden Rivier voor de fanfare, en tegen tien uur stonden de jongens van de Molenhoek in De Gouden Rivier en de meisjes van de spinnerij in In de Zwaan, en niemand kon zeggen hoe dat gebeurd was.
+In De Gouden Rivier speelde de fanfare zonder tuba. In In de Zwaan speelde een orkestje uit Menen met een saxofoon, wat nieuw was.
 
 Agnes danste. Ze mocht tot elf uur, met haar moeder in de zaal. Ze danste met Roger Debaere, die negentien was en mecanicien in de spinnerij en die niets zei, de hele dans niet, en die haar voeten niet raakte, en daarna met een jongen uit Wevelgem die haar voeten wel raakte en veel zei. Ze vond de jongen uit Wevelgem grappiger. Ze danste daarna nog twee keer met Roger Debaere, omdat hij het vroeg en omdat hij niets zei.
 
-Robert Verhaeghe kwam om negen uur in De Gouden Rivier, zoals de burgemeester op kermiszondag in De Gouden Rivier kwam, en om tien uur in In de Zwaan, zoals de burgemeester op kermiszondag in In de Zwaan kwam, en in beide cafés dronk hij één glas en danste met niemand. Hij stond aan de toog met zijn glas, en keek naar de dansers, en betaalde een rondje, en ging. Wie hem zag gaan, zei dat hij er alleen uitzag. Wie hem niet zag gaan, merkte niet dat hij weg was.
+Robert Verhaeghe kwam om negen uur in De Gouden Rivier en om tien uur in In de Zwaan, dronk in elk café één glas, betaalde een rondje en danste met niemand.
 
 Cyriel kwam niet dansen. Hij zat thuis met de rekening van het podium en telde de planken nog eens, op papier.
 
