@@ -22,7 +22,9 @@
    - **De magische breuk** wordt alleen aangeraakt in "Dat er verder iets met het water gebeurd was, kwam bij niemand op."
    - **Slot:** de rootkassen worden die winter opgestookt als brandhout, en heel Blekegem ruikt nog één keer de stank van het geld. De kinderen die in de Krommen zwommen, kennen de geur niet.
 
-## Het laken vergist zich (richtlijn D6)
+## Wie het grijs leest, vergist zich (richtlijn D6, gecorrigeerd)
+Het grijs bestaat werkelijk (W9). Het registreert zwijgen, geen schuld. Leontine vergist zich in de betekenis.
+
 Leontine houdt het laken tegen het licht, de enige keer in deel III, en ziet grijs aan Cyriels kant. Ze leest het volgens het dorpsgerucht: hij zette Marcel op de lijst en waarschuwde hem niet. Allebei onwaar. Het grijs gaat over de rode potloodstrepen die hij nooit heeft uitgelegd.
 
 ## Marguerite

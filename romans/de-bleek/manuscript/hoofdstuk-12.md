@@ -48,7 +48,7 @@ De vijf waren jongens uit Cyriels klas, van vijftien jaar eerder. Twee zongen in
 
 Waarom hij die vijf koos en niet vijf andere, heeft Cyriel aan niemand gezegd. Ook niet aan Leontine. Ze heeft het nooit gevraagd.
 
-Het Arbeitsamt stuurde de lijst in maart terug. Er ontbraken vijf namen. Het getal moest kloppen. Vrijstellingen voor kostwinners werden niet meer aanvaard, schreef een Duitse ambtenaar in de marge, in het Nederlands van een man die het uit een boek had geleerd. Vandewiele nam het register en vulde aan, met de volgende vijf namen van de jaarklassen die nog niet op de lijst stonden. Een van die vijf was de enige zoon van een tuinmansweduwe, die het jaar daarvoor vrijgesteld was als kostwinner.
+Het Arbeitsamt stuurde de lijst in maart terug. Voor Blekegem was een getal vastgelegd, en met de vrijstellingen van de schepen kwam het getal niet uit. De vijf vrijstellingen werden aanvaard, want ze droegen de stempel van de gemeente. Maar de vrijstellingen voor kostwinners die het Arbeitsamt het jaar daarvoor zelf had toegestaan, werden ingetrokken, schreef een Duitse ambtenaar in de marge, in het Nederlands van een man die het uit een boek had geleerd. Vandewiele nam het register en zette de kostwinners terug op de lijst. Een van hen was de enige zoon van een tuinmansweduwe.
 
 Cyriel las de nieuwe lijst na. Hij zag de naam. Hij haalde er niets meer af. Robert tekende.
 
@@ -72,7 +72,7 @@ De rootkassen werden uit het water gehaald en op de oever gelegd, te drogen, en 
 
 In augustus merkten we dat de Leie niet meer rook.
 
-Het was de eerste keer in tachtig jaar. Het water werd helder, eerst aan de kanten, dan in het midden, en er kwamen vissen terug die we niet kenden, en in september zwommen er kinderen in de Krommen, wat hun moeders verboden en wat ze toch deden. De oude vrouwen van de Leiestraat zeiden dat het water te zuiver was en dat dat niet goed kon zijn. De jonge zeiden dat ze eindelijk de was buiten konden hangen zonder dat hij stonk.
+Het was de eerste keer in tachtig jaar. Het water werd niet zuiver: de Leie kwam uit Frankrijk langs de fabrieken van Armentières en Halluin, en wat die erin loosden, bleef erin. Maar het gele schuim langs de oevers verdween, en de bruine kleur in de bochten, en er kwamen vissen terug die we niet kenden, en in september zwommen er kinderen in de Krommen, wat hun moeders verboden en wat ze toch deden. De oude vrouwen van de Leiestraat zeiden dat het water er te licht uitzag en dat dat niet goed kon zijn. De jonge zeiden dat ze eindelijk de was buiten konden hangen zonder dat hij stonk.
 
 Dat er verder iets met het water gebeurd was, kwam bij niemand op. Het linnen dat in de kasten lag, was van voor. Er werd die jaren geen nieuw gemaakt. Er was geen garen.
 
@@ -132,7 +132,7 @@ Ze vouwde het laken en legde het in de wasmand. Ze vroeg niets.
 
 ---
 
-Marcel stierf in april van vierenveertig, bij een bombardement op de fabriek bij Bochum. Zijn moeder kreeg het bericht in mei, via het Rode Kruis, op een formulier in het Duits met een vertaling in het Frans. Ze kon het geen van beide lezen. Ze bracht het naar het gemeentehuis, naar Vandewiele. Vandewiele las het en zei het haar.
+Marcel stierf in het voorjaar van vierenveertig, bij een bombardement op de fabriek bij Bochum. Zijn moeder kreeg het bericht in mei, via het Rode Kruis, op een formulier in het Duits met een vertaling in het Frans. Ze kon het geen van beide lezen. Ze bracht het naar het gemeentehuis, naar Vandewiele. Vandewiele las het en zei het haar.
 
 Ze ging terug naar huis en zette die avond geen bord op tafel.
 

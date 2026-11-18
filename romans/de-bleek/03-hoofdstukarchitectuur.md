@@ -146,7 +146,7 @@ Wat elke generatie toevoegt:
 4. **De leren map uit Roubaix** laat de twee versies van Pharaïlde in twee families botsen (via Rosalie).
 5. **Het "wij" spreekt opnieuw met tegenstrijdige stemmen.** De formule "In de Leiestraat zeiden we dat" verdwijnt.
 6. **De procédés rusten:**
-   - lakens tegen het licht hoogstens één keer, en dan vergist het laken zich;
+   - lakens tegen het licht hoogstens één keer, en dan vergist wie het grijs leest zich (het grijs registreert zwijgen; het dorp maakt er schuld van);
    - geen afleggen volgens het recept van Mietje;
    - hoogstens één hoofdstuk eindigt op een korte dialoogregel.
 7. **Eén gevolg mag rommelig blijven**: een keuze die niets oplevert, een personage dat er niets van leert.
